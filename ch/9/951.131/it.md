@@ -4,11 +4,11 @@ title: "Ordinanza del 18 marzo 2004 relativa alla legge federale sulla Banca naz
 short: OBN
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/233"
 language: it
-version: 2024-07-01
+version: 2026-11-01
 adopted: 2004-03-18
 in_force: 2004-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/233/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2004-233-20240701-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/233/20240701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/233/20261101/it/xml/fedlex-data-admin-ch-eli-cc-2004-233-20261101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/233/20261101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/233/20240701/it"
 
 (Ordinanza sulla Banca nazionale, OBN)
 
-del 18 marzo 2004 (Stato 1° luglio 2024)
+del 18 marzo 2004 (Stato 1° novembre 2026)
 
 La Banca nazionale svizzera,
 
@@ -26,7 +26,7 @@ visti gli articoli 15 capoverso 3, 17 capoverso 2, 18 capoverso 5, 20 capoverso 
 ordina:
 
 [^ingress-1]: Dal 1° gen. 2016: art. 20 cpv. 5.
-[^ingress-2]: [RS 951.11](https://fedlex.data.admin.ch/eli/cc/2004/221)
+[^ingress-2]: [RS 951.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11504)
 
 ## Capitolo 1: Disposizioni comuni
 
@@ -40,7 +40,7 @@ La presente ordinanza disciplina:
 - b. l’obbligo delle banche di mantenere riserve minime;
 - c.[^1-1] la sorveglianza sulle infrastrutture del mercato finanziario di rilevanza sistemica.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
+[^1-1]: Nuovo testo giusta la cifra I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
 
 #### Art. 2
 
@@ -59,7 +59,7 @@ Ai sensi della presente ordinanza si intendono per:
 - g. *società d’investimento e società holding*: ogni persona giuridica, società e corporazione di diritto pubblico, il cui scopo consiste principalmente nell’amministrazione duratura di partecipazioni e che adempie le condizioni stabilite nell’allegato alla presente ordinanza;
 - h*.*[^2-10] *infrastruttura del mercato finanziario di rilevanza sistemica:* un sistema di pagamento, un depositario centrale o una controparte centrale ai sensi dell’articolo 22 capoverso 1 della legge del 19 giugno 2015[^2-11] sull’infrastruttura finanziaria (LInFi);
 - i.[^2-12] *sistema di pagamento:* un’istituzione ai sensi dell’articolo 81 LInFi;
-- j.[^2-13] ...
+- j.[^2-13] …
 - k.[^2-14] *depositario centrale:* un gestore ai sensi dell’articolo 61 capoverso 1 LInFi;
 - l.[^2-15] *controparte centrale:* un’istituzione ai sensi dell’articolo 48 LInFi;
 - m.[^2-16] *esercente:* un depositario centrale nonché ogni persona e società che gestisce un sistema di pagamento o una controparte centrale;
@@ -74,31 +74,31 @@ Ai sensi della presente ordinanza si intendono per:
 
 <sup>3</sup> A complemento sono determinanti le definizioni contenute nelle prescrizioni dell’Autorità federale di vigilanza sui mercati finanziari (FINMA) in materia di presentazione dei conti di banche[^2-24].[^2-25]
 
-[^2-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^2-2]: Nuovo testo giusta il n. I dell’O della BNS del 31 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3909](https://fedlex.data.admin.ch/eli/oc/2019/706)).
-[^2-3]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^2-4]: Nuovo testo giusta il n. I dell’O della BNS del 31 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3909](https://fedlex.data.admin.ch/eli/oc/2019/706)).
-[^2-5]: Nuovo testo giusta il n. I dell’O della BNS del 31 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3909](https://fedlex.data.admin.ch/eli/oc/2019/706)).
-[^2-6]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^2-7]: Nuovo testo giusta il n. I dell’O della BNS del 10 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1987](https://fedlex.data.admin.ch/eli/oc/2013/420)).
-[^2-8]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^2-9]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^2-10]: Nuovo testo giusta il n. I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
-[^2-11]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^2-12]: Nuovo testo giusta il n. I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
-[^2-13]: Abrogata dal n. I dell’O della BNS del 26 nov. 2015, con effetto dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
-[^2-14]: Introdotta dal n. I dell’O della BNS del 10 giu. 2013 ([RU 2013 1987](https://fedlex.data.admin.ch/eli/oc/2013/420)). Nuovo testo giusta il n. I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
-[^2-15]: Introdotta dal n. I dell’O della BNS del 10 giu. 2013 ([RU 2013 1987](https://fedlex.data.admin.ch/eli/oc/2013/420)). Nuovo testo giusta il n. I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
-[^2-16]: Introdotta dal n. I dell’O della BNS del 10 giu. 2013 ([RU 2013 1987](https://fedlex.data.admin.ch/eli/oc/2013/420)). Nuovo testo giusta il n. I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
-[^2-17]: Introdotta dal n. I dell’O della BNS del 10 giu. 2013 ([RU 2013 1987](https://fedlex.data.admin.ch/eli/oc/2013/420)). Nuovo testo giusta il n. I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
-[^2-18]: Introdotta dal n. I dell’O della BNS del 10 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1987](https://fedlex.data.admin.ch/eli/oc/2013/420)).
-[^2-19]: Introdotta dal n. I dell’O della BNS del 10 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1987](https://fedlex.data.admin.ch/eli/oc/2013/420)).
-[^2-20]: Introdotta dal n. I dell’O della BNS del 10 giu. 2013 ([RU 2013 1987](https://fedlex.data.admin.ch/eli/oc/2013/420)). Nuovo testo giusta il n. I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
-[^2-21]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
-[^2-22]: Introdotta dal n. I dell’O della BNS del 10 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1987](https://fedlex.data.admin.ch/eli/oc/2013/420)).
-[^2-23]: Introdotta dal n. I dell’O della BNS del 10 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1987](https://fedlex.data.admin.ch/eli/oc/2013/420)).
-[^2-24]: O FINMA del 31 ott. 2019 sui conti ([RS 952.024.1](https://fedlex.data.admin.ch/eli/cc/2019/760)) nonché circolare FINMA 2020/1 del 31 ott. 2019 Direttive contabili ‒ banche.
-[^2-25]: Nuovo testo giusta il n. I dell’O della BNS del 2 lug. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4627](https://fedlex.data.admin.ch/eli/oc/2020/827)).
+[^2-1]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^2-2]: Nuovo testo giusta la cifra I dell’O della BNS del 31 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3909](https://fedlex.data.admin.ch/eli/oc/2019/706)).
+[^2-3]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
+[^2-4]: Nuovo testo giusta la cifra I dell’O della BNS del 31 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3909](https://fedlex.data.admin.ch/eli/oc/2019/706)).
+[^2-5]: Nuovo testo giusta la cifra I dell’O della BNS del 31 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3909](https://fedlex.data.admin.ch/eli/oc/2019/706)).
+[^2-6]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
+[^2-7]: Nuovo testo giusta la cifra I dell’O della BNS del 10 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1987](https://fedlex.data.admin.ch/eli/oc/2013/420)).
+[^2-8]: [RS 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
+[^2-9]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^2-10]: Nuovo testo giusta la cifra I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
+[^2-11]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
+[^2-12]: Nuovo testo giusta la cifra I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
+[^2-13]: Abrogata dalla cifra I dell’O della BNS del 26 nov. 2015, con effetto dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
+[^2-14]: Introdotta dalla cifra I dell’O della BNS del 10 giu. 2013 ([RU 2013 1987](https://fedlex.data.admin.ch/eli/oc/2013/420)). Nuovo testo giusta la cifra I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
+[^2-15]: Introdotta dalla cifra I dell’O della BNS del 10 giu. 2013 ([RU 2013 1987](https://fedlex.data.admin.ch/eli/oc/2013/420)). Nuovo testo giusta la cifra I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
+[^2-16]: Introdotta dalla cifra I dell’O della BNS del 10 giu. 2013 ([RU 2013 1987](https://fedlex.data.admin.ch/eli/oc/2013/420)). Nuovo testo giusta la cifra I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
+[^2-17]: Introdotta dalla cifra I dell’O della BNS del 10 giu. 2013 ([RU 2013 1987](https://fedlex.data.admin.ch/eli/oc/2013/420)). Nuovo testo giusta la cifra I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
+[^2-18]: Introdotta dalla cifra I dell’O della BNS del 10 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1987](https://fedlex.data.admin.ch/eli/oc/2013/420)).
+[^2-19]: Introdotta dalla cifra I dell’O della BNS del 10 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1987](https://fedlex.data.admin.ch/eli/oc/2013/420)).
+[^2-20]: Introdotta dalla cifra I dell’O della BNS del 10 giu. 2013 ([RU 2013 1987](https://fedlex.data.admin.ch/eli/oc/2013/420)). Nuovo testo giusta la cifra I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
+[^2-21]: [RS 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
+[^2-22]: Introdotta dalla cifra I dell’O della BNS del 10 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1987](https://fedlex.data.admin.ch/eli/oc/2013/420)).
+[^2-23]: Introdotta dalla cifra I dell’O della BNS del 10 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1987](https://fedlex.data.admin.ch/eli/oc/2013/420)).
+[^2-24]: O FINMA del 31 ott. 2019 sui conti ([RS 952.024.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11565)) nonché circolare FINMA 2020/1 del 31 ott. 2019 Direttive contabili ‒ banche.
+[^2-25]: Nuovo testo giusta la cifra I dell’O della BNS del 2 lug. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4627](https://fedlex.data.admin.ch/eli/oc/2020/827)).
 
 ## Capitolo 2: Rilevazioni statistiche
 
@@ -116,7 +116,7 @@ La Banca nazionale svizzera effettua le rilevazioni statistiche necessarie:
 - d. per le organizzazioni internazionali di cui la Svizzera è membro; e
 - e. per l’allestimento della bilancia dei pagamenti e della statistica sui beni all’estero.
 
-[^3-1]: Nuovo testo giusta il n. I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
 
 #### Art. 4
 
@@ -149,9 +149,9 @@ L’allegato alla presente ordinanza stabilisce per ogni rilevazione:
 
 <sup>2</sup> Se la Banca nazionale ha assolutamente bisogno dei dati di una determinata rilevazione per l’adempimento di un suo compito legale, essa può, per un periodo limitato, stabilire il termine d’inoltro e la periodicità in deroga all’allegato.
 
-<sup>3</sup> ...[^5-1]
+<sup>3</sup> …[^5-1]
 
-[^5-1]: Abrogato dal n. I dell’O della BNS del 10 giu. 2013, con effetto dal 1° lug. 2013 ([RU 2013 1987](https://fedlex.data.admin.ch/eli/oc/2013/420)).
+[^5-1]: Abrogato dalla cifra I dell’O della BNS del 10 giu. 2013, con effetto dal 1° lug. 2013 ([RU 2013 1987](https://fedlex.data.admin.ch/eli/oc/2013/420)).
 
 #### Art. 6
 
@@ -205,8 +205,8 @@ Se la Banca nazionale ricorre a terzi per effettuare le rilevazioni, essi sono c
 
 <sup>3</sup> I terzi devono provare di avere adottato le misure tecniche e organizzative necessarie all’elaborazione di questi dati conformemente all’ordinanza del 31 agosto 2022[^9-1] sulla protezione dei dati[^9-2].
 
-[^9-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^9-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° set. 2023.
+[^9-1]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
+[^9-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° set. 2023.
 
 #### Art. 10
 
@@ -224,7 +224,7 @@ Se la Banca nazionale ricorre a terzi per effettuare le rilevazioni, essi sono c
 
 <sup>2</sup> La conservazione delle dichiarazioni delle persone tenute a informare dopo la loro elaborazione è retta dalla legge federale del 26 giugno 1998[^11-1] sull’archiviazione.
 
-[^11-1]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^11-1]: [RS 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 ## Capitolo 3: Riserve minime
 
@@ -261,23 +261,23 @@ Per il calcolo delle riserve minime sono determinanti i seguenti impegni delle b
 - c.[^14-2] gli impegni risultanti da depositi revocabili della clientela, senza i fondi depositati nel quadro della previdenza vincolata;
 - d. altri impegni risultanti da depositi della clientela a vista o esigibili entro tre mesi (*call money* inclusa);
 - e. gli impegni risultanti da obbligazioni di cassa esigibili entro tre mesi;
-- f.[^14-3] ...
+- f.[^14-3] …
 
 <sup>1bis</sup> Non sono determinanti per il calcolo gli impegni nei confronti di banche tenute esse stesse a mantenere riserve minime conformemente agli articoli 17 e 18 della LBN.
 
-<sup>2</sup> ...[^14-4]
+<sup>2</sup> …[^14-4]
 
 <sup>3</sup> I termini utilizzati nel capoverso 1 lettere a–e si riferiscono alle prescrizioni della FINMA in materia di presentazione dei conti[^14-5].[^14-6]
 
 <sup>4</sup> Non sono determinanti per il calcolo delle riserve minime gli impegni nei confronti della Banca nazionale.[^14-7]
 
-[^14-1]: Nuovo testo giusta il n. I dell’O della BNS del 7 mag. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3023](https://fedlex.data.admin.ch/eli/oc/2014/511)).
-[^14-2]: Nuovo testo giusta il n. I dell’O della BNS dell’11 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 232](https://fedlex.data.admin.ch/eli/oc/2024/232)).
-[^14-3]: Abrogata dal n. I dell’O della BNS del 31 ott. 2019, con effetto dal 1° gen. 2020 ([RU 2019 3909](https://fedlex.data.admin.ch/eli/oc/2019/706)).
-[^14-4]: Abrogato dal n. I dell’O della BNS del 31 ott. 2019, con effetto dal 1° gen. 2020 ([RU 2019 3909](https://fedlex.data.admin.ch/eli/oc/2019/706)).
-[^14-5]: O FINMA del 31 ott. 2019 sui conti ([RS 952.024.1](https://fedlex.data.admin.ch/eli/cc/2019/760)) nonché circolare FINMA 2020/1 del 31 ott. 2019 Direttive contabili ‒ banche.
-[^14-6]: Introdotto dal n. I dell’O della BNS del 2 lug. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4627](https://fedlex.data.admin.ch/eli/oc/2020/827)).
-[^14-7]: Introdotto dal n. I dell’O della BNS del 2 lug. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4627](https://fedlex.data.admin.ch/eli/oc/2020/827)).
+[^14-1]: Nuovo testo giusta la cifra I dell’O della BNS del 7 mag. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3023](https://fedlex.data.admin.ch/eli/oc/2014/511)).
+[^14-2]: Nuovo testo giusta la cifra I dell’O della BNS dell’11 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 232](https://fedlex.data.admin.ch/eli/oc/2024/232)).
+[^14-3]: Abrogata dalla cifra I dell’O della BNS del 31 ott. 2019, con effetto dal 1° gen. 2020 ([RU 2019 3909](https://fedlex.data.admin.ch/eli/oc/2019/706)).
+[^14-4]: Abrogato dalla cifra I dell’O della BNS del 31 ott. 2019, con effetto dal 1° gen. 2020 ([RU 2019 3909](https://fedlex.data.admin.ch/eli/oc/2019/706)).
+[^14-5]: O FINMA del 31 ott. 2019 sui conti ([RS 952.024.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11565)) nonché circolare FINMA 2020/1 del 31 ott. 2019 Direttive contabili ‒ banche.
+[^14-6]: Introdotto dalla cifra I dell’O della BNS del 2 lug. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4627](https://fedlex.data.admin.ch/eli/oc/2020/827)).
+[^14-7]: Introdotto dalla cifra I dell’O della BNS del 2 lug. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4627](https://fedlex.data.admin.ch/eli/oc/2020/827)).
 
 #### Art. 15
 
@@ -289,7 +289,7 @@ Per il calcolo delle riserve minime sono determinanti i seguenti impegni delle b
 
 <sup>3</sup> La media di cui al capoverso 2 è calcolata in base al rapporto tra la somma degli attivi secondo l’articolo 13 al momento della chiusura dei conti e il numero dei giorni civili del periodo di riferimento. Per i sabati, le domeniche e i giorni festivi vengono inseriti le consistenze dell’ultimo giorno feriale precedente.
 
-[^15-1]: Nuovo testo giusta il n. I dell’O della BNS dell’11 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 232](https://fedlex.data.admin.ch/eli/oc/2024/232)).
+[^15-1]: Nuovo testo giusta la cifra I dell’O della BNS dell’11 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 232](https://fedlex.data.admin.ch/eli/oc/2024/232)).
 
 #### Art. 16
 
@@ -305,19 +305,19 @@ Le banche notificano alla Banca nazionale entro la fine del mese del periodo di 
 
 <sup>2</sup> La Banca nazionale impone alla banca di pagare l’interesse fino alla fine del secondo mese successivo alla chiusura del periodo di riferimento. La banca che non è d’accordo di pagare l’interesse può chiedere entro 30 giorni una decisione impugnabile ai sensi dell’articolo 52 della legge sulla Banca nazionale.
 
-[^17-1]: Nuovo testo giusta il n. I dell’O della BNS del 3 set. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6373](https://fedlex.data.admin.ch/eli/oc/2009/780)).
+[^17-1]: Nuovo testo giusta la cifra I dell’O della BNS del 3 set. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6373](https://fedlex.data.admin.ch/eli/oc/2009/780)).
 
 ## Capitolo 4: Sorveglianza sulle infrastrutture del mercato finanziario di rilevanza sistemica
 
 [^chap4-1]
 
-[^chap4-1]: Nuovo testo giusta il n. I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
+[^chap4-1]: Nuovo testo giusta la cifra I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
 
 ### Sezione 1: Designazione delle infrastrutture del mercato finanziario e dei processi operativi di rilevanza sistemica
 
 [^chap4-sec1-1]
 
-[^chap4-sec1-1]: Nuovo testo giusta il n. I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
+[^chap4-sec1-1]: Nuovo testo giusta la cifra I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
 
 #### Art. 18
 
@@ -343,7 +343,7 @@ L’obbligo di pubblicità di cui all’articolo 20 capoverso 1 LBN si applica a
 
 <sup>3</sup> Prima di determinare che un’infrastruttura del mercato finanziario è di rilevanza sistemica e quali dei suoi processi operativi sono di rilevanza sistemica, la Banca nazionale offre all’esercente la possibilità di prendere posizione in merito. Qualora si tratti di un’infrastruttura del mercato finanziario soggetta ad autorizzazione secondo l’articolo 4 LInFi, la Banca nazionale consulta la FINMA.
 
-[^19-1]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^19-1]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 
 #### Art. 20
 
@@ -360,9 +360,9 @@ Per determinare se un sistema di pagamento, un depositario centrale o una contro
 - g. la possibilità per i partecipanti dell’infrastruttura di ricorrere in tempi brevi a un’altra infrastruttura del mercato finanziario o ad un procedimento alternativo per la compensazione e il regolamento delle operazioni, e i rischi che ciò comporta;
 - h. i rischi di credito e di liquidità connessi con l’operatività dell’infrastruttura del mercato finanziario.
 
-[^20-1]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^20-1]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 
-#### Art. 20a e 21
+#### Art. 20a–21
 
 *Abrogati*
 
@@ -370,8 +370,8 @@ Per determinare se un sistema di pagamento, un depositario centrale o una contro
 
 [^chap4-sec2-1][^chap4-sec2-2]
 
-[^chap4-sec2-1]: Nuovo testo giusta il n. I dell’O della BNS del 10 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1987](https://fedlex.data.admin.ch/eli/oc/2013/420)).
-[^chap4-sec2-2]: Nuovo testo giusta il n. I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
+[^chap4-sec2-1]: Nuovo testo giusta la cifra I dell’O della BNS del 10 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1987](https://fedlex.data.admin.ch/eli/oc/2013/420)).
+[^chap4-sec2-2]: Nuovo testo giusta la cifra I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
 
 #### Art. 21a
 
@@ -381,8 +381,8 @@ Per determinare se un sistema di pagamento, un depositario centrale o una contro
 
 <sup>2</sup> Per le infrastrutture del mercato finanziario di rilevanza sistemica soggette all’obbligo di autorizzazione e alla vigilanza della FINMA ai sensi dell’articolo 4 LInFi valgono i requisiti di cui agli articoli 23, 24 capoversi 4–6, 24*a*, 25*c*, 27 capoversi 1 e 2, 28–28*d*, 29, 30 capoversi 1 e 3, 32–32*c* e 34, nonché gli obblighi di cui alla sezione 3, eccettuato l’articolo 36 capoverso 1 lettera h.
 
-[^21a-1]: Introdotto dal n. I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
-[^21a-2]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^21a-1]: Introdotto dalla cifra I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
+[^21a-2]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 
 #### Art. 22
 
@@ -398,9 +398,9 @@ L’esercente dispone di regole e procedure adeguate in materia di governance az
 
 <sup>2</sup> L’esercente dispone di meccanismi che consentono di rilevare le esigenze dei partecipanti in ordine ai servizi dell’infrastruttura del mercato finanziario.
 
-<sup>3</sup> e <sup>4</sup> ...[^22-1]
+<sup>3 e <sup>4</sup></sup> …[^22-1]
 
-[^22-1]: Abrogati dal n. I dell’O della BNS del 26 nov. 2015, con effetto dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
+[^22-1]: Abrogati dalla cifra I dell’O della BNS del 26 nov. 2015, con effetto dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
 
 #### Art. 22a
 
@@ -414,9 +414,9 @@ L’esercente dispone di regole e procedure adeguate in materia di governance az
 
 <sup>4</sup> La revisione interna è indipendente dalla direzione e riferisce al consiglio di amministrazione o a uno dei suoi comitati. Essa dispone di risorse sufficienti e ha un diritto di verifica incondizionato, nonché un diritto di accesso illimitato a tutti i documenti, supporti di dati e sistemi di elaborazione delle informazioni.
 
-<sup>5</sup> ...[^22a-1]
+<sup>5</sup> …[^22a-1]
 
-[^22a-1]: Abrogato dal n. I dell’O della BNS del 26 nov. 2015, con effetto dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
+[^22a-1]: Abrogato dalla cifra I dell’O della BNS del 26 nov. 2015, con effetto dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
 
 #### Art. 22b
 
@@ -424,9 +424,9 @@ L’esercente dispone di regole e procedure adeguate in materia di governance az
 
 <sup>1</sup> L’esercente registra i servizi prestati e le attività svolte essenziali, e conserva la totalità delle registrazioni per un periodo di dieci anni.
 
-<sup>2</sup> e <sup>3</sup> ...[^22b-1]
+<sup>2 e <sup>3</sup></sup> …[^22b-1]
 
-[^22b-1]: Abrogati dal n. I dell’O della BNS del 26 nov. 2015, con effetto dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
+[^22b-1]: Abrogati dalla cifra I dell’O della BNS del 26 nov. 2015, con effetto dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
 
 #### Art. 23
 
@@ -458,15 +458,15 @@ L’esercente pubblica regolarmente in sintesi tutte le informazioni essenziali 
 - c. i diritti e gli obblighi dei partecipanti;
 - d. i presupposti per la partecipazione e i criteri per la sospensione e l’esclusione di un partecipante;
 - e. le regole e le procedure previste in caso di inadempienza di un partecipante;
-- f.[^23a-1] ...
+- f.[^23a-1] …
 - g. i volumi e gli importi aggregati delle transazioni;
-- h.[^23a-2] ...
+- h.[^23a-2] …
 - i. i prezzi e le tasse richiesti per i servizi prestati dall’infrastruttura del mercato finanziario, nonché le condizioni per la concessione di riduzioni.
 
 <sup>2</sup> L’esercente pubblica informazioni in conformità con le direttive emanate dai competenti organi internazionali.
 
-[^23a-1]: Abrogata dal n. I dell’O della BNS del 26 nov. 2015, con effetto dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
-[^23a-2]: Abrogata dal n. I dell’O della BNS del 26 nov. 2015, con effetto dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
+[^23a-1]: Abrogata dalla cifra I dell’O della BNS del 26 nov. 2015, con effetto dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
+[^23a-2]: Abrogata dalla cifra I dell’O della BNS del 26 nov. 2015, con effetto dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
 
 #### Art. 24
 
@@ -505,7 +505,7 @@ Le regole e le procedure stabiliscono in particolare:
 
 [^24b-1]
 
-[^24b-1]: Abrogato dal n. I dell’O della BNS del 26 nov. 2015, con effetto dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
+[^24b-1]: Abrogato dalla cifra I dell’O della BNS del 26 nov. 2015, con effetto dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
 
 #### Art. 25
 
@@ -528,7 +528,7 @@ Le regole dell’infrastruttura del mercato finanziario stabiliscono il momento 
 
 <sup>2</sup> L’infrastruttura del mercato finanziario effettua i pagamenti e i trasferimenti di titoli in tempo reale, e comunque non oltre il giorno di valuta.
 
-[^25a-1]: Nuovo testo giusta il n. I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
+[^25a-1]: Nuovo testo giusta la cifra I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
 
 #### Art. 25b
 
@@ -536,7 +536,7 @@ Le regole dell’infrastruttura del mercato finanziario stabiliscono il momento 
 
 L’esercente di un’infrastruttura del mercato finanziario consente ai partecipanti di evitare il rischio di inadempienza della controparte garantendo che, in caso di impegni reciproci, il regolamento di un impegno avvenga soltanto se e quando è assicurato il regolamento dell’impegno corrispondente.
 
-[^25b-1]: Nuovo testo giusta il n. I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
+[^25b-1]: Nuovo testo giusta la cifra I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
 
 #### Art. 25c
 
@@ -546,7 +546,7 @@ L’esercente di un’infrastruttura del mercato finanziario consente ai parteci
 
 <sup>2</sup> Il depositario centrale consente ai propri partecipanti di detenere i titoli in forma immobilizzata o dematerializzata mediante registrazione in un conto titoli.
 
-[^25c-1]: Nuovo testo giusta il n. I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
+[^25c-1]: Nuovo testo giusta la cifra I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
 
 #### Art. 26
 
@@ -571,7 +571,7 @@ L’esercente identifica gli scenari che possono pregiudicare la sua continuità
 
 <sup>3</sup> L’esercente mette a disposizione strumenti e crea incentivi affinché i partecipanti possano controllare e limitare in modo continuativo i rischi che sorgono per se stessi e per l’infrastruttura del mercato finanziario.
 
-[^27-1]: Nuovo testo giusta il n. I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
+[^27-1]: Nuovo testo giusta la cifra I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
 
 #### Art. 28
 
@@ -599,7 +599,7 @@ L’esercente si assicura di poter disporre delle garanzie in modo tempestivo. C
 - b. emesse da emittenti esteri; o
 - c. denominate in valuta estera.
 
-[^28a-1]: Nuovo testo giusta il n. I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
+[^28a-1]: Nuovo testo giusta la cifra I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
 
 #### Art. 28b
 
@@ -634,8 +634,8 @@ Per coprire le eventuali perdite causate dall’inadempienza di un partecipante 
 
 <sup>5</sup> I margini di variazione coprono i rischi di credito correnti che risultano dalle variazioni dei prezzi di mercato osservate, tenuto conto dei valori soglia prestabiliti.
 
-[^28c-1]: Nuovo testo giusta il n. I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
-[^28c-2]: Nuovo testo giusta il n. I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
+[^28c-1]: Nuovo testo giusta la cifra I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
+[^28c-2]: Nuovo testo giusta la cifra I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
 
 #### Art. 28d
 
@@ -680,9 +680,9 @@ L’esercente verifica:
 - a. su base giornaliera, mediante prove di stress, se è soddisfatto il requisito di cui al capoverso 2;
 - b. almeno ogni trimestre, il merito di credito e la capacità dei fornitori di liquidità di onorare i loro impegni.
 
-[^29-1]: [RS 958.11](https://fedlex.data.admin.ch/eli/cc/2015/854)
-[^29-2]: Nuovo testo giusta il n. I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
-[^29-3]: Nuovo testo giusta il n. I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
+[^29-1]: [RS 958.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11627)
+[^29-2]: Nuovo testo giusta la cifra I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
+[^29-3]: Nuovo testo giusta la cifra I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
 
 #### Art. 30
 
@@ -706,7 +706,7 @@ L’esercente verifica:
 
 <sup>4</sup> L’esercente dispone di un piano per reperire fondi propri addizionali allorché i fondi propri esistenti non soddisfano più il requisito di cui al capoverso 2.
 
-[^31-1]: Nuovo testo giusta il n. I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
+[^31-1]: Nuovo testo giusta la cifra I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
 
 #### Art. 32
 
@@ -739,7 +739,7 @@ L’esercente adotta provvedimenti organizzativi e tecnici per conseguire gli ob
 
 <sup>4</sup> L’esercente verifica regolarmente l’appropriatezza e il conseguimento degli obiettivi di sicurezza dell’informazione di cui al capoverso 2.
 
-[^32a-1]: Nuovo testo giusta il n. I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
+[^32a-1]: Nuovo testo giusta la cifra I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
 
 #### Art. 32b
 
@@ -782,7 +782,7 @@ Il contratto di esternalizzazione statuisce in particolare:
 - a. le prestazioni fornite dal prestatore di servizi;
 - b. la possibilità per la Banca nazionale, per l’esercente o per un ente esterno incaricato, di esaminare integralmente e senza impedimenti i servizi affidati al prestatore di servizi.
 
-[^32d-1]: Nuovo testo giusta il n. I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
+[^32d-1]: Nuovo testo giusta la cifra I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
 
 #### Art. 33
 
@@ -808,13 +808,13 @@ Se un depositario centrale istituisce un collegamento con un altro depositario c
 
 <sup>3</sup> Se una controparte centrale istituisce un collegamento con un’altra controparte centrale, essa copre i risultanti rischi di credito correnti e potenziali con un elevato livello di confidenza richiedendo all’altra controparte centrale il deposito di garanzie ai sensi dell’articolo 28*a*.
 
-[^34-1]: Nuovo testo giusta il n. I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
+[^34-1]: Nuovo testo giusta la cifra I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
 
 ### Sezione 3: Valutazione dell’adempimento dei requisiti particolari
 
 [^chap4-sec3-1]
 
-[^chap4-sec3-1]: Nuovo testo giusta il n. I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
+[^chap4-sec3-1]: Nuovo testo giusta la cifra I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
 
 #### Art. 35
 
@@ -822,7 +822,7 @@ Se un depositario centrale istituisce un collegamento con un altro depositario c
 
 L’esercente è tenuto a fornire alla Banca nazionale o a una parte terza da essa designata tutte le informazioni e i documenti di cui questa necessita per poter valutare l’adempimento dei requisiti particolari stabiliti nel presente capitolo.
 
-[^35-1]: Nuovo testo giusta il n. I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
+[^35-1]: Nuovo testo giusta la cifra I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
 
 #### Art. 36
 
@@ -872,9 +872,9 @@ L’esercente informa immediatamente la Banca nazionale in merito a:
 
 <sup>5</sup> D’intesa con l’esercente la Banca nazionale fissa le cadenze, i termini e la forma per la presentazione dei documenti e delle notifiche di cui ai capoversi 1–4.
 
-[^36-1]: Nuovo testo giusta il n. I dell’O della BNS del 10 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1987](https://fedlex.data.admin.ch/eli/oc/2013/420)).
-[^36-2]: Nuovo testo giusta il n. I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
-[^36-3]: Nuovo testo giusta il n. I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
+[^36-1]: Nuovo testo giusta la cifra I dell’O della BNS del 10 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1987](https://fedlex.data.admin.ch/eli/oc/2013/420)).
+[^36-2]: Nuovo testo giusta la cifra I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
+[^36-3]: Nuovo testo giusta la cifra I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
 
 #### Art. 37
 
@@ -886,8 +886,8 @@ L’esercente informa immediatamente la Banca nazionale in merito a:
 
 <sup>3</sup> L’esercente fa verificare con frequenza annuale da un’istanza qualificata esterna, l’appropriatezza e l’efficacia dei procedimenti e degli strumenti impiegati per la gestione dei rischi operativi. D’intesa con l’esercente la Banca nazionale stabilisce l’estensione e il grado di approfondimento di tale verifica.
 
-[^37-1]: Nuovo testo giusta il n. I dell’O della BNS del 10 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1987](https://fedlex.data.admin.ch/eli/oc/2013/420)).
-[^37-2]: Nuovo testo giusta il n. I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
+[^37-1]: Nuovo testo giusta la cifra I dell’O della BNS del 10 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1987](https://fedlex.data.admin.ch/eli/oc/2013/420)).
+[^37-2]: Nuovo testo giusta la cifra I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
 
 #### Art. 38
 
@@ -899,14 +899,14 @@ L’esercente informa immediatamente la Banca nazionale in merito a:
 
 <sup>3</sup> Prima di indirizzare una raccomandazione all’esercente secondo il capoverso 1 o di emanare una decisione secondo il capoverso 2, la Banca nazionale offre all’esercente la possibilità di prendere posizione. Se l’infrastruttura del mercato finanziario è soggetta all’obbligo di autorizzazione e alla vigilanza della FINMA ai sensi dell’articolo 4 LInFi[^38-2], la Banca nazionale consulta preventivamente la FINMA.
 
-[^38-1]: Nuovo testo giusta il n. I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
-[^38-2]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^38-1]: Nuovo testo giusta la cifra I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
+[^38-2]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 
 #### Art. 39
 
 [^39-1]
 
-[^39-1]: Abrogato dal n. I dell’O della BNS del 26 nov. 2015, con effetto dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
+[^39-1]: Abrogato dalla cifra I dell’O della BNS del 26 nov. 2015, con effetto dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
 
 ## Capitolo 5: Controllo
 
@@ -918,8 +918,8 @@ L’esercente informa immediatamente la Banca nazionale in merito a:
 
 <sup>2</sup> Di regola tale verifica avviene simultaneamente alla verifica di cui all’articolo 24 della legge del 22 giugno 2007[^40-2] sulla vigilanza dei mercati finanziari. Nell’effettuare la verifica vanno evitati per quanto possibile i doppioni. Il rapporto deve essere presentato alla Banca nazionale entro sei mesi dalla chiusura dell’esercizio.
 
-[^40-1]: Nuovo testo giusta il n. I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
-[^40-2]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^40-1]: Nuovo testo giusta la cifra I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
+[^40-2]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 ## Capitolo 6: Disposizioni finali
 
@@ -931,8 +931,8 @@ L’esercente informa immediatamente la Banca nazionale in merito a:
 
 <sup>2</sup> Per le infrastrutture del mercato finanziario di rilevanza sistemica non soggette all’obbligo di autorizzazione e alla vigilanza della FINMA, i requisiti particolari di cui agli articoli 22–34 e gli obblighi di cui all’articolo 36 si applicano dall’entrata in vigore della modifica del 26 novembre 2015.
 
-[^41-1]: Nuovo testo giusta il n. I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
-[^41-2]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^41-1]: Nuovo testo giusta la cifra I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
+[^41-2]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 
 #### Art. 42
 
@@ -946,14 +946,14 @@ Allegato[^t-1]
 
 ## Rilevazioni
 
-[^t-1]: Nuovo testo giusta il n. II dell’O della BNS del 3 set. 2009 ([RU 2009 6373](https://fedlex.data.admin.ch/eli/oc/2009/780)). Aggiornato dal n. I dell’O della BNS del 23 giu. 2011 ([RU 2011 5043](https://fedlex.data.admin.ch/eli/oc/2011/741)), dal n. II dell’O della BNS del 10 giu. 2013 ([RU 2013 1987](https://fedlex.data.admin.ch/eli/oc/2013/420)), dal n. II dell’O della BNS del 7 mag. 2014 ([RU 2014 3023](https://fedlex.data.admin.ch/eli/oc/2014/511)), correzioni del 24 feb. 2015 ([RU 2015 643](https://fedlex.data.admin.ch/eli/oc/2015/103)), del 10 mar. 2015 ([RU 2015 765](https://fedlex.data.admin.ch/eli/oc/2015/137)), dal n. II dell’O della BNS del 26 nov. 2015 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)), dal n. I dell’O della BNS dell’8 giu. 2017 ([RU 2017 6495](https://fedlex.data.admin.ch/eli/oc/2017/711)), dalla correzione del 30 gen. 2018 ([RU 2018 527](https://fedlex.data.admin.ch/eli/oc/2018/59)) e dai n. II delle O della BNS del 31 ott. 2019 ([RU 2019 3909](https://fedlex.data.admin.ch/eli/oc/2019/706)) e del 2 lug. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4627](https://fedlex.data.admin.ch/eli/oc/2020/827)).
+[^t-1]: Nuovo testo giusta la cifra II dell’O della BNS del 3 set. 2009 ([RU 2009 6373](https://fedlex.data.admin.ch/eli/oc/2009/780)). Aggiornato dalla cifra I dell’O della BNS del 23 giu. 2011 ([RU 2011 5043](https://fedlex.data.admin.ch/eli/oc/2011/741)), dalle cifre II dell’O della BNS del 10 giu. 2013 ([RU 2013 1987](https://fedlex.data.admin.ch/eli/oc/2013/420)), del 7 mag. 2014 ([RU 2014 3023](https://fedlex.data.admin.ch/eli/oc/2014/511)), dalla correzione del 24 feb. 2015 ([RU 2015 643](https://fedlex.data.admin.ch/eli/oc/2015/103)), del 10 mar. 2015 ([RU 2015 765](https://fedlex.data.admin.ch/eli/oc/2015/137)), dalla cifra II dell’O della BNS del 26 nov. 2015 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)), dalla cifra I dell’O della BNS dell’8 giu. 2017 ([RU 2017 6495](https://fedlex.data.admin.ch/eli/oc/2017/711)), dalla correzione del 30 gen. 2018 ([RU 2018 527](https://fedlex.data.admin.ch/eli/oc/2018/59)), dalle cifre II delle O della BNS del 31 ott. 2019 ([RU 2019 3909](https://fedlex.data.admin.ch/eli/oc/2019/706)), del 2 lug. 2020 ([RU 2020 4627](https://fedlex.data.admin.ch/eli/oc/2020/827)) e dalla cifra I dell’O della BNS del 13 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 535](https://fedlex.data.admin.ch/eli/oc/2026/535)).
 
 <table>
 <tr><td>Denominazione della rilevazione:</td><td>Bilancio mensile dettagliato</td></tr>
 <tr><td>Oggetto della rilevazione:</td><td>Poste di bilancio e operazioni fiduciarie conformemente alle disposizioni del Consiglio federale[^annexu1-lvlu1-1] e della FINMA concernenti la presentazione dei conti di banche[^annexu1-lvlu1-2]; suddivisione per durata residua, valuta (franco svizzero, dollaro USA, euro, yen), sede o domicilio dei clienti in Svizzera o all’estero nonché per settori economici; registrazione dei crediti e impegni monetari iscritti a bilancio risultanti da operazioni pronti contro termine, nonché da depositi in contante costituiti in garanzia per prestiti e altre operazioni; crediti concessi in cooperazione con banche all’estero, iscritti a bilancio dalle banche all’estero</td></tr>
 <tr><td>Tipo di rilevazione:</td><td>Rilevazione parziale</td></tr>
-<tr><td>Istituti tenuti a informare:</td><td>Banche in cui il totale dalla somma di bilancio e dalle operazioni fiduciarie supera 500 milioni di franchi Ripartizione per settori economici: banche le cui attività in Svizzera superano 1,5 miliardi di franchi</td></tr>
-<tr><td>Livello della rilevazione:</td><td>Direzione; impresa</td></tr>
+<tr><td>Istituti tenuti a informare:</td><td>Banche in cui il totale della somma di bilancio e delle operazioni fiduciarie supera 1 miliardo di franchi Ripartizione per settori economici: banche le cui attività in Svizzera superano 3 miliardi di franchi</td></tr>
+<tr><td>Livello della rilevazione:</td><td>Ufficio; impresa</td></tr>
 <tr><td>Periodicità:</td><td>Mensile</td></tr>
 <tr><td>Termine d’inoltro dopo il giorno di riferimento:</td><td>17 giorni</td></tr>
 <tr><td>Disposizioni speciali:</td><td>–</td></tr>
@@ -963,8 +963,8 @@ Allegato[^t-1]
 <tr><td>Denominazione della rilevazione:</td><td>Poste di bilancio scelte per la statistica relativa alla massa monetaria</td></tr>
 <tr><td>Oggetto della rilevazione:</td><td>Registrazione delle poste di bilancio che consentono una valutazione tempestiva della massa monetaria</td></tr>
 <tr><td>Tipo di rilevazione:</td><td>Rilevazione parziale</td></tr>
-<tr><td>Istituti tenuti a informare:</td><td>Banche le cui somme delle poste di bilancio rilevanti per M3 superano 3 miliardi di franchi</td></tr>
-<tr><td>Livello della rilevazione:</td><td>Direzione</td></tr>
+<tr><td>Istituti tenuti a informare:</td><td>Banche le cui somme delle poste di bilancio rilevanti per M3 superano 4,4 miliardi di franchi</td></tr>
+<tr><td>Livello della rilevazione:</td><td>Ufficio</td></tr>
 <tr><td>Periodicità:</td><td>Mensile</td></tr>
 <tr><td>Termine d’inoltro dopo il giorno di riferimento:</td><td>10 giorni</td></tr>
 <tr><td>Disposizioni speciali:</td><td>–</td></tr>
@@ -975,10 +975,21 @@ Allegato[^t-1]
 <tr><td>Oggetto della rilevazione:</td><td>Poste di bilancio e operazioni fuori bilancio conformemente alle prescrizioni del Consiglio federale[^annexu1-lvlu1-3] e della FINMA concernenti la presentazione dei conti di banche[^annexu1-lvlu1-4]; suddivisione per durata residua, valuta (franco svizzero, dollaro USA, euro, yen), sede o domicilio dei clienti in Svizzera o all’estero; conto economico e dati complementari; ripartizione per Stato delle attività, delle passività e delle operazioni fiduciarie; registrazione dei crediti e impegni monetari iscritti a bilancio risultanti da operazioni pronti contro termine, nonché da depositi in contante costituiti in garanzia per prestiti e altre operazioni</td></tr>
 <tr><td>Tipo di rilevazione:</td><td>Rilevazione totale Ripartizione per Stato: rilevazione parziale</td></tr>
 <tr><td>Istituti tenuti a informare:</td><td>Tutte le banche Ripartizione per Stato: banche che devono inoltrare la statistica delle divise in euro</td></tr>
-<tr><td>Livello della rilevazione:</td><td>Impresa; direzione e gruppo di società (conglomerato) per singoli settori</td></tr>
+<tr><td>Livello della rilevazione:</td><td>Impresa; ufficio e gruppo di società (conglomerato) per singoli settori</td></tr>
 <tr><td>Periodicità:</td><td>Annuale</td></tr>
 <tr><td>Termine d’inoltro dopo il giorno di riferimento:</td><td>3 mesi</td></tr>
 <tr><td>Disposizioni speciali:</td><td>–</td></tr>
+</table>
+
+<table>
+<tr><td>Denominazione della rilevazione:</td><td>Rilevazione a livello di singolo prestito</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Prestiti concessi da istituti in Svizzera, a livello di singola operazione, che rientrano o rientreranno in futuro nelle poste di bilancio «Crediti nei confronti della clientela» e «Crediti ipotecari» nonché posizioni fuori bilancio Vengono raccolte informazioni sui prestiti, compresi le controparti e le garanzie nonché la copertura con fondi propri e gli ammortamenti ad essi relativi</td></tr>
+<tr><td>Tipo di rilevazione:</td><td>Rilevazione parziale</td></tr>
+<tr><td>Istituti tenuti a informare:</td><td>Banche e gruppi finanziari in Svizzera i cui uffici in Svizzera riportano in totale più di 4 miliardi di franchi nelle poste di bilancio «Crediti nei confronti della clientela» e «Crediti ipotecari» Sono esentate dall’obbligo di fornire informazioni le banche legittimate ad applicare le semplificazioni di cui all’articolo 47*a* dell’ordinanza del 1° giugno 2012[^annexu1-lvlu1-5] sui fondi propri (banche del regime per le piccole banche) e le banche della categoria 5 secondo l’allegato 3 dell’ordinanza del 30 aprile 2014[^annexu1-lvlu1-6] sulle banche Nei gruppi finanziari tale obbligo deve essere adempiuto dall’unità del gruppo di livello più alto sottoposta a vigilanza prudenziale in Svizzera Essa fornisce informazioni per tutte le banche del gruppo finanziario in Svizzera, comprese le banche del regime per le piccole banche e le banche della categoria 5 Sono esentati dall’obbligo di fornire informazioni i gruppi finanziari le cui società sono esclusivamente banche del regime per le piccole banche o banche della categoria 5</td></tr>
+<tr><td>Livello della rilevazione:</td><td>Ufficio</td></tr>
+<tr><td>Periodicità:</td><td>Trimestrale</td></tr>
+<tr><td>Termine d’inoltro dopo il giorno di riferimento:</td><td>40 giorni</td></tr>
+<tr><td>Disposizioni speciali:</td><td>La rilevazione è condotta in collaborazione con la FINMA</td></tr>
 </table>
 
 <table>
@@ -986,7 +997,7 @@ Allegato[^t-1]
 <tr><td>Oggetto della rilevazione:</td><td>Attività creditizia (limiti, impiego, rettifiche di valore, ammortamenti) e crediti a rischio; ripartizione dei crediti in crediti ipotecari e crediti (garantiti e non garantiti) verso la clientela, per durata residua, per rami economici, sede o domicilio dei clienti in Svizzera o all’estero nonché dimensioni dell’impresa debitrice</td></tr>
 <tr><td>Tipo di rilevazione:</td><td>Rilevazione parziale</td></tr>
 <tr><td>Istituti tenuti a informare:</td><td>Banche i cui crediti al settore non bancario in Svizzera superano 280 milioni di franchi</td></tr>
-<tr><td>Livello della rilevazione:</td><td>Direzione</td></tr>
+<tr><td>Livello della rilevazione:</td><td>Ufficio</td></tr>
 <tr><td>Periodicità:</td><td>Mensile</td></tr>
 <tr><td>Termine d’inoltro dopo il giorno di riferimento:</td><td>20 giorni</td></tr>
 <tr><td>Disposizioni speciali:</td><td>–</td></tr>
@@ -1008,7 +1019,7 @@ Allegato[^t-1]
 <tr><td>Oggetto della rilevazione:</td><td>Forma del credito, ammontare del credito, garanzie, rating, saggio d’interesse, fissazione dell’interesse, commissioni, durata del credito e modalità di rimborso nonché caratteristiche del beneficiario del credito; devono essere notificate individualmente tutte le operazioni che si fondano su nuove stipulazioni di credito</td></tr>
 <tr><td>Tipo di rilevazione:</td><td>Rilevazione parziale</td></tr>
 <tr><td>Istituti tenuti a informare:</td><td>Banche i cui crediti a imprese non finanziarie in Svizzera superano 2 miliardi di franchi</td></tr>
-<tr><td>Livello della rilevazione:</td><td>Direzione</td></tr>
+<tr><td>Livello della rilevazione:</td><td>Ufficio</td></tr>
 <tr><td>Periodicità:</td><td>Mensile</td></tr>
 <tr><td>Termine d’inoltro dopo il giorno di riferimento:</td><td>1 mese</td></tr>
 <tr><td>Disposizioni speciali:</td><td>–</td></tr>
@@ -1019,7 +1030,7 @@ Allegato[^t-1]
 <tr><td>Oggetto della rilevazione:</td><td>Indicazioni sulle modifiche dei criteri di concessione dei crediti, delle condizioni di credito e della domanda di crediti; ripartizione dei debitori nelle categorie imprese (con suddivisione per dimensioni dell’impresa) ed economie domestiche private, per tipo di credito, durata residua e sede o domicilio dei clienti in Svizzera o all’estero Indicazioni sui tassi d’interesse di mercato nella formazione dei prezzi; ripartizione secondo i diversi tassi d’interesse sul mercato, rispettivamente secondo le curve dei rendimenti, nonché secondo i tipi di credito</td></tr>
 <tr><td>Tipo di rilevazione:</td><td>Rilevazione parziale</td></tr>
 <tr><td>Istituti tenuti a informare:</td><td>Banche i cui crediti al settore non bancario in Svizzera superano 8 miliardi di franchi Inchiesta sulla concessione di crediti all’estero: banche in mani svizzere i cui crediti al settore non bancario all’estero superano 10 miliardi di franchi</td></tr>
-<tr><td>Livello della rilevazione:</td><td>Direzione Inchiesta sulla concessione di crediti all’estero: gruppo di società</td></tr>
+<tr><td>Livello della rilevazione:</td><td>Ufficio Inchiesta sulla concessione di crediti all’estero: gruppo di società</td></tr>
 <tr><td>Periodicità:</td><td>Trimestrale; ogni due anni</td></tr>
 <tr><td>Termine d’inoltro dopo il giorno di riferimento:</td><td>20 giorni</td></tr>
 <tr><td>Disposizioni speciali:</td><td>–</td></tr>
@@ -1030,7 +1041,7 @@ Allegato[^t-1]
 <tr><td>Oggetto della rilevazione:</td><td>Nuovi crediti per il finanziamento di immobili in Svizzera per i tre tipi di operazioni seguenti: (i) finanziamento dell’acquisto di un immobile, (ii) riscatto di un credito concesso da un altro prestatore o (iii) finanziamento della costruzione di un immobile. La rilevazione concerne le caratteristiche generali del credito (p.es. mutuatario, tipo di operazione, limiti del credito, impiego, garanzie, reddito), le caratteristiche delle singole tranche (p.es. tipo di tasso di interesse, tasso di interesse, vincoli di interesse e di capitale) nonché le caratteristiche dei singoli immobili (p.es. tipo, luogo e valore dell’immobile, pigione netta)</td></tr>
 <tr><td>Tipo di rilevazione:</td><td>Rilevazione parziale</td></tr>
 <tr><td>Istituti tenuti a informare:</td><td>Banche il cui volume dei crediti ipotecari in Svizzera supera 6 miliardi di franchi</td></tr>
-<tr><td>Livello della rilevazione:</td><td>Direzione</td></tr>
+<tr><td>Livello della rilevazione:</td><td>Ufficio</td></tr>
 <tr><td>Periodicità:</td><td>Trimestrale</td></tr>
 <tr><td>Termine d’inoltro dopo il giorno di riferimento:</td><td>40 giorni</td></tr>
 <tr><td>Disposizioni speciali:</td><td>–</td></tr>
@@ -1041,7 +1052,7 @@ Allegato[^t-1]
 <tr><td>Oggetto della rilevazione:</td><td>Tassi d’interesse pubblicati alla fine del mese per le nuove operazioni; tassi d’interesse su ipoteche variabili, ipoteche a tasso fisso, ipoteche legate ai tassi del mercato monetario e crediti al consumo; tassi d’interesse su depositi della clientela (ripartiti secondo le caratteristiche del prodotto), su investimenti finanziari a termine nonché su obbligazioni di cassa</td></tr>
 <tr><td>Tipo di rilevazione:</td><td>Rilevazione parziale</td></tr>
 <tr><td>Istituti tenuti a informare:</td><td>Banche il cui totale dei depositi della clientela e delle obbligazioni di cassa in franchi svizzeri su conti in Svizzera supera 500 milioni di franchi (senza i banchieri privati che non si rivolgono al pubblico per raccogliere depositi di capitali)</td></tr>
-<tr><td>Livello della rilevazione:</td><td>Direzione</td></tr>
+<tr><td>Livello della rilevazione:</td><td>Ufficio</td></tr>
 <tr><td>Periodicità:</td><td>Mensile</td></tr>
 <tr><td>Termine d’inoltro dopo il giorno di riferimento:</td><td>10 giorni</td></tr>
 <tr><td>Disposizioni speciali:</td><td>–</td></tr>
@@ -1051,7 +1062,7 @@ Allegato[^t-1]
 <tr><td>Denominazione della rilevazione:</td><td>Ripartizione di determinate poste di bilancio per tasso d’interesse</td></tr>
 <tr><td>Oggetto della rilevazione:</td><td>Determinate poste di bilancio ripartite per tasso d’interesse e per sede o domicilio della controparte in Svizzera o all’estero</td></tr>
 <tr><td>Tipo di rilevazione:</td><td>Rilevazione parziale</td></tr>
-<tr><td>Istituti tenuti a informare:</td><td>Banche i cui impegni in franchi svizzeri risultanti da depositi della clientela superano 4 miliardi di franchi o i cui impegni in franchi svizzeri nei confronti di banche superano 1,3 miliardi di franchi</td></tr>
+<tr><td>Istituti tenuti a informare:</td><td>Banche i cui impegni in franchi risultanti da depositi della clientela superano 5,7 miliardi di franchi o i cui impegni in franchi nei confronti di banche superano 1,3 miliardi di franchi</td></tr>
 <tr><td>Livello della rilevazione:</td><td>Impresa</td></tr>
 <tr><td>Periodicità:</td><td>Trimestrale</td></tr>
 <tr><td>Termine d’inoltro dopo il giorno di riferimento:</td><td>1 mese</td></tr>
@@ -1063,7 +1074,7 @@ Allegato[^t-1]
 <tr><td>Oggetto della rilevazione:</td><td>Entità dei titoli nei depositi aperti dei clienti; ripartizione per categorie di titoli (in particolare valori del mercato monetario, obbligazioni di cassa, obbligazioni, azioni, quote di investimenti collettivi di capitale, prodotti strutturati), per provenienza dell’emittente (Svizzera o estero) e per valuta; ripartizione dei titolari di deposito per settori economici e per sede o domicilio in Svizzera o all’estero; entità dei titoli prestati</td></tr>
 <tr><td>Tipo di rilevazione:</td><td>Rilevazione parziale; rilevazione totale</td></tr>
 <tr><td>Istituti tenuti a informare:</td><td>Le banche, i depositari centrali e le controparti centrali la cui situazione di deposito supera i 4,3 miliardi di franchi procedono a una notifica mensile. Le altre banche, gli altri depositari centrali e le altre controparti centrali procedono a una notifica annuale</td></tr>
-<tr><td>Livello della rilevazione:</td><td>Direzione</td></tr>
+<tr><td>Livello della rilevazione:</td><td>Ufficio</td></tr>
 <tr><td>Periodicità:</td><td>Mensile; annuale</td></tr>
 <tr><td>Termine d’inoltro dopo il giorno di riferimento:</td><td>Notifica mensile: 25 giorni Notifica annuale: 3 mesi</td></tr>
 <tr><td>Disposizioni speciali:</td><td>–</td></tr>
@@ -1074,7 +1085,7 @@ Allegato[^t-1]
 <tr><td>Oggetto della rilevazione:</td><td>Cifre d’affari concernenti depositi aperti dei clienti, provenienti da operazioni di compravendita; ripartizione dei titolari di deposito per sede o domicilio in Svizzera o all’estero; ripartizione delle cifre d’affari per categorie di titoli (in particolare valori del mercato monetario, obbligazioni di cassa, obbligazioni, azioni, quote di investimenti collettivi di capitale, prodotti strutturati), per provenienza dell’emittente (Svizzera o estero) e per valuta</td></tr>
 <tr><td>Tipo di rilevazione:</td><td>Rilevazione parziale</td></tr>
 <tr><td>Istituti tenuti a informare:</td><td>Le banche, i depositari centrali e le controparti centrali che devono notificare mensilmente la rilevazione delle entità dei portafogli titoli</td></tr>
-<tr><td>Livello della rilevazione:</td><td>Direzione</td></tr>
+<tr><td>Livello della rilevazione:</td><td>Ufficio</td></tr>
 <tr><td>Periodicità:</td><td>Trimestrale</td></tr>
 <tr><td>Termine d’inoltro dopo il giorno di riferimento:</td><td>25 giorni</td></tr>
 <tr><td>Disposizioni speciali:</td><td>–</td></tr>
@@ -1084,7 +1095,7 @@ Allegato[^t-1]
 <tr><td>Denominazione della rilevazione:</td><td>Statistica relativa agli investimenti collettivi</td></tr>
 <tr><td>Oggetto della rilevazione:</td><td>Situazione e variazione della sostanza degli investimenti collettivi di capitale; valore delle quote emesse e riscattate dagli investimenti collettivi di capitale; ripartizione dei valori patrimoniali in Svizzera e all’estero per valuta e categorie d’investimento (strumenti del mercato monetario, crediti da operazioni di pensione, obbligazioni, azioni e altri titoli di partecipazione, quote di altri investimenti collettivi di capitale, fondi e immobili, prodotti strutturati, altri titoli); ripartizione degli impegni in Svizzera e all’estero; ripartizione degli investimenti collettivi di capitale secondo la forma giuridica e secondo il tipo di investimento collettivo aperto previsto dalla legge; conto economico</td></tr>
 <tr><td>Tipo di rilevazione:</td><td>Rilevazione totale</td></tr>
-<tr><td>Istituti tenuti a informare:</td><td>Direzioni di fondi svizzeri e società svizzere per investimenti collettivi di capitale secondo l’articolo 13 capoverso 2 della legge del 23 giugno 2006[^annexu1-lvlu1-5] sugli investimenti collettivi</td></tr>
+<tr><td>Istituti tenuti a informare:</td><td>Direzioni di fondi svizzeri e società svizzere per investimenti collettivi di capitale secondo l’articolo 13 capoverso 2 della legge del 23 giugno 2006[^annexu1-lvlu1-7] sugli investimenti collettivi</td></tr>
 <tr><td>Livello della rilevazione:</td><td>–</td></tr>
 <tr><td>Periodicità:</td><td>Trimestrale</td></tr>
 <tr><td>Termine d’inoltro dopo il giorno di riferimento:</td><td>20 giorni</td></tr>
@@ -1107,7 +1118,7 @@ Allegato[^t-1]
 <tr><td>Oggetto della rilevazione:</td><td>Annotazione delle entità dei titoli di emittenti esteri in depositi aperti dei clienti svizzeri; ripartizione per categorie delle entità di titoli (titoli del mercato monetario, obbligazioni, azioni, quote di investimen-ti collettivi di capitale, prodotti strutturati e altri titoli) e per Stato d’origine degli emittenti</td></tr>
 <tr><td>Tipo di rilevazione:</td><td>Rilevazione parziale</td></tr>
 <tr><td>Istituti tenuti a informare:</td><td>Banche, depositari centrali e controparti centrali la cui entità dei depositi da rilevare supera 1,8 miliardi di franchi</td></tr>
-<tr><td>Livello di rilevazione:</td><td>Direzione</td></tr>
+<tr><td>Livello di rilevazione:</td><td>Ufficio</td></tr>
 <tr><td>Periodicità:</td><td>Trimestrale</td></tr>
 <tr><td>Termine d’inoltro dopo il giorno di riferimento:</td><td>25 giorni</td></tr>
 <tr><td>Disposizioni speciali:</td><td>–</td></tr>
@@ -1117,7 +1128,7 @@ Allegato[^t-1]
 <tr><td>Denominazione della rilevazione:</td><td>Statuto estero (BIS Consolidated Banking Statistics)</td></tr>
 <tr><td>Oggetto della rilevazione:</td><td>Ripartizione per Stato delle posizioni attive, passive e fuori bilancio; rilevazione dei crediti e impegni locali delle filiali e succursali; ripartizione per settori, durata residua e garanzie. La rilevazione è effettuata conformemente alle prescrizioni della Banca dei regolamenti internazionali</td></tr>
 <tr><td>Tipo di rilevazione:</td><td>Rilevazione parziale</td></tr>
-<tr><td>Istituti tenuti a informare:</td><td>Banche in mani svizzere o la cui casa madre dispone dell’autorizzazione a operare come banca che devono inoltrare la statistica delle divise in euro</td></tr>
+<tr><td>Istituti tenuti a informare:</td><td>Istituti che devono inoltrare la statistica delle divise in euro Se un istituto fa parte di un gruppo finanziario, l’obbligo di fornire informazioni deve essere adempiuto dall’unità del gruppo di livello più alto in Svizzera sottoposta a vigilanza prudenziale Se esiste un’unità del gruppo di livello superiore all’estero sottoposta a vigilanza prudenziale, la Banca nazionale può concedere deroghe all’obbligo di fornire informazioni d’intesa con la Banca dei regolamenti internazionali</td></tr>
 <tr><td>Livello della rilevazione:</td><td>Gruppo di società</td></tr>
 <tr><td>Periodicità:</td><td>Trimestrale</td></tr>
 <tr><td>Termine d’inoltro dopo il giorno di riferimento:</td><td>2 mesi</td></tr>
@@ -1139,8 +1150,8 @@ Allegato[^t-1]
 <tr><td>Denominazione della rilevazione:</td><td>Statistica delle divise in euro (BIS Locational Banking Statistics)</td></tr>
 <tr><td>Oggetto della rilevazione:</td><td>Ripartizione per Stato delle posizioni attive e passive, nonché delle operazioni fiduciarie; ripartizione per settori, valuta, e durata residua. La rilevazione è effettuata conformemente alle prescrizioni della Banca dei regolamenti internazionali</td></tr>
 <tr><td>Tipo di rilevazione:</td><td>Rilevazione parziale</td></tr>
-<tr><td>Istituti tenuti a informare:</td><td>Banche le cui attività e attività fiduciarie verso l’estero o le cui passività e passività fiduciarie verso l’estero superano complessivamente 1 miliardo di franchi</td></tr>
-<tr><td>Livello della rilevazione:</td><td>Direzione</td></tr>
+<tr><td>Istituti tenuti a informare:</td><td>Banche le cui attività e attività fiduciarie verso l’estero o le cui passività e passività fiduciarie verso l’estero superano complessivamente 1,7 miliardi di franchi</td></tr>
+<tr><td>Livello della rilevazione:</td><td>Ufficio</td></tr>
 <tr><td>Periodicità:</td><td>Trimestrale</td></tr>
 <tr><td>Termine d’inoltro dopo il giorno di riferimento:</td><td>25 giorni</td></tr>
 <tr><td>Disposizioni speciali:</td><td>–</td></tr>
@@ -1150,8 +1161,8 @@ Allegato[^t-1]
 <tr><td>Denominazione della rilevazione:</td><td>Rilevazione delle divise e dei derivati (BIS OTC Derivatives Statistics)</td></tr>
 <tr><td>Oggetto della rilevazione:</td><td>Operazioni di cambio e sui derivati conformemente alle disposizioni della Banca dei regolamenti internazionali; consistenze; cifre d’affari</td></tr>
 <tr><td>Tipo di rilevazione:</td><td>Rilevazione parziale</td></tr>
-<tr><td>Istituti tenuti a informare:</td><td>Statistica semestrale: i 2 maggiori gruppi di società bancari Ogni tre anni: banche il cui volume contrattuale degli strumenti finanziari derivati non scaduti supera 8 miliardi di franchi (per la statistica relativa alle cifre d’affari), rispettivamente 30 miliardi di franchi (per la statistica relativa alle consistenze)</td></tr>
-<tr><td>Livello della rilevazione:</td><td>Direzione (cifre d’affari); gruppo di società (consistenze)</td></tr>
+<tr><td>Istituti tenuti a informare:</td><td>Statistica semestrale: banche il cui volume contrattuale degli strumenti finanziari derivati non scaduti supera 2500 miliardi di franchi Ogni tre anni: banche il cui volume contrattuale degli strumenti finanziari derivati non scaduti supera 8 miliardi di franchi (per la statistica relativa alle cifre d’affari), rispettivamente 30 miliardi di franchi (per la statistica relativa alle consistenze)</td></tr>
+<tr><td>Livello della rilevazione:</td><td>Ufficio (cifre d’affari); gruppo di società (consistenze)</td></tr>
 <tr><td>Periodicità:</td><td>Cifre d’affari: ogni 3 anni Consistenze: semestralmente e ogni 3 anni</td></tr>
 <tr><td>Termine d’inoltro dopo il giorno di riferimento:</td><td>1 mese (cifre d’affari); 2 mesi (consistenze)</td></tr>
 <tr><td>Disposizioni speciali:</td><td>–</td></tr>
@@ -1159,24 +1170,24 @@ Allegato[^t-1]
 
 <table>
 <tr><td>Denominazione della rilevazione:</td><td>Rilevazioni relative alla bilancia delle partite correnti</td></tr>
-<tr><td>Oggetto della rilevazione:</td><td>Commercio internazionale di merci (tranne il commercio con l’estero considerato per la rilevazione dell’Ufficio federale della dogana e della sicurezza dei confini[^annexu1-lvlu1-6]) e servizi, commercio di transito, commercio legato alla lavorazione per conto di terzi e alla produzione all’estero, redditi internazionali da lavoro e capitale, nonché trasferimenti conformemente alle direttive del Fondo monetario internazionale (FMI) e ai requisiti dell’Unione europea (UE) secondo l’accordo del 26 ottobre 2004[^annexu1-lvlu1-7] tra la Confederazione Svizzera e la Comunità europea sulla cooperazione nel settore statistico. Ripartizione per Stati, tipo di transazione e settori economici</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Transazioni fra soggetti con sede in Svizzera o nel Liechtenstein e controparti all’estero: a. in relazione al commercio di merci, servizi e valori patrimoniali immateriali; b. in ambito bancario, assicurativo e di leasing; c. sotto forma di trasferimenti. Informazioni necessarie per il controllo della plausibilità dei dati rilevati, come le poste di bilancio nei confronti di controparti con sede in Svizzera o nel Liechtenstein. La rilevazione è condotta conformemente alle direttive vigenti del Fondo monetario internazionale, segnatamente in conformità al manuale della bilancia dei pagamenti «Balance of Payments and International Investment Position Manual», nonché secondo l’Accordo del 26 ottobre 2004[^annexu1-lvlu1-8] tra la Confederazione Svizzera e la Comunità europea sulla cooperazione nel settore statistico.</td></tr>
 <tr><td>Tipo di rilevazione:</td><td>Rilevazioni parziali</td></tr>
-<tr><td>Istituti tenuti a informare:</td><td>Persone giuridiche e società se il valore della transazione supera 100 000 franchi per oggetto di rilevazione.</td></tr>
+<tr><td>Soggetti tenuti a informare:</td><td>Persone giuridiche e società le cui transazioni con controparti all’estero superano il valore di 100 000 franchi</td></tr>
 <tr><td>Livello della rilevazione:</td><td>–</td></tr>
 <tr><td>Periodicità:</td><td>Trimestrale o annuale</td></tr>
 <tr><td>Termine d’inoltro dopo il giorno di riferimento:</td><td>Notifica trimestrale: 1 mese Notifica annuale: 3 mesi</td></tr>
-<tr><td>Disposizioni speciali:</td><td>L’obbligo di fornire informazioni è adempiuto anche se la transazione è annunciata dalla banca che partecipa alle operazioni di pagamento</td></tr>
+<tr><td>Disposizioni speciali:</td><td>–</td></tr>
 </table>
 
 <table>
-<tr><td>Denominazione della rilevazione:</td><td>Rilevazione relative ai legami patrimoniali internazionali</td></tr>
-<tr><td>Oggetto della rilevazione:</td><td>Flussi internazionali di capitali (transazioni), consistenze patrimoniali (attività e passività verso il resto del mondo) e redditi di capitale conformemente alle direttive del Fondo monetario internazionale (FMI) e ai requisiti dell’Unione europea (UE) secondo l’accordo del 26 ottobre 2004[^annexu1-lvlu1-8] tra la Confederazione Svizzera e la Comunità europea sulla cooperazione nel settore statistico. La rilevazione include sia i rapporti interni al gruppo di società (investimenti diretti), sia i rapporti con terzi. Gli investitori diretti forniscono anche informazioni operative su partecipazioni maggioritarie all’estero (effettivi del personale, fatturato, numero di imprese), le imprese di investimento diretto comunicano inoltre gli effettivi del personale in Svizzera. Ripartizione per Stato, tipo di capitale, moneta e settore economico</td></tr>
+<tr><td>Denominazione della rilevazione:</td><td>Rilevazioni relative ai legami patrimoniali internazionali</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Legami patrimoniali fra soggetti con sede in Svizzera o nel Liechtenstein e controparti all’estero sotto forma di: a. transazioni finanziarie; b. variazioni di consistenza non riconducibili a transazioni; c. consistenze finanziarie; d. redditi da capitale. Informazioni operative sulle imprese multinazionali con sede in Svizzera o nel Liechtenstein e sulle rispettive imprese partecipate all’estero, in particolare effettivi del personale, cifra d’affari e numero di imprese. Informazioni necessarie per il controllo della plausibilità dei dati rilevati, come le poste di bilancio nei confronti di controparti con sede in Svizzera o nel Liechtenstein. La rilevazione è condotta conformemente alle direttive vigenti del Fondo monetario internazionale, segnatamente in conformità al manuale della bilancia dei pagamenti «Balance of Payments and International Investment Position Manual», nonché secondo l’Accordo tra la Confederazione Svizzera e la Comunità europea sulla cooperazione nel settore statistico.</td></tr>
 <tr><td>Tipo di rilevazione:</td><td>Rilevazioni parziali</td></tr>
-<tr><td>Istituti tenuti a informare:</td><td>Persone giuridiche e società, se il valore di transazione supera 1 milione di franchi per oggetto di rilevazione o se, al momento della rilevazione, le attività o le passività all’estero superano 10 milioni di franchi per oggetto di rilevazione.</td></tr>
+<tr><td>Soggetti tenuti a informare:</td><td>Persone giuridiche e società che soddisfano almeno uno dei seguenti criteri: a. le consistenze finanziarie nei confronti delle controparti all’estero superano il valore di 10 milioni di franchi; b. le transazioni finanziarie con controparti all’estero superano il valore di 1 milione di franchi; c. la cifra d’affari conseguita dalle succursali con sede all’estero tramite la vendita di merci e servizi supera il valore di 1 milione di franchi.</td></tr>
 <tr><td>Livello della rilevazione:</td><td>–</td></tr>
 <tr><td>Periodicità:</td><td>Trimestrale o annuale</td></tr>
 <tr><td>Termine d’inoltro dopo il giorno di riferimento:</td><td>Notifica trimestrale: 1 mese Notifica annuale: 3 mesi</td></tr>
-<tr><td>Disposizioni speciali:</td><td>L’obbligo di fornire informazioni è adempiuto anche se l’oggetto della rilevazione è comunicato dalla banca che partecipa alle operazioni di pagamento o che è incaricata di custodire le attività all’estero</td></tr>
+<tr><td>Disposizioni speciali:</td><td>–</td></tr>
 </table>
 
 <table>
@@ -1206,10 +1217,21 @@ Allegato[^t-1]
 <tr><td>Oggetto della rilevazione:</td><td>Pagamenti della clientela presso le banche effettuati o ricevuti nel corso di un mese. Suddivisione tra pagamenti in uscita e pagamenti in entrata, distinti per tipo di ordine e ripartiti tra pagamenti interbancari in Svizzera e pagamenti con la partecipazione di una banca con sede all’estero nonché per moneta. Registrazione di specifiche operazioni di prelievo di contante e delle operazioni di versamento di contante della clientela, nonché di informazioni sull’infrastruttura presso le banche</td></tr>
 <tr><td>Tipo di rilevazione:</td><td>Rilevazione parziale</td></tr>
 <tr><td>Istituti tenuti a informare:</td><td>Banche il cui numero di transazioni nello Swiss Interbank Clearing supera 5 milioni all’anno</td></tr>
-<tr><td>Livello della rilevazione:</td><td>Direzione</td></tr>
+<tr><td>Livello della rilevazione:</td><td>Ufficio</td></tr>
 <tr><td>Periodicità:</td><td>Mensile</td></tr>
 <tr><td>Termine d’inoltro dopo il giorno di riferimento:</td><td>1 mese</td></tr>
 <tr><td>Disposizioni speciali:</td><td>–</td></tr>
+</table>
+
+<table>
+<tr><td>Denominazione della rilevazione:</td><td>Transazioni in contante presso i punti di accesso al contante</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Prelievi e versamenti di contante presso distributori automatici di banconote nell’area valutaria del franco: informazioni su transazione, distributore automatico di banconote, esercente del distributore automatico o della rete alla quale esso appartiene e carta di pagamento utilizzata</td></tr>
+<tr><td>Tipo di rilevazione:</td><td>Rilevazione parziale</td></tr>
+<tr><td>Istituti tenuti a informare:</td><td>Esercenti di distributori automatici di banconote nell’area valutaria del franco ed esercenti di reti di distributori automatici di banconote se, tramite la rete, vengono regolate transazioni per un valore complessivo superiore a 2 miliardi di franchi per esercizio</td></tr>
+<tr><td>Livello della rilevazione:</td><td>–</td></tr>
+<tr><td>Periodicità:</td><td>Giornaliera</td></tr>
+<tr><td>Termine d’inoltro dopo il giorno di riferimento:</td><td>1 giorno</td></tr>
+<tr><td>Disposizioni speciali:</td><td>Se un distributore automatico di banconote appartiene a una rete, l’obbligo di fornire informazioni deve essere adempiuto primariamente dall’esercente della stessa</td></tr>
 </table>
 
 <table>
@@ -1223,11 +1245,11 @@ Allegato[^t-1]
 <tr><td>Disposizioni speciali:</td><td>–</td></tr>
 </table>
 
-[^annexu1-lvlu1-1]: Cap. 4 art. 25–42 dell’O del 30 apr. 2014 sulle banche ([RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)).
-[^annexu1-lvlu1-2]: O FINMA del 31 ott. 2019 sui conti ([RS 952.024.1](https://fedlex.data.admin.ch/eli/cc/2019/760)) nonché circolare FINMA 2020/1 del 31 ott. 2019 Direttive contabili ‒ banche.
-[^annexu1-lvlu1-3]: Cap. 4 art. 25–42 dell’O del 30 apr. 2014 sulle banche ([RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)).
-[^annexu1-lvlu1-4]: O FINMA del 31 ott. 2019 sui conti ([RS 952.024.1](https://fedlex.data.admin.ch/eli/cc/2019/760)) nonché circolare FINMA 2020/1 del 31 ott. 2019 Direttive contabili ‒ banche.
-[^annexu1-lvlu1-5]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^annexu1-lvlu1-6]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
-[^annexu1-lvlu1-7]: [RS 0.431.026.81](https://fedlex.data.admin.ch/eli/cc/2006/866)
-[^annexu1-lvlu1-8]: [RS 0.431.026.81](https://fedlex.data.admin.ch/eli/cc/2006/866)
+[^annexu1-lvlu1-1]: Cap. 4 art. 25–42 dell’O del 30 apr. 2014 sulle banche ([RS 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)).
+[^annexu1-lvlu1-2]: O FINMA del 31 ott. 2019 sui conti ([RS 952.024.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11565)) nonché circolare FINMA 2020/1 del 31 ott. 2019 Direttive contabili ‒ banche.
+[^annexu1-lvlu1-3]: Cap. 4 art. 25–42 dell’O del 30 apr. 2014 sulle banche ([RS 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)).
+[^annexu1-lvlu1-4]: O FINMA del 31 ott. 2019 sui conti ([RS 952.024.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11565)) nonché circolare FINMA 2020/1 del 31 ott. 2019 Direttive contabili ‒ banche.
+[^annexu1-lvlu1-5]: [RS 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
+[^annexu1-lvlu1-6]: [RS 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
+[^annexu1-lvlu1-7]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
+[^annexu1-lvlu1-8]: [RS 0.431.026.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1789)

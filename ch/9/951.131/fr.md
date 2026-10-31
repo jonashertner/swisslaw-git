@@ -4,11 +4,11 @@ title: "Ordonnance du 18 mars 2004 relative à la loi fédérale sur la Banque n
 short: OBN
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/233"
 language: fr
-version: 2024-07-01
+version: 2026-11-01
 adopted: 2004-03-18
 in_force: 2004-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/233/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2004-233-20240701-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/233/20240701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/233/20261101/fr/xml/fedlex-data-admin-ch-eli-cc-2004-233-20261101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/233/20261101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/233/20240701/fr"
 
 (Ordonnance de la Banque nationale, OBN)
 
-du 18 mars 2004 (État le 1<sup>er</sup> juillet 2024)
+du 18 mars 2004 (État le 1<sup>er</sup> novembre 2026)
 
 La Banque nationale suisse,
 
@@ -26,7 +26,7 @@ vu les art. 15, al. 3, 17, al. 2, 18, al. 5, 20, al. 3[^ingress-1], et 23, al. 1
 arrête:
 
 [^ingress-1]: Depuis le 1<sup>er</sup> janv. 2016 art. 20, al. 5.
-[^ingress-2]: [RS 951.11](https://fedlex.data.admin.ch/eli/cc/2004/221)
+[^ingress-2]: [RS 951.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11504)
 
 ## Chapitre 1 Dispositions générales
 
@@ -74,17 +74,17 @@ Au sens de la présente ordonnance, on entend par:
 
 <sup>3</sup> Pour le reste, les définitions utilisées par l’Autorité fédérale de surveillance des marchés financiers (FINMA) dans ses dispositions relatives à l’établissement des comptes des banques[^2-24] sont déterminantes.[^2-25]
 
-[^2-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^2-1]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^2-2]: Nouvelle teneur selon le ch. I de l’O de la BNS du 31 oct. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3909](https://fedlex.data.admin.ch/eli/oc/2019/706)).
-[^2-3]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^2-3]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 [^2-4]: Nouvelle teneur selon le ch. I de l’O de la BNS du 31 oct. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3909](https://fedlex.data.admin.ch/eli/oc/2019/706)).
 [^2-5]: Nouvelle teneur selon le ch. I de l’O de la BNS du 31 oct. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3909](https://fedlex.data.admin.ch/eli/oc/2019/706)).
-[^2-6]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^2-6]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 [^2-7]: Nouvelle teneur selon le ch. I de l’O de la BNS du 10 juin 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1987](https://fedlex.data.admin.ch/eli/oc/2013/420)).
-[^2-8]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^2-9]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^2-8]: [RS 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
+[^2-9]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 [^2-10]: Nouvelle teneur selon le ch. I de l’O de la BNS du 26 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
-[^2-11]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^2-11]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 [^2-12]: Nouvelle teneur selon le ch. I de l’O de la BNS du 26 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
 [^2-13]: Abrogée par le ch. I de l’O de la BNS du 26 nov. 2015, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
 [^2-14]: Introduite par le ch. I de l’O de la BNS du 10 juin 2013 ([RO 2013 1987](https://fedlex.data.admin.ch/eli/oc/2013/420)). Nouvelle teneur selon le ch. I de l’O de la BNS du 26 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
@@ -94,10 +94,10 @@ Au sens de la présente ordonnance, on entend par:
 [^2-18]: Introduite par le ch. I de l’O de la BNS du 10 juin 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1987](https://fedlex.data.admin.ch/eli/oc/2013/420)).
 [^2-19]: Introduite par le ch. I de l’O de la BNS du 10 juin 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1987](https://fedlex.data.admin.ch/eli/oc/2013/420)).
 [^2-20]: Introduite par le ch. I de l’O de la BNS du 10 juin 2013 ([RO 2013 1987](https://fedlex.data.admin.ch/eli/oc/2013/420)). Nouvelle teneur selon le ch. I de l’O de la BNS du 26 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
-[^2-21]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^2-21]: [RS 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 [^2-22]: Introduite par le ch. I de l’O de la BNS du 10 juin 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1987](https://fedlex.data.admin.ch/eli/oc/2013/420)).
 [^2-23]: Introduite par le ch. I de l’O de la BNS du 10 juin 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1987](https://fedlex.data.admin.ch/eli/oc/2013/420)).
-[^2-24]: O de la FINMA du 31 octobre 2019 sur les comptes ([RS 952.024.1](https://fedlex.data.admin.ch/eli/cc/2019/760)) et circulaire-FINMA 2020/1 du 31 octobre 2019 «Comptabilité ‒ banques».
+[^2-24]: O de la FINMA du 31 octobre 2019 sur les comptes ([RS 952.024.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11565)) et circulaire-FINMA 2020/1 du 31 octobre 2019 «Comptabilité ‒ banques».
 [^2-25]: Nouvelle teneur selon le ch. I de l’O de la BNS du 2 juil. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4627](https://fedlex.data.admin.ch/eli/oc/2020/827)).
 
 ## Chapitre 2 Collecte de données statistiques
@@ -205,7 +205,7 @@ Si la Banque nationale confie l’exécution d’enquêtes à des tiers, ces tie
 
 <sup>3</sup> Les tiers doivent démontrer qu’ils ont pris toutes les mesures techniques et organisationnelles nécessaires pour traiter ces données conformément à l’ordonnance du 31 août 2022 sur la protection des données[^9-1].
 
-[^9-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568). Le renvoi a été adapté au 1<sup>er</sup> sept. 2023 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^9-1]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994). Le renvoi a été adapté au 1<sup>er</sup> sept. 2023 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
 
 #### Art. 10
 
@@ -223,7 +223,7 @@ Si la Banque nationale confie l’exécution d’enquêtes à des tiers, ces tie
 
 <sup>2</sup> Les communications fournies par les personnes soumises à l’obligation de renseigner sont conservées, après leur exploitation, conformément à la loi fédérale du 26 juin 1998 sur l’archivage[^11-1].
 
-[^11-1]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^11-1]: [RS 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 ## Chapitre 3 Réserves minimales
 
@@ -274,7 +274,7 @@ Pour le calcul des réserves minimales, les banques doivent tenir compte des eng
 [^14-2]: Nouvelle teneur selon le ch. I de l’O de la BNS du 11 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 232](https://fedlex.data.admin.ch/eli/oc/2024/232)).
 [^14-3]: Abrogée par le ch. I de l’O de la BNS du 31 oct. 2019, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2019 3909](https://fedlex.data.admin.ch/eli/oc/2019/706)).
 [^14-4]: Abrogé par le ch. I de l’O de la BNS du 31 oct. 2019, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2019 3909](https://fedlex.data.admin.ch/eli/oc/2019/706)).
-[^14-5]: O de la FINMA du 31 octobre 2019 sur les comptes ([RS 952.024.1](https://fedlex.data.admin.ch/eli/cc/2019/760)) et circulaire-FINMA 2020/1 du 31 octobre 2019 «Comptabilité ‒ banques».
+[^14-5]: O de la FINMA du 31 octobre 2019 sur les comptes ([RS 952.024.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11565)) et circulaire-FINMA 2020/1 du 31 octobre 2019 «Comptabilité ‒ banques».
 [^14-6]: Introduit par le ch. I de l’O de la BNS du 2 juil. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4627](https://fedlex.data.admin.ch/eli/oc/2020/827)).
 [^14-7]: Introduit par le ch. I de l’O de la BNS du 2 juil. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4627](https://fedlex.data.admin.ch/eli/oc/2020/827)).
 
@@ -342,7 +342,7 @@ L’obligation d’informer au sens de l’art. 20, al. 1, LBN s’applique:
 
 <sup>3</sup> Avant de déterminer qu’une infrastructure des marchés financiers est d’importance systémique et quels sont ses processus opérationnels d’importance systémique, elle donne à l’exploitant la possibilité de prendre position. S’il s’agit d’une infrastructure des marchés financiers soumise à autorisation au sens de l’art. 4 LIMF, elle consulte la FINMA.
 
-[^19-1]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^19-1]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 
 #### Art. 20
 
@@ -359,7 +359,7 @@ Pour déterminer si un système de paiement, un dépositaire central ou une cont
 - g. de la possibilité, pour les participants, de recourir à court terme à une autre infrastructure des marchés financiers ou à d’autres processus de compensation et de règlement pour leurs opérations, et des risques qui en découlent;
 - h. des risques de crédit et de liquidité liés à l’exploitation de l’infrastructure.
 
-[^20-1]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^20-1]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 
 #### Art. 20a et 21
 
@@ -381,7 +381,7 @@ Abrogés
 <sup>2</sup> Les infrastructures des marchés financiers d’importance systémique soumises à l’autorisation et à la surveillance de la FINMA au sens de l’art. 4 LIMF sont assujetties uniquement aux exigences prévues aux art. 23, 24, al. 4 à 6, 24*a*, 25*c*, 27, al. 1 et 2, 28, 28*a* à 28*d*, 29, 30, al. 1 et 3, 32 à 32*c* et 34, ainsi qu’aux obligations prévues à la section 3 à l’exception de l’art. 36, al. 1, let. h.
 
 [^21a-1]: Introduit par le ch. I de l’O de la BNS du 26 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
-[^21a-2]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^21a-2]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 
 #### Art. 22
 
@@ -397,7 +397,7 @@ L’exploitant établit des règles et des procédures appropriées en matière 
 
 <sup>2</sup> Il se dote d’instruments permettant de déterminer les besoins des participants en matière de prestations de l’infrastructure des marchés financiers.
 
-<sup>3</sup> et <sup>4</sup> ...[^22-1]
+<sup>3 et <sup>4</sup></sup> ...[^22-1]
 
 [^22-1]: Abrogés par le ch. I de l’O de la BNS du 26 nov. 2015, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
 
@@ -423,7 +423,7 @@ L’exploitant établit des règles et des procédures appropriées en matière 
 
 <sup>1</sup> L’exploitant enregistre les principales prestations fournies et les principales activités exercées, et conserve la totalité des enregistrements pour une durée de dix ans.
 
-<sup>2</sup> et <sup>3</sup> ...[^22b-1]
+<sup>2 et <sup>3</sup></sup> ...[^22b-1]
 
 [^22b-1]: Abrogés par le ch. I de l’O de la BNS du 26 nov. 2015, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
 
@@ -493,7 +493,7 @@ L’exploitant publie régulièrement les grandes lignes de toutes les informati
 
 Les règles et procédures prescrivent notamment:
 
-- a. dans quel ordre l'exploitant recourt aux garanties et autres ressources financières pour couvrir les pertes (modèle en cascade);
+- a. dans quel ordre l’exploitant recourt aux garanties et autres ressources financières pour couvrir les pertes (modèle en cascade);
 - b. les critères de répartition des pertes qui ne sont pas couvertes par des garanties ou d’autres ressources financières;
 - c. les critères de gestion des problèmes de liquidités;
 - d. les modalités de reconstitution des garanties et autres ressources financières utilisés pour couvrir des pertes ou surmonter des problèmes de liquidités après la défaillance d’un participant.
@@ -679,7 +679,7 @@ L’exploitant:
 - a. contrôle quotidiennement, par des simulations de crise, si l’exigence au sens de l’al. 2 est remplie;
 - b. examine au moins chaque trimestre la solvabilité et la capacité du fournisseur de liquidités d’honorer ses engagements.
 
-[^29-1]: [RS 958.11](https://fedlex.data.admin.ch/eli/cc/2015/854)
+[^29-1]: [RS 958.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11627)
 [^29-2]: Nouvelle teneur selon le ch. I de l’O de la BNS du 26 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
 [^29-3]: Nouvelle teneur selon le ch. I de l’O de la BNS du 26 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
 
@@ -899,7 +899,7 @@ L’exploitant informe immédiatement la Banque nationale:
 <sup>3</sup> Avant d’adresser une recommandation à l’exploitant au sens de l’al. 1 ou de rendre une décision au sens de l’al. 2, la Banque nationale donne à l’exploitant la possibilité de prendre position. Si l’infrastructure des marchés financiers concernée est soumise à l’autorisation et à la surveillance de la FINMA au sens de l’art. 4 LIMF[^38-2], la Banque nationale consulte au préalable la FINMA.
 
 [^38-1]: Nouvelle teneur selon le ch. I de l’O de la BNS du 26 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
-[^38-2]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^38-2]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 
 #### Art. 39
 
@@ -918,7 +918,7 @@ L’exploitant informe immédiatement la Banque nationale:
 <sup>2</sup> La vérification a lieu en règle générale lors de l’audit prévu par l’art. 24 de la loi du 22 juin 2007 sur la surveillance des marchés financiers[^40-2]. Il convient d’éviter autant que possible les vérifications redondantes. Le rapport de vérification doit être communiqué à la Banque nationale dans les six mois qui suivent la clôture des comptes annuels.
 
 [^40-1]: Nouvelle teneur selon le ch. I de l’O de la BNS du 26 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
-[^40-2]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^40-2]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 ## Chapitre 6 Dispositions finales
 
@@ -931,7 +931,7 @@ L’exploitant informe immédiatement la Banque nationale:
 <sup>2</sup> Pour les infrastructures des marchés financiers d’importance systémique non soumises à l’autorisation et à la surveillance de la FINMA, les exigences spéciales définies aux art. 22 à 34 et les obligations énoncées à l’art. 36 s’appliquent à compter de l’entrée en vigueur de la modification du 26 novembre 2015 de la présente ordonnance.
 
 [^41-1]: Nouvelle teneur selon le ch. I de l’O de la BNS du 26 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
-[^41-2]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^41-2]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 
 #### Art. 42
 
@@ -945,13 +945,13 @@ Annexe[^t-1]
 
 ## Enquêtes
 
-[^t-1]: Nouvelle teneur selon le ch. II de l’O de la BNS du 3 sept. 2009 ([RO 2009 6373](https://fedlex.data.admin.ch/eli/oc/2009/780)). Mise à jour selon le ch. I de l’O de la BNS du 23 juin 2011 ([RO 2011 5043](https://fedlex.data.admin.ch/eli/oc/2011/741)), le ch. II des O de la BNS du 10 juin 2013 ([RO 2013 1987](https://fedlex.data.admin.ch/eli/oc/2013/420)), du 7 mai 2014 ([RO 2014 3023](https://fedlex.data.admin.ch/eli/oc/2014/511)), les errata du 24 fév. 2015 ([RO 2015 643](https://fedlex.data.admin.ch/eli/oc/2015/103)), du 10 mars 2015 ([RO 2015 767](https://fedlex.data.admin.ch/eli/oc/2015/138)), le ch. II de l’O de la BNS du 26 nov. 2015 ([RO 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)), le ch. I de l’O de la BNS du 8 juin 2017 ([RO 2017 6495](https://fedlex.data.admin.ch/eli/oc/2017/711)), l’erratum du 30 janv. 2018 ([RO 2018 527](https://fedlex.data.admin.ch/eli/oc/2018/59)) et le ch. II des O de la BNS du 31 oct. 2019 ([RO 2019 3909](https://fedlex.data.admin.ch/eli/oc/2019/706)) et du 2 juil. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4627](https://fedlex.data.admin.ch/eli/oc/2020/827)).
+[^t-1]: Nouvelle teneur selon le ch. II de l’O de la BNS du 3 sept. 2009 ([RO 2009 6373](https://fedlex.data.admin.ch/eli/oc/2009/780)). Mise à jour par le ch. I de l’O de la BNS du 23 juin 2011 ([RO 2011 5043](https://fedlex.data.admin.ch/eli/oc/2011/741)), le ch. II des O de la BNS du 10 juin 2013 ([RO 2013 1987](https://fedlex.data.admin.ch/eli/oc/2013/420)), du 7 mai 2014 ([RO 2014 3023](https://fedlex.data.admin.ch/eli/oc/2014/511)), les errata du 24 fév. 2015 ([RO 2015 643](https://fedlex.data.admin.ch/eli/oc/2015/103)), du 10 mars 2015 ([RO 2015 767](https://fedlex.data.admin.ch/eli/oc/2015/138)), le ch. II de l’O de la BNS du 26 nov. 2015 ([RO 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)), le ch. I de l’O de la BNS du 8 juin 2017 ([RO 2017 6495](https://fedlex.data.admin.ch/eli/oc/2017/711)), l’erratum du 30 janv. 2018 ([RO 2018 527](https://fedlex.data.admin.ch/eli/oc/2018/59)), le ch. II des O de la BNS du 31 oct. 2019 ([RO 2019 3909](https://fedlex.data.admin.ch/eli/oc/2019/706)), du 2 juil. 2020 ([RO 2020 4627](https://fedlex.data.admin.ch/eli/oc/2020/827)) et le ch. I de l’O de la BNS du 13 août 2026, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2026 535](https://fedlex.data.admin.ch/eli/oc/2026/535)).
 
 <table>
 <tr><td>Désignation de l’enquête:</td><td>Bilan mensuel détaillé</td></tr>
 <tr><td>Objet de l’enquête:</td><td>postes du bilan et opérations fiduciaires sur la base des dispositions du Conseil fédéral[^annexu1-lvlu1-1] et de la FINMA[^annexu1-lvlu1-2] régissant l’établissement des comptes des banques; ventilation selon la durée résiduelle, selon la monnaie (franc, dollar des États-Unis, euro, yen), selon le siège ou le domicile des clients (Suisse ou étranger) et selon le secteur économique; créances et engagements monétaires inscrits au bilan résultant de pensions de titres et de garanties en espèces destinées à couvrir des prêts et d’autres opérations; crédits accordés en collaboration avec des banques non résidentes et portés au bilan de ces dernières</td></tr>
 <tr><td>Type d’enquête:</td><td>enquête partielle</td></tr>
-<tr><td>Établissements tenus de renseigner:</td><td>banques dont le total du bilan et les opérations fiduciaires portent ensemble sur un montant supérieur à 500 millions de francs ventilation selon le secteur économique: banques dont les actifs en Suisse dépassent 1,5 milliard de francs</td></tr>
+<tr><td>Établissements tenus de renseigner:</td><td>banques dont le total du bilan et les opérations fiduciaires portent ensemble sur un montant supérieur à 1 milliard de francs ventilation selon le secteur économique: banques dont les actifs vis-à-vis de résidents dépassent 3 milliards de francs</td></tr>
 <tr><td>Niveau de consolidation:</td><td>comptoir; entreprise</td></tr>
 <tr><td>Fréquence:</td><td>mensuelle</td></tr>
 <tr><td>Délai de remise des données à compter de la date de référence de l’enquête:</td><td>17 jours</td></tr>
@@ -962,7 +962,7 @@ Annexe[^t-1]
 <tr><td>Désignation de l’enquête:</td><td>Postes du bilan entrant dans la statistique monétaire</td></tr>
 <tr><td>Objet de l’enquête:</td><td>données sur les postes du bilan permettant une première estimation des agrégats monétaires</td></tr>
 <tr><td>Type d’enquête:</td><td>enquête partielle</td></tr>
-<tr><td>Établissements tenus de renseigner:</td><td>banques dont les postes du bilan entrant dans M3 dépassent 3 milliards de francs</td></tr>
+<tr><td>Établissements tenus de renseigner:</td><td>banques dont les postes du bilan entrant dans M3 dépassent 4,4 milliards de francs</td></tr>
 <tr><td>Niveau de consolidation:</td><td>comptoir</td></tr>
 <tr><td>Fréquence:</td><td>mensuelle</td></tr>
 <tr><td>Délai de remise des données à compter de la date de référence de l’enquête:</td><td>10 jours</td></tr>
@@ -978,6 +978,17 @@ Annexe[^t-1]
 <tr><td>Fréquence:</td><td>annuelle</td></tr>
 <tr><td>Délai de remise des données à compter de la date de référence de l’enquête:</td><td>3 mois</td></tr>
 <tr><td>Dispositions particulières:</td><td>–</td></tr>
+</table>
+
+<table>
+<tr><td>Désignation de l’enquête:</td><td>Enquête granulaire sur les prêts</td></tr>
+<tr><td>Objet de l’enquête:</td><td>recensement sur une base individuelle des prêts accordés par des entités domiciliées en Suisse, soit figurant au bilan sous «Créances sur la clientèle» et «Créances hypotécaires» ou devant y figurer ultérieurement, soit figurant dans les opérations hors bilan l’enquête collecte des informations sur les prêts, y compris les contreparties, les sûretés, la couverture en fonds propres et les amortissements</td></tr>
+<tr><td>Type d’enquête:</td><td>enquête partielle</td></tr>
+<tr><td>Établissements tenus de renseigner:</td><td>banques et groupes financiers domiciliés en Suisse dont les comptoirs résidents affichent un total supérieur à 4 milliards de francs aux postes du bilan «Créances sur la clientèle» et «Créances hypotécaires» sont dispensées de l’obligation de renseigner les banques autorisées à appliquer le régime des petites banques prévu à l’art. 47*a* de l’ordonnance du 1<sup>er</sup> juin 2012 sur les fonds propres[^annexu1-lvlu1-5] et les banques de la catégorie 5 au sens de l’annexe 3 de l’ordonnance 30 avril 2014 sur les banques[^annexu1-lvlu1-6] pour les groupes financiers, c’est l’entité la plus élevée soumise à la surveillance prudentielle en Suisse qui est tenue de fournir des données; elle transmet les données pour toutes les banques du groupe financier domiciliées en Suisse, y compris pour celles qui relèvent du régime des petites banques ou qui entrent dans la catégorie 5 sont dispensés de l’obligation de renseigner les groupes financiers constitués exclusivement de banques relevant du régime des petites banques ou exclusivement de banques de la catégorie 5</td></tr>
+<tr><td>Niveau de consolidation:</td><td>comptoir</td></tr>
+<tr><td>Fréquence:</td><td>trimestrielle</td></tr>
+<tr><td>Délai de remise des données à compter de la date de référence de l’enquête:</td><td>40 jours</td></tr>
+<tr><td>Dispositions particulières:</td><td>la Banque nationale mène l’enquête en collaboration avec la FINMA</td></tr>
 </table>
 
 <table>
@@ -1047,7 +1058,7 @@ Annexe[^t-1]
 <tr><td>Désignation de l’enquête:</td><td>Répartition de postes du bilan selon le taux d’intérêt</td></tr>
 <tr><td>Objet de l’enquête:</td><td>sélection de postes du bilan répartis selon le taux d’intérêt ainsi que selon le siège ou le domicile de la contrepartie (Suisse ou étranger)</td></tr>
 <tr><td>Type d’enquête:</td><td>enquête partielle</td></tr>
-<tr><td>Établissements tenus de renseigner:</td><td>banques dont les engagements en francs résultant des dépôts de la clientèle dépassent 4 milliards de francs ou dont les engagements en francs envers les banques dépassent 1,3 milliard de francs</td></tr>
+<tr><td>Établissements tenus de renseigner:</td><td>banques dont les engagements en francs résultant des dépôts de la clientèle dépassent 5,7 milliards de francs ou dont les engagements en francs envers les banques dépassent 1,3 milliard de francs</td></tr>
 <tr><td>Niveau de consolidation:</td><td>entreprise</td></tr>
 <tr><td>Fréquence:</td><td>trimestrielle</td></tr>
 <tr><td>Délai de remise des données à compter de la date de référence de l’enquête:</td><td>1 mois</td></tr>
@@ -1077,7 +1088,7 @@ Annexe[^t-1]
 <tr><td>Désignation de l’enquête:</td><td>Statistique des placements collectifs</td></tr>
 <tr><td>Objet de l’enquête:</td><td>fortune et variation de la fortune des placements collectifs de capitaux; valeur des parts émises et rachetées par les placements collectifs de capitaux; ventilation de la fortune entre placements en Suisse et placements à lʼétranger, selon la monnaie et selon le genre de placement (instruments du marché monétaire, créances résultant de pensions de titres, obligations, actions et autres titres de participation, parts dʼautres placements collectifs de capitaux, produits structurés, immeubles [terrains et constructions], autres papiers-valeurs); ventilation entre engagements en Suisse et engagements envers lʼétranger; ventilation des placements collectifs de capitaux selon leur forme juridique et selon les types légaux de placements collectifs ouverts prévus par la loi; compte de résultat</td></tr>
 <tr><td>Type d’enquête:</td><td>enquête exhaustive</td></tr>
-<tr><td>Établissements tenus de renseigner:</td><td>directions des fonds suisses et sociétés suisses pour placements collectifs de capitaux selon l’art. 13, al. 2, de la loi du 23 juin 2006 sur les placements collectifs[^annexu1-lvlu1-5]</td></tr>
+<tr><td>Établissements tenus de renseigner:</td><td>directions des fonds suisses et sociétés suisses pour placements collectifs de capitaux selon l’art. 13, al. 2, de la loi du 23 juin 2006 sur les placements collectifs[^annexu1-lvlu1-7]</td></tr>
 <tr><td>Niveau de consolidation:</td><td>–</td></tr>
 <tr><td>Fréquence:</td><td>trimestrielle</td></tr>
 <tr><td>Délai de remise des données à compter de la date de référence de l’enquête:</td><td>20 jours</td></tr>
@@ -1110,7 +1121,7 @@ Annexe[^t-1]
 <tr><td>Désignation de l’enquête:</td><td>Position extérieure des banques (BIS Consolidated Banking Statistics)</td></tr>
 <tr><td>Objet de l’enquête:</td><td>répartition par pays des postes de l’actif et du passif et des opérations hors bilan; créances et engagements résultant des opérations locales des filiales et succursales; ventilation selon le secteur, la durée résiduelle et le type de garantie L’enquête repose sur les directives de la Banque des Règlements Internationaux</td></tr>
 <tr><td>Type d’enquête:</td><td>enquête partielle</td></tr>
-<tr><td>Établissements tenus de renseigner:</td><td>banques devant participer à l’enquête sur la statistique des euro-monnaies et qui sont en mains suisses ou dont la société mère à l’étranger ne dispose pas d’une autorisation bancaire</td></tr>
+<tr><td>Établissements tenus de renseigner:</td><td>banques devant participer à l’enquête sur la statistique des euro-monnaies pour les établissements faisant partie d’un groupe financier, c’est l’entité résidente la plus élevée soumise à la surveillance prudentielle qui est tenue de fournir des données lorsqu’une entité non résidente plus élevée est soumise à une surveillance prudentielle, la Banque nationale peut, en accord avec la Banque des Règlements Internationaux, exempter l’entité résidente de l’obligation de renseigner</td></tr>
 <tr><td>Niveau de consolidation:</td><td>groupe</td></tr>
 <tr><td>Fréquence:</td><td>trimestrielle</td></tr>
 <tr><td>Délai de remise des données à compter de la date de référence de l’enquête:</td><td>2 mois</td></tr>
@@ -1132,7 +1143,7 @@ Annexe[^t-1]
 <tr><td>Désignation de l’enquête:</td><td>Statistique des euro-monnaies (BIS Locational Banking Statistics)</td></tr>
 <tr><td>Objet de l’enquête:</td><td>répartition par pays des postes de l’actif et du passif ainsi que des opérations à titre fiduciaire; ventilation par secteur, par monnaie et par durée résiduelle. L’enquête repose sur les directives de la Banque des Règlements Internationaux</td></tr>
 <tr><td>Type d’enquête:</td><td>enquête partielle</td></tr>
-<tr><td>Établissements tenus de renseigner:</td><td>banques dont la somme des actifs et des actifs à titre fiduciaire à l’étranger ou la somme des passifs et des passifs à titre fiduciaire envers l’étranger dépasse 1 milliard de francs</td></tr>
+<tr><td>Établissements tenus de renseigner:</td><td>banques dont la somme des actifs et des actifs à titre fiduciaire vis-à-vis de non-résidents ou la somme des passifs et des passifs à titre fiduciaire vis-à-vis de non-résidents dépasse 1,7 milliard de francs</td></tr>
 <tr><td>Niveau de consolidation:</td><td>comptoir</td></tr>
 <tr><td>Fréquence:</td><td>trimestrielle</td></tr>
 <tr><td>Délai de remise des données à compter de la date de référence de l’enquête:</td><td>25 jours</td></tr>
@@ -1143,7 +1154,7 @@ Annexe[^t-1]
 <tr><td>Désignation de l’enquête:</td><td>Enquête sur les opérations sur devises et produits dérivés (BIS OTC Derivatives Statistics)</td></tr>
 <tr><td>Objet de l’enquête:</td><td>opérations sur devises et produits dérivés, selon les règles fixées par la Banque des Règlements Internationaux; état à une date donnée; volume des opérations</td></tr>
 <tr><td>Type d’enquête:</td><td>enquête partielle</td></tr>
-<tr><td>Établissements tenus de renseigner:</td><td>statistique semestrielle: 2 principaux groupes bancaires tous les 3 ans: banques dont le volume du sous-jacent pour instruments financiers dérivés ouverts dépasse 8 milliards de francs (enquête sur volume des opérations) ou 30 milliards de francs (enquête sur lʼétat)</td></tr>
+<tr><td>Établissements tenus de renseigner:</td><td>statistique semestrielle: banques dont le volume du sous-jacent pour instruments financiers dérivés ouverts dépasse 2 500 milliards de francs statistique triennale: banques dont le volume du sous-jacent pour instruments financiers dérivés ouverts dépasse 8 milliards de francs (statistique sur le volume des opérations) ou 30 milliards de francs (statistique sur l’encours)</td></tr>
 <tr><td>Niveau de consolidation:</td><td>comptoir (volume des opérations); groupe (état)</td></tr>
 <tr><td>Fréquence:</td><td>volume des opérations: tous les trois ans état: semestriellement et tous les trois ans</td></tr>
 <tr><td>Délai de remise des donnée à compter de la date de référence de l’enquête:</td><td>1 mois (volume des opérations); 2 mois (état)</td></tr>
@@ -1151,25 +1162,25 @@ Annexe[^t-1]
 </table>
 
 <table>
-<tr><td>Désignation de l’enquête:</td><td>Enquêtes en vue de dresser la balance des transactions courantes</td></tr>
-<tr><td>Objet de l’enquête:</td><td>négoce transfrontière de marchandises (hors commerce extérieur, déjà recensé par l’Office fédéral de la douane et de la sécurité des frontières[^annexu1-lvlu1-6]) et de services, commerce de transit, négoce en rapport avec les services de production manufacturière et la production à l’étranger, revenus transfrontières de facteurs (travail et capitaux) et transferts selon les règles du Fonds monétaire international (FMI) et les exigences de l’Union européenne (UE) telles qu’elles ressortent de l’accord du 26 octobre 2004 entre la Confédération suisse et la Communauté européenne relatif à la coopération dans le domaine statistique[^annexu1-lvlu1-7]; ventilation par pays, selon le genre de transaction et selon le secteur économique</td></tr>
+<tr><td>Désignation de l’enquête:</td><td>Enquête sur la balance des transactions courantes</td></tr>
+<tr><td>Objet de l’enquête:</td><td>transactions entre entités domiciliées en Suisse ou au Liechtenstein et entités domiciliées dans le reste du monde: a. liées à des échanges de marchandises, de services et d’actifs incorporels b. dans les domaines bancaire, assurantiel et du crédit-bail c. sous forme de transferts informations nécessaires au contrôle de la plausibilité des données collectées, telles que les postes du bilan concernant des contreparties domiciliées en Suisse ou au Liechtenstein l’enquête est conduite conformément aux principes applicables édictés par le Fonds monétaire international, notamment dans le Manuel de la balance des paiements et de la position extérieure globale, et conformément aux dispositions de l’Accord du 26 octobre 2004 entre la Confédération suisse et la Communauté européenne relatif à la coopération dans le domaine statistique[^annexu1-lvlu1-8]</td></tr>
 <tr><td>Type d’enquête:</td><td>enquêtes partielles</td></tr>
-<tr><td>Établissements tenus de renseigner:</td><td>personnes morales et sociétés dont le montant des transactions dépasse 100 000 francs par objet</td></tr>
+<tr><td>Entités tenues de renseigner:</td><td>personnes morales et sociétés dont les transactions précitées avec des contreparties domiciliées dans le reste du monde dépassent 100 000 francs</td></tr>
 <tr><td>Niveau de consolidation:</td><td>–</td></tr>
 <tr><td>Fréquence:</td><td>trimestrielle ou annuelle</td></tr>
 <tr><td>Délai de remise des données à compter de la date de référence de l’enquête:</td><td>enquête trimestrielle: 1 mois enquête annuelle: 3 mois</td></tr>
-<tr><td>Dispositions particulières:</td><td>l’obligation de fournir des données est remplie également lorsque la banque participant au mouvement de fonds annonce la transaction</td></tr>
+<tr><td>Dispositions particulières:</td><td>–</td></tr>
 </table>
 
 <table>
 <tr><td>Désignation de l’enquête:</td><td>Enquêtes sur les relations financières avec l’étranger</td></tr>
-<tr><td>Objet de l’enquête:</td><td>mouvements transfrontières de capitaux (transactions), encours (actifs à l’étranger et passifs envers l’étranger) et revenus de capitaux selon les règles du Fonds monétaire international (FMI) et les exigences de l’Union européenne (UE) telles qu’elles ressortent de l’accord du 26 octobre 2004 entre la Confédération suisse et la Communauté européenne relatif à la coopération dans le domaine statistique[^annexu1-lvlu1-8]. L’enquête porte sur les relations aussi bien au sein d’un groupe (investissements directs) qu’avec des tiers; les investisseurs directs fournissent également des données opérationnelles sur les participations majoritaires à l’étranger (effectifs, chiffre d’affaires, nombre d’entreprises); les entreprises d’investissements directs déclarent en outre leurs effectifs en Suisse. Ventilation par pays, selon le type de capitaux, la monnaie et la branche économique</td></tr>
+<tr><td>Objet de l’enquête:</td><td>relations financières entre entités domiciliées en Suisse ou au Liechtenstein et entités domiciliées dans le reste du monde sous forme de: a. transactions financières b. variation des stocks ne relevant pas de transactions c. stocks d’actifs financiers d. revenus d’actifs financiers données opérationnelles sur les entreprises multinationales domiciliées en Suisse ou au Liechtenstein et sur les entités domiciliées dans le reste du monde dans lesquelles celles-ci détiennent des participations, notamment effectifs, chiffre d’affaires et nombre informations nécessaires au contrôle de la plausibilité des données collectées, telles que les postes du bilan concernant des contreparties domiciliées en Suisse ou au Liechtenstein l’enquête est conduite conformément aux principes applicables édictés par le Fonds monétaire international, notamment dans le Manuel de la balance des paiements et de la position extérieure globale, et conformément aux dispositions de l’Accord entre la Confédération suisse et la Communauté européenne relatif à la coopération dans le domaine statistique</td></tr>
 <tr><td>Type d’enquête:</td><td>enquêtes partielles</td></tr>
-<tr><td>Établissements tenus de renseigner:</td><td>personnes morales et sociétés dont le montant des transactions dépasse 1 million de francs par objet ou dont les actifs à l’étranger ou les passifs envers l’étranger dépassent 10 millions de francs par objet au moment de l’enquête</td></tr>
+<tr><td>Entités tenues de renseigner:</td><td>personnes morales et sociétés remplissant au moins l’un des critères suivants: a. la valeur des stocks d’actifs financiers envers des contreparties domiciliées dans le reste du monde dépasse 10 millions de francs b. la valeur de leurs transactions financières avec des contreparties domiciliées dans le reste du monde dépasse 1 million de francs c. le chiffre d’affaires réalisé par leurs filiales domiciliées dans le reste du monde par la vente de marchandises et de services dépasse 1 million de francs</td></tr>
 <tr><td>Niveau de consolidation:</td><td>–</td></tr>
 <tr><td>Fréquence:</td><td>trimestrielle ou annuelle</td></tr>
 <tr><td>Délai de remise des données à compter de la date de référence de l’enquête:</td><td>enquête trimestrielle: 1 mois enquête annuelle: 3 mois</td></tr>
-<tr><td>Dispositions particulières:</td><td>L’obligation de fournir des données est également remplie lorsque la banque participant au trafic des paiements ou chargée de conserver des actifs à l’étranger transmet elle-même les informations requises.</td></tr>
+<tr><td>Dispositions particulières:</td><td>–</td></tr>
 </table>
 
 <table>
@@ -1203,6 +1214,14 @@ Annexe[^t-1]
 <tr><td>Fréquence:</td><td>mensuelle</td></tr>
 <tr><td>Délai de remise des données à compter de la date de référence de l’enquête:</td><td>1 mois</td></tr>
 <tr><td>Dispositions particulières:</td><td>–</td></tr>
+<tr><td>Désignation de l’enquête:</td><td>Transactions en espèces effectuées aux points d’accès</td></tr>
+<tr><td>Objet de l’enquête:</td><td>versement et retrait d’espèces aux distributeurs automatiques de billets situés dans la zone monétaire du franc: informations sur les transactions, le distributeur automatique, l’exploitant du distributeur ou du réseau auquel il appartient et la carte utilisée</td></tr>
+<tr><td>Type d’enquête:</td><td>enquête partielle</td></tr>
+<tr><td>Établissements tenus de renseigner:</td><td>exploitants de distributeurs automatiques de billets actifs dans la zone monétaire du franc; exploitants de réseaux de distributeurs réalisant des transactions supérieures à 2 milliards de francs par exercice comptable</td></tr>
+<tr><td>Niveau de consolidation:</td><td>–</td></tr>
+<tr><td>Fréquence:</td><td>quotidienne</td></tr>
+<tr><td>Délai de remise des données à compter de la date de référence de l’enquête:</td><td>1 jour</td></tr>
+<tr><td>Dispositions particulières:</td><td>lorsqu’un distributeur automatique de billets fait partie d’un réseau, c’est d’abord l’exploitant de ce dernier qui est tenu de fournir les données</td></tr>
 </table>
 
 <table>
@@ -1216,11 +1235,11 @@ Annexe[^t-1]
 <tr><td>Dispositions particulières:</td><td>–</td></tr>
 </table>
 
-[^annexu1-lvlu1-1]: Chap. 4, art. 25 à 42 de l’O du 30 avr. 2014 sur les banques et les caisses d’épargne ([RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)).
-[^annexu1-lvlu1-2]: O de la FINMA du 31 octobre 2019 sur les comptes ([RS 952.024.1](https://fedlex.data.admin.ch/eli/cc/2019/760)) et circulaire-FINMA 2020/1 du 31 octobre 2019 «Comptabilité ‒ banques».
-[^annexu1-lvlu1-3]: Chap. 4, art. 25 à 42 de l’O du 30 avr. 2014 sur les banques et les caisses d’épargne ([RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)).
-[^annexu1-lvlu1-4]: O de la FINMA du 31 octobre 2019 sur les comptes ([RS 952.024.1](https://fedlex.data.admin.ch/eli/cc/2019/760)) et circulaire-FINMA 2020/1 du 31 octobre 2019 «Comptabilité ‒ banques».
-[^annexu1-lvlu1-5]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^annexu1-lvlu1-6]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
-[^annexu1-lvlu1-7]: [RS 0.431.026.81](https://fedlex.data.admin.ch/eli/cc/2006/866)
-[^annexu1-lvlu1-8]: [RS 0.431.026.81](https://fedlex.data.admin.ch/eli/cc/2006/866)
+[^annexu1-lvlu1-1]: Chap. 4, art. 25 à 42 de l’O du 30 avr. 2014 sur les banques et les caisses d’épargne ([RS 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)).
+[^annexu1-lvlu1-2]: O de la FINMA du 31 octobre 2019 sur les comptes ([RS 952.024.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11565)) et circulaire-FINMA 2020/1 du 31 octobre 2019 «Comptabilité ‒ banques».
+[^annexu1-lvlu1-3]: Chap. 4, art. 25 à 42 de l’O du 30 avr. 2014 sur les banques et les caisses d’épargne ([RS 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)).
+[^annexu1-lvlu1-4]: O de la FINMA du 31 octobre 2019 sur les comptes ([RS 952.024.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11565)) et circulaire-FINMA 2020/1 du 31 octobre 2019 «Comptabilité ‒ banques».
+[^annexu1-lvlu1-5]: [RS 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
+[^annexu1-lvlu1-6]: [RS 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
+[^annexu1-lvlu1-7]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
+[^annexu1-lvlu1-8]: [[RS 0.431.026.81](https://www.fedlex.admin.ch/eli/cc/2006/866/fr)](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1789)

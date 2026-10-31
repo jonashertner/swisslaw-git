@@ -4,11 +4,11 @@ title: "Verordnung vom 18. März 2004 zum Bundesgesetz über die Schweizerische 
 short: NBV
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/233"
 language: de
-version: 2024-07-01
+version: 2026-11-01
 adopted: 2004-03-18
 in_force: 2004-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/233/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2004-233-20240701-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/233/20240701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/233/20261101/de/xml/fedlex-data-admin-ch-eli-cc-2004-233-20261101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/233/20261101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/233/20240701/de"
 
 (Nationalbankverordnung, NBV)
 
-vom 18. März 2004 (Stand am 1. Juli 2024)
+vom 18. März 2004 (Stand am 1. November 2026)
 
 Die Schweizerische Nationalbank (SNB),
 
@@ -26,7 +26,7 @@ gestützt auf die Artikel 15 Absatz 3, 17 Absatz 2, 18 Absatz 5, 20 Absatz 3[^in
 verordnet:
 
 [^ingress-1]: Seit 1. Jan. 2016: Art. 20 Abs. 5.
-[^ingress-2]: [SR 951.11](https://fedlex.data.admin.ch/eli/cc/2004/221)
+[^ingress-2]: [SR 951.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11504)
 
 ## 1. Kapitel: Gemeinsame Bestimmungen
 
@@ -74,17 +74,17 @@ In dieser Verordnung gelten als:
 
 <sup>3</sup> Ergänzend sind die in den Vorschriften der Eidgenössischen Finanzmarktaufsicht (FINMA) über die Rechnungslegung der Banken[^2-24] verwendeten Begriffe massgebend.[^2-25]
 
-[^2-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^2-1]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^2-2]: Fassung gemäss Ziff. I der V der SNB vom 31. Okt. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3909](https://fedlex.data.admin.ch/eli/oc/2019/706)).
-[^2-3]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^2-3]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 [^2-4]: Fassung gemäss Ziff. I der V der SNB vom 31. Okt. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3909](https://fedlex.data.admin.ch/eli/oc/2019/706)).
 [^2-5]: Fassung gemäss Ziff. I der V der SNB vom 31. Okt. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3909](https://fedlex.data.admin.ch/eli/oc/2019/706)).
-[^2-6]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^2-6]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 [^2-7]: Fassung gemäss Ziff. I der V der SNB vom 10. Juni 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1987](https://fedlex.data.admin.ch/eli/oc/2013/420)).
-[^2-8]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^2-9]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^2-8]: [SR 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
+[^2-9]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 [^2-10]: Fassung gemäss Ziff. I der V der SNB vom 26. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
-[^2-11]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^2-11]: [SR 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 [^2-12]: Fassung gemäss Ziff. I der V der SNB vom 26. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
 [^2-13]: Aufgehoben durch Ziff. I der V der SNB vom 26. Nov. 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
 [^2-14]: Eingefügt durch Ziff. I der V der SNB vom 10. Juni 2013 ([AS 2013 1987](https://fedlex.data.admin.ch/eli/oc/2013/420)). Fassung gemäss Ziff. I der V der SNB vom 26. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
@@ -94,10 +94,10 @@ In dieser Verordnung gelten als:
 [^2-18]: Eingefügt durch Ziff. I der V der SNB vom 10. Juni 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1987](https://fedlex.data.admin.ch/eli/oc/2013/420)).
 [^2-19]: Eingefügt durch Ziff. I der V der SNB vom 10. Juni 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1987](https://fedlex.data.admin.ch/eli/oc/2013/420)).
 [^2-20]: Eingefügt durch Ziff. I der V der SNB vom 10. Juni 2013 ([AS 2013 1987](https://fedlex.data.admin.ch/eli/oc/2013/420)). Fassung gemäss Ziff. I der V der SNB vom 26. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
-[^2-21]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^2-21]: [SR 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 [^2-22]: Eingefügt durch Ziff. I der V der SNB vom 10. Juni 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1987](https://fedlex.data.admin.ch/eli/oc/2013/420)).
 [^2-23]: Eingefügt durch Ziff. I der V der SNB vom 10. Juni 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1987](https://fedlex.data.admin.ch/eli/oc/2013/420)).
-[^2-24]: Rechnungslegungsverordnung-FINMA vom 31. Oktober 2019 ([SR 952.024.1](https://fedlex.data.admin.ch/eli/cc/2019/760)) sowie FINMA-Rundschreiben 2020/1 vom 31. Oktober 2019 betreffend Rechnungslegung ‒ Banken.
+[^2-24]: Rechnungslegungsverordnung-FINMA vom 31. Oktober 2019 ([SR 952.024.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11565)) sowie FINMA-Rundschreiben 2020/1 vom 31. Oktober 2019 betreffend Rechnungslegung ‒ Banken.
 [^2-25]: Fassung gemäss Ziff. I der V der SNB vom 2. Juli 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4627](https://fedlex.data.admin.ch/eli/oc/2020/827)).
 
 ## 2. Kapitel: Statistische Erhebungen
@@ -205,7 +205,7 @@ Zieht die Nationalbank Dritte zur Durchführung von Erhebungen bei, so werden di
 
 <sup>3</sup> Die Dritten haben nachzuweisen, dass sie die erforderlichen technischen und organisatorischen Massnahmen zur Bearbeitung dieser Daten gemäss der Datenschutzverordnung vom 31. August 2022[^9-1] getroffen haben.
 
-[^9-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568). Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Sept. 2023 angepasst.
+[^9-1]: [SR 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994). Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Sept. 2023 angepasst.
 
 #### Art. 10
 
@@ -223,7 +223,7 @@ Zieht die Nationalbank Dritte zur Durchführung von Erhebungen bei, so werden di
 
 <sup>2</sup> Die Aufbewahrung der Meldungen der auskunftspflichtigen Personen nach ihrer Auswertung bestimmt sich nach dem Bundesgesetz vom 26. Juni 1998[^11-1] über die Archivierung.
 
-[^11-1]: [SR 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^11-1]: [SR 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 ## 3. Kapitel: Mindestreserven
 
@@ -274,7 +274,7 @@ Für die Berechnung der Mindestreserven sind folgende auf Schweizerfranken laute
 [^14-2]: Fassung gemäss Ziff. I der V der SNB vom 11. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 232](https://fedlex.data.admin.ch/eli/oc/2024/232)).
 [^14-3]: Aufgehoben durch Ziff. I der V der SNB vom 31. Okt. 2019, mit Wirkung seit 1. Jan. 2020 ([AS 2019 3909](https://fedlex.data.admin.ch/eli/oc/2019/706)).
 [^14-4]: Aufgehoben durch Ziff. I der V der SNB vom 31. Okt. 2019, mit Wirkung seit 1. Jan. 2020 ([AS 2019 3909](https://fedlex.data.admin.ch/eli/oc/2019/706)).
-[^14-5]: Rechnungslegungsverordnung-FINMA vom 31. Oktober 2019 ([SR 952.024.1](https://fedlex.data.admin.ch/eli/cc/2019/760)) sowie FINMA-Rundschreiben 2020/1 vom 31. Oktober 2019 betreffend Rechnungslegung ‒ Banken.
+[^14-5]: Rechnungslegungsverordnung-FINMA vom 31. Oktober 2019 ([SR 952.024.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11565)) sowie FINMA-Rundschreiben 2020/1 vom 31. Oktober 2019 betreffend Rechnungslegung ‒ Banken.
 [^14-6]: Eingefügt durch Ziff. I der V der SNB vom 2. Juli 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4627](https://fedlex.data.admin.ch/eli/oc/2020/827)).
 [^14-7]: Eingefügt durch Ziff. I der V der SNB vom 2. Juli 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4627](https://fedlex.data.admin.ch/eli/oc/2020/827)).
 
@@ -342,7 +342,7 @@ Die Offenlegungspflicht nach Artikel 20 Absatz 1 NBG gilt für:
 
 <sup>3</sup> Bevor die Nationalbank eine Finanzmarktinfrastruktur als systemisch bedeutsam und deren systemisch bedeutsamen Geschäftsprozesse feststellt, gibt sie dem Betreiber Gelegenheit zur Stellungnahme. Sofern es sich um eine bewilligungspflichtige Finanzmarktinfrastruktur gemäss Artikel 4 FinfraG handelt, hört die Nationalbank die FINMA an.
 
-[^19-1]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^19-1]: [SR 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 
 #### Art. 20
 
@@ -359,7 +359,7 @@ Für die Feststellung, ob ein Zahlungssystem, ein Zentralverwahrer oder eine zen
 - g. die Möglichkeit der Teilnehmer der Finanzmarktinfrastruktur, für die Abrechnung und Abwicklung von Geschäften kurzfristig auf eine andere Finanzmarktinfrastruktur oder alternative Abrechnungs- und Abwicklungsverfahren auszuweichen und die damit verbundenen Risiken;
 - h. die mit dem Betrieb der Finanzmarktinfrastruktur verbundenen Kredit- und Liquiditätsrisiken.
 
-[^20-1]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^20-1]: [SR 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 
 #### Art. 20a und 21
 
@@ -381,7 +381,7 @@ Aufgehoben
 <sup>2</sup> Für systemisch bedeutsame Finanzmarktinfrastrukturen, die der Bewilligungspflicht und der Aufsicht durch die FINMA im Sinne von Artikel 4 FinfraG unterstehen, gelten die Anforderungen nach den Artikeln 23, 24 Absätze 4–6, 24*a*, 25*c*, 27 Absätze 1 und 2, 28–28*d*, 29, 30 Absätze 1 und 3, 32–32*c* und 34 sowie die Pflichten gemäss dem 3. Abschnitt mit Ausnahme von Artikel 36 Absatz 1 Buchstabe h.
 
 [^21a-1]: Eingefügt durch Ziff. I der V der SNB vom 26. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
-[^21a-2]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^21a-2]: [SR 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 
 #### Art. 22
 
@@ -397,7 +397,7 @@ Der Betreiber verfügt über angemessene Regeln und Verfahren zur Unternehmensf�
 
 <sup>2</sup> Der Betreiber verfügt über Mechanismen, die es erlauben, die Bedürfnisse der Teilnehmer in Bezug auf die Dienstleistungen der Finanzmarktinfrastruktur zu erheben.
 
-<sup>3</sup> und <sup>4</sup> …[^22-1]
+<sup>3 und <sup>4</sup></sup> …[^22-1]
 
 [^22-1]: Aufgehoben durch Ziff. I der V der SNB vom 26. Nov. 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
 
@@ -423,7 +423,7 @@ Der Betreiber verfügt über angemessene Regeln und Verfahren zur Unternehmensf�
 
 <sup>1</sup> Der Betreiber zeichnet die wesentlichen erbrachten Dienstleistungen und ausgeübten Tätigkeiten auf und bewahrt sämtliche Aufzeichnungen für einen Zeitraum von zehn Jahren auf.
 
-<sup>2</sup> und <sup>3</sup> …[^22b-1]
+<sup>2 und <sup>3</sup></sup> …[^22b-1]
 
 [^22b-1]: Aufgehoben durch Ziff. I der V der SNB vom 26. Nov. 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
 
@@ -679,7 +679,7 @@ Der Betreiber:
 - a. prüft täglich anhand von Stresstests, ob die Anforderung gemäss Absatz 2 erfüllt ist;
 - b. überprüft mindestens quartalsweise die Kreditwürdigkeit und die Fähigkeit der Liquiditätsgeber, ihren Verpflichtungen nachzukommen.
 
-[^29-1]: [SR 958.11](https://fedlex.data.admin.ch/eli/cc/2015/854)
+[^29-1]: [SR 958.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11627)
 [^29-2]: Fassung gemäss Ziff. I der V der SNB vom 26. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
 [^29-3]: Fassung gemäss Ziff. I der V der SNB vom 26. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
 
@@ -899,7 +899,7 @@ Der Betreiber informiert die Nationalbank umgehend über:
 <sup>3</sup> Sie gibt dem Betreiber jeweils Gelegenheit zur Stellungnahme, bevor sie eine Empfehlung nach Absatz 1 an den Betreiber richtet oder eine Verfügung nach Absatz 2 erlässt. Untersteht die Finanzmarktinfrastruktur der Bewilligungspflicht und der Aufsicht durch die FINMA im Sinne von Artikel 4 FinfraG[^38-2], so hört sie vorgängig die FINMA an.
 
 [^38-1]: Fassung gemäss Ziff. I der V der SNB vom 26. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
-[^38-2]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^38-2]: [SR 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 
 #### Art. 39
 
@@ -918,7 +918,7 @@ Der Betreiber informiert die Nationalbank umgehend über:
 <sup>2</sup> Die Prüfung erfolgt in der Regel gleichzeitig mit der Prüfung nach Artikel 24 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007[^40-2]. Doppelspurigkeiten bei der Prüfung sind soweit möglich zu vermeiden. Der Bericht ist der Nationalbank jedoch spätestens 6 Monate nach Abschluss des Geschäftsjahres einzureichen.
 
 [^40-1]: Fassung gemäss Ziff. I der V der SNB vom 26. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
-[^40-2]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^40-2]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 ## 6. Kapitel: Schlussbestimmungen
 
@@ -931,7 +931,7 @@ Der Betreiber informiert die Nationalbank umgehend über:
 <sup>2</sup> Für Finanzmarktinfrastrukturen, welche nicht der Bewilligungspflicht und der Aufsicht durch die FINMA unterstehen, finden die besonderen Anforderungen gemäss den Artikeln 22–34 und die Pflichten gemäss Artikel 36 mit dem Inkrafttreten der Änderung vom 26. November 2015 Anwendung.
 
 [^41-1]: Fassung gemäss Ziff. I der V der SNB vom 26. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
-[^41-2]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^41-2]: [SR 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 
 #### Art. 42
 
@@ -945,13 +945,13 @@ Anhang[^t-1]
 
 ## Erhebungen
 
-[^t-1]: Fassung gemäss Ziff. II der V der SNB vom 3. Sept. 2009 ([AS 2009 6373](https://fedlex.data.admin.ch/eli/oc/2009/780)). Bereinigt gemäss Ziff. I der V der SNB vom 23. Juni 2011 ([AS 2011 5043](https://fedlex.data.admin.ch/eli/oc/2011/741)), Ziff. II der V der SNB vom 10. Juni 2013 ([AS 2013 1987](https://fedlex.data.admin.ch/eli/oc/2013/420)), vom 7. Mai 2014 ([AS 2014 3023](https://fedlex.data.admin.ch/eli/oc/2014/511)), Berichtigungen vom 24. Febr. 2015 ([AS 2015 643](https://fedlex.data.admin.ch/eli/oc/2015/103)) und vom 10. März 2015 ([AS 2015 767](https://fedlex.data.admin.ch/eli/oc/2015/138)), Ziff. II der V der SNB vom 26. Nov. 2015 ([AS 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)), Ziff. I der V der SNB vom 8. Juni 2017 ([AS 2017 6495](https://fedlex.data.admin.ch/eli/oc/2017/711)), der Berichtigungvom 30. Jan. 2018 ([AS 2018 527](https://fedlex.data.admin.ch/eli/oc/2018/59)), Ziff. II der V der SNB vom 31. Okt. 2019 ([AS 2019 3909](https://fedlex.data.admin.ch/eli/oc/2019/706)) und vom 2. Juli 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4627](https://fedlex.data.admin.ch/eli/oc/2020/827)).
+[^t-1]: Fassung gemäss Ziff. II der V der SNB vom 3. Sept. 2009 ([AS 2009 6373](https://fedlex.data.admin.ch/eli/oc/2009/780)). Bereinigt gemäss Ziff. I der V der SNB vom 23. Juni 2011 ([AS 2011 5043](https://fedlex.data.admin.ch/eli/oc/2011/741)), Ziff. II der V der SNB vom 10. Juni 2013 ([AS 2013 1987](https://fedlex.data.admin.ch/eli/oc/2013/420)), vom 7. Mai 2014 ([AS 2014 3023](https://fedlex.data.admin.ch/eli/oc/2014/511)), Berichtigungen vom 24. Febr. 2015 ([AS 2015 643](https://fedlex.data.admin.ch/eli/oc/2015/103)) und vom 10. März 2015 ([AS 2015 767](https://fedlex.data.admin.ch/eli/oc/2015/138)), Ziff. II der V der SNB vom 26. Nov. 2015 ([AS 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)), Ziff. I der V der SNB vom 8. Juni 2017 ([AS 2017 6495](https://fedlex.data.admin.ch/eli/oc/2017/711)), der Berichtigungvom 30. Jan. 2018 ([AS 2018 527](https://fedlex.data.admin.ch/eli/oc/2018/59)), Ziff. II der V der SNB vom 31. Okt. 2019 ([AS 2019 3909](https://fedlex.data.admin.ch/eli/oc/2019/706)), vom 2. Juli 2020 ([AS 2020 4627](https://fedlex.data.admin.ch/eli/oc/2020/827)) und Ziff. I der V der SNB vom 13. Aug. 2026, in Kraft seit 1. Nov. 2026 ([AS 2026 535](https://fedlex.data.admin.ch/eli/oc/2026/535)).
 
 <table>
 <tr><td>Bezeichnung der Erhebung:</td><td>Ausführliche Monatsbilanz</td></tr>
 <tr><td>Erhebungsgegenstand:</td><td>Bilanzpositionen und Treuhandgeschäfte auf Grundlage der Vorschriften des Bundesrates[^annexu1-lvlu1-1] und der FINMA über die Rechnungslegung der Banken[^annexu1-lvlu1-2]; Untergliederung nach Restlaufzeiten, nach Währungen (Schweizer Franken, US-Dollar, Euro, Yen), nach Sitz oder Wohnsitz der Kunden im Inland oder im Ausland und nach Wirtschaftssektoren; Erfassung der bilanzierten monetären Forderungen und Verpflichtungen aus Repogeschäften sowie aus Barhinterlagen zur Sicherung von Leih- und übrigen Geschäften; Kredite, die in Kooperation mit Banken im Ausland vergeben werden, wobei die Kredite von den Banken im Ausland bilanziert werden</td></tr>
 <tr><td>Art der Erhebung:</td><td>Teilerhebung</td></tr>
-<tr><td>Auskunftspflichtige Institute:</td><td>Banken, deren Total aus Bilanzsumme und Treuhandgeschäften 500 Millionen Franken übersteigt Gliederung nach Wirtschaftssektoren: Banken, deren Inlandaktiven 1,5 Milliarden Franken übersteigen</td></tr>
+<tr><td>Auskunftspflichtige Institute:</td><td>Banken, deren Total aus Bilanzsumme und Treuhandgeschäften 1 Milliarde Franken übersteigt. Gliederung nach Wirtschaftssektoren: Banken, deren Inlandaktiven 3 Milliarden Franken übersteigen.</td></tr>
 <tr><td>Erhebungsstufe:</td><td>Geschäftsstelle; Unternehmung</td></tr>
 <tr><td>Periodizität:</td><td>Monatlich</td></tr>
 <tr><td>Einreichefrist nach Stichtag:</td><td>17 Tage</td></tr>
@@ -962,7 +962,7 @@ Anhang[^t-1]
 <tr><td>Bezeichnung der Erhebung:</td><td>Ausgewählte Bilanzpositionen für die Geldmengenstatistik</td></tr>
 <tr><td>Erhebungsgegenstand:</td><td>Erfassung derjenigen Bilanzpositionen, die eine frühzeitige Schätzung der Geldmengen zulassen</td></tr>
 <tr><td>Art der Erhebung:</td><td>Teilerhebung</td></tr>
-<tr><td>Auskunftspflichtige Institute:</td><td>Banken, deren Summe der M3-relevanten Bilanzpositionen 3 Milliarden Franken übersteigt</td></tr>
+<tr><td>Auskunftspflichtige Institute:</td><td>Banken, deren Summe der M3-relevanten Bilanzpositionen 4,4 Milliarden Franken übersteigt.</td></tr>
 <tr><td>Erhebungsstufe:</td><td>Geschäftsstelle</td></tr>
 <tr><td>Periodizität:</td><td>Monatlich</td></tr>
 <tr><td>Einreichefrist nach Stichtag:</td><td>10 Tage</td></tr>
@@ -978,6 +978,17 @@ Anhang[^t-1]
 <tr><td>Periodizität:</td><td>Jährlich</td></tr>
 <tr><td>Einreichefrist nach Stichtag:</td><td>3 Monate</td></tr>
 <tr><td>Besondere Bestimmungen:</td><td>–</td></tr>
+</table>
+
+<table>
+<tr><td>Bezeichnung der Erhebung:</td><td>Einzelkrediterhebung</td></tr>
+<tr><td>Erhebungsgegenstand:</td><td>Aus dem Inland vergebene Kredite auf Einzelgeschäftsebene, die unter die Bilanzpositionen «Forderungen gegenüber Kunden» und «Hypothekarforderungen» fallen oder zukünftig fallen werden, sowie Ausserbilanzpositionen. Es werden Informationen zu Krediten, einschliesslich zugehöriger Gegenparteien, Sicherheiten, Eigenmittelunterlegung und Abschreibungen, erhoben.</td></tr>
+<tr><td>Art der Erhebung:</td><td>Teilerhebung</td></tr>
+<tr><td>Auskunftspflichtige Institute:</td><td>Banken und Finanzgruppen in der Schweiz, deren Geschäftsstellen im Inland insgesamt mehr als 4 Milliarden Franken in den Bilanzpositionen «Forderungen gegenüber Kunden» und «Hypothekarforderungen» ausweisen. Ausgenommen von der Auskunftspflicht sind Banken, welche die Vereinfachungen nach Artikel 47*a* der Eigenmittelverordnung vom 1. Juni 2012[^annexu1-lvlu1-5] anwenden dürfen (Banken des Kleinbankenregimes), und Banken der Kategorie 5 nach Anhang 3 der Bankenverordnung vom 30. April 2014[^annexu1-lvlu1-6]. Bei Finanzgruppen ist die höchste Konzerneinheit unter prudenzieller Aufsicht in der Schweiz auskunftspflichtig. Diese meldet für alle Banken in der Schweiz innerhalb der Finanzgruppe, einschliesslich für Banken des Kleinbankenregimes und für Banken der Kategorie 5. Ausgenommen von der Auskunftspflicht sind Finanzgruppen, deren Gruppengesellschaften ausschliesslich Banken des Kleinbankenregimes oder Banken der Kategorie 5 sind.</td></tr>
+<tr><td>Erhebungsstufe:</td><td>Geschäftsstelle</td></tr>
+<tr><td>Periodizität:</td><td>Quartalsweise</td></tr>
+<tr><td>Einreichefrist nach Stichtag:</td><td>40 Tage</td></tr>
+<tr><td>Besondere Bestimmungen:</td><td>Die Erhebung erfolgt in Zusammenarbeit mit der FINMA.</td></tr>
 </table>
 
 <table>
@@ -1050,7 +1061,7 @@ Anhang[^t-1]
 <tr><td>Bezeichnung der Erhebung:</td><td>Gliederung ausgewählter Bilanzpositionen nach dem Zinssatz</td></tr>
 <tr><td>Erhebungsgegenstand:</td><td>Ausgewählte Bilanzpositionen, untergliedert nach dem Zinssatz sowie nach dem Sitz oder Wohnsitz der Gegenpartei im Inland oder im Ausland</td></tr>
 <tr><td>Art der Erhebung:</td><td>Teilerhebung</td></tr>
-<tr><td>Auskunftspflichtige Institute:</td><td>Banken, deren auf Schweizerfranken lautende Verpflichtungen aus Kundeneinlagen 4 Milliarden Franken übersteigen oder deren auf Schweizerfranken lautende Verpflichtungen gegenüber Banken 1,3 Milliarden Franken übersteigen</td></tr>
+<tr><td>Auskunftspflichtige Institute:</td><td>Banken, deren auf Franken lautende Verpflichtungen aus Kundeneinlagen 5,7 Milliarden Franken übersteigen oder deren auf Franken lautende Verpflichtungen gegenüber Banken 1,3 Milliarden Franken übersteigen.</td></tr>
 <tr><td>Erhebungsstufe:</td><td>Unternehmung</td></tr>
 <tr><td>Periodizität:</td><td>Quartalsweise</td></tr>
 <tr><td>Einreichefrist nach Stichtag:</td><td>1 Monat</td></tr>
@@ -1083,7 +1094,7 @@ Anhang[^t-1]
 <tr><td>Bezeichnung der Erhebung:</td><td>Kollektivanlagenstatistik</td></tr>
 <tr><td>Erhebungsgegenstand:</td><td>Vermögensbestand und Vermögensveränderung der kollektiven Kapitalanlagen; Wert der von den kollektiven Kapitalanlagen herausgegebenen und zurückgenommenen Anteilsscheine; Gliederung der Vermögenswerte nach Inland und Ausland, nach Währungen und nach Anlagekategorien (Geldmarktinstrumente, Forderungen aus Pensionsgeschäften, Obligationen, Aktien und andere Beteiligungspapiere, Anteile an anderen Kollektivanlagen, strukturierte Produkte, Grundstücke und Immobilien, übrige Wertpapiere); Gliederung der Verbindlichkeiten nach Inland und Ausland; Gliederung der kollektiven Kapitalanlagen nach Rechtsform und gesetzlichen Arten offener kollektiver Kapitalanlagen; Erfolgsrechnung</td></tr>
 <tr><td>Art der Erhebung:</td><td>Vollerhebung</td></tr>
-<tr><td>Auskunftspflichtige Institute:</td><td>Fondsleitungen schweizerischer Fonds und schweizerische Gesellschaften für kollektive Kapitalanlagen gemäss Artikel 13 Absatz 2 des Kollektivanlagengesetzes vom 23. Juni 2006[^annexu1-lvlu1-5]</td></tr>
+<tr><td>Auskunftspflichtige Institute:</td><td>Fondsleitungen schweizerischer Fonds und schweizerische Gesellschaften für kollektive Kapitalanlagen gemäss Artikel 13 Absatz 2 des Kollektivanlagengesetzes vom 23. Juni 2006[^annexu1-lvlu1-7]</td></tr>
 <tr><td>Erhebungsstufe:</td><td>–</td></tr>
 <tr><td>Periodizität:</td><td>Quartalsweise</td></tr>
 <tr><td>Einreichefrist nach Stichtag:</td><td>20 Tage</td></tr>
@@ -1127,7 +1138,7 @@ Anhang[^t-1]
 <tr><td>Bezeichnung der Erhebung:</td><td>Auslandstatus (BIS Consolidated Banking Statistics)</td></tr>
 <tr><td>Erhebungsgegenstand:</td><td>Länderweise Gliederung der Aktiv- und Passivpositionen sowie von Ausserbilanzpositionen; Erfassung der lokalen Forderungen und Verpflichtungen der Tochtergesellschaften und Filialen; Gliederung nach Sektoren, Restlaufzeiten und Sicherheiten. Die Erhebung folgt den Vorschriften der Bank für Internationalen Zahlungsausgleich</td></tr>
 <tr><td>Art der Erhebung:</td><td>Teilerhebung</td></tr>
-<tr><td>Auskunftspflichtige Institute:</td><td>Banken, welche die Eurodevisenstatistik einreichen müssen und entweder schweizerisch beherrscht sind oder deren ausländische Muttergesellschaft über keine Bankenbewilligung verfügt</td></tr>
+<tr><td>Auskunftspflichtige Institute:</td><td>Institute, welche die Eurodevisenstatistik einreichen müssen. Ist ein Institut Teil einer Finanzgruppe, so ist die höchste Konzerneinheit unter prudenzieller Aufsicht im Inland auskunftspflichtig. Wenn im Ausland eine höhere Konzerneinheit unter prudenzieller Aufsicht existiert, kann die Nationalbank nach Rücksprache mit der Bank für Internationalen Zahlungsausgleich Ausnahmen von der Auskunftspflicht gewähren.</td></tr>
 <tr><td>Erhebungsstufe:</td><td>Konzern</td></tr>
 <tr><td>Periodizität:</td><td>Quartalsweise</td></tr>
 <tr><td>Einreichefrist nach Stichtag:</td><td>2 Monate</td></tr>
@@ -1138,7 +1149,7 @@ Anhang[^t-1]
 <tr><td>Bezeichnung der Erhebung:</td><td>Eurodevisenstatistik (BIS Locational Banking Statistics)</td></tr>
 <tr><td>Erhebungsgegenstand:</td><td>Länderweise Gliederung der Aktiv- und Passivpositionen sowie der Treuhandgeschäfte; Gliederung nach Sektoren, Währungen und Restlaufzeiten. Die Erhebung folgt den Vorschriften der Bank für Internationalen Zahlungsausgleich</td></tr>
 <tr><td>Art der Erhebung:</td><td>Teilerhebung</td></tr>
-<tr><td>Auskunftspflichtige Institute:</td><td>Banken, deren Summe aus den Aktiven und Treuhandaktiven gegenüber dem Ausland oder deren Summe aus den Passiven und Treuhandpassiven gegenüber dem Ausland 1 Milliarde Franken übersteigt</td></tr>
+<tr><td>Auskunftspflichtige Institute:</td><td>Banken, deren Summe aus den Aktiven und Treuhandaktiven gegenüber dem Ausland oder deren Summe aus den Passiven und Treuhandpassiven gegenüber dem Ausland 1,7 Milliarden Franken übersteigt.</td></tr>
 <tr><td>Erhebungsstufe:</td><td>Geschäftsstelle</td></tr>
 <tr><td>Periodizität:</td><td>Quartalsweise</td></tr>
 <tr><td>Einreichefrist nach Stichtag:</td><td>25 Tage</td></tr>
@@ -1149,7 +1160,7 @@ Anhang[^t-1]
 <tr><td>Bezeichnung der Erhebung:</td><td>Devisen- und Derivaterhebung (BIS OTC Derivatives Statistics)</td></tr>
 <tr><td>Erhebungsgegenstand:</td><td>Devisen- und Derivatgeschäfte entsprechend den Vorgaben der Bank für Internationalen Zahlungsausgleich; Bestände; Umsätze</td></tr>
 <tr><td>Art der Erhebung:</td><td>Teilerhebung</td></tr>
-<tr><td>Auskunftspflichtige Institute:</td><td>Halbjährliche Statistik: 2 grösste Bankkonzerne Alle drei Jahre: Banken, deren Kontraktvolumen der offenen derivativen Finanzinstrumente 8 Milliarden Franken (für Umsatzstatistik) beziehungsweise 30 Milliarden Schweizer Franken (für Bestandesstatistik) überschreitet</td></tr>
+<tr><td>Auskunftspflichtige Institute:</td><td>Halbjährliche Statistik: Banken, deren Kontraktvolumen der offenen derivativen Finanzinstrumente 2500 Milliarden Franken übersteigt. Alle drei Jahre: Banken, deren Kontraktvolumen der offenen derivativen Finanzinstrumente 8 Milliarden Franken (für Umsatzstatistik) beziehungsweise 30 Milliarden Franken (für Bestandesstatistik) übersteigt.</td></tr>
 <tr><td>Erhebungsstufe:</td><td>Geschäftsstelle (Umsätze); Konzern (Bestände)</td></tr>
 <tr><td>Periodizität:</td><td>Umsätze: alle drei Jahre Bestände: halbjährlich und alle drei Jahre</td></tr>
 <tr><td>Einreichefrist nach Stichtag:</td><td>1 Monat (Umsätze); 2 Monate (Bestände)</td></tr>
@@ -1157,25 +1168,25 @@ Anhang[^t-1]
 </table>
 
 <table>
-<tr><td>Bezeichnung der Erhebung:</td><td>Erhebungen der Leistungsbilanz</td></tr>
-<tr><td>Erhebungsgegenstand:</td><td>Grenzüberschreitender Handel mit Waren (ohne Aussenhandel gemäss Erhebung des Bundesamts für Zoll und Grenzsicherheit[^annexu1-lvlu1-6]) und Dienstleistungen, Transithandel, Handel im Zusammenhang mit Lohnveredelung und Produktion im Ausland, grenzüberschreitende Arbeits- und Vermögenseinkommen sowie Übertragungen gemäss den Richtlinien des Internationalen Währungsfonds (IWF) sowie den Anforderungen der Europäischen Union (EU) gemäss dem Abkommen vom 26. Oktober 2004[^annexu1-lvlu1-7] zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über die Zusammenarbeit im Bereich der Statistik. Gliederung nach Ländern, Art der Transaktionen sowie nach Wirtschaftssektoren</td></tr>
+<tr><td>Bezeichnung der Erhebung:</td><td>Leistungsbilanzerhebung</td></tr>
+<tr><td>Erhebungsgegenstand:</td><td>Transaktionen zwischen Akteuren mit Sitz in der Schweiz oder in Liechtenstein und Gegenparteien im Ausland: a. im Zusammenhang mit dem Handel mit Waren, Dienstleistungen und immateriellen Vermögenswerten; b. im Bank-, Versicherungs- und Leasingbereich; c. in Form von Übertragungen. Angaben, die zur Plausibilisierung der erhobenen Daten notwendig sind, wie Bilanzpositionen gegenüber Gegenparteien mit Sitz in der Schweiz oder in Liechtenstein. Die Erhebung erfolgt gemäss den jeweils geltenden Richtlinien des Internationalen Währungsfonds, insbesondere gemäss dem Zahlungsbilanzhandbuch «Balance of Payments and International Investment Position Manual», sowie gemäss dem Abkommen vom 26. Oktober 2004[^annexu1-lvlu1-8] zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über die Zusammenarbeit im Bereich der Statistik.</td></tr>
 <tr><td>Art der Erhebung:</td><td>Teilerhebungen</td></tr>
-<tr><td>Auskunftspflichtige Institute:</td><td>Juristische Personen und Gesellschaften, wenn der Transaktionswert 100 000 Franken je Erhebungsgegenstand überschreitet</td></tr>
+<tr><td>Auskunftspflichtige:</td><td>Juristische Personen und Gesellschaften, deren Transaktionen mit Gegenparteien im Ausland den Wert von 100 000 Franken übersteigen.</td></tr>
 <tr><td>Erhebungsstufe:</td><td>–</td></tr>
 <tr><td>Periodizität:</td><td>Quartalsweise oder jährlich</td></tr>
 <tr><td>Einreichefrist nach Stichtag:</td><td>Vierteljährliche Meldung: 1 Monat Jährliche Meldung: 3 Monate</td></tr>
-<tr><td>Besondere Bestimmungen:</td><td>Die Auskunftspflicht ist ebenfalls erfüllt, wenn die am Zahlungsverkehr beteiligte Bank die Transaktion meldet</td></tr>
+<tr><td>Besondere Bestimmungen:</td><td>–</td></tr>
 </table>
 
 <table>
 <tr><td>Bezeichnung der Erhebung:</td><td>Erhebungen der Kapitalverflechtungen mit dem Ausland</td></tr>
-<tr><td>Erhebungsgegenstand:</td><td>Grenzüberschreitende Kapitalflüsse (Transaktionen), Kapitalbestände (Auslandaktiven und -passiven) und Kapitalerträge gemäss den Richtlinien des Internationalen Währungsfonds (IWF) sowie den Anforderungen der Europäischen Union (EU) gemäss dem Abkommen vom 26. Oktober 2004[^annexu1-lvlu1-8] zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über die Zusammenarbeit im Bereich der Statistik. Die Erhebung umfasst sowohl konzerninterne Beziehungen (Direktinvestitionen) als auch die Beziehungen zu Dritten Die Direktinvestoren melden auch operative Angaben über Mehrheitsbeteiligungen im Ausland (Personalbestand, Umsatz, Anzahl Unternehmen), die Direktinvestitionsunternehmen zusätzlich den Personalbestand im Inland. Gliederung nach Ländern, Kapitalarten, Währungen sowie nach Wirtschaftssektoren</td></tr>
+<tr><td>Erhebungsgegenstand:</td><td>Kapitalverflechtungen zwischen Akteuren mit Sitz in der Schweiz oder in Liechtenstein und Gegenparteien im Ausland in Form von: a. Kapitaltransaktionen; b. nicht transaktionsbedingten Bestandesänderungen; c. Kapitalbeständen*;* d. Kapitalerträgen. Operative Angaben zu multinationalen Unternehmen mit Sitz in der Schweiz oder in Liechtenstein sowie zu deren Beteiligungen im Ausland, insbesondere Personalbestand, Umsatz und Anzahl Unternehmen. Angaben, die zur Plausibilisierung der erhobenen Daten notwendig sind, wie Bilanzpositionen gegenüber Gegenparteien mit Sitz in der Schweiz oder in Liechtenstein. Die Erhebung erfolgt gemäss den jeweils geltenden Richtlinien des Internationalen Währungsfonds, insbesondere gemäss dem Zahlungsbilanzhandbuch «Balance of Payments and International Investment Position Manual», sowie gemäss dem Abkommen zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über die Zusammenarbeit im Bereich der Statistik.</td></tr>
 <tr><td>Art der Erhebung:</td><td>Teilerhebungen</td></tr>
-<tr><td>Auskunftspflichtige Institute:</td><td>Juristische Personen und Gesellschaften, wenn der Transaktionswert 1 Million Franken je Erhebungsgegenstand überschreitet bzw. wenn die Auslandaktiven oder -passiven zum Erhebungszeitpunkt 10 Millionen Franken je Erhebungsgegenstand übersteigen</td></tr>
+<tr><td>Auskunftspflichtige:</td><td>Juristische Personen und Gesellschaften, die mindestens eines der folgenden Kriterien erfüllen: a. Die Kapitalbestände gegenüber Gegenparteien im Ausland übersteigen den Wert von 10 Millionen Franken. b. Die Kapitaltransaktionen mit Gegenparteien im Ausland übersteigen den Wert von 1 Million Franken. c. Der Umsatz, den im Ausland ansässige Tochtergesellschaften mit dem Verkauf von Waren und Dienstleistungen erzielen, übersteigt den Wert von 1 Million Franken.</td></tr>
 <tr><td>Erhebungsstufe:</td><td>–</td></tr>
 <tr><td>Periodizität:</td><td>Quartalsweise oder jährlich</td></tr>
 <tr><td>Einreichefrist nach Stichtag:</td><td>Vierteljährliche Meldung: 1 Monat Jährliche Meldung: 3 Monate</td></tr>
-<tr><td>Besondere Bestimmungen:</td><td>Die Auskunftspflicht ist ebenfalls erfüllt, wenn die am Zahlungsverkehr beteiligte oder mit der Verwahrung der Auslandaktiven beauftragte Bank den Erhebungsgegenstand meldet</td></tr>
+<tr><td>Besondere Bestimmungen:</td><td>–</td></tr>
 </table>
 
 <table>
@@ -1212,6 +1223,17 @@ Anhang[^t-1]
 </table>
 
 <table>
+<tr><td>Bezeichnung der Erhebung:</td><td>Bargeldtransaktionen an Bargeldzugangsstellen</td></tr>
+<tr><td>Erhebungsgegenstand:</td><td>Bargeldbezüge und -einzahlungen an Geldautomaten im Währungsraum des Frankens: Angaben zur Transaktion, zum Geldautomaten, zum Betreiber des Geldautomaten oder des Netzes, zu dem der Geldautomat gehört, sowie zur verwendeten Zahlungskarte.</td></tr>
+<tr><td>Art der Erhebung:</td><td>Teilerhebung</td></tr>
+<tr><td>Auskunftspflichtige Institute:</td><td>Betreiber von Geldautomaten im Währungsraum des Frankens sowie Betreiber von Netzen von Geldautomaten, wenn über das Netz Transaktionen in der Höhe von insgesamt über 2 Milliarden Franken pro Geschäftsjahr abgewickelt werden.</td></tr>
+<tr><td>Erhebungsstufe:</td><td>–</td></tr>
+<tr><td>Periodizität:</td><td>Täglich</td></tr>
+<tr><td>Einreichefrist nach Stichtag:</td><td>1 Tag</td></tr>
+<tr><td>Besondere Bestimmungen:</td><td>Gehört ein Geldautomat zu einem Netz von Geldautomaten, so ist in erster Linie der Betreiber des Netzes auskunftspflichtig.</td></tr>
+</table>
+
+<table>
 <tr><td>Bezeichnung der Erhebung:</td><td>Geldausgabeautomaten (ATM)</td></tr>
 <tr><td>Erhebungsgegenstand:</td><td>Anzahl Automaten</td></tr>
 <tr><td>Art der Erhebung:</td><td>Vollerhebung</td></tr>
@@ -1222,11 +1244,11 @@ Anhang[^t-1]
 <tr><td>Besondere Bestimmungen:</td><td>–</td></tr>
 </table>
 
-[^annexu1-lvlu1-1]: 4. Kapitel, Art. 25–42 der Bankenverordnung vom 30. April 2014 ([SR 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273))
-[^annexu1-lvlu1-2]: Rechnungslegungsverordnung-FINMA vom 31. Oktober 2019 ([SR 952.024.1](https://fedlex.data.admin.ch/eli/cc/2019/760)) sowie FINMA-Rundschreiben 2020/1 vom 31. Oktober 2019 betreffend Rechnungslegung ‒ Banken.
-[^annexu1-lvlu1-3]: 4. Kapitel, Art. 25–42 der Bankenverordnung vom 30. April 2014 ([SR 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273))
-[^annexu1-lvlu1-4]: Rechnungslegungsverordnung-FINMA vom 31. Oktober 2019 ([SR 952.024.1](https://fedlex.data.admin.ch/eli/cc/2019/760)) sowie FINMA-Rundschreiben 2020/1 vom 31. Oktober 2019 betreffend Rechnungslegung ‒ Banken.
-[^annexu1-lvlu1-5]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^annexu1-lvlu1-6]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
-[^annexu1-lvlu1-7]: [SR 0.431.026.81](https://fedlex.data.admin.ch/eli/cc/2006/866)
-[^annexu1-lvlu1-8]: [SR 0.431.026.81](https://fedlex.data.admin.ch/eli/cc/2006/866)
+[^annexu1-lvlu1-1]: 4. Kapitel, Art. 25–42 der Bankenverordnung vom 30. April 2014 ([SR 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564))
+[^annexu1-lvlu1-2]: Rechnungslegungsverordnung-FINMA vom 31. Oktober 2019 ([SR 952.024.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11565)) sowie FINMA-Rundschreiben 2020/1 vom 31. Oktober 2019 betreffend Rechnungslegung ‒ Banken.
+[^annexu1-lvlu1-3]: 4. Kapitel, Art. 25–42 der Bankenverordnung vom 30. April 2014 ([SR 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564))
+[^annexu1-lvlu1-4]: Rechnungslegungsverordnung-FINMA vom 31. Oktober 2019 ([SR 952.024.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11565)) sowie FINMA-Rundschreiben 2020/1 vom 31. Oktober 2019 betreffend Rechnungslegung ‒ Banken.
+[^annexu1-lvlu1-5]: [SR 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
+[^annexu1-lvlu1-6]: [SR 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
+[^annexu1-lvlu1-7]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
+[^annexu1-lvlu1-8]: [SR 0.431.026.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1789)
