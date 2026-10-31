@@ -4,11 +4,11 @@ title: Ordinanza del 19 novembre 2003 sulla formazione professionale (OFPr)
 short: OFPr
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/748"
 language: it
-version: 2026-10-01
+version: 2026-11-01
 adopted: 2003-11-19
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/748/20261001/it/xml/fedlex-data-admin-ch-eli-cc-2003-748-20261001-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20261001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/748/20261101/it/xml/fedlex-data-admin-ch-eli-cc-2003-748-20261101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20261101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20261001/it"
 
 (OFPr)
 
-del 19 novembre 2003 (Stato 1° ottobre 2026)
+del 19 novembre 2003 (Stato 1° novembre 2026)
 
 Il Consiglio federale svizzero,
 
@@ -687,39 +687,57 @@ I formatori attivi in corsi interaziendali e in altri luoghi di formazione equiv
 
 #### Art. 46
 
-**Docenti attivi nella formazione scolastica di base e nella preparazione alla maturità professionale**
+**Docenti attivi nella formazione scolastica di base e nella preparazione alla maturità professionale**[^46-1]
 
 ### (art. 46 LFPr)
 
-<sup>1</sup>
-
-I docenti attivi nella formazione scolastica di base e nella preparazione alla maturità professionale devono disporre di un’abilitazione all’insegnamento per il grado secondario II con le seguenti qualifiche:
-
-- a. formazione pedagogico-professionale a livello universitario;
-- b. formazione disciplinare convalidata da un diploma di grado terziario;
-- c. esperienza aziendale di sei mesi.
+<sup>1</sup> I docenti attivi nella formazione scolastica di base e nella preparazione alla maturità professionale devono essere abilitati all’insegnamento per il livello secondario II.
 
 <sup>2</sup>
 
-L’abilitazione all’insegnamento di materie professionali specifiche presuppone:
+Per docenti attivi nella formazione scolastica di base e nella preparazione alla maturità professionale si intendono:
 
-- a. un diploma corrispondente di formazione professionale superiore o di una scuola universitaria;
-- b.
-
-  una formazione pedagogico-professionale di:
-
-  - 1\. 1800 ore di studio in caso di attività principale,
-  - 2\. 300 ore di studio in caso di attività accessoria.
+- a. i docenti di materie professionali specifiche;
+- b. i docenti di cultura generale;
+- c. i docenti di educazione fisica;
+- d. i docenti di materie della maturità professionale.
 
 <sup>3</sup>
 
-Per insegnare la cultura generale, l’educazione fisica o materie che richiedono studi a livello universitario sono necessari:
+I docenti di materie professionali specifiche sono abilitati all’insegnamento per il livello secondario II se dispongono di un’esperienza aziendale di sei mesi nonché delle seguenti qualifiche:
 
-- a. un’abilitazione all’insegnamento nella scuola obbligatoria completata da una qualifica supplementare per l’insegnamento della cultura generale e dell’educazione fisica conformemente al programma d’insegnamento corrispondente nonché una formazione pedagogico-professionale di 300 ore di studio;
-- b. una corrispondente abilitazione all’insegnamento liceale, completata da una formazione pedagogico-professionale di 300 ore di studio; oppure
-- c. studi corrispondenti di livello universitario completati da una formazione pedagogico-professionale di 1800 ore di studio.[^46-1]
+- a.
 
-[^46-1]: Nuovo testo giusta l’art. 82 n. 3 dell’O del 23 mag. 2012 sulla promozione dello sport, in vigore dal 1° ott. 2012 ([RU 2012 3967](https://fedlex.data.admin.ch/eli/oc/2012/461)).
+  una formazione pedagogico-professionale di:
+
+  - 1\. 1800 ore di studio se esercitano un’attività di formazione a titolo principale,
+  - 2\. 300 ore di studio se esercitano un’attività di formazione a titolo accessorio;
+
+- b. un diploma corrispondente di formazione professionale superiore o di una scuola universitaria.
+
+<sup>4</sup>
+
+I docenti di cultura generale sono abilitati all’insegnamento per il livello secondario II se dispongono di un’esperienza aziendale di sei mesi nonché di una delle seguenti qualifiche:
+
+- a. una formazione pedagogico-professionale di livello universitario di 1800 ore di studio e un diploma di una scuola universitaria; oppure
+- b. una formazione pedagogico-professionale di livello universitario di 300 ore di studio e un’abilitazione all’insegnamento nella scuola obbligatoria o un’abilitazione all’insegnamento liceale, entrambe completate da una qualifica in cultura generale con le competenze del programma d’insegnamento corrispondente.
+
+<sup>5</sup>
+
+I docenti di educazione fisica sono abilitati all’insegnamento per il livello secondario II se dispongono di un’esperienza aziendale di sei mesi nonché di una delle seguenti qualifiche:
+
+- a. una formazione pedagogico-professionale di livello universitario di 1800 ore di studio e un diploma di una scuola universitaria nel campo specifico insegnato;
+- b. una formazione pedagogico-professionale di livello universitario di 300 ore di studio e un’abilitazione all’insegnamento liceale per l’educazione fisica; oppure
+- c. una formazione pedagogico-professionale di livello universitario di 300 ore di studio e un’abilitazione all’insegnamento nella scuola obbligatoria, completata da una qualifica supplementare per l’insegnamento dell’educazione fisica.
+
+<sup>6</sup>
+
+I docenti di materie della maturità professionale sono abilitati all’insegnamento per il livello secondario II se dispongono di un’esperienza aziendale di sei mesi nonché di una delle seguenti qualifiche:
+
+- a. una formazione pedagogico-professionale di livello universitario di 1800 ore di studio e un diploma di una scuola universitaria nel campo specifico insegnato; oppure
+- b. una formazione pedagogico-professionale di livello universitario di 300 ore di studio e un’abilitazione all’insegnamento liceale nel campo specifico insegnato.
+
+[^46-1]: Nuovo testo giusta la cifra I dell’O del 9 set. 2026, in vigore dal 1° nov. 2026 ([RU 2026 471](https://fedlex.data.admin.ch/eli/oc/2026/471)).
 
 #### Art. 47
 
@@ -731,7 +749,9 @@ Per insegnare la cultura generale, l’educazione fisica o materie che richiedon
 
 <sup>2</sup> L’attività professionale principale occupa almeno la metà dell’orario di lavoro settimanale.
 
-<sup>3</sup> Chi insegna mediamente meno di quattro ore settimanali non è soggetto alle prescrizioni di cui agli articoli 45 lettera c e 46 capoverso 2 lettera b numero 2.
+<sup>3</sup> Chi insegna mediamente meno di quattro ore settimanali non è soggetto alle prescrizioni di cui agli articoli 45 lettera c numero 2 e 46 capoverso 3 lettera a numero 2.[^47-1]
+
+[^47-1]: Nuovo testo giusta la cifra I dell’O del 9 set. 2026, in vigore dal 1° nov. 2026 ([RU 2026 471](https://fedlex.data.admin.ch/eli/oc/2026/471)).
 
 ### Sezione 3: Formazione pedagogico-professionale
 
@@ -804,7 +824,7 @@ I diplomi e gli attestati di frequentazione dei corsi sono riconosciuti se:
 - a. il programma di formazione previsto concorda con i programmi quadro d’insegnamento conformemente all’articolo 49;
 - b. ne è garantito lo svolgimento ineccepibile.
 
-### Sezione 6: ...
+### Sezione 6: …
 
 #### Art. 53 e 54
 
@@ -982,7 +1002,7 @@ I contributi sono calcolati:
 
 <sup>1</sup> I contributi federali per prestazioni particolari di interesse pubblico ai sensi dell’articolo 55 LFPr coprono al massimo il 60 per cento dei costi. In caso di eccezioni motivate possono raggiungere l’80 per cento.
 
-<sup>1bis</sup> ...[^64-1]
+<sup>1bis</sup> …[^64-1]
 
 <sup>2</sup>
 
@@ -1039,11 +1059,11 @@ I contributi a favore di cicli di formazione delle scuole specializzate superior
 
 #### Art. 66
 
-**...[^66-1]**
+**…[^66-1]**
 
 <sup>1</sup> La SEFRI emana direttive sulla presentazione delle richieste, sul ricorso a esperti, sul preventivo e sul rendiconto di progetti ai sensi degli articoli 54–56 LFPr.[^66-2]
 
-<sup>2</sup> *...*[^66-3]
+<sup>2</sup> …[^66-3]
 
 <sup>3</sup>
 
@@ -1295,7 +1315,7 @@ La domanda è presentata per scritto alla SEFRI e contiene segnatamente le segue
 
 <sup>3</sup> L’organizzazione dispone di una propria istituzione di formazione ai sensi dell’articolo 60 capoverso 4 lettera b LFPr, se propone direttamente un’offerta che si occupa prevalentemente di formazione e di formazione continua nel ramo o se partecipa a una simile offerta.
 
-<sup>4 a <sup>7</sup></sup> …[^68-2]
+<sup>4–7</sup> …[^68-2]
 
 [^68-1]: Introdotta dalla cifra I dell’O del 3 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6005](https://fedlex.data.admin.ch/eli/oc/2010/864)).
 [^68-2]: Abrogati dalla cifra I dell’O del 3 dic. 2010, con effetto dal 1° gen. 2011 ([RU 2010 6005](https://fedlex.data.admin.ch/eli/oc/2010/864)).
@@ -1496,7 +1516,7 @@ Gli emolumenti per le decisioni di prima istanza e le prestazioni riguardanti il
 
 <sup>1</sup> I responsabili della formazione professionale non soggetti al campo di applicazione della legge federale del 19 aprile 1978[^76-1] sulla formazione professionale che hanno svolto un’attività formativa per almeno cinque anni sono considerati qualificati ai sensi degli articoli 44 e 45.
 
-<sup>2 e <sup>3</sup></sup> ...[^76-2]
+<sup>2 e <sup>3</sup></sup> …[^76-2]
 
 <sup>4</sup> Eventuali qualificazioni complementari devono avvenire entro cinque anni dalla decisione della SEFRI.
 
@@ -1507,9 +1527,9 @@ Gli emolumenti per le decisioni di prima istanza e le prestazioni riguardanti il
 
 **Abilitazione all’insegnamento dell’educazione fisica**[^76a-1]
 
-Il diploma di maestro di ginnastica e sport I o II ottenuto secondo il diritto anteriore, il diploma di «maestro di sport SUP» e il titolo di bachelor in sport della Scuola universitaria federale dello sport Macolin sono considerati abilitazioni all’insegnamento ai sensi dell’articolo 46 capoverso 3.
+Il diploma di maestro di ginnastica e sport I o II ottenuto secondo il diritto anteriore, il diploma di «maestro di sport SUP» e il titolo di bachelor in sport della Scuola universitaria federale dello sport di Macolin sono considerati abilitazioni all’insegnamento dell’educazione fisica ai sensi dell’articolo 46 capoverso 5.
 
-[^76a-1]: Introdotto dall’art. 82 n. 3 dell’O del 23 mag. 2012 sulla promozione dello sport, in vigore dal 1° ott. 2012 ([RU 2012 3967](https://fedlex.data.admin.ch/eli/oc/2012/461)).
+[^76a-1]: Introdotto dall’art. 82 n. 3 dell’O del 23 mag. 2012 sulla promozione dello sport ([RU 2012 3967](https://fedlex.data.admin.ch/eli/oc/2012/461)). Nuovo testo giusta la cifra I dell’O del 9 set. 2026, in vigore dal 1° nov. 2026 ([RU 2026 471](https://fedlex.data.admin.ch/eli/oc/2026/471)).
 
 #### Art. 77 e 78
 
@@ -1547,7 +1567,7 @@ II
 
 Le seguenti ordinanze sono modificate come segue:
 
-...[^annexu1-lvlu1-2]
+…[^annexu1-lvlu1-2]
 
 [^annexu1-lvlu1-1]: [[RU 1979 1712](https://fedlex.data.admin.ch/eli/oc/1979/1712_1712_1712), [1985 670](https://fedlex.data.admin.ch/eli/oc/1985/670_670_670)cifra I n. 1, [1993 7](https://fedlex.data.admin.ch/eli/oc/1993/7_7_7), [1996 208](https://fedlex.data.admin.ch/eli/oc/1996/208_208_208)art. 2 lett. b, [1998 1822](https://fedlex.data.admin.ch/eli/oc/1998/1822_1822_1822)art. 26, [2001 979](https://fedlex.data.admin.ch/eli/oc/2001/136)cifra II]
 [^annexu1-lvlu1-2]: Le mod. possono essere consultate alla [RU 2003 5047](https://fedlex.data.admin.ch/eli/oc/2003/748).

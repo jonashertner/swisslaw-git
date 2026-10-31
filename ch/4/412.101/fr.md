@@ -4,11 +4,11 @@ title: Ordonnance du 19 novembre 2003 sur la formation professionnelle (OFPr)
 short: OFPr
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/748"
 language: fr
-version: 2026-10-01
+version: 2026-11-01
 adopted: 2003-11-19
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/748/20261001/fr/xml/fedlex-data-admin-ch-eli-cc-2003-748-20261001-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20261001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/748/20261101/fr/xml/fedlex-data-admin-ch-eli-cc-2003-748-20261101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20261101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20261001/fr"
 
 (OFPr)
 
-du 19 novembre 2003 (État le 1<sup>er</sup> octobre 2026)
+du 19 novembre 2003 (État le 1<sup>er</sup> novembre 2026)
 
 Le Conseil fédéral suisse,
 
@@ -536,9 +536,9 @@ Si des qualifications ont été acquises par une personne dans un autre cadre qu
 
 <sup>2</sup> Les brevets et les diplômes sont délivrés par le SEFRI. Les candidats peuvent choisir la langue officielle dans laquelle ils souhaitent que leur brevet ou leur diplôme soit établi.
 
-2<sup>bis</sup> Si l’examen a été passé en anglais, le brevet ou le diplôme le précise.[^36-2]
+<sup>2bis</sup> Si l’examen a été passé en anglais, le brevet ou le diplôme le précise.[^36-2]
 
-2<sup>ter</sup> Les brevets et les diplômes mentionnent le titre protégé ainsi que le complément de titre correspondant.[^36-3]
+<sup>2te<sup>r</sup></sup> Les brevets et les diplômes mentionnent le titre protégé ainsi que le complément de titre correspondant.[^36-3]
 
 <sup>3</sup> Les brevets et les diplômes sont signés par le président de l’organe compétent pour la procédure de qualification et par un membre de la direction du SEFRI.[^36-4]
 
@@ -687,51 +687,74 @@ Les formateurs actifs dans les cours interentreprises et dans d’autres lieux d
 
 #### Art. 46
 
-**Enseignants de la formation initiale scolaire et de la maturité professionnelle**
+**Enseignants de la formation initiale scolaire et de la maturité professionnelle**[^46-1]
 
 ### (art. 46 LFPr)
 
-<sup>1</sup>
-
-Les enseignants de la formation initiale scolaire et de la maturité professionnelle doivent être habilités à enseigner au degré secondaire II et posséder les qualifications suivantes:
-
-- a. avoir une formation à la pédagogie professionnelle du niveau d’une haute école;
-- b. avoir une formation spécialisée attestée par un diplôme du degré tertiaire;
-- c. disposer d’une expérience en entreprise de six mois.
+<sup>1</sup> Les enseignants de la formation initiale scolaire et de la maturité professionnelle doivent être habilités à enseigner au degré secondaire II.
 
 <sup>2</sup>
 
-Pour être autorisé à enseigner les branches spécifiques à la profession, l’enseignant doit avoir:
+Les enseignants de la formation initiale scolaire et de la maturité professionnelle sont:
 
-- a. un titre correspondant de la formation professionnelle supérieure ou du niveau d’une haute école;
-- b.
-
-  une formation à la pédagogie professionnelle de:
-
-  - 1\. 1800 heures de formation s’il exerce son activité à titre principal;
-  - 2\. 300 heures de formation s’il exerce son activité à titre accessoire.
+- a. les enseignants des connaissances professionnelles;
+- b. les enseignants de culture générale;
+- c. les enseignants d’éducation physique;
+- d. les enseignants des branches de la maturité professionnelle.
 
 <sup>3</sup>
 
-Pour enseigner la culture générale, le sport ou des branches qui demandent des études du niveau d’une haute école, l’enseignant doit:
+Les enseignants des connaissances professionnelles sont habilités à enseigner au degré secondaire II s’ils justifient d’une expérience en entreprise de six mois et possèdent les qualifications suivantes:
 
-- a. être autorisé à enseigner à l’école obligatoire et avoir suivi en plus une formation complémentaire pour enseigner la culture générale ou le sport selon le plan d’études correspondant et une formation à la pédagogie professionnelle de 300 heures de formation;
-- b. être autorisé à enseigner au gymnase et avoir suivi en plus une formation à la pédagogie professionnelle de 300 heures de formation, ou
-- c. avoir fait des études du niveau d’une haute école dans le domaine correspondant et avoir suivi en plus une formation à la pédagogie professionnelle de 1800 heures de formation.[^46-1]
+- a.
 
-[^46-1]: Nouvelle teneur selon l’art. 82 ch. 3 de l’O du 23 mai 2012 sur l’encouragement du sport, en vigueur depuis le 1<sup>er</sup> oct. 2012 ([RO 2012 3967](https://fedlex.data.admin.ch/eli/oc/2012/461)).
+  une formation à la pédagogie professionnelle du niveau d’une haute école de:
+
+  - 1\. 1800 heures de formation pour une activité de formation à titre principal,
+  - 2\. 300 heures de formation pour une activité de formation à titre accessoire;
+
+- b. un titre correspondant de la formation professionnelle supérieure ou du niveau d’une haute école.
+
+<sup>4</sup>
+
+Les enseignants de culture générale sont habilités à enseigner au niveau du secondaire II s’ils justifient d’une expérience en entreprise de six mois et possèdent l’une des qualifications suivantes:
+
+- a. une formation à la pédagogie professionnelle du niveau d’une haute école de 1800 heures de formation et un diplôme du niveau d’une haute école, ou
+- b. une formation à la pédagogie professionnelle du niveau d’une haute école de 300 heures de formation et une habilitation à enseigner à l’école obligatoire ou au gymnase, complétées par une qualification en culture générale selon les compétences du plan d’études correspondant.
+
+<sup>5</sup>
+
+Les enseignants d’éducation physique sont habilités à enseigner au niveau du secondaire II s’ils justifient d’une expérience en entreprise de six mois et possèdent l’une des qualifications suivantes:
+
+- a. une formation à la pédagogie professionnelle du niveau d’une haute école de 1800 heures de formation et un diplôme du niveau d’une haute école dans le domaine d’enseignement;
+- b. une formation à la pédagogie professionnelle du niveau d’une haute école de 300 heures de formation et une habilitation à enseigner l’éducation physique au gymnase, ou
+- c. une formation à la pédagogie professionnelle du niveau d’une haute école de 300 heures de formation et une habilitation à enseigner à l’école obligatoire, complétée par une qualification complémentaire pour l’enseignement de l’éducation physique.
+
+<sup>6</sup>
+
+Les enseignants des branches de la maturité professionnelle sont habilités à enseigner au niveau du secondaire II s’ils justifient d’une expérience en entreprise de six mois et possèdent l’une des qualifications suivantes:
+
+- a. une formation à la pédagogie professionnelle du niveau d’une haute école de 1800 heures de formation et un diplôme du niveau d’une haute école dans le domaine d’enseignement, ou
+- b. une formation à la pédagogie professionnelle du niveau d’une haute école de 300 heures de formation et une habilitation à enseigner au gymnase dans le domaine d’enseignement.
+
+[^46-1]: Nouvelle teneur selon le ch. I de l’O du 9 sept. 2026, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2026 471](https://fedlex.data.admin.ch/eli/oc/2026/471)).
 
 #### Art. 47
 
-**Activité d’enseignant à titre accessoire**
+**Activité de formation à titre accessoire**
 
 ### (art. 45 et 46 LFPr)
+
+[^47-1]
 
 <sup>1</sup> Les formateurs engagés à titre accessoire exercent cette activité en plus de leur activité professionnelle dans le domaine correspondant.
 
 <sup>2</sup> Est réputée activité à titre principal toute activité égale au minimum à la moitié du temps de travail hebdomadaire.
 
-<sup>3</sup> Les personnes qui enseignent moins de quatre heures hebdomadaires en moyenne ne sont pas soumises aux dispositions de l’art. 45, let. c, et de l’art. 46, al. 2, let. b, ch. 2.
+<sup>3</sup> Les personnes qui enseignent moins de quatre heures hebdomadaires en moyenne ne sont pas soumises aux dispositions des art. 45, let. c, ch. 2, et 46, al. 3, let. a, ch. 2.[^47-2]
+
+[^47-1]: Nouvelle teneur selon le ch. I de l’O du 9 sept. 2026, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2026 471](https://fedlex.data.admin.ch/eli/oc/2026/471)).
+[^47-2]: Nouvelle teneur selon le ch. I de l’O du 9 sept. 2026, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2026 471](https://fedlex.data.admin.ch/eli/oc/2026/471)).
 
 ### Section 3 Formation à la pédagogie professionnelle
 
@@ -1507,11 +1530,11 @@ Les émoluments perçus pour les décisions rendues en première instance et pou
 
 #### Art. 76a
 
-**Diplômes habilitant à enseigner le sport**[^76a-1]
+**Diplômes habilitant à enseigner l’éducation physique**[^76a-1]
 
-Le diplôme fédéral de maître d’éducation physique I et II, le diplôme de «maître de sport HES/maîtresse de sport HES» ainsi que le diplôme de *bachelor* en sport de la Haute école fédérale de Macolin décernés selon l’ancien droit sont également considérés comme des diplômes habilitant à enseigner le sport au sens de l’art. 46, al. 3.
+Le diplôme fédéral de maître d’éducation physique I et II, le diplôme de «maître de sport HES / maîtresse de sport HES» ainsi que le diplôme de bachelor en sport de la Haute école fédérale de Macolin décernés selon l’ancien droit sont considérés comme habilitant les enseignants d’éducation physique au sens de l’art. 46, al. 5, à enseigner.
 
-[^76a-1]: Introduit par l’art. 82 ch. 3 de l’O du 23 mai 2012 sur l’encouragement du sport, en vigueur depuis le 1<sup>er</sup> oct. 2012 ([RO 2012 3967](https://fedlex.data.admin.ch/eli/oc/2012/461)).
+[^76a-1]: Introduit par l’art. 82 ch. 3 de l’O du 23 mai 2012 sur l’encouragement du sport ([RO 2012 3967](https://fedlex.data.admin.ch/eli/oc/2012/461)). Nouvelle teneur selon le ch. I de l’O du 9 sept. 2026, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2026 471](https://fedlex.data.admin.ch/eli/oc/2026/471)).
 
 #### Art. 77 et 78
 
@@ -1551,5 +1574,5 @@ Les ordonnances mentionnées ci-après sont modifiées comme suit:
 
 …[^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-1]: [[RO 1979 1712](https://fedlex.data.admin.ch/eli/oc/1979/1712_1712_1712), [1985 670](https://fedlex.data.admin.ch/eli/oc/1985/670_670_670)ch. I 1, [1993 7](https://fedlex.data.admin.ch/eli/oc/1993/7_7_7), [1998 1822](https://fedlex.data.admin.ch/eli/oc/1998/1822_1822_1822)art. 26, [2001 979](https://fedlex.data.admin.ch/eli/oc/2001/136)ch. II]
+[^annexu1-lvlu1-1]: [[RO 1979 1712](https://fedlex.data.admin.ch/eli/oc/1979/1712_1712_1712); [1985 670](https://fedlex.data.admin.ch/eli/oc/1985/670_670_670)ch. I 1; [1993 7](https://fedlex.data.admin.ch/eli/oc/1993/7_7_7); [1998 1822](https://fedlex.data.admin.ch/eli/oc/1998/1822_1822_1822)art. 26; [2001 979](https://fedlex.data.admin.ch/eli/oc/2001/136)ch. II]
 [^annexu1-lvlu1-2]: Les mod. peuvent être consultées au [RO 2003 5047](https://fedlex.data.admin.ch/eli/oc/2003/748).

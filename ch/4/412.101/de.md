@@ -4,11 +4,11 @@ title: "Verordnung vom 19. November 2003 über die Berufsbildung (Berufsbildungs
 short: BBV
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/748"
 language: de
-version: 2026-10-01
+version: 2026-11-01
 adopted: 2003-11-19
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/748/20261001/de/xml/fedlex-data-admin-ch-eli-cc-2003-748-20261001-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20261001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/748/20261101/de/xml/fedlex-data-admin-ch-eli-cc-2003-748-20261101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20261101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20261001/de"
 
 (Berufsbildungsverordnung, BBV)
 
-vom 19. November 2003 (Stand am 1. Oktober 2026)
+vom 19. November 2003 (Stand am 1. November 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -688,39 +688,57 @@ Berufsbildnerinnen und Berufsbildner in überbetrieblichen Kursen und vergleichb
 
 #### Art. 46
 
-**Lehrkräfte für die schulische Grundbildung und die Berufsmaturität**
+**Lehrpersonen für die schulische Grundbildung und die Berufsmaturität**[^46-1]
 
 ### (Art. 46 BBG)
 
-<sup>1</sup>
-
-Lehrkräfte für die schulische Grundbildung und die Berufsmaturität verfügen über eine Lehrbefähigung für die Sekundarstufe II mit folgenden Qualifikationen:
-
-- a. berufspädagogische Bildung auf Hochschulstufe;
-- b. Fachbildung mit einem Abschluss auf Tertiärstufe;
-- c. betriebliche Erfahrung von sechs Monaten.
+<sup>1</sup> Lehrpersonen für die schulische Grundbildung und die Berufsmaturität müssen über eine Lehrbefähigung für die Sekundarstufe II verfügen.
 
 <sup>2</sup>
 
-Die Lehrbefähigung für berufskundliche Bildung setzt voraus:
+Die Lehrpersonen für die schulische Grundbildung und die Berufsmaturität sind:
 
-- a. einen entsprechenden Abschluss der höheren Berufsbildung oder einer Hochschule;
-- b.
-
-  eine berufspädagogische Bildung von:
-
-  - 1\. 1800 Lernstunden bei hauptamtlicher Tätigkeit,
-  - 2\. 300 Lernstunden bei nebenamtlicher Tätigkeit.
+- a. Lehrpersonen für Berufskunde;
+- b. Lehrpersonen für Allgemeinbildung;
+- c. Lehrpersonen für Sportunterricht;
+- d. Lehrpersonen für Fächer in der Berufsmaturität.
 
 <sup>3</sup>
 
-Für das Erteilen von allgemeinbildendem Unterricht, von Sportunterricht oder von Fächern, die ein Hochschulstudium voraussetzen, ist erforderlich:
+Lehrpersonen für Berufskunde verfügen über eine Lehrbefähigung für die Sekundarstufe II, wenn sie über eine betriebliche Erfahrung von sechs Monaten sowie über folgende Qualifikationen verfügen:
 
-- a. eine Lehrbefähigung für die obligatorische Schule, ergänzt durch eine Zusatzqualifikation für allgemeinbildenden Unterricht beziehungsweise für Sportunterricht gemäss dem entsprechenden Lehrplan sowie eine berufspädagogische Bildung von 300 Lernstunden; oder
-- b. eine entsprechende gymnasiale Lehrbefähigung, ergänzt durch eine berufspädagogische Bildung von 300 Lernstunden; oder
-- c. ein entsprechendes Hochschulstudium, ergänzt durch eine berufspädagogische Bildung von 1800 Lernstunden.[^46-1]
+- a.
 
-[^46-1]: Fassung gemäss Art. 82 Ziff. 3 der Sportförderungsverordnung vom 23. Mai 2012, in Kraft seit 1. Okt. 2012 ([AS 2012 3967](https://fedlex.data.admin.ch/eli/oc/2012/461)).
+  eine berufspädagogische Bildung auf Hochschulstufe von:
+
+  - 1\. 1800 Lernstunden bei hauptberuflicher Bildungstätigkeit,
+  - 2\. 300 Lernstunden bei nebenberuflicher Bildungstätigkeit;
+
+- b. einen entsprechenden Abschluss der höheren Berufsbildung oder einer Hochschule.
+
+<sup>4</sup>
+
+Lehrpersonen für Allgemeinbildung verfügen über eine Lehrbefähigung für die Sekundarstufe II, wenn sie über eine betriebliche Erfahrung von sechs Monaten sowie über eine der folgenden Qualifikationen verfügen:
+
+- a. eine berufspädagogische Bildung auf Hochschulstufe von 1800 Lernstunden und einen Abschluss auf Hochschulstufe; oder
+- b. eine berufspädagogische Bildung auf Hochschulstufe von 300 Lernstunden und eine Lehrbefähigung in der obligatorischen Schule oder eine gymnasiale Lehrbefähigung, beide ergänzt durch eine Qualifikation in Allgemeinbildung mit den Kompetenzen des entsprechenden Lehrplans.
+
+<sup>5</sup>
+
+Lehrpersonen für Sportunterricht verfügen über eine Lehrbefähigung für die Sekundarstufe II, wenn sie über eine betriebliche Erfahrung von sechs Monaten sowie über eine der folgenden Qualifikationen verfügen:
+
+- a. eine berufspädagogische Bildung auf Hochschulstufe von 1800 Lernstunden und einen Abschluss auf Hochschulstufe im unterrichteten Fachgebiet;
+- b. eine berufspädagogische Bildung auf Hochschulstufe von 300 Lernstunden und eine gymnasiale Lehrbefähigung für Sportunterricht; oder
+- c. eine berufspädagogische Bildung auf Hochschulstufe von 300 Lernstunden und eine Lehrbefähigung in der obligatorischen Schule, ergänzt durch eine Zusatzqualifikation für Sportunterricht.
+
+<sup>6</sup>
+
+Lehrpersonen für Fächer in der Berufsmaturität verfügen über eine Lehrbefähigung für die Sekundarstufe II, wenn sie über eine betriebliche Erfahrung von sechs Monaten sowie über eine der folgenden Qualifikationen verfügen:
+
+- a. eine berufspädagogische Bildung auf Hochschulstufe von 1800 Lernstunden und einen Abschluss auf Hochschulstufe im unterrichteten Fachgebiet; oder
+- b. eine berufspädagogische Bildung auf Hochschulstufe von 300 Lernstunden und eine gymnasiale Lehrbefähigung im unterrichteten Fachgebiet.
+
+[^46-1]: Fassung gemäss Ziff. I der V vom 9. Sept. 2026, in Kraft seit 1. Nov. 2026 ([AS 2026 471](https://fedlex.data.admin.ch/eli/oc/2026/471)).
 
 #### Art. 47
 
@@ -732,7 +750,9 @@ Für das Erteilen von allgemeinbildendem Unterricht, von Sportunterricht oder vo
 
 <sup>2</sup> Die Tätigkeit im Hauptberuf umfasst mindestens die Hälfte der wöchentlichen Arbeitszeit.
 
-<sup>3</sup> Wer weniger als durchschnittlich vier Wochenstunden unterrichtet, unterliegt nicht den Vorschriften nach den Artikeln 45 Buchstabe c und 46 Absatz 2 Buchstabe b Ziffer 2.
+<sup>3</sup> Wer weniger als durchschnittlich vier Wochenstunden unterrichtet, unterliegt nicht den Vorschriften nach den Artikeln 45 Buchstabe c Ziffer 2 und 46 Absatz 3 Buchstabe a Ziffer 2.[^47-1]
+
+[^47-1]: Fassung gemäss Ziff. I der V vom 9. Sept. 2026, in Kraft seit 1. Nov. 2026 ([AS 2026 471](https://fedlex.data.admin.ch/eli/oc/2026/471)).
 
 ### 3. Abschnitt: Berufspädagogische Bildung
 
@@ -1044,7 +1064,7 @@ Beiträge für Bildungsgänge höherer Fachschulen werden nur gewährt, wenn:
 
 <sup>1</sup> Das SBFI erlässt Richtlinien über die Gesuchstellung, den Beizug von Expertinnen und Experten, die Budgetierung und die Abrechnung von Vorhaben nach den Artikeln 54–56 BBG.[^66-2]
 
-<sup>2</sup> ...[^66-3]
+<sup>2</sup> …[^66-3]
 
 <sup>3</sup>
 
@@ -1510,9 +1530,9 @@ Die Gebühren für erstinstanzliche Verfügungen und für Dienstleistungen im Au
 
 **Lehrbefähigung für das Erteilen von Sportunterricht**[^76a-1]
 
-Das nach bisherigem Recht erworbene eidgenössische Turn- und Sportlehrerdiplom I oder II, das Diplom «Sportlehrerin FH» oder «Sportlehrer FH» sowie das Bachelordiplom in Sport der Eidgenössischen Hochschule für Sport Magglingen gelten als Lehrbefähigung im Sinne von Artikel 46 Absatz 3.
+Das nach bisherigem Recht erworbene eidgenössische Turn- und Sportlehrerdiplom I oder II, das Diplom «Sportlehrerin FH» oder «Sportlehrer FH» sowie das Bachelordiplom in Sport der Eidgenössischen Hochschule für Sport Magglingen gelten als Lehrbefähigung für Lehrpersonen im Sportunterricht im Sinne von Artikel 46 Absatz 5.
 
-[^76a-1]: Eingefügt durch Art. 82 Ziff. 3 der Sportförderungsverordnung vom 23. Mai 2012, in Kraft seit 1. Okt. 2012 ([AS 2012 3967](https://fedlex.data.admin.ch/eli/oc/2012/461)).
+[^76a-1]: Eingefügt durch Art. 82 Ziff. 3 der Sportförderungsverordnung vom 23. Mai ([AS 2012 3967](https://fedlex.data.admin.ch/eli/oc/2012/461)). Fassung gemäss Ziff. I der V vom 9. Sept. 2026, in Kraft seit 1. Nov. 2026 ([AS 2026 471](https://fedlex.data.admin.ch/eli/oc/2026/471)).
 
 #### Art. 77 und 78
 
