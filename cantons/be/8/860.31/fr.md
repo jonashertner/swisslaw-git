@@ -4,13 +4,12 @@ number: "860.31"
 title: Ordonnance sur les prestations de soutien aux personnes en situation de handicap
 short: OPHand
 language: fr
-version: 2026-01-01
-valid_until: 2026-10-31
-version_adopted: 2025-12-10
+version: 2026-11-01
+version_adopted: 2026-09-16
 adopted: 2023-11-22
 in_force: 2024-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/860.31"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3267/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3485/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3267/pdf_file"
 
 (OPHand)
 
-du 22.11.2023 (état au 01.01.2026)
+du 22.11.2023 (état au 01.11.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -417,9 +416,9 @@ arrête:
 
 #### Art. 35
 
-**Limitation des prestations d’assistance qui peuvent être fournies par des proches et qui sont financées par l’OIAS**
+**Limitation des prestations d’assistance fournies par des proches financées par l’OIAS**
 
-<sup>1</sup> L’OIAS finance les prestations fournies par des proches au maximum jusqu’au tiers des heures de prestations relevées lors de l’évaluation individuelle des besoins.
+<sup>1</sup> L’OIAS finance les prestations fournies par des proches au maximum jusqu’au tiers des heures de prestations vérifiées.
 
 #### Art. 36
 
@@ -677,6 +676,29 @@ arrête:
 <sup>1</sup> Les tarifs des prestations indirectes fournies par des centres de jour reconnus se montent à 50.70 francs par journée complète de présence et à 25.35 francs par demi-journée de présence.
 
 <sup>2</sup> Les tarifs selon l’alinéa 1 comprennent un forfait d’infrastructure de 18.70 francs par journée complète de présence et de 9.35 francs par demi-journée de présence, à utiliser conformément à son affectation et à attester séparément dans la comptabilité.
+
+### 5.3 Subsidiarité
+
+#### Art. 52a
+
+**Principe**
+
+<sup>1</sup> S’il ne s’avère pas opportun d’exiger d’une personne en situation de handicap qu’elle fasse valoir des prestations de tiers en raison de sa situation de logement, de soins ou de prise en charge, il peut être renoncé à la prise en compte des prestations de tiers en question.
+
+<sup>2</sup> L’OIAS statue sur la renonciation en procédant à une appréciation consciencieuse des éléments selon les critères définis à l’alinéa 1.
+
+#### Art. 52b
+
+**Homes et autres formes de logement collectif avec encadrement**
+
+<sup>1</sup> Les homes et les autres formes de logement collectif avec encadrement doivent respecter le principe de subsidiarité et, sous réserve de l’alinéa 2, facturer les soins en tant que fournisseurs de prestations admis selon la loi fédérale du 18 mars 1994 sur l’assurance-maladie (LAMal)[^52b-1].
+
+<sup>2</sup> Ils ne sont pas tenus de facturer à la charge de l’assurance obligatoire des soins les prestations de soins qu’ils fournissent
+
+- a s’ils démontrent à l’OIAS qu’une telle démarche ne couvrirait pas leurs coûts et serait donc disproportionnée ou
+- b s’ils ne sont pas en mesure de remplir les conditions d’admission malgré les efforts déployés à cet effet.
+
+[^52b-1]: RS [832.10](https://db.clex.ch/link/Bund/832.10/fr)
 
 ## 6 Décompte des prestations individuelles
 

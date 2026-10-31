@@ -4,13 +4,12 @@ number: "860.31"
 title: Verordnung über die Leistungen für Menschen mit Behinderungen
 short: BLV
 language: de
-version: 2026-01-01
-valid_until: 2026-10-31
-version_adopted: 2025-12-10
+version: 2026-11-01
+version_adopted: 2026-09-16
 adopted: 2023-11-22
 in_force: 2024-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/860.31"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3267/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3485/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3267/pdf_file"
 
 (BLV)
 
-vom 22.11.2023 (Stand 01.01.2026)
+vom 22.11.2023 (Stand 01.11.2026)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -417,9 +416,9 @@ beschliesst:
 
 #### Art. 35
 
-**Beschränkung der Assistenzleistungen, die durch Angehörige erbracht werden können und finanziert werden**
+**Beschränkung der Assistenzleistungen, die durch Angehörige erbracht werden können und vom AIS finanziert werden**
 
-<sup>1</sup> Das AIS finanziert Leistungen, die durch Angehörige erbracht werden, höchstens bis zu einem Drittel der durch die individuelle Bedarfsermittlung erhobenen Leistungsstunden.
+<sup>1</sup> Das AIS finanziert Leistungen, die durch Angehörige erbracht werden, höchstens bis zu einem Drittel der geprüften Leistungsstunden.
 
 #### Art. 36
 
@@ -677,6 +676,29 @@ beschliesst:
 <sup>1</sup> Die Tarife der nicht-personalen Leistungen für anerkannte Tagesstätten betragen pro ganzem Präsenztag 50.70 Franken und pro halbem Präsenztag 25.35 Franken.
 
 <sup>2</sup> Von den Tarifen nach Absatz 1 müssen pro ganzem Präsenztag 18.70 Franken und pro halbem Präsenztag 9.35 Franken als Infrastrukturpauschale zweckgebunden verwendet und in der Buchhaltung separat ausgewiesen werden.
+
+### 5.3 Subsidiarität
+
+#### Art. 52a
+
+**Grundsatz**
+
+<sup>1</sup> Erweist sich eine Geltendmachung von Leistungen Dritter für Menschen mit Behinderungen aufgrund ihrer Wohn-, Pflege- und Betreuungssituation als nicht zweckmässig, so kann auf die Anrechnung der entsprechenden Drittleistungen verzichtet werden.
+
+<sup>2</sup> Das AIS entscheidet nach pflichtgemässem Ermessen aufgrund der Kriterien nach Absatz 1 über den Verzicht.
+
+#### Art. 52b
+
+**Wohnheime und andere betreute kollektive Wohnformen**
+
+<sup>1</sup> Wohnheime und andere betreute kollektive Wohnformen haben sich nach dem Grundsatz der Subsidiarität zu richten und müssen, unter Vorbehalt von Absatz 2, ihre erbrachten Pflegeleistungen als zugelassene Leistungserbringer nach dem Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)[^52b-1] abrechnen.
+
+<sup>2</sup> Sie müssen ihre erbrachten Pflegeleistungen nicht zulasten der obligatorischen Krankenpflegeversicherung (OKP) abrechnen, wenn
+
+- a sie gegenüber dem AIS nachweisen, dass die Geltendmachung der Pflegebeiträge bei der OKP für sie nicht kostendeckend und damit unverhältnismässig wäre oder
+- b sie die Zulassungsvoraussetzungen trotz entsprechender Anstrengungen nicht erfüllen können.
+
+[^52b-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de)
 
 ## 6 Abrechnung der personalen Leistungen
 
