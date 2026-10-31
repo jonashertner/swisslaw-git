@@ -3,11 +3,11 @@ sr: "361.4"
 title: Verordnung vom 15. Oktober 2008 über den Nationalen Polizeiindex (Polizeiindex-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/701"
 language: de
-version: 2026-10-01
+version: 2026-11-01
 adopted: 2008-10-15
 in_force: 2008-12-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/701/20261001/de/xml/fedlex-data-admin-ch-eli-cc-2008-701-20261001-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/701/20261001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/701/20261101/de/xml/fedlex-data-admin-ch-eli-cc-2008-701-20261101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/701/20261101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/701/20261001/de"
 
 (Polizeiindex-Verordnung)
 
-vom 15. Oktober 2008 (Stand am 1. Oktober 2026)
+vom 15. Oktober 2008 (Stand am 1. November 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -100,17 +100,18 @@ Zugriff auf die in Artikel 4 aufgeführten Daten mittels eines automatisierten A
 - c.[^5-1] der Nachrichtendienst des Bundes;
 - d. der Bundessicherheitsdienst;
 - e. die Meldestelle für Geldwäscherei;
+- e<sup>bis</sup>.[^5-2] die nationale Stelle für die Bearbeitung von Flugpassagierdaten (Passenger Information Unit, PIU);
 - f. der mit der Führung des RIPOL betraute Dienst;
-- g. das Bundesamt für Justiz, zur Erfüllung der Aufgaben nach dem Rechtshilfegesetz vom 20. März 1981[^5-2];
+- g. das Bundesamt für Justiz, zur Erfüllung der Aufgaben nach dem Rechtshilfegesetz vom 20. März 1981[^5-3];
 - h. das Grenzwachtkorps und die Zollfahndung;
 - i. die Militärjustizbehörden;
 - j. das Kommando Militärische Sicherheit zur Erfüllung seiner kriminal- und sicherheitspolizeilichen Aufgaben im Armeebereich;
-- k.[^5-3] die Behörden, die nach Artikel 21 Absatz 1 des Bundesgesetzes vom 21. März 1997[^5-4] über Massnahmen zur Wahrung der inneren Sicherheit mit der Durchführung von Personensicherheitsprüfungen betraut sind;
+- k.[^5-4] die Behörden, die nach Artikel 21 Absatz 1 des Bundesgesetzes vom 21. März 1997[^5-5] über Massnahmen zur Wahrung der inneren Sicherheit mit der Durchführung von Personensicherheitsprüfungen betraut sind;
 - l. die Datenschutzberaterin, bzw. der Datenschutzberater fedpol;
 - m die Projektleiterin, bzw. der Projektleiter und die Systemadministratoren des vom Eidgenössischen Justiz- und Polizeidepartement beauftragten Informatik-Leistungserbringers für den technischen Unterhalt des Systems;
-- n.[^5-5] die Stelle von fedpol, die für die Erfüllung der Aufgaben nach dem Vorläuferstoffgesetz vom 25. September 2020[^5-6] zuständig ist;
-- o.[^5-7] das Staatsekretariat für Migration zur Wahrnehmung der ihm übertragenen Aufgaben nach den Artikeln 5 Absatz 1 Buchstabe c, 98*c*, 99 und 108*c* Absatz 1 des Ausländer- und Integrationsgesetzes vom 16. Dezember 2005[^5-8] sowie nach den Artikeln 5*a*, 26 Absatz 2 und 53 Buchstabe b des Asylgesetzes vom 26. Juni 1998[^5-9];
-- p.[^5-10] das Eidgenössische Finanzdepartement zur Erfüllung der ihm obliegenden Aufgaben nach den Artikeln 35–39 des Bundesgesetzes vom 26. September 2025[^5-11] über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen (TJPG).
+- n.[^5-6] die Stelle von fedpol, die für die Erfüllung der Aufgaben nach dem Vorläuferstoffgesetz vom 25. September 2020[^5-7] zuständig ist;
+- o.[^5-8] das Staatsekretariat für Migration zur Wahrnehmung der ihm übertragenen Aufgaben nach den Artikeln 5 Absatz 1 Buchstabe c, 98*c*, 99 und 108*c* Absatz 1 des Ausländer- und Integrationsgesetzes vom 16. Dezember 2005[^5-9] sowie nach den Artikeln 5*a*, 26 Absatz 2 und 53 Buchstabe b des Asylgesetzes vom 26. Juni 1998[^5-10];
+- p.[^5-11] das Eidgenössische Finanzdepartement zur Erfüllung der ihm obliegenden Aufgaben nach den Artikeln 35–39 des Bundesgesetzes vom 26. September 2025[^5-12] über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen (TJPG).
 
 <sup>2</sup>
 
@@ -122,16 +123,17 @@ Zugriff auf die in Artikel 4 aufgeführten Daten mittels eines automatisierten A
 <sup>3</sup> Die Zugriffsberechtigungen auf die Daten sind im Anhang geregelt.
 
 [^5-1]: Fassung gemäss Anhang 4 Ziff. II 17 der V vom 4. Dez. 2009 über den Nachrichtendienst des Bundes, in Kraft seit 1. Jan. 2010 ([AS 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
-[^5-2]: [SR 351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6277)
-[^5-3]: Fassung gemäss Anhang 3 Ziff. 5 der V vom 4. März 2011 über die Personensicherheitsprüfungen, in Kraft seit 1. April 2011 ([AS 2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)).
-[^5-4]: [SR 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
-[^5-5]: Eingefügt durch Anhang 2 Ziff. 8 der Vorläuferstoffverordnung vom 25. Mai 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
-[^5-6]: [SR 941.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11231)
-[^5-7]: Eingefügt durch Anhang 3 Ziff. 3 der V vom 16. Aug. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)). Fassung gemäss Anhang 3 Ziff. 6 der V vom 26. Aug. 2026 über das europäische und das nationale Reiseinformations- und -genehmigungssystem, in Kraft seit 1. Okt. 2026 ([AS 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
-[^5-8]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
-[^5-9]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
-[^5-10]: Eingefügt durch Anhang Ziff. 5 der V vom 12. Juni 2026 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
-[^5-11]: [SR 955.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40441)
+[^5-2]: Eingefügt durch Ziff. I der V vom 18. Sept. 2026, in Kraft seit 1. Nov. 2026 ([AS 2026 517](https://fedlex.data.admin.ch/eli/oc/2026/517)).
+[^5-3]: [SR 351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6277)
+[^5-4]: Fassung gemäss Anhang 3 Ziff. 5 der V vom 4. März 2011 über die Personensicherheitsprüfungen, in Kraft seit 1. April 2011 ([AS 2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)).
+[^5-5]: [SR 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
+[^5-6]: Eingefügt durch Anhang 2 Ziff. 8 der Vorläuferstoffverordnung vom 25. Mai 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
+[^5-7]: [SR 941.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11231)
+[^5-8]: Eingefügt durch Anhang 3 Ziff. 3 der V vom 16. Aug. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)). Fassung gemäss Anhang 3 Ziff. 6 der V vom 26. Aug. 2026 über das europäische und das nationale Reiseinformations- und -genehmigungssystem, in Kraft seit 1. Okt. 2026 ([AS 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
+[^5-9]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^5-10]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
+[^5-11]: Eingefügt durch Anhang Ziff. 5 der V vom 12. Juni 2026 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^5-12]: [SR 955.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40441)
 
 #### Art. 6
 
@@ -284,7 +286,7 @@ Anhang[^t-1]
 
 ## Zugriffsrechte auf den Nationalen Polizeiindex
 
-[^t-1]: Fassung gemäss Anhang 4 Ziff. II 17 der V vom 4. Dez. 2009 über den Nachrichtendienst des Bundes ([AS 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)). Bereinigt gemäss Anhang 3 Ziff. 5 der V vom 4. März 2011 über die Personensicherheitsprüfungen ([AS 2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)), Anhang Ziff. 9 der V über den ausserprozessualen Zeugenschutz vom 7. Nov. 2012 ([AS 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)), Ziff. II der V vom 21. Nov. 2018 ([AS 2018 4613](https://fedlex.data.admin.ch/eli/oc/2018/725)), Anhang 2 Ziff. 8 der Vorläuferstoffverordnung vom 25. Mai 2022 ([AS 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)), Anhang 3 Ziff. 3 der V vom 16. Aug. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)), Anhang Ziff. 5 der V vom 12. Juni 2026 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen ([AS 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)) und Anhang 3 Ziff. 6 der V vom 26. Aug. 2026 über das europäische und das nationale Reiseinformations- und -genehmigungssystem, in Kraft seit 1. Okt. 2026 ([AS 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
+[^t-1]: Fassung gemäss Anhang 4 Ziff. II 17 der V vom 4. Dez. 2009 über den Nachrichtendienst des Bundes ([AS 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)). Bereinigt gemäss Anhang 3 Ziff. 5 der V vom 4. März 2011 über die Personensicherheitsprüfungen ([AS 2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)), Anhang Ziff. 9 der V über den ausserprozessualen Zeugenschutz vom 7. Nov. 2012 ([AS 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)), Ziff. II der V vom 21. Nov. 2018 ([AS 2018 4613](https://fedlex.data.admin.ch/eli/oc/2018/725)), Anhang 2 Ziff. 8 der Vorläuferstoffverordnung vom 25. Mai 2022 ([AS 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)), Anhang 3 Ziff. 3 der V vom 16. Aug. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)), Anhang Ziff. 5 der V vom 12. Juni 2026 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen ([AS 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)), Anhang 3 Ziff. 6 der V vom 26. Aug. 2026 über das europäische und das nationale Reiseinformations- und -genehmigungssystem ([AS 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)) und Ziff. II der V vom 18. Sept. 2026, in Kraft seit 1. Nov. 2026 ([AS 2026 517](https://fedlex.data.admin.ch/eli/oc/2026/517)).
 
 X = Zugriff
 
@@ -334,8 +336,9 @@ leer = kein Zugriff
 ### Internationale Polizeikooperation (IPK)
 
 <table>
-<tr><th></th><th>Personenidentifizierung</th><th>Eintragungsdatum</th><th>Eintragungsgrund</th><th>Zuständige Behörde</th><th>Informationsquelle</th></tr>
-<tr><td>Einsatz- und Alarmzentrale / SIRENE CH</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><th></th><th>Personen- identifizierung</th><th>Eintragungsdatum</th><th>Eintragungsgrund</th><th>Zuständige Behörde</th><th>Informationsquelle</th></tr>
+<tr><td>Einsatz- und Alarmzentrale – SIRENE CH</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>Nationale Stelle für die Bearbeitung von Flugpassagierdaten (Passenger Information Unit, PIU)</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
 <tr><td>Operative Polizeikooperation</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
 <tr><td>Internationale Angelegenheiten</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
 <tr><td>Steuerung und Planung</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>

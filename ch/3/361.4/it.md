@@ -3,18 +3,18 @@ sr: "361.4"
 title: Ordinanza del 15 ottobre 2008 sul Registro nazionale di polizia
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/701"
 language: it
-version: 2026-10-01
+version: 2026-11-01
 adopted: 2008-10-15
 in_force: 2008-12-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/701/20261001/it/xml/fedlex-data-admin-ch-eli-cc-2008-701-20261001-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/701/20261001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/701/20261101/it/xml/fedlex-data-admin-ch-eli-cc-2008-701-20261101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/701/20261101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sul Registro nazionale di polizia
 
-del 15 ottobre 2008 (Stato 1° ottobre 2026)
+del 15 ottobre 2008 (Stato 1° novembre 2026)
 
 Il Consiglio federale svizzero,
 
@@ -98,17 +98,18 @@ Ai dati elencati nell’articolo 4 hanno accesso, per mezzo di una procedura di 
 - c.[^5-1] il Servizio delle attività informative della Confederazione;
 - d. il Servizio federale di sicurezza;
 - e. l’Ufficio di comunicazione in materia di riciclaggio di denaro;
+- e<sup>bis</sup>.[^5-2] l’unità nazionale incaricata del trattamento dei dati dei passeggeri aerei (Unità d’informazione sui passeggeri, UIP);
 - f. il servizio incaricato della gestione del RIPOL;
-- g. l’Ufficio federale di giustizia, per l’adempimento dei compiti conferitigli dalla legge federale del 20 marzo 1981[^5-2] sull’assistenza internazionale in materia penale;
-- h.[^5-3] il Corpo delle guardie di confine e la divisione principale Antifrode doganale;
+- g. l’Ufficio federale di giustizia, per l’adempimento dei compiti conferitigli dalla legge federale del 20 marzo 1981[^5-3] sull’assistenza internazionale in materia penale;
+- h.[^5-4] il Corpo delle guardie di confine e la divisione principale Antifrode doganale;
 - i. le autorità della giustizia militare;
 - j. il Comando della sicurezza militare, per l’adempimento dei suoi compiti di polizia giudiziaria e di polizia di sicurezza in ambito militare;
-- k.[^5-4] le autorità incaricate di effettuare i controlli di sicurezza conformemente all’articolo 21 capoverso 1 della legge federale del 21 marzo1997[^5-5] sulle misure per la salvaguardia della sicurezza interna (LMSI);
+- k.[^5-5] le autorità incaricate di effettuare i controlli di sicurezza conformemente all’articolo 21 capoverso 1 della legge federale del 21 marzo1997[^5-6] sulle misure per la salvaguardia della sicurezza interna (LMSI);
 - l. il consulente per la protezione dei dati di fedpol;
 - m. il responsabile di progetto e gli amministratori di sistema del fornitore di servizi informatici incaricato dal Dipartimento federale di giustizia e polizia per la manutenzione tecnica del sistema;
-- n.[^5-6] il servizio di fedpol competente per l’adempimento dei compiti secondo la legge federale del 25 settembre 2020[^5-7] sui precursori di sostanze esplodenti;
-- o.[^5-8] la Segreteria di Stato della migrazione per l’adempimento dei compiti che le sono assegnati in virtù degli articoli 5 capoverso 1 lettera c, 98*c*, 99 e 108*c* capoverso 1 della legge federale del 16 dicembre 2005[^5-9] sugli stranieri e la loro integrazione nonché degli articoli 5*a*, 26 capoverso 2 e 53 lettera b della legge del 26 giugno 1998[^5-10] sull’asilo.
-- p.[^5-11] il Dipartimento federale delle finanze, per l’adempimento dei compiti conferitigli dagli articoli 35–39 della legge del 26 settembre 2025[^5-12] sulla trasparenza delle persone giuridiche (LTPG).
+- n.[^5-7] il servizio di fedpol competente per l’adempimento dei compiti secondo la legge federale del 25 settembre 2020[^5-8] sui precursori di sostanze esplodenti;
+- o.[^5-9] la Segreteria di Stato della migrazione per l’adempimento dei compiti che le sono assegnati in virtù degli articoli 5 capoverso 1 lettera c, 98*c*, 99 e 108*c* capoverso 1 della legge federale del 16 dicembre 2005[^5-10] sugli stranieri e la loro integrazione nonché degli articoli 5*a*, 26 capoverso 2 e 53 lettera b della legge del 26 giugno 1998[^5-11] sull’asilo.
+- p.[^5-12] il Dipartimento federale delle finanze, per l’adempimento dei compiti conferitigli dagli articoli 35–39 della legge del 26 settembre 2025[^5-13] sulla trasparenza delle persone giuridiche (LTPG).
 
 <sup>2</sup>
 
@@ -120,17 +121,18 @@ Ai dati elencati nell’articolo 4 hanno inoltre accesso per mezzo di una proced
 <sup>3</sup> I diritti d’accesso ai dati sono disciplinati nell’allegato.
 
 [^5-1]: Nuovo testo giusta l’all. 4 cifra II n. 17 dell’O del 4 dic. 2009 sul Servizio delle attività informative della Confederazione, in vigore dal 1° gen. 2010 ([RU 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
-[^5-2]: [RS 351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6277)
-[^5-3]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4613](https://fedlex.data.admin.ch/eli/oc/2018/725)).
-[^5-4]: Nuovo testo giusta l’all. 3 n. 5 dell’O del 4 mar. 2011 sui controlli di sicurezza relativi alle persone, in vigore dal 1° apr. 2011 ([RU 2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)).
-[^5-5]: [RS 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
-[^5-6]: Introdotta dall’all. 2 n. 8 dell’O del 25 mag. 2022 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
-[^5-7]: [RS 941.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11231)
-[^5-8]: Introdotta dall’all. 3 n. 3 dell’O del 16 ago. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)). Nuovo testo giusta l’all. 3 n. 6 dell’O del 26 ago. 2026 sui sistemi europeo e nazionale di informazione e autorizzazione ai viaggi, in vigore dal 1° ott. 2026 ([RU 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
-[^5-9]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
-[^5-10]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
-[^5-11]: Introdotta dall’all. n. 5 dell’O del 12 giu. 2026 sulla trasparenza delle persone giuridiche, in vigore dal 1° ott. 2026 ([RU 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
-[^5-12]: [RS 955.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40441)
+[^5-2]: Introdotta dalla cifra I dell’O del 18 set. 2026, in vigore dal 1° nov. 2026 ([RU 2026 517](https://fedlex.data.admin.ch/eli/oc/2026/517)).
+[^5-3]: [RS 351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6277)
+[^5-4]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4613](https://fedlex.data.admin.ch/eli/oc/2018/725)).
+[^5-5]: Nuovo testo giusta l’all. 3 n. 5 dell’O del 4 mar. 2011 sui controlli di sicurezza relativi alle persone, in vigore dal 1° apr. 2011 ([RU 2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)).
+[^5-6]: [RS 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
+[^5-7]: Introdotta dall’all. 2 n. 8 dell’O del 25 mag. 2022 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
+[^5-8]: [RS 941.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11231)
+[^5-9]: Introdotta dall’all. 3 n. 3 dell’O del 16 ago. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)). Nuovo testo giusta l’all. 3 n. 6 dell’O del 26 ago. 2026 sui sistemi europeo e nazionale di informazione e autorizzazione ai viaggi, in vigore dal 1° ott. 2026 ([RU 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
+[^5-10]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^5-11]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
+[^5-12]: Introdotta dall’all. n. 5 dell’O del 12 giu. 2026 sulla trasparenza delle persone giuridiche, in vigore dal 1° ott. 2026 ([RU 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^5-13]: [RS 955.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40441)
 
 #### Art. 6
 
@@ -281,7 +283,7 @@ Allegato[^t-1]
 
 ## Diritti d’accesso al Registro nazionale di polizia
 
-[^t-1]: Nuovo testo giusta l’all. 4 cifra II n. 17 dell’O del 4 dic. 2009 sul Servizio delle attività informative della Confederazione ([RU 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)). Aggiornato dall’all. 3 n. 5 all’O del 4 mar. 2011 sui controlli di sicurezza relativi alle persone ([RU 2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)), dal n. 9 dell’all. all’O del 7 nov. 2012 sulla protezione extraprocessuale dei testimoni ([RU 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)), dalla cifra II dell’O del 21 nov. 2018 ([RU 2018 4613](https://fedlex.data.admin.ch/eli/oc/2018/725)), dall’all. 2 n. 8 dell’O del 25 mag. 2022 sui precursori di sostanze esplodenti ([RU 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)), dall’all. 3 n. 3 dell’O del 16 ago. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)), dall’all. n. 5 dell’O del 12 giu. 2026 sulla trasparenza delle persone giuridiche ([RU 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)) e dall’all. 3 n. 6 dell’O del 26 ago. 2026 sui sistemi europeo e nazionale di informazione e autorizzazione ai viaggi, in vigore dal 1° ott. 2026 ([RU 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
+[^t-1]: Nuovo testo giusta l’all. 4 cifra II n. 17 dell’O del 4 dic. 2009 sul Servizio delle attività informative della Confederazione ([RU 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)). Aggiornato dall’all. 3 n. 5 all’O del 4 mar. 2011 sui controlli di sicurezza relativi alle persone ([RU 2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)), dal n. 9 dell’all. all’O del 7 nov. 2012 sulla protezione extraprocessuale dei testimoni ([RU 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)), dalla cifra II dell’O del 21 nov. 2018 ([RU 2018 4613](https://fedlex.data.admin.ch/eli/oc/2018/725)), dall’all. 2 n. 8 dell’O del 25 mag. 2022 sui precursori di sostanze esplodenti ([RU 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)), dall’all. 3 n. 3 dell’O del 16 ago. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)), dall’all. n. 5 dell’O del 12 giu. 2026 sulla trasparenza delle persone giuridiche ([RU 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)), dall’all. 3 n. 6 dell’O del 26 ago. 2026 sui sistemi europeo e nazionale di informazione e autorizzazione ai viaggi ([RU 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)) e dalla cifra II dell’O del 18 set. 2026, in vigore dal 1° nov. 2026 ([RU 2026 517](https://fedlex.data.admin.ch/eli/oc/2026/517)).
 
 X = Accesso
 
@@ -332,7 +334,8 @@ vide = nessun accesso
 
 <table>
 <tr><th></th><th>Identificazione delle persone</th><th>Data dell’iscrizione</th><th>Motivo dell’iscrizione</th><th>Autorità competente</th><th>Fonte d’informazione</th></tr>
-<tr><td>Centrale operativa e d’allarme / SIRENE CH</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>Centrale operativa e d’allarme – SIRENE CH</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>Unità nazionale incaricata del trattamento dei dati dei passeggeri aerei (Unità d’informazione sui passeggeri, UIP)</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
 <tr><td>Cooperazione operativa di polizia</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
 <tr><td>Affari internazionali</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
 <tr><td>Gestione e pianificazione</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
