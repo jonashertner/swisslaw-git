@@ -4,13 +4,12 @@ number: "721.1"
 title: Gesetz über die Naturgefahren und den Wasserbau
 short: GNGWB
 language: de
-version: 2023-01-01
-valid_until: 2026-10-31
-version_adopted: 2022-06-10
+version: 2026-11-01
+version_adopted: 2025-05-08
 adopted: 2022-06-10
 in_force: 2023-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/721.1"
-pdf: "https://lex.vs.ch/api/de/versions/3147/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3659/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3147/pdf_file"
 
 (GNGWB)
 
-vom 10.06.2022 (Stand 01.01.2023)
+vom 10.06.2022 (Stand 01.11.2026)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -402,6 +401,17 @@ verordnet:
 **Kantonales Überwachungs-, Warn- und Alarmierungsnetz**
 
 <sup>1</sup> Um über die notwendigen Entscheidungsgrundlagen für die Vorhersage, Warnung und Alarmierung sowie für die Erkennung der Gefahren und deren Verfolgung zu verfügen, errichtet, betreibt und unterhält der Kanton in Zusammenarbeit mit den Gemeinden und in Ergänzung zum nationalen Messnetz ein kantonales Mess-, Vorhersage-, Warn- und Alarmierungsnetz für die Naturgefahren.
+
+<sup>2</sup> Videoüberwachungsanlagen dürfen von der zuständigen Stelle im Sinne von Artikel 4 Absatz 4 des vorliegenden Gesetzes im öffentlichen Raum eingesetzt werden, um zum kantonalen Mess-, Vorhersage-, Warn- und Alarmierungsnetz für Naturgefahren beizutragen. Diese Stelle ist für die Videoüberwachungsanlagen verantwortlich.
+
+<sup>3</sup> Die Videoüberwachungsanlagen sammeln nur Bilder und machen keine Tonaufnahmen.
+
+<sup>4</sup> Die Bekanntgabe von Personendaten aus der Videoüberwachung an Auftragsbearbeiter kann unter den im Gesetz über die Information der Öffentlichkeit, den Datenschutz und die Archivierung festgelegten Bedingungen erfolgen, ohne dass diese Daten unter das Amtsgeheimnis fallen.
+
+<sup>5</sup> Falls durch die Videoüberwachungsanlagen Personendaten gesammelt werden, die nicht sofort anonymisiert werden können, hat die für die Anlage verantwortliche Person geeignete Massnahmen zu ergreifen, um die Beeinträchtigungen für die betroffenen Personen zu begrenzen. Dabei gilt insbesondere Folgendes:
+
+- a) gesammelte Personendaten müssen innerhalb einer Frist von 30 Tagen, seit sie als solche identifiziert worden sind, vernichtet oder anonymisiert werden. Die maximale Aufbewahrungsdauer der Personendaten beträgt 90 Tage;
+- b) die Überwachungsmassnahme, die für die Videoüberwachungsanlage verantwortliche Person und deren Kontaktdaten müssen den von der Videoüberwachung betroffenen Personen durch eine Information in unmittelbarer Nähe des Bildaufzeichnungsgeräts klar und angemessen mitgeteilt werden.
 
 ### 2.3 Bauliche Massnahmen
 

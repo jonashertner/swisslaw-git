@@ -4,13 +4,12 @@ number: "721.1"
 title: "Loi sur les dangers naturels et l'aménagement des cours d'eau"
 short: LDNACE
 language: fr
-version: 2023-01-01
-valid_until: 2026-10-31
-version_adopted: 2022-06-10
+version: 2026-11-01
+version_adopted: 2025-05-08
 adopted: 2022-06-10
 in_force: 2023-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/721.1"
-pdf: "https://lex.vs.ch/api/fr/versions/3147/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3659/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3147/pdf_file"
 
 (LDNACE)
 
-du 10.06.2022 (état 01.01.2023)
+du 10.06.2022 (état 01.11.2026)
 
 Le Grand Conseil du canton du Valais
 
@@ -402,6 +401,17 @@ ordonne:
 **Réseau cantonal de surveillance, d'alerte et d'alarme**
 
 <sup>1</sup> Afin de disposer des bases de décision nécessaires à la prévision, à l’alerte et à l'alarme, à l’identification du danger ainsi qu’au suivi d’évènements naturels, le canton met en place, gère et entretient, en collaboration avec les communes et en complément au réseau national de mesures, un réseau cantonal de mesures, de prévision, d’alerte et d'alarme pour les dangers naturels.
+
+<sup>2</sup> Des systèmes de vidéosurveillance peuvent être mis en œuvre sur le domaine public par l'entité compétente au sens de l'article 4 alinéa 4 de la présente loi afin de contribuer au réseau cantonal de mesures, de prévision, d'alerte et d'alarme pour les dangers naturels. Cette entité est responsable des systèmes de vidéosurveillance.
+
+<sup>3</sup> Les systèmes de vidéosurveillance ne collectent que des images et excluent la captation du son.
+
+<sup>4</sup> La communication de données personnelles issues de la vidéosurveillance à des sous-traitants peut être réalisée aux conditions de la loi sur l'information du public, la protection des données et l'archivage, sans qu'elles ne soient couvertes par le secret de fonction.
+
+<sup>5</sup> Si des données personnelles sont collectées par les systèmes de vidéosurveillance et ne peuvent pas faire l'objet d'une anonymisation immédiate, le responsable du système prend les mesures nécessaires pour limiter les atteintes aux personnes concernées et notamment:
+
+- a) Les données personnelles collectées doivent être détruites ou anonymisées dans un délai de 30 jours dès qu'elles sont identifiées comme telles. La durée maximale de conservation des données personnelles est de 90 jours;
+- b) La mesure de surveillance, le responsable du système de vidéosurveillance et ses données de contact doivent être indiquées de manière claire et adéquate aux personnes concernées par la vidéosurveillance par une information à proximité immédiate du dispositif de captation d'image.
 
 ### 2.3 Mesures constructives
 
