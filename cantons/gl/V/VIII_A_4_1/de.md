@@ -4,13 +4,12 @@ number: VIII A/4/1
 title: Verordnung über den Vollzug der eidgenössischen Heil- und Betäubungsmittelgesetzgebung
 short: "Heil- und Betäubungsmittelvollzugsverordnung, HBVV"
 language: de
-version: 2024-10-01
-valid_until: 2026-10-31
-version_adopted: 2024-08-27
+version: 2026-11-01
+version_adopted: 2026-09-22
 adopted: 2024-08-27
 in_force: 2024-10-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VIII-A.4.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2502/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2687/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2502/pdf_file"
 
 (Heil- und Betäubungsmittelvollzugsverordnung, HBVV)
 
-Vom 27.08.2024 (Stand 01.10.2024)
+Vom 27.08.2024 (Stand 01.11.2026)
 
 Der Regierungsrat,
 
@@ -150,13 +149,11 @@ erlässt:
 - c. diplomierten Chiropraktorinnen und Chiropraktoren;
 - d. diplomierten Rettungssanitäterinnen HF und Rettungssanitätern HF;
 - e. Fachleuten der Komplementärmedizin mit eidgenössischem Diplom;
-- f. Bachelor of Science in Optometrie HF.
+- f. Bachelor of Science in Optometrie FH.
 
 <sup>2</sup> Die Kantonsapothekerin oder der Kantonsapotheker bestimmt die Arzneimittel, welche die in Absatz 1 genannten Fachpersonen nach Artikel 52 Absatz 2 VAM anwenden dürfen.
 
-<sup>3</sup> Die Bewilligung zur Berufsausübung gemäss Artikel 11 ff. Gesundheitsberufegesetz[^9-1] in Verbindung mit Artikel 25 ff. GesG beinhaltet die Bewilligung zur Anwendung von verschreibungspflichtigen Arzneimitteln durch die in Absatz 1 genannten Fachpersonen.
-
-[^9-1]: SR 811.21
+<sup>3</sup> Die Bewilligung zur Berufsausübung in eigener fachlicher Verantwortung der in Absatz 1 genannten Fachpersonen beinhaltet die Bewilligung zur Anwendung verschreibungspflichtiger Arzneimittel. Fachpersonen nach Absatz 1, die keiner solchen Bewilligung bedürfen, benötigen für die Anwendung verschreibungspflichtiger Arzneimittel eine Bewilligung der Hauptabteilung.
 
 #### Art. 10
 
@@ -224,23 +221,30 @@ erlässt:
 
 <sup>1</sup> Es werden folgende Gebühren erhoben:
 
-- a. für eine Bewilligung gemäss Artikel 10 (exkl. Inspektionen): — 300 Fr.
-- b. für Inspektionen:
-  - 1\. Grundtaxe: — 390 Fr.
-  - 2\. Zusätzlich zur Grundtaxe: Aufwand für die Inspektion und die Bearbeitung des Massnahmenplans (aufgrund der Mängelliste) pro Stunde: — 160 Fr.
-  - 3\. Mahnung, falls der Massnahmenplan nicht fristgerecht eingereicht wird: — 30 Fr.
+- a. für eine Bewilligung gemäss Artikel 9 Absatz 3 oder Artikel 10 sowie für eine Versandhandelsbewilligung gemäss Artikel 27 HMG: — 300 Fr.
+- b. für Inspektionen (je nach Aufwand): — 1000–5000 Fr.
 - c. für Arzneimittel nach eigener Formel (Hausspezialitäten):
   - 1\. Meldebestätigung (erstmalig) pro Arzneimittel: — 120 Fr.
   - 2\. Meldebestätigung (Änderung) pro Arzneimittel: — 80 Fr.
 - d. im Betäubungsmittelbereich:
   - 1\. Bewilligung nach Artikel 14 BetmG: — 300 Fr.
   - 2\. Betäubungsmittelrezeptblöcke pro Block: — 15 Fr.
-  - 3\. Aufwand für Betäubungsmittelrücknahme von Herstellern mit Swissmedic-Bewilligung pro Stunde: — 80 Fr.
+  - 3\. Aufwand für Betäubungsmittelrücknahme von Herstellern mit Swissmedic-Bewilligung (je nach Aufwand): — 50–500 Fr.
 - e. für die Ausstellung von Bescheinigungen: — 100 Fr.
 - f. für das Vornehmen von Mutationen (je nach Aufwand): — 100–300 Fr.
 
 <sup>2</sup> Die zuständige Vollzugsbehörde kann auf die Erhebung von Mutationsgebühren (Abs. 1 Bst. f) verzichten, wenn es sich um einen geringfügigen Aufwand handelt.
 
 <sup>3</sup> Sie kann ausserordentliche Aufwände zusätzlich verrechnen.
+
+## 5. Schlussbestimmungen
+
+#### Art. 16
+
+**Übergangsbestimmung zur Änderung vom 22. September 2026**
+
+<sup>1</sup> Bewilligungen zur Abgabe nicht verschreibungspflichtiger Arzneimittel, die Heilpraktikerinnen und Heilpraktikern mit kantonal anerkannter Ausbildung erteilt wurden und am 30. September 2024 gültig waren, bleiben gültig und gelten als Bewilligungen nach Artikel 10.
+
+<sup>2</sup> Sie berechtigen im Rahmen der ihnen bewilligten Fachrichtung zur Abgabe der von Swissmedic gemäss Artikel 49 VAM bezeichneten nicht verschreibungspflichtigen Arzneimittel. Im Übrigen gilt das neue Recht.
 
 SBE 2024 26
