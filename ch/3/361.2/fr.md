@@ -3,11 +3,11 @@ sr: "361.2"
 title: "Ordonnance du 15 octobre 2008 sur le système informatisé de gestion et d'indexation de dossiers et de personnes de l'Office fédéral de la police (Ordonnance IPAS)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/700"
 language: fr
-version: 2024-01-01
+version: 2026-11-01
 adopted: 2008-10-15
 in_force: 2008-12-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/700/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-700-20240101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/700/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/700/20261101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-700-20261101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/700/20261101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/700/20240101/fr"
 
 (Ordonnance IPAS)
 
-du 15 octobre 2008 (État le 1<sup>er</sup> janvier 2024)
+du 15 octobre 2008 (État le 1<sup>er</sup> novembre 2026)
 
 Le Conseil fédéral suisse,
 
@@ -397,7 +397,7 @@ Annexe 2[^t-1]
 
 ## Droits d’accès à IPAS
 
-[^t-1]: Nouvelle teneur selon l’annexe 4 ch. II 16 de l’O du 4 déc. 2009 sur le Service de renseignement de la Confédération ([RO 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)). Mise à jour par l’annexe ch. 8 de l’O du 7 nov. 2012 sur la protection extraprocédurale des témoins ([RO 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)) et l’annexe 2 ch. 7 de l’O du 25 mai 2022 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
+[^t-1]: Nouvelle teneur selon l’annexe 4 ch. II 16 de l’O du 4 déc. 2009 sur le Service de renseignement de la Confédération ([RO 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)). Mise à jour par l’annexe ch. 8 de l’O du 7 nov. 2012 sur la protection extraprocédurale des témoins ([RO 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)), l’annexe 2 ch. 7 de l’O du 25 mai 2022 sur les précurseurs de substances explosibles ([RO 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)) et le ch. I de l’O du 18 sept. 2026, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2026 518](https://fedlex.data.admin.ch/eli/oc/2026/518)).
 
 G = Get (visualiser)
 
@@ -431,10 +431,14 @@ A = Add (visualiser, introduire des données, modifier et effacer les données s
 ### Coopération policière internationale
 
 <table>
-<tr><th></th><th colspan="3">AFIS-ADN</th><th></th><th colspan="2"></th><th></th><th colspan="3">INTERPOL</th><th></th><th colspan="2"></th><th></th><th colspan="3">EUROPOL</th><th></th><th colspan="2"></th><th></th><th colspan="3">NSIS</th><th></th><th colspan="2"></th><th></th><th colspan="3">RE-CHERCHE DISPARUS</th><th></th><th colspan="2"></th><th></th><th colspan="3">DOC. D’IDENTI-TE</th><th></th><th colspan="2"></th><th></th><th>GAD</th></tr>
-<tr><th></th><th>D-B</th><th>DO</th><th colspan="3">AF</th><th colspan="2">CO</th><th>D-B</th><th>DO</th><th colspan="3">AF</th><th colspan="2">CO</th><th>D-B</th><th>DO</th><th colspan="3">AF</th><th colspan="2">CO</th><th>D-B</th><th>DO</th><th colspan="3">AF</th><th colspan="2">CO</th><th>D-B</th><th>DO</th><th colspan="3">AF</th><th colspan="2">CO</th><th>D-B</th><th>DO</th><th colspan="3">AF</th><th colspan="2">CO</th><th></th></tr>
-<tr><td>Division Engagement et recherches</td><td>G</td><td>G</td><td colspan="3">G</td><td colspan="2">G</td><td>A</td><td>A</td><td colspan="3">A</td><td colspan="2">A</td><td>A</td><td>A</td><td colspan="3">A</td><td colspan="2">A</td><td>A</td><td>A</td><td colspan="3">A</td><td colspan="2">A</td><td>A</td><td>G</td><td colspan="3">G</td><td colspan="2"></td><td>A</td><td>G</td><td colspan="3">G</td><td colspan="2"></td><td>A</td></tr>
-<tr><td>Division Coopération policière opérationnelle</td><td>G</td><td>G</td><td colspan="3">G</td><td colspan="2">G</td><td>A</td><td>A</td><td colspan="3">A</td><td colspan="2">A</td><td>A</td><td>A</td><td colspan="3">A</td><td colspan="2">A</td><td>A</td><td>A</td><td colspan="3">A</td><td colspan="2">A</td><td>A</td><td>G</td><td colspan="3">G</td><td colspan="2"></td><td>A</td><td>G</td><td colspan="3">G</td><td colspan="2"></td><td>A</td></tr>
+<tr><th></th><th colspan="4">AFIS-ADN</th><th colspan="4">INTERPOL</th><th colspan="4">EUROPOL</th><th colspan="4">NSIS</th><th colspan="4">RECHERCHE DISPARUS</th><th colspan="4">DOC. D’IDENTITE</th><th>GAD</th></tr>
+<tr><th></th><th>D-B</th><th>DO</th><th>AF</th><th>CO</th><th>D-B</th><th>DO</th><th>AF</th><th>CO</th><th>D-B</th><th>DO</th><th>AF</th><th>CO</th><th>D-B</th><th>DO</th><th>AF</th><th>CO</th><th>D-B</th><th>DO</th><th>AF</th><th>CO</th><th>D-B</th><th>DO</th><th>AF</th><th>CO</th><th></th></tr>
+<tr><td>Centrale d’engagement et d’alarme – SIRENE CH</td><td>G</td><td>G</td><td>G</td><td>G</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>G</td><td>G</td><td></td><td>A</td><td>G</td><td>G</td><td></td><td>A</td></tr>
+<tr><td>Division Coopération policière opérationnelle: Commissariat Gestion des informations</td><td>G</td><td>G</td><td>G</td><td>G</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>G</td><td>G</td><td></td><td>A</td><td>G</td><td>G</td><td></td><td>A</td></tr>
+<tr><td>Commissariat CCPD/Europol</td><td>G</td><td>G</td><td>G</td><td>G</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>G</td><td>G</td><td></td><td>A</td><td>G</td><td>G</td><td></td><td>A</td></tr>
+<tr><td>Commissariat Attachés de police</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td></td><td>G</td><td>G</td><td>G</td><td></td><td>A</td></tr>
+<tr><td>Commissariat Identifications internationales</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>G</td><td>G</td><td></td><td>A</td><td>G</td><td>G</td><td></td><td>A</td></tr>
+<tr><td>Unité nationale chargée du traitement des données relatives aux passagers aériens (Unité d’information passagers, UIP)</td><td></td><td></td><td></td><td></td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td></td><td></td><td></td><td></td><td>G</td><td>G</td><td>G</td><td></td><td>A</td></tr>
 </table>
 
 ### État-major

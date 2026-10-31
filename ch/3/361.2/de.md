@@ -3,11 +3,11 @@ sr: "361.2"
 title: "Verordnung vom 15. Oktober 2008 über das informatisierte Personennachweis, Aktennachweis- und Verwaltungssystem im Bundesamt für Polizei (IPAS-Verordnung)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/700"
 language: de
-version: 2024-01-01
+version: 2026-11-01
 adopted: 2008-10-15
 in_force: 2008-12-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/700/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2008-700-20240101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/700/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/700/20261101/de/xml/fedlex-data-admin-ch-eli-cc-2008-700-20261101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/700/20261101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/700/20240101/de"
 
 (IPAS-Verordnung)
 
-vom 15. Oktober 2008 (Stand am 1. Januar 2024)
+vom 15. Oktober 2008 (Stand am 1. November 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -397,7 +397,7 @@ Anhang 2[^t-1]
 
 ## IPAS Zugriffsrechte
 
-[^t-1]: Fassung gemäss Anhang 4 Ziff. II 16 der V vom 4. Dez. 2009 über den Nachrichtendienst des Bundes ([AS 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)). Bereinigt gemäss Anhang Ziff. 8 der V über den ausserprozessualen Zeugenschutz vom 7. Nov. 2012 ([AS 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)) und Anhang 2 Ziff. 7 der Vorläuferstoffverordnung vom 25. Mai 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
+[^t-1]: Fassung gemäss Anhang 4 Ziff. II 16 der V vom 4. Dez. 2009 über den Nachrichtendienst des Bundes ([AS 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)). Bereinigt gemäss Anhang Ziff. 8 der V über den ausserprozessualen Zeugenschutz vom 7. Nov. 2012 ([AS 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)), Anhang 2 Ziff. 7 der Vorläuferstoffverordnung vom 25. Mai 2022 ([AS 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)) und Ziff. I der V vom 18. Sept. 2026, in Kraft seit 1. Nov. 2026 ([AS 2026 518](https://fedlex.data.admin.ch/eli/oc/2026/518)).
 
 G = Get (anzeigen)
 
@@ -430,13 +430,14 @@ A = Add (anzeigen, Daten erfassen, und die von der Verwaltungseinheit erfassten 
 ### Internationale Polizeikooperation
 
 <table>
-<tr><th></th><th colspan="4">AFIS-DNA</th><th></th><th colspan="2"></th><th></th><th colspan="4">INTERPOL</th><th></th><th colspan="2"></th><th></th><th colspan="3">EUROPOL</th><th></th><th colspan="2"></th><th></th><th colspan="3">NSIS</th><th></th><th colspan="2"></th><th></th><th colspan="3">VERMISSTE PERSONEN</th><th></th><th colspan="2"></th><th></th><th colspan="3">ID-AUSWEIS</th><th></th><th colspan="2"></th><th></th><th>GAV</th></tr>
-<tr><th colspan="2"></th><th>ST</th><th>DO</th><th colspan="3">GS</th><th colspan="3">GI</th><th>ST</th><th>DO</th><th colspan="3">GS</th><th colspan="2">GI</th><th>ST</th><th>DO</th><th colspan="3">GS</th><th colspan="2">GI</th><th>ST</th><th>DO</th><th colspan="3">GS</th><th colspan="2">GI</th><th>ST</th><th>DO</th><th colspan="3">GS</th><th colspan="2">GI</th><th>ST</th><th>DO</th><th colspan="3">GS</th><th colspan="2">GI</th><th></th></tr>
-<tr><td colspan="2">Abteilung Einsatzzentrale</td><td>G</td><td>G</td><td colspan="3">G</td><td colspan="3">G</td><td>A</td><td>A</td><td colspan="3">A</td><td colspan="2">A</td><td>A</td><td>A</td><td colspan="3">A</td><td colspan="2">A</td><td>A</td><td>A</td><td colspan="3">A</td><td colspan="2">A</td><td>A</td><td>G</td><td colspan="3">G</td><td colspan="2"></td><td>A</td><td>G</td><td colspan="3">G</td><td colspan="2"></td><td>A</td></tr>
-<tr><td colspan="2">Abteilung Operative Polizeikooperation: Kommissariat Infomanagement</td><td>G</td><td>G</td><td colspan="3">G</td><td colspan="3">G</td><td>A</td><td>A</td><td colspan="3">A</td><td colspan="2">A</td><td>A</td><td>A</td><td colspan="3">A</td><td colspan="2">A</td><td>A</td><td>A</td><td colspan="3">A</td><td colspan="2">A</td><td>A</td><td>G</td><td colspan="3">G</td><td colspan="2"></td><td>A</td><td>G</td><td colspan="3">G</td><td colspan="2"></td><td>A</td></tr>
-<tr><td colspan="2">Kommissariat CCPD/Europol</td><td>G</td><td>G</td><td colspan="3">G</td><td colspan="3">G</td><td>A</td><td>A</td><td colspan="3">A</td><td colspan="2">A</td><td>A</td><td>A</td><td colspan="3">A</td><td colspan="2">A</td><td>A</td><td>A</td><td colspan="3">A</td><td colspan="2">A</td><td>A</td><td>G</td><td colspan="3">G</td><td colspan="2"></td><td>A</td><td>G</td><td colspan="3">G</td><td colspan="2"></td><td>A</td></tr>
-<tr><td colspan="2">Kommissariat Polizeiattachés</td><td>G</td><td>G</td><td colspan="3">G</td><td colspan="3">G</td><td>G</td><td>G</td><td colspan="3">G</td><td colspan="2">G</td><td>G</td><td>G</td><td colspan="3">G</td><td colspan="2">G</td><td>G</td><td>G</td><td colspan="3">G</td><td colspan="2">G</td><td>G</td><td>G</td><td colspan="3">G</td><td colspan="2"></td><td>G</td><td>G</td><td colspan="3">G</td><td colspan="2"></td><td>A</td></tr>
-<tr><td colspan="2">Kommissariat Internat. Identifizierungen</td><td>A</td><td>A</td><td colspan="3">A</td><td colspan="3">A</td><td>A</td><td>A</td><td colspan="3">A</td><td colspan="2">A</td><td>A</td><td>A</td><td colspan="3">A</td><td colspan="2">A</td><td>A</td><td>A</td><td colspan="3">A</td><td colspan="2">A</td><td>A</td><td>G</td><td colspan="3">G</td><td colspan="2"></td><td>A</td><td>G</td><td colspan="3">G</td><td colspan="2"></td><td>A</td></tr>
+<tr><th></th><th colspan="4">AFIS-DNA</th><th colspan="4">INTERPOL</th><th colspan="4">Europol</th><th colspan="4">NSIS</th><th colspan="4">Vermisste Personen</th><th colspan="4">ID-Ausweis</th><th>GAV</th></tr>
+<tr><th></th><th>ST</th><th>DO</th><th>GS</th><th>GI</th><th>ST</th><th>DO</th><th>GS</th><th>GI</th><th>ST</th><th>DO</th><th>GS</th><th>GI</th><th>ST</th><th>DO</th><th>GS</th><th>GI</th><th>ST</th><th>DO</th><th>GS</th><th>GI</th><th>ST</th><th>DO</th><th>GS</th><th>GI</th><th></th></tr>
+<tr><td>Einsatz- und Alarmzentrale – SIRENE CH</td><td>G</td><td>G</td><td>G</td><td>G</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>G</td><td>G</td><td></td><td>A</td><td>G</td><td>G</td><td></td><td>A</td></tr>
+<tr><td>Abteilung Operative Polizeikooperation: Kommissariat Infomanagement</td><td>G</td><td>G</td><td>G</td><td>G</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>G</td><td>G</td><td></td><td>A</td><td>G</td><td>G</td><td></td><td>A</td></tr>
+<tr><td>Kommissariat CCPD/Europol</td><td>G</td><td>G</td><td>G</td><td>G</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>G</td><td>G</td><td></td><td>A</td><td>G</td><td>G</td><td></td><td>A</td></tr>
+<tr><td>Kommissariat Polizeiattachés</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td></td><td>G</td><td>G</td><td>G</td><td></td><td>A</td></tr>
+<tr><td>Kommissariat Internat. Identifizierungen</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>G</td><td>G</td><td></td><td>A</td><td>G</td><td>G</td><td></td><td>A</td></tr>
+<tr><td>Nationale Stelle für die Bearbeitung von Flugpassagierdaten (Passenger Information Unit, PIU)</td><td></td><td></td><td></td><td></td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td></td><td></td><td></td><td></td><td>G</td><td>G</td><td>G</td><td></td><td>A</td></tr>
 </table>
 
 ### Stab
@@ -452,11 +453,11 @@ A = Add (anzeigen, Daten erfassen, und die von der Verwaltungseinheit erfassten 
 ### Bundessicherheitsdienst
 
 <table>
-<tr><th></th><th colspan="4">AFIS-DNA</th><th></th><th colspan="2"></th><th></th><th colspan="4">INTERPOL</th><th></th><th colspan="2"></th><th></th><th colspan="4">EUROPOL</th><th></th><th colspan="2"></th><th></th><th colspan="3">NSIS</th><th></th><th colspan="2"></th><th></th><th colspan="3">VERMISSTE PERSONEN</th><th></th><th colspan="2"></th><th></th><th colspan="3">ID-AUSWEIS</th><th></th><th colspan="2"></th><th></th><th>GAV</th></tr>
-<tr><td colspan="2"></td><td>ST</td><td>DO</td><td colspan="3">GS</td><td colspan="3">GI</td><td>ST</td><td>DO</td><td colspan="3">GS</td><td colspan="3">GI</td><td>ST</td><td>DO</td><td colspan="3">GS</td><td colspan="2">GI</td><td>ST</td><td>DO</td><td colspan="3">GS</td><td colspan="2">GI</td><td>ST</td><td>DO</td><td colspan="3">GS</td><td colspan="2">GI</td><td>ST</td><td>DO</td><td colspan="3">GS</td><td colspan="2">GI</td><td></td></tr>
-<tr><td colspan="2">Fachbereich Gefährdungslage</td><td>G</td><td></td><td colspan="3"></td><td colspan="3"></td><td>G</td><td></td><td colspan="3"></td><td colspan="3"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>–</td></tr>
-<tr><td colspan="2">Kommissariat Sicherheit Magistraten und ausländische Vertretungen (SMAV)</td><td>G</td><td></td><td colspan="3"></td><td colspan="3"></td><td>G</td><td></td><td colspan="3"></td><td colspan="3"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>–</td></tr>
-<tr><td colspan="2">Kommissariat Sicherheit ausländische Besucher (SAB)</td><td>G</td><td></td><td colspan="3"></td><td colspan="3"></td><td>G</td><td></td><td colspan="3"></td><td colspan="3"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>–</td></tr>
+<tr><th></th><th colspan="4">AFIS-DNA</th><th></th><th colspan="2"></th><th></th><th colspan="3">INTERPOL</th><th></th><th colspan="2"></th><th></th><th colspan="4">EUROPOL</th><th></th><th colspan="2"></th><th></th><th colspan="3">NSIS</th><th></th><th colspan="2"></th><th></th><th colspan="3">VERMISSTE PERSONEN</th><th></th><th colspan="2"></th><th></th><th colspan="3">ID-AUSWEIS</th><th></th><th colspan="2"></th><th></th><th>GAV</th></tr>
+<tr><td colspan="2"></td><td>ST</td><td>DO</td><td colspan="3">GS</td><td colspan="2">GI</td><td>ST</td><td>DO</td><td colspan="3">GS</td><td colspan="3">GI</td><td>ST</td><td>DO</td><td colspan="3">GS</td><td colspan="2">GI</td><td>ST</td><td>DO</td><td colspan="3">GS</td><td colspan="2">GI</td><td>ST</td><td>DO</td><td colspan="3">GS</td><td colspan="2">GI</td><td>ST</td><td>DO</td><td colspan="3">GS</td><td colspan="2">GI</td><td></td></tr>
+<tr><td colspan="2">Fachbereich Gefährdungslage</td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="3"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>–</td></tr>
+<tr><td colspan="2">Kommissariat Sicherheit Magistraten und ausländische Vertretungen (SMAV)</td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="3"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>–</td></tr>
+<tr><td colspan="2">Kommissariat Sicherheit ausländische Besucher (SAB)</td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="3"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>–</td></tr>
 </table>
 
 ### Informatik-Leistungserbringer
