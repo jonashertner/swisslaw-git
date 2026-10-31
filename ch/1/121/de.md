@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 25. September 2015 über den Nachrichtendienst (Nachric
 short: NDG
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/494"
 language: de
-version: 2024-01-01
+version: 2026-11-01
 adopted: 2015-09-25
 in_force: 2017-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/494/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2017-494-20240101-de-xml-12.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/494/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/494/20261101/de/xml/fedlex-data-admin-ch-eli-cc-2017-494-20261101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/494/20261101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/494/20240101/de"
 
 (Nachrichtendienstgesetz, NDG)
 
-vom 25. September 2015 (Stand am 1. Januar 2024)
+vom 25. September 2015 (Stand am 1. November 2026)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -292,6 +292,19 @@ Die Ausschreibung einer Person oder eines Fahrzeugs ist nur zulässig, wenn begr
 
 [^16-1]: [SR 361](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6307)
 [^16-2]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+
+#### Art. 16a
+
+**Flugpassagierdaten**[^16a-1]
+
+<sup>1</sup> Der NDB bearbeitet die Flugpassagierdaten nach Artikel 11 des Flugpassagierdatengesetzes vom 21. März 2025[^16a-2].
+
+<sup>2</sup> Der Bundesrat legt die Flugstrecken in einer nicht öffentlichen Liste fest; er orientiert sich dabei an der aktuellen Bedrohungslage.
+
+<sup>3</sup> Die Flugpassagierdaten werden spätestens einen Monat nach der Übermittlung an den NDB automatisch gelöscht, es sei denn, der Abgleich mit den Informationssystemen IASA NDB (Art. 49) und IASA‑GEX NDB (Art. 50) hat zu einer Übereinstimmung geführt.
+
+[^16a-1]: Eingefügt durch Anhang 3 Ziff. 1 des Flugpassagierdatengesetzes vom 21. März 2025, in Kraft seit 1. Nov. 2026 ( [[AS 2025 739](https://www.fedlex.admin.ch/eli/oc/2025/739/de)](https://fedlex.data.admin.ch/eli/oc/2025/739); [2026 510](https://fedlex.data.admin.ch/eli/oc/2026/510); [BBl 2024 1485](https://fedlex.data.admin.ch/eli/fga/2024/1485)).
+[^16a-2]: [SR 129](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40121)
 
 ### 2. Abschnitt: Legendierungen und Tarnidentitäten
 

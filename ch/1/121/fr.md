@@ -4,11 +4,11 @@ title: Loi fédérale du 25 septembre 2015 sur le renseignement (LRens)
 short: LRens
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/494"
 language: fr
-version: 2024-01-01
+version: 2026-11-01
 adopted: 2015-09-25
 in_force: 2017-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/494/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-494-20240101-fr-xml-12.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/494/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/494/20261101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-494-20261101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/494/20261101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/494/20240101/fr"
 
 (LRens)[^t-1]
 
-du 25 septembre 2015 (État le 1<sup>er</sup> janvier 2024)
+du 25 septembre 2015 (État le 1<sup>er</sup> novembre 2026)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -292,6 +292,19 @@ Il n’est autorisé à procéder à un signalement de personne ou de véhicule 
 
 [^16-1]: [RS 361](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6307)
 [^16-2]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+
+#### Art. 16a
+
+**Données relatives aux passagers aériens**[^16a-1]
+
+<sup>1</sup> Le SRC traite les données relatives aux passagers aériens conformément à l’art. 11 de la loi du 21 mars 2025 sur les données relatives aux passagers aériens[^16a-2].
+
+<sup>2</sup> Le Conseil fédéral détermine les liaisons aériennes dans une liste non publique en se fondant sur l’appréciation actuelle de la menace.
+
+<sup>3</sup> Les données relatives aux passagers aériens sont effacées automatiquement au plus tard un mois après avoir été transmises au SRC à moins que la comparaison avec les systèmes d’information IASA SRC (art. 49) et IASA‑EXTR SRC (art. 50) ait abouti à une concordance.
+
+[^16a-1]: Introduit par l’annexe 3 ch. 1 de la LF du 21 mars 2025 sur les données relatives aux passagers aériens, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2025 739](https://fedlex.data.admin.ch/eli/oc/2025/739); [2026 510](https://fedlex.data.admin.ch/eli/oc/2026/510); [FF 2024 1485](https://fedlex.data.admin.ch/eli/fga/2024/1485)).
+[^16a-2]: [RS 129](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40121)
 
 ### Section 2 Couverture et identité d’emprunt
 
@@ -1425,9 +1438,9 @@ L’abrogation et la modification d’autres actes sont réglées en annexe.
 
 #### Art. 87
 
-**Coordination avec la modification du 25 septembre 2015 de la loi fédérale sur le service civil**[^87-1]
+**Coordination avec la modification du 25 septembre 2015 de la loi fédérale sur le service civil**
 
-…
+…[^87-1]
 
 [^87-1]: La disp. de coordination peut être consultée au [RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494).
 

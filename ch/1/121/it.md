@@ -4,11 +4,11 @@ title: Legge federale del 25 settembre 2015 sulle attività informative (LAIn)
 short: LAIn
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/494"
 language: it
-version: 2024-01-01
+version: 2026-11-01
 adopted: 2015-09-25
 in_force: 2017-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/494/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2017-494-20240101-it-xml-12.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/494/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/494/20261101/it/xml/fedlex-data-admin-ch-eli-cc-2017-494-20261101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/494/20261101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/494/20240101/it"
 
 (LAIn)
 
-del 25 settembre 2015 (Stato 1° gennaio 2024)
+del 25 settembre 2015 (Stato 1° novembre 2026)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -290,6 +290,19 @@ La segnalazione di una persona o di un veicolo è ammessa unicamente se sussisto
 
 [^16-1]: [RS 361](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6307)
 [^16-2]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+
+#### Art. 16a
+
+**Dati dei passeggeri aerei**[^16a-1]
+
+<sup>1</sup> Il SIC tratta i dati dei passeggeri aerei conformemente all’articolo 11 della legge del 21 marzo 2025[^16a-2] sui dati dei passeggeri aerei.
+
+<sup>2</sup> Il Consiglio federale stabilisce, in un elenco non pubblico, i collegamenti aerei; al riguardo, si fonda sulla situazione di minaccia del momento.
+
+<sup>3</sup> I dati dei passeggeri aerei sono cancellati automaticamente al più tardi dopo un mese dal momento in cui pervengono al SIC, a meno che il confronto con i sistemi d’informazione IASA SIC (art. 49) e IASA‑GEX SIC (art. 50) abbia prodotto una corrispondenza.
+
+[^16a-1]: Introdotto dall’all. 3 n. 1 della LF del 21 mar. 2025 sui dati dei passeggeri aerei, in vigore dal 1° nov. 2026 ([RU 2025 739](https://fedlex.data.admin.ch/eli/oc/2025/739); [2026 510](https://fedlex.data.admin.ch/eli/oc/2026/510); [FF 2024 1485](https://fedlex.data.admin.ch/eli/fga/2024/1485)).
+[^16a-2]: [RS 129](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40121)
 
 ### Sezione 2: Coperture e identità fittizie
 
@@ -1097,7 +1110,7 @@ Qualora una persona domandi al SIC se stia trattando dati che la concernono nei 
 
 <sup>2</sup> L’IFPDT comunica al richiedente che nessun dato che lo concerne è trattato in modo illecito oppure che sono stati riscontrati errori nel trattamento dei dati o riguardanti il differimento dell’informazione e che ha aperto un’inchiesta ai sensi dell’articolo 49 LPD[^64-1].[^64-2]
 
-<sup>3</sup> *...* [^64-3]
+<sup>3</sup> …[^64-3]
 
 <sup>4</sup> Se riscontra errori nel trattamento dei dati o riguardanti il differimento dell’informazione, l’IFPDT ordina al SIC di correggere tali errori.[^64-4]
 
@@ -1425,7 +1438,7 @@ L’abrogazione e la modifica di altri atti normativi sono disciplinate nell’a
 
 **Coordinamento con la modifica del 25 settembre 2015 della legge sul servizio civile**
 
-...[^87-1]
+…[^87-1]
 
 [^87-1]: La mod. può essere consultata alla [RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494)
 
@@ -1455,7 +1468,7 @@ II
 
 Gli atti normativi qui appresso sono modificati come segue:
 
-...[^annexu1-lvlu1-2]
+…[^annexu1-lvlu1-2]
 
 [^annexu1-lvlu1-1]: [[RU 2009 6565](https://fedlex.data.admin.ch/eli/oc/2009/809); [2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428)all. n. 1, [5525](https://fedlex.data.admin.ch/eli/oc/2012/637); [2014 3223](https://fedlex.data.admin.ch/eli/oc/2014/553)]
 [^annexu1-lvlu1-2]: Le mod. possono essere consultate alla [RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494).
