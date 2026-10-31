@@ -4,13 +4,12 @@ number: "109.111"
 title: Ordonnance sur l’administration numérique
 short: OAN
 language: fr
-version: 2026-09-01
-valid_until: 2026-10-31
-version_adopted: 2026-06-24
+version: 2026-11-01
+version_adopted: 2026-09-09
 adopted: 2023-01-11
 in_force: 2023-03-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/109.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3454/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3490/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3454/pdf_file"
 
 (OAN)
 
-du 11.01.2023 (état au 01.09.2026)
+du 11.01.2023 (état au 01.11.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -128,16 +127,9 @@ arrête:
 - b peuvent notamment exiger à cet effet la présentation de moyens d'identification et les vérifier en présence des personnes ou par voie numérique;
 - c utilisent à cet effet des procédures qui garantissent un niveau de confiance adapté à la finalité de la prestation numérique.
 
-<sup>2</sup> Au moins une procédure de niveau de confiance 2, en conformité avec la norme eCH-0170 «Modèle de qualité pour l'authentification des sujets»[^9-1] est en règle générale requise pour les prestations numériques qui permettent
-
-- a d’effectuer des paiements à des tiers;
-- b d'établir des droits ou des obligations d'importance;
-- c de notifier des décisions ou des décisions sur recours ou
-- d de traiter des données sensibles ou soumises à une obligation légale particulière de garder le secret.
+<sup>2</sup> …
 
 <sup>3</sup> Les prescriptions de la législation spéciale ou du droit fédéral sont réservées.
-
-[^9-1]: Cette norme est consultable à l'adresse [http://www.ech.ch](http://www.ech.ch).
 
 ## 2 Services de base
 
@@ -280,8 +272,9 @@ arrête:
 
 - a la cheffe ou le chef de l’OIO (présidence),
 - b la ou le responsable du SAN (suppléance de la présidence),
-- c des personnes chargées de représenter les Directions, la Chancellerie d’Etat et les autorités de justice, en règle générale les subordonnées ou subordonnés directs ou la suppléante ou le suppléant de la cheffe ou du chef d’office,
-- d d'autres personnes, désignées par la DGNT, pour représenter l’administration cantonale ou d’autres autorités.
+- c des personnes chargées de représenter les Directions, la Chancellerie d’Etat, les Services parlementaires et les autorités de justice, en règle générale les subordonnées ou subordonnés directs ou la suppléante ou le suppléant de la cheffe ou du chef d’office,
+- d d'autres personnes, désignées par la DGNT, pour représenter l’administration cantonale ou d’autres autorités,
+- e la chargée ou le chargé de sécurité de la CNT (CS CNT) au sens de l'article 42, alinéa 1 de l'ordonnance du 9 septembre 2026 sur la sécurité de l'information et des données (OSID)[^18-1].
 
 <sup>2</sup> La CNT
 
@@ -289,13 +282,15 @@ arrête:
 - b édicte sur proposition des groupes spécialisés compétents
   - 1\. les normes et les processus au sens de l’article 14 LAN,
   - 2\. les descriptions des rôles de l’administration dans le domaine de l’administration numérique et des TIC;
-- c édicte des instructions pour la mise en œuvre de la législation sur l’administration numérique;
+- c édicte des instructions pour la mise en œuvre de la législation sur l’administration numérique ainsi que sur la sécurité de l'information et des données;
 - d coordonne la gestion des portefeuilles des projets, les prestations, les applications et les données de l’administration;
 - e assure le contrôle de gestion à l'échelle de l'administration;
 - f peut commander des études, des projets, des analyses comparatives et des audits;
 - g tranche en cas de divergences entre les Directions, la Chancellerie d’Etat et les autorités de justice sur des projets ou des affaires concernant plusieurs Directions.
 
 <sup>3</sup> L'OIO assure le secrétariat.
+
+[^18-1]: RSB [152.091](https://www.belex.sites.be.ch/data/%20152.091/fr)
 
 #### Art. 19
 
@@ -308,7 +303,7 @@ arrête:
 - a des personnes chargées de représenter chacune des Directions, la Chancellerie d’Etat et les autorités de justice;
 - b si nécessaire des représentantes et représentants du Contrôle des finances et du Bureau pour la protection des données;
 - c si nécessaire des représentantes et représentants des communes;
-- d si nécessaire des représentantes et représentants des Services parlementaires;
+- d …
 - e des expertes et experts.
 
 <sup>3</sup> Les groupes spécialisés assument les tâches suivantes dans leur domaine de spécialité:

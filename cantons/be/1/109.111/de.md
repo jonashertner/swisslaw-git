@@ -4,13 +4,12 @@ number: "109.111"
 title: Verordnung über die digitale Verwaltung
 short: DVV
 language: de
-version: 2026-09-01
-valid_until: 2026-10-31
-version_adopted: 2026-06-24
+version: 2026-11-01
+version_adopted: 2026-09-09
 adopted: 2023-01-11
 in_force: 2023-03-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/109.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3454/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3490/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3454/pdf_file"
 
 (DVV)
 
-vom 11.01.2023 (Stand 01.09.2026)
+vom 11.01.2023 (Stand 01.11.2026)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -128,16 +127,9 @@ beschliesst:
 - b können dazu namentlich die Vorlage von Identifikationsmitteln verlangen und diese in Anwesenheit der Personen oder auf digitalem Weg überprüfen,
 - c setzen dazu Verfahren ein, die ein dem Zweck der digitalen Leistung angemessenes Vertrauen gewährleisten.
 
-<sup>2</sup> Mindestens ein Verfahren mit der Vertrauensstufe 2 gemäss dem Standard eCH-0170 «Qualitätsmodell zur Authentifizierung von Subjekten»[^9-1] ist in der Regel erforderlich für digitale Leistungen, mit denen
-
-- a Zahlungen an Dritte erfolgen,
-- b bedeutende Rechte oder Pflichten begründet werden,
-- c Verfügungen oder Entscheide eröffnet werden, oder
-- d Personendaten bearbeitet werden, die besonders schützenswert sind oder einer besonderen gesetzlichen Geheimhaltungspflicht unterliegen.
+<sup>2</sup> …
 
 <sup>3</sup> Vorbehalten bleiben Vorschriften der besonderen Gesetzgebung oder des Bundesrechts.
-
-[^9-1]: Dieser Standard ist abrufbar unter [http://www.ech.ch](http://www.ech.ch).
 
 ## 2 Basisdienste
 
@@ -280,8 +272,9 @@ beschliesst:
 
 - a die Vorsteherin oder der Vorsteher des KAIO (Vorsitz),
 - b die Leiterin oder der Leiter der GDV (stellvertretender Vorsitz),
-- c Vertretungen der Direktionen, der Staatskanzlei und der Justizbehörden, wobei es sich dabei in der Regel um Direktunterstellte der Vorsteherin oder des Vorstehers oder deren Stellvertretungen handelt,
-- d von der RDI bestimmte weitere Vertretungen der Kantonsverwaltung oder anderer Behörden.
+- c Vertretungen der Direktionen, der Staatskanzlei, der Parlamentsdienste und der Justizbehörden, wobei es sich dabei in der Regel Direktunterstellte der Vorsteherin oder des Vorstehers oder deren Stellvertretungen handelt,
+- d von der RDI bestimmte weitere Vertretungen der Kantonsverwaltung oder anderer Behörden,
+- e die oder der Sicherheitsbeauftragte der KDI (SIBE KDI) nach Artikel 37 Absatz 1 der Verordnung vom 9. September 2026 über die Informations- und Datensicherheit (IDSV)[^18-1].
 
 <sup>2</sup> Die KDI
 
@@ -289,13 +282,15 @@ beschliesst:
 - b erlässt auf Antrag der zuständigen Fachgruppen
   - 1\. Standards und Prozesse gemäss Artikel 14 DVG,
   - 2\. die Rollenbeschreibungen der Verwaltung im Bereich der digitalen Verwaltung und der ICT,
-- c erlässt Weisungen zur Umsetzung der Gesetzgebung über die digitale Verwaltung,
+- c erlässt Weisungen zur Umsetzung der Gesetzgebung über die digitale Verwaltung sowie über die Informations- und Datensicherheit,
 - d koordiniert die Führung der Portfolios der Projekte, Leistungen, Applikationen und Daten der Verwaltung,
 - e stellt das verwaltungsweite Controlling sicher,
 - f kann Studien, Projekte, Benchmarks und Audits in Auftrag geben,
 - g entscheidet über Differenzen zwischen Direktionen, der Staatskanzlei oder den Justizbehörden bei direktionsübergreifenden Projekten oder Angelegenheiten.
 
 <sup>3</sup> Das KAIO stellt das Sekretariat sicher.
+
+[^18-1]: BSG [152.091](https://www.belex.sites.be.ch/data/152.091/de)
 
 #### Art. 19
 
@@ -305,10 +300,10 @@ beschliesst:
 
 <sup>2</sup> Den Fachgruppen gehören an:
 
-- a Vertretungen aller Direktionen, der Staatskanzlei und der Justizbehörden,
+- a Vertretungen aller Direktionen, der Staatskanzlei, der Parlamentsdienste und der Justizbehörden,
 - b gegebenenfalls Vertretungen der Finanzkontrolle und der kantonalen Datenschutzbehörde,
 - c gegebenenfalls Vertretungen der Gemeinden,
-- d gegebenenfalls Vertretungen der Parlamentsdienste,
+- d …
 - e Fachpersonen.
 
 <sup>3</sup> Die Fachgruppen haben in ihrem Fachgebiet folgende Aufgaben:
