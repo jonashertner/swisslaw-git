@@ -4,11 +4,11 @@ title: "Loi fédérale du 16 décembre 2005 sur les étrangers et l'intégration
 short: LEI
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: fr
-version: 2026-06-12
+version: 2026-11-01
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20260612/fr/xml/fedlex-data-admin-ch-eli-cc-2007-758-20260612-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20260612/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20261101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-758-20261101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20261101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20260612/fr"
 
 (LEI)[^t-2][^t-1]
 
-du 16 décembre 2005 (État le 12 juin 2026)
+du 16 décembre 2005 (État le 1<sup>er</sup> novembre 2026)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 [^t-2]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 2016 (Intégration), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524)).
@@ -3685,7 +3685,7 @@ Peuvent saisir, modifier et effacer des données dans ORBIS afin d’accomplir l
 
 #### Art. 109c
 
-**Consultation d’ORBIS [^109c-2]**[^109c-1]
+**Consultation d’ORBIS[^109c-2]**[^109c-1]
 
 Le SEM peut autoriser les organes ci-après à accéder en ligne aux données d’ORBIS:[^109c-3]
 
@@ -3703,7 +3703,8 @@ Le SEM peut autoriser les organes ci-après à accéder en ligne aux données d�
 
 - g. les instances fédérales de recours compétentes: pour l’instruction des recours qui leur parviennent;
 - h. les offices de l’état civil et leurs autorités de surveillance: pour l’identification de personnes en relation avec des événements de l’état civil, la célébration d’un mariage ou l’enregistrement d’un partenariat et la lutte contre le contournement du droit des étrangers visé aux art. 97*a*, al. 1, du code civil[^109c-7] et 6, al. 2, de la loi du 18 juin 2004 sur le partenariat[^109c-8];
-- i.[^109c-9] l’unité nationale ETIAS: dans le cadre de l’accomplissement de ses tâches.
+- i.[^109c-9] l’unité nationale ETIAS: dans le cadre de l’accomplissement de ses tâches;
+- j.[^109c-10] l’unité nationale chargée du traitement des données relatives aux passagers aériens: pour la vérification de l’identité des passagers aériens (art. 6, al. 3, let. b, de la loi du 21 mars 2025 sur les données relatives aux passagers aériens[^109c-11]).
 
 [^109c-1]: Introduit par l’art. 2 ch. 1 de l’AF du 11 déc. 2009 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise du R et de la D relatifs au VIS, en vigueur depuis le 20 janv. 2014 ([RO 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272), [2011 4449](https://fedlex.data.admin.ch/eli/oc/2011/609), [2014 1](https://fedlex.data.admin.ch/eli/oc/2014/1); [FF 2009 3769](https://fedlex.data.admin.ch/eli/fga/2009/761)).
 [^109c-2]: Nouvelle teneur selon l’annexe 1 ch. 1 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, en vigueur depuis le 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
@@ -3714,6 +3715,8 @@ Le SEM peut autoriser les organes ci-après à accéder en ligne aux données d�
 [^109c-7]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^109c-8]: [RS 211.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5750)
 [^109c-9]: Introduite par l’annexe ch. 1 de l’AF du 16 déc. 2022 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2021/1150 et (UE) 2021/1152 en ce qui concerne l’établissement des conditions d’accès aux autres systèmes d’information de l’UE aux fins du système européen d’information et d’autorisation concernant les voyages (ETIAS), en vigueur depuis le 15 juin 2025 ([RO 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+[^109c-10]: Introduite par l’annexe 3 ch. 2 de la LF du 21 mars 2025 sur les données relatives aux passagers aériens, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2025 739](https://fedlex.data.admin.ch/eli/oc/2025/739); [2026 510](https://fedlex.data.admin.ch/eli/oc/2026/510); [FF 2024 1485](https://fedlex.data.admin.ch/eli/fga/2024/1485)).
+[^109c-11]: [RS 129](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40121)
 
 #### Art. 109d
 

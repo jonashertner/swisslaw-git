@@ -4,11 +4,11 @@ title: Legge federale del 16 dicembre 2005 sugli stranieri e la loro integrazion
 short: LStrI
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: it
-version: 2026-06-12
+version: 2026-11-01
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20260612/it/xml/fedlex-data-admin-ch-eli-cc-2007-758-20260612-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20260612/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20261101/it/xml/fedlex-data-admin-ch-eli-cc-2007-758-20261101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20261101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20260612/it"
 
 (LStrI)[^t-1]
 
-del 16 dicembre 2005 (Stato 12 giugno 2026)
+del 16 dicembre 2005 (Stato 1° novembre 2026)
 
 [^t-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 2016 (Integrazione), in vigore dal 1° gen. 2019 ([RU 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
@@ -3699,7 +3699,8 @@ La SEM può permettere l’accesso online ai dati di ORBIS alle seguenti autorit
 
 - g. autorità di ricorso della Confederazione: per l’istruzione dei ricorsi interposti presso di esse;
 - h. uffici dello stato civile e relative autorità di vigilanza: per l’identificazione delle persone in relazione con eventi di stato civile, per la preparazione della celebrazione del matrimonio o della registrazione dell’unione domestica, nonché per evitare l’elusione del diritto in materia di stranieri giusta l’articolo 97*a* capoverso 1 del Codice civile[^109c-7] e l’articolo 6 capoverso 2 della legge del 18 giugno 2004[^109c-8] sull’unione domestica registrata;
-- i.[^109c-9] l’unità nazionale ETIAS: nell’ambito dell’adempimento dei suoi compiti.
+- i.[^109c-9] l’unità nazionale ETIAS: nell’ambito dell’adempimento dei suoi compiti;
+- j.[^109c-10] unità nazionale incaricata del trattamento dei dati dei passeggeri aerei: per la verifica dell’identità dei passeggeri aerei (art. 6 cpv. 3 lett. b della legge del 21 marzo 2025[^109c-11] sui dati dei passeggeri aerei).
 
 [^109c-1]: Introdotto dall’art. 2 n. 1 del DF dell’11 dic. 2009 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE in merito al recepimento del regolamento e della decisione relativi al sistema d’informazione visti (VIS), in vigore dal 20 gen. 2014 ([RU 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272), [2014 1](https://fedlex.data.admin.ch/eli/oc/2014/1); [FF 2009 3629](https://fedlex.data.admin.ch/eli/fga/2009/761)).
 [^109c-2]: Nuovo testo giusta l’all. 1 n. 1 del DF del 19 mar. 2021 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento dei regolamenti (UE) 2019/817 e (UE) 2019/818 che istituiscono un quadro per l’interoperabilità tra i sistemi di informazione dell’UE, in vigore dal 15 giu. 2025 ([RU 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7005](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
@@ -3710,6 +3711,8 @@ La SEM può permettere l’accesso online ai dati di ORBIS alle seguenti autorit
 [^109c-7]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^109c-8]: [RS 211.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5750)
 [^109c-9]: Introdotta dall’all. n. 1 del DF del 16 dic. 2022 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento dei regolamenti (UE) 2021/1150 e (UE) 2021/1152 che definiscono le condizioni di accesso agli altri sistemi di informazione UE ai fini del sistema europeo di informazione e autorizzazione ai viaggi (ETIAS), in vigore dal 15 giu. 2025 ([RU 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+[^109c-10]: Introdotta dall’all. 3 n. 2 della LF del 21 mar. 2025 sui dati dei passeggeri aerei, in vigore dal 1° nov. 2026 ([RU 2025 739](https://fedlex.data.admin.ch/eli/oc/2025/739); [2026 510](https://fedlex.data.admin.ch/eli/oc/2026/510); [FF 2024 1485](https://fedlex.data.admin.ch/eli/fga/2024/1485)).
+[^109c-11]: [RS 129](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40121)
 
 #### Art. 109d
 
@@ -4429,7 +4432,7 @@ Qualora non garantisca una protezione adeguata, allo Stato terzo possono essere 
 
 [^112-1]: Abrogata dalla cifra I n. 1 dell’O dell’AF del 20 dic. 2006 che adegua taluni atti normativi alle disposizioni della L sul Tribunale federale e della L sul Tribunale amministrativo federale, con effetto dal 1° gen. 2008 ([RU 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826); [FF 2006 7109](https://fedlex.data.admin.ch/eli/fga/2006/974)).
 
-#### Art. 113 e 114
+#### Art. 113–114
 
 [^113114-1]
 
@@ -4573,7 +4576,7 @@ Si può prescindere dal procedimento penale, dal rinvio a giudizio o dalla puniz
 [^120-1]: Introdotta dalla cifra I della LF del 16 dic. 2016 (Integrazione) ([RU 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718); [FF 2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524)). Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (Limitazioni per i viaggi all’estero e adeguamenti dello statuto dell’ammissione provvisoria), in vigore dal 1° giu. 2024 ([RU 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [FF 2020 6543](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
 [^120-2]: Introdotta dalla cifra I della LF del 16 dic. 2016 (Integrazione), in vigore dal 1° gen. 2019 ([RU 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
-#### Art. 120a a 120c
+#### Art. 120a–120c
 
 [^120a120c-1]
 

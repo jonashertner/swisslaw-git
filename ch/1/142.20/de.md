@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 16. Dezember 2005 über die Ausländerinnen und Auslän
 short: AIG
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: de
-version: 2026-06-12
+version: 2026-11-01
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20260612/de/xml/fedlex-data-admin-ch-eli-cc-2007-758-20260612-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20260612/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20261101/de/xml/fedlex-data-admin-ch-eli-cc-2007-758-20261101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20261101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20260612/de"
 
 (Ausländer- und Integrationsgesetz, AIG)[^t-1]
 
-vom 16. Dezember 2005 (Stand am 12. Juni 2026)
+vom 16. Dezember 2005 (Stand am 1. November 2026)
 
 [^t-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2016 (Integration), in Kraft seit 1. Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
@@ -3692,7 +3692,8 @@ Das SEM kann folgenden Behörden einen Online-Zugang zu den Daten des ORBIS gew�
 
 - g. den Beschwerdeinstanzen des Bundes: für die Instruktion der bei ihnen eingegangenen Beschwerden;
 - h. den Zivilstandsämtern und ihren Aufsichtsbehörden: zur Personenidentifikation im Zusammenhang mit Zivilstandsereignissen, für die Vorbereitung einer Eheschliessung oder Eintragung der Partnerschaft sowie zur Verhinderung der Umgehung des Ausländerrechts nach Artikel 97*a* Absatz 1 ZGB[^109c-7] und Artikel 6 Absatz 2 des Partnerschaftsgesetzes vom 18. Juni 2004[^109c-8];
-- i.[^109c-9] der nationalen ETIAS-Stelle: im Rahmen der Erfüllung ihrer Aufgaben.
+- i.[^109c-9] der nationalen ETIAS-Stelle: im Rahmen der Erfüllung ihrer Aufgaben;
+- j.[^109c-10] der nationalen Stelle für die Bearbeitung von Flugpassagierdaten: zur Überprüfung der Identität von Flugpassagierinnen und -passagieren (Art. 6 Abs. 3 Bst. b des Flugpassagierdatengesetzes vom 21. März 2025[^109c-11]).
 
 [^109c-1]: Eingefügt durch Art. 2 Ziff. 1 des BB vom 11. Dez. 2009 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung und des Beschlusses über das Visa-Informationssystem (VIS), in Kraft seit 20. Jan. 2014 ([AS 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272), [2011 4449](https://fedlex.data.admin.ch/eli/oc/2011/609), [2014 1](https://fedlex.data.admin.ch/eli/oc/2014/1); [BBl 2009 4245](https://fedlex.data.admin.ch/eli/fga/2009/761)).
 [^109c-2]: Fassung gemäss Anhang 1 Ziff. 1 des BB vom 19. März 2021 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnungen (EU) 2019/817 und (EU) 2019/818 zur Errichtung eines Rahmens für die Interoperabilität zwischen EU Informationssystemen, in Kraft seit 15. Juni 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
@@ -3703,6 +3704,8 @@ Das SEM kann folgenden Behörden einen Online-Zugang zu den Daten des ORBIS gew�
 [^109c-7]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^109c-8]: [SR 211.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5750)
 [^109c-9]: Eingefügt durch Anhang Ziff. 1 des BB vom 16. Dez. 2022 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnungen (EU) 2021/1150 und 2021/1152 zur Festlegung der Bedingungen für den Zugang zu anderen EU Informationssystemen für die Zwecke des Europäischen Reiseinformations- und ‑genehmigungssystems (ETIAS), in Kraft seit 15. Juni 2025 ([AS 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [BBl 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+[^109c-10]: Eingefügt als durch Anhang 3 Ziff. 2 des Flugpassagierdatengesetzes vom 21. März 2025, in Kraft seit 1. Nov. 2026 ( [[AS 2025 739](https://www.fedlex.admin.ch/eli/oc/2025/739/de)](https://fedlex.data.admin.ch/eli/oc/2025/739); [2026 510](https://fedlex.data.admin.ch/eli/oc/2026/510); [BBl 2024 1485](https://fedlex.data.admin.ch/eli/fga/2024/1485)).
+[^109c-11]: [SR 129](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40121)
 
 #### Art. 109d
 
