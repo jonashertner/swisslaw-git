@@ -4,11 +4,11 @@ title: Legge del 17 giugno 2005 sul Tribunale amministrativo federale (LTAF)
 short: LTAF
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/352"
 language: it
-version: 2026-06-12
+version: 2026-11-01
 adopted: 2005-06-17
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/352/20260612/it/xml/fedlex-data-admin-ch-eli-cc-2006-352-20260612-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/352/20260612/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/352/20261101/it/xml/fedlex-data-admin-ch-eli-cc-2006-352-20261101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/352/20261101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/352/20260612/it"
 
 (LTAF)
 
-del 17 giugno 2005 (Stato 12 giugno 2026)
+del 17 giugno 2005 (Stato 1° novembre 2026)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -313,7 +313,8 @@ Sono fatte salve le competenze particolari del giudice unico secondo:
 - a<sup>bis</sup>.[^23-3] l’articolo 64*a*<sup>bis</sup> capoverso 5 della legge federale del 16 dicembre 2005[^23-4] sugli stranieri e la loro integrazione;
 - b. gli articoli 29, 31 e 41 della legge federale del 25 settembre 2015[^23-5] sulle attività informative (LAIn);
 - c. le leggi federali in materia di assicurazioni sociali;
-- d.[^23-6] l’articolo 108*d*<sup>bis</sup> capoverso 5 della legge federale del 16 dicembre 2005[^23-7] sugli stranieri e la loro integrazione. [^23-8]
+- d.[^23-6] l’articolo 108*d*<sup>bis</sup> capoverso 5 della legge federale del 16 dicembre 2005[^23-7] sugli stranieri e la loro integrazione;
+- e[^23-8]. gli articoli 19 capoverso 4 e 20 capoverso 3 della legge del 21 marzo 2025[^23-9] sui dati dei passeggeri aerei (LDPA).[^23-10]
 
 [^23-1]: Nuovo testo giusta l’all. n. 2 del DF del 16 dic. 2022 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento dei regolamenti (UE) 2021/1150 e (UE) 2021/1152 che definiscono le condizioni di accesso agli altri sistemi di informazione UE ai fini del sistema europeo di informazione e autorizzazione ai viaggi (ETIAS), in vigore dal 15 giu. 2025 ([RU 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
 [^23-2]: [[RS 142.31](https://www.fedlex.admin.ch/eli/cc/1999/358/de)](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
@@ -322,7 +323,9 @@ Sono fatte salve le competenze particolari del giudice unico secondo:
 [^23-5]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
 [^23-6]: Introdotta dall’all. n. 2 del DF del 16 dic. 2022 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento dei regolamenti (UE) 2021/1150 e (UE) 2021/1152 che definiscono le condizioni di accesso agli altri sistemi di informazione UE ai fini del sistema europeo di informazione e autorizzazione ai viaggi (ETIAS), in vigore dal 15 giu. 2025 ([RU 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
 [^23-7]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
-[^23-8]: Nuovo testo giusta l’all. cifra II n. 3 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^23-8]: Introdotta dall’all. 3 n. 4 della LF del 21 mar. 2025 sui dati dei passeggeri aerei, in vigore dal 1° nov. 2026 ([RU 2025 739](https://fedlex.data.admin.ch/eli/oc/2025/739); [2026 510](https://fedlex.data.admin.ch/eli/oc/2026/510); [FF 2024 1485](https://fedlex.data.admin.ch/eli/fga/2024/1485)).
+[^23-9]: [RS 129](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40121)
+[^23-10]: Nuovo testo giusta l’all. cifra II n. 3 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
 
 #### Art. 24
 
@@ -442,7 +445,7 @@ Il ricorso è inammissibile contro:
 - a. le decisioni in materia di sicurezza interna o esterna del Paese, neutralità, protezione diplomatica e altri affari esteri, in quanto il diritto internazionale pubblico non conferisca un diritto al giudizio da parte di un tribunale;
 - b. le decisioni in materia di diritto di voto dei cittadini nonché di elezioni e votazioni popolari;
 - c. le decisioni in materia di salario al merito del personale federale, in quanto non concernano la parità dei sessi;
-- d.[^32-1] ...
+- d.[^32-1] …
 - e.
 
   le decisioni nel settore dell’energia nucleare concernenti:
@@ -552,7 +555,7 @@ Il ricorso è ammissibile contro le decisioni:
 Il Tribunale amministrativo federale giudica su azione in prima istanza:
 
 - a. le controversie derivanti da contratti di diritto pubblico sottoscritti dalla Confederazione, dai suoi stabilimenti, dalle sue aziende o dalle organizzazioni ai sensi dell’articolo 33 lettera h;
-- b.[^35-1] ...
+- b.[^35-1] …
 - c. le controversie tra la Confederazione e la Banca nazionale concernenti le convenzioni sui servizi bancari e sulla distribuzione dell’utile;
 - d. [^35-2] le domande di confisca di valori patrimoniali conformemente alla legge del 18 dicembre 2015[^35-3] sui valori patrimoniali di provenienza illecita.
 
@@ -589,6 +592,18 @@ L’azione è inammissibile se un’altra legge federale deferisce la controvers
 Il Tribunale amministrativo federale decide in merito all’autorizzazione di misure di acquisizione secondo la LAIn[^36b-1].
 
 [^36b-1]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
+
+### Sezione 5: Revoca della pseudonimizzazione dei dati dei passeggeri aerei
+
+[^chap2-sec5-1]
+
+[^chap2-sec5-1]: Introdotta dall’all. 3 n. 4 della LF del 21 mar. 2025 sui dati dei passeggeri aerei, in vigore dal 1° nov. 2026 ([RU 2025 739](https://fedlex.data.admin.ch/eli/oc/2025/739); [2026 510](https://fedlex.data.admin.ch/eli/oc/2026/510); [FF 2024 1485](https://fedlex.data.admin.ch/eli/fga/2024/1485)).
+
+#### Art. 36c
+
+Il Tribunale amministrativo federale decide in merito alle domande di revoca della pseudonimizzazione secondo gli articoli 19 e 20 LDPA[^36c-1].
+
+[^36c-1]: [RS 129](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40121)
 
 ## Capitolo 3: Procedura
 
@@ -729,7 +744,7 @@ Per il contenuto, la forma, il miglioramento e il completamento della domanda di
 
 **Coordinamento con la legge del 18 marzo 2005[^50-1] sulle dogane (nuova legge sulle dogane)**
 
-...[^50-2]
+…[^50-2]
 
 [^50-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^50-2]: La mod. può essere consultata alla [RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352).
@@ -738,7 +753,7 @@ Per il contenuto, la forma, il miglioramento e il completamento della domanda di
 
 **Coordinamento con il decreto federale del 17 dicembre 2004[^51-1] che approva e traspone nel diritto svizzero gli accordi bilaterali con l’UE per l’associazione della Svizzera alla normativa di Schengen e Dublino, art. 3 n. 7 (art. 182 cpv. 2 della LF del 14 dic. 1990[^51-2] sull’imposta federale diretta, LIFD)**
 
-...[^51-3]
+…[^51-3]
 
 [^51-1]: [RS 362](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6313)
 [^51-2]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
@@ -748,7 +763,7 @@ Per il contenuto, la forma, il miglioramento e il completamento della domanda di
 
 **Coordinamento con la legge del 17 dicembre 2004[^52-1] sulla sorveglianza degli assicuratori (nuova LSA)**
 
-...[^52-2]
+…[^52-2]
 
 [^52-1]: [RS 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
 [^52-2]: La mod. può essere consultata alla [RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352).
@@ -781,6 +796,6 @@ Allegato
 
 Le leggi qui appresso sono modificate come segue:
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Le mod. possono essere consultate alla [RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352).

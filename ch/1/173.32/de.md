@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 17. Juni 2005 über das Bundesverwaltungsgericht (Verwa
 short: VGG
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/352"
 language: de
-version: 2026-06-12
+version: 2026-11-01
 adopted: 2005-06-17
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/352/20260612/de/xml/fedlex-data-admin-ch-eli-cc-2006-352-20260612-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/352/20260612/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/352/20261101/de/xml/fedlex-data-admin-ch-eli-cc-2006-352-20261101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/352/20261101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/352/20260612/de"
 
 (Verwaltungsgerichtsgesetz, VGG)
 
-vom 17. Juni 2005 (Stand am 12. Juni 2026)
+vom 17. Juni 2005 (Stand am 1. November 2026)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -313,7 +313,8 @@ Vorbehalten bleiben die besonderen Zuständigkeiten des Einzelrichters beziehung
 - a<sup>bis</sup>.[^23-3] Artikel 64*a*<sup>bis</sup> Absatz 5 des Ausländer- und Integrationsgesetzes vom 16. Dezember 2005[^23-4];
 - b. den Artikeln 29, 31 und 41 des Nachrichtendienstgesetzes vom 25. September 2015[^23-5] (NDG);
 - c. den Bundesgesetzen über die Sozialversicherung;
-- d.[^23-6] Artikel 108*d*<sup>bis</sup> Absatz 5 des Ausländer- und Integrationsgesetzes vom 16. Dezember 2005[^23-7].[^23-8]
+- d.[^23-6] Artikel 108*d*<sup>bis</sup> Absatz 5 des Ausländer- und Integrationsgesetzes vom 16. Dezember 2005[^23-7];
+- e.[^23-8] den Artikeln 19 Absatz 4 und 20 Absatz 3 des Flugpassagierdatengesetzes vom 21. März 2025[^23-9] (FPG).[^23-10]
 
 [^23-1]: Fassung gemäss Anhang Ziff. 2 des BB vom 16. Dez. 2022 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnungen (EU) 2021/1150 und 2021/1152 zur Festlegung der Bedingungen für den Zugang zu anderen EU Informationssystemen für die Zwecke des Europäischen Reiseinformations- und ‑genehmigungssystems (ETIAS), in Kraft seit 15. Juni 2025 ([AS 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [BBl 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
 [^23-2]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
@@ -322,7 +323,9 @@ Vorbehalten bleiben die besonderen Zuständigkeiten des Einzelrichters beziehung
 [^23-5]: [SR 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
 [^23-6]: Eingefügt durch Anhang Ziff. 2 des BB vom 16. Dez. 2022 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnungen (EU) 2021/1150 und 2021/1152 zur Festlegung der Bedingungen für den Zugang zu anderen EU Informationssystemen für die Zwecke des Europäischen Reiseinformations- und ‑genehmigungssystems (ETIAS), in Kraft seit 15. Juni 2025 ([AS 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [BBl 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
 [^23-7]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
-[^23-8]: Fassung gemäss Anhang Ziff. II 3 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^23-8]: Eingefügt durch Anhang 3 Ziff. 4 des Flugpassagierdatengesetzes vom 21. März 2025, in Kraft seit 1. Nov. 2026 ( [[AS 2025 739](https://www.fedlex.admin.ch/eli/oc/2025/739/de)](https://fedlex.data.admin.ch/eli/oc/2025/739); [2026 510](https://fedlex.data.admin.ch/eli/oc/2026/510); [BBl 2024 1485](https://fedlex.data.admin.ch/eli/fga/2024/1485)).
+[^23-9]: [SR 129](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40121)
+[^23-10]: Fassung gemäss Anhang Ziff. II 3 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
 
 #### Art. 24
 
@@ -589,6 +592,18 @@ Die Klage ist unzulässig, wenn ein anderes Bundesgesetz die Erledigung des Stre
 Das Bundesverwaltungsgericht entscheidet über die Genehmigung von Beschaffungsmassnahmen nach dem NDG[^36b-1]*.*
 
 [^36b-1]: [SR 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
+
+### 5. Abschnitt: Aufhebung der Pseudonymisierung von Flugpassagierdaten
+
+[^chap2-sec5-1]
+
+[^chap2-sec5-1]: Eingefügt durch Anhang 3 Ziff. 4 des Flugpassagierdatengesetzes vom 21. März 2025, in Kraft seit 1. Nov. 2026 ( [[AS 2025 739](https://www.fedlex.admin.ch/eli/oc/2025/739/de)](https://fedlex.data.admin.ch/eli/oc/2025/739); [2026 510](https://fedlex.data.admin.ch/eli/oc/2026/510); [BBl 2024 1485](https://fedlex.data.admin.ch/eli/fga/2024/1485)).
+
+#### Art. 36c
+
+Das Bundesverwaltungsgericht entscheidet über Anträge zur Aufhebung der Pseudonymisierung nach den Artikeln 19 und 20 FPG[^36c-1].
+
+[^36c-1]: [SR 129](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40121)
 
 ## 3. Kapitel: Verfahren
 

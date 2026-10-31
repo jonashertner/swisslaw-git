@@ -4,11 +4,11 @@ title: Loi du 17 juin 2005 sur le Tribunal administratif fédéral (LTAF)
 short: LTAF
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/352"
 language: fr
-version: 2026-06-12
+version: 2026-11-01
 adopted: 2005-06-17
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/352/20260612/fr/xml/fedlex-data-admin-ch-eli-cc-2006-352-20260612-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/352/20260612/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/352/20261101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-352-20261101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/352/20261101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/352/20260612/fr"
 
 (LTAF)[^t-1]
 
-du 17 juin 2005 (État le 12 juin 2026)
+du 17 juin 2005 (État le 1<sup>er</sup> novembre 2026)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -315,7 +315,8 @@ Les compétences particulières du juge unique fondées sur les dispositions sui
 - a<sup>bis</sup>.[^23-3] l’art. 64*a*<sup>bis</sup>, al. 5, de la loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration[^23-4];
 - b. les art. 29, 31 et 41 de la loi fédérale du 25 septembre 2015 sur le renseignement (LRens)[^23-5];
 - c. les lois fédérales d’assurances sociales;
-- d.[^23-6] l’art. 108*d*<sup>bis</sup>, al. 5, de la loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration[^23-7].[^23-8]
+- d.[^23-6] l’art. 108*d*<sup>bis</sup>, al. 5, de la loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration[^23-7];
+- e.[^23-8] les art. 19, al. 4, et 20, al. 3, de la loi du 21 mars 2025 sur les données relatives aux passagers aériens (LDPa)[^23-9].[^23-10]
 
 [^23-1]: Nouvelle teneur selon l’annexe ch. 2 de l’AF du 16 déc. 2022 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2021/1150 et (UE) 2021/1152 en ce qui concerne l’établissement des conditions d’accès aux autres systèmes d’information de l’UE aux fins du système européen d’information et d’autorisation concernant les voyages (ETIAS), en vigueur depuis le 15 juin 2025 ([RO 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
 [^23-2]: [[RS 142.31](https://www.fedlex.admin.ch/eli/cc/1999/358/fr)](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
@@ -324,7 +325,9 @@ Les compétences particulières du juge unique fondées sur les dispositions sui
 [^23-5]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
 [^23-6]: Introduite par l’annexe ch. 2 de l’AF du 16 déc. 2022 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2021/1150 et (UE) 2021/1152 en ce qui concerne l’établissement des conditions d’accès aux autres systèmes d’information de l’UE aux fins du système européen d’information et d’autorisation concernant les voyages (ETIAS), en vigueur depuis le 15 juin 2025 ([RO 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
 [^23-7]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
-[^23-8]: Nouvelle teneur selon l’annexe ch. II 3 de la LF du 25 sept. 2015 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^23-8]: Introduite par l’annexe 3 ch. 4 de la LF du 21 mars 2025 sur les données relatives aux passagers aériens, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2025 739](https://fedlex.data.admin.ch/eli/oc/2025/739); [2026 510](https://fedlex.data.admin.ch/eli/oc/2026/510); [FF 2024 1485](https://fedlex.data.admin.ch/eli/fga/2024/1485)).
+[^23-9]: [RS 129](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40121)
+[^23-10]: Nouvelle teneur selon l’annexe ch. II 3 de la LF du 25 sept. 2015 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)).
 
 #### Art. 24
 
@@ -444,7 +447,7 @@ Le recours est irrecevable contre:
 - a. les décisions concernant la sûreté intérieure ou extérieure du pays, la neutralité, la protection diplomatique et les autres affaires relevant des relations extérieures, à moins que le droit international ne confère un droit à ce que la cause soit jugée par un tribunal;
 - b. les décisions concernant le droit de vote des citoyens ainsi que les élections et les votations populaires;
 - c. les décisions relatives à la composante «prestation» du salaire du personnel de la Confédération, dans la mesure où elles ne concernent pas l’égalité des sexes;
-- d.[^32-1] ...
+- d.[^32-1] …
 - e.
 
   les décisions dans le domaine de l’énergie nucléaire concernant:
@@ -592,6 +595,18 @@ Le Tribunal administratif fédéral statue sur l’autorisation de mesures de re
 
 [^36b-1]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
 
+### Section 5 Levée de la pseudonymisation des données relatives aux passagers aériens
+
+[^chap2-sec5-1]
+
+[^chap2-sec5-1]: Introduite par l’annexe 3 ch. 4 de la LF du 21 mars 2025 sur les données relatives aux passagers aériens, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2025 739](https://fedlex.data.admin.ch/eli/oc/2025/739); [2026 510](https://fedlex.data.admin.ch/eli/oc/2026/510); [FF 2024 1485](https://fedlex.data.admin.ch/eli/fga/2024/1485)).
+
+#### Art. 36c
+
+Le Tribunal administratif fédéral statue sur les demandes de levée de la pseudonymisation conformément aux art. 19 et 20 LDPa[^36c-1].
+
+[^36c-1]: [RS 129](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40121)
+
 ## Chapitre 3 Procédure
 
 ### Section 1 Dispositions générales
@@ -726,7 +741,7 @@ L’art. 67, al. 3, PA[^47-1] régit le contenu et la forme de la demande de ré
 
 **Coordination avec la loi du 18 mars 2005 sur les douanes[^50-1] (nouvelle loi sur les douanes)**
 
-...[^50-2]
+…[^50-2]
 
 [^50-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^50-2]: La mod. peut être consultée au [RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352).
@@ -735,7 +750,7 @@ L’art. 67, al. 3, PA[^47-1] régit le contenu et la forme de la demande de ré
 
 **Coordination avec l’arrêté fédéral du 17 décembre 2004 portant approbation et mise en œuvre des accords bilatéraux d’association à l’Espace Schengen et à l’Espace Dublin[^51-1], art. 3, ch. 7 (art. 182, al. 2, de la LF du 14 déc. 1990 sur l’impôt fédéral direct[^51-2], LIFD)**
 
-...[^51-3]
+…[^51-3]
 
 [^51-1]: [RS 362](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6313)
 [^51-2]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
@@ -745,7 +760,7 @@ L’art. 67, al. 3, PA[^47-1] régit le contenu et la forme de la demande de ré
 
 **Coordination avec la loi du 17 décembre 2004 sur la surveillance des assurances[^52-1] (nouvelle LSA)**
 
-...[^52-2]
+…[^52-2]
 
 [^52-1]: [RS 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
 [^52-2]: La mod. peut être consultée au [RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352).
@@ -778,6 +793,6 @@ Annexe
 
 Les textes législatifs suivants sont modifiés comme suit:
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Les mod. peuvent être consultées au [RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352).
