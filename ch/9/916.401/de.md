@@ -4,11 +4,11 @@ title: Tierseuchenverordnung vom 27. Juni 1995 (TSV)
 short: TSV
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716"
 language: de
-version: 2026-01-01
+version: 2026-11-01
 adopted: 1995-06-27
 in_force: 1995-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716/20260101/de/xml/fedlex-data-admin-ch-eli-cc-1995-3716_3716_3716-20260101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716/20261101/de/xml/fedlex-data-admin-ch-eli-cc-1995-3716_3716_3716-20261101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20261101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20260101/de"
 
 (TSV)
 
-vom 27. Juni 1995 (Stand am 1. Januar 2026)
+vom 27. Juni 1995 (Stand am 1. November 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -4052,13 +4052,24 @@ Samen von Stieren, die serologisch positiv sind oder waren, darf nicht für die 
 
 **Amtliche Anerkennung und Überwachung**[^174b-1]
 
-<sup>1</sup> Alle Rinder-, Büffel- und Bisonbestände gelten als amtlich anerkannt BVD-frei. Bei Ansteckungsverdacht und im Verdachts- oder Seuchenfall wird dem betroffenen Bestand die amtliche Anerkennung bis zur Aufhebung aller Sperren suspendiert beziehungsweise entzogen.[^174b-2]
+<sup>1</sup>
 
-<sup>2</sup> Das BLV erlässt Vorschriften technischer Art über die Durchführung der Überwachung der Tierbestände. Es kann darin vorschreiben, dass die neugeborenen Kälber und die Totgeburten bis spätestens fünf Tage nach der Geburt virologisch auf BVD untersucht und die neugeborenen Kälber unter Verbringungssperre gestellt werden, bis ein negatives Untersuchungsergebnis vorliegt.[^174b-3]
+Rinder-, Büffel- und Bisonbestände gelten als amtlich anerkannt BVD-frei, wenn sie folgende Kriterien erfüllen:
 
-[^174b-1]: Fassung gemäss Ziff. I der V vom 31. Aug. 2022, in Kraft seit 1. Nov. 2022 ([AS 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
-[^174b-2]: Berichtigung vom 22. Sept. 2023 ([AS 2023 537](https://fedlex.data.admin.ch/eli/oc/2023/537)).
-[^174b-3]: Fassung gemäss Ziff. I der V vom 6. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
+- a. In den letzten 18 Monaten befand sich kein Tier, das persistent mit dem BVD‑Virus infiziert ist, im Bestand.
+- b. Kein Tier des Bestandes steht wegen BVD-Massnahmen unter Verbringungssperre.
+- c. Die Überwachung des Bestandes über eine von der Untersuchungsmethode abhängige Zeitspanne hat keine Hinweise auf eine Infektion ergeben.
+- d.
+
+  In den letzten 12 Monaten gab es ausschliesslich Zugänge von Tieren:
+
+  - 1\. aus amtlich anerkannt BVD-freien Tierhaltungen; oder
+  - 2\. die vor dem Verstellen mindestens einmal virologisch auf BVD untersucht worden sind und bei denen die Untersuchung einen negativen Befund ergeben hat.
+
+<sup>2</sup> Das BLV erlässt Vorschriften technischer Art über die Durchführung der Überwachung der Tierbestände. Es kann darin vorschreiben, dass die neugeborenen Kälber und die Totgeburten bis spätestens fünf Tage nach der Geburt virologisch auf BVD untersucht und die neugeborenen Kälber unter Verbringungssperre gestellt werden, bis ein negatives Untersuchungsergebnis vorliegt.[^174b-2]
+
+[^174b-1]: Fassung gemäss Ziff. I der V vom 6. Dez. 2024, in Kraft seit 1. Febr. 2025, Abs. 1 in Kraft seit 1. Nov. 2026 ([AS 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
+[^174b-2]: Fassung gemäss Ziff. I der V vom 6. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
 
 #### Art. 174c
 
@@ -4137,6 +4148,44 @@ Er ordnet an, dass während 12 Monaten ab dem Zeitpunkt der Ausmerzung des letzt
 <sup>4</sup> Vom Zeitpunkt des Abkalbens eines Tieres nach Absatz 1 Buchstabe d oder Absatz 3 Buchstabe a bis zum Vorliegen eines negativen Befundes der virologischen Untersuchung des Kalbes oder der Totgeburt dürfen keine Tiere die betroffene Tierhaltung verlassen. Die Abgabe von Tieren direkt zur Schlachtung ist gestattet.
 
 [^174e-1]: Fassung gemäss Ziff. I der V vom 6. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
+
+#### Art. 174e<sup>bis</sup>
+
+**Verstellen von Tieren**[^174ebis-1]
+
+<sup>1</sup> Es dürfen nur Tiere aus amtlich anerkannt BVD-freien Tierhaltungen verstellt werden.
+
+<sup>2</sup>
+
+Ausgenommen sind Tiere, die:
+
+- a. vor dem Verstellen mindestens einmal virologisch auf BVD untersucht worden sind und bei denen die Untersuchung einen negativen Befund ergeben hat;
+- b. direkt zur Schlachtung abgegeben werden; oder
+- c. in Gemeinschaftsweide- oder Sömmerungsbetriebe mit ausschliesslich Tieren aus der gleichen Tierhaltung verstellt werden.
+
+<sup>3</sup>
+
+Weibliche Tiere, die über acht Monate alt sind und bei denen eine Trächtigkeit nicht ausgeschlossen werden kann, müssen zusätzlich zur Untersuchung nach Absatz 2 Buchstabe a auf Antikörper untersucht werden. Ergibt die Untersuchung auf Antikörper, dass eine Infektion während der Dauer der Trächtigkeit nicht ausgeschlossen werden kann, so dürfen die Tiere erst verstellt werden, wenn:
+
+- a. die Trächtigkeit widerlegt oder vorzeitig beendet ist; oder
+- b. die virologische Untersuchung des Kalbes oder der Totgeburt einen negativen Befund ergeben hat.
+
+<sup>4</sup> Das BLV kann den Zeitraum bestimmen, in dem die Tiere nach Absatz 2 Buchstabe a vor dem Verstellen untersucht worden sein müssen.
+
+<sup>5</sup>
+
+Die Ausnahme nach den Absätzen 2 Buchstabe a und 3 gilt nicht für:
+
+- a.
+
+  das Verstellen in folgende Tierhaltungen, wenn Tiere aus mehr als einer Tierhaltung miteinander in Kontakt kommen:
+
+  - 1\. Gemeinschaftsweide- und Sömmerungsbetriebe,
+  - 2\. Tierhaltungen, in die Tiere zur Aufzucht gegeben werden;
+
+- b. das Aufführen auf Viehmärkten und Viehausstellungen (Art. 174*f*).
+
+[^174ebis-1]: Eingefügt durch Ziff. I der V vom 6. Dez. 2024, in Kraft seit 1. Nov. 2026 ([AS 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
 
 #### Art. 174f
 

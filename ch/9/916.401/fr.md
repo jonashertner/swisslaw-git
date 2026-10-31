@@ -4,11 +4,11 @@ title: Ordonnance du 27 juin 1995 sur les épizooties (OFE)
 short: OFE
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716"
 language: fr
-version: 2026-01-01
+version: 2026-11-01
 adopted: 1995-06-27
 in_force: 1995-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3716_3716_3716-20260101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716/20261101/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3716_3716_3716-20261101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20261101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20260101/fr"
 
 (OFE)
 
-du 27 juin 1995 (État le 1<sup>er</sup> janvier 2026)
+du 27 juin 1995 (État le 1<sup>er</sup> novembre 2026)
 
 Le Conseil fédéral suisse,
 
@@ -4062,13 +4062,23 @@ La semence de taureaux qui sont sérologiquement positifs ou qui l’ont été n
 
 **Reconnaissance officielle et surveillance**[^174b-1]
 
-<sup>1</sup> Tous les troupeaux de bovins, de buffles et de bisons sont considérés comme officiellement indemnes de BVD. En cas d’exposition à la contagion, de suspicion ou de constat de BVD, la reconnaissance officielle est, suspendue ou retirée jusqu’à la levée de toutes les mesures d’interdiction.[^174b-2]
+<sup>1</sup>
 
-<sup>2</sup> L’OSAV édicte des dispositions techniques concernant la mise en œuvre du programme de surveillance des troupeaux. Il peut exiger que les veaux nouveau-nés et mort-nés soient soumis à un examen virologique de dépistage de la BVD cinq jours au plus tard après leur naissance et que les veaux nouveau-nés soient frappés d’une interdiction de déplacement jusqu’à obtention du résultat négatif des analyses.[^174b-3]
+Les troupeaux de bovins, de buffles et de bisons sont officiellement reconnus indemnes de BVD lorsqu’ils remplissent les critères suivants:
 
-[^174b-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
-[^174b-2]: Erratum du 22 sept. 2023 ([RO 2023 537](https://fedlex.data.admin.ch/eli/oc/2023/537)).
-[^174b-3]: Nouvelle teneur selon le ch. I de l’O du 6 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
+- a. le troupeau n’a compté aucun animal infecté de manière persistante au cours des 18 derniers mois;
+- b. aucun animal du troupeau n’est actuellement frappé d’une interdiction de déplacement pour cause de BVD;
+- c. aucun signe d’infection n’a été détecté dans le cadre de la surveillance du troupeau exercée durant une période déterminée en fonction de la méthode d’analyse utilisée;
+- d.
+
+  au cours des douze derniers mois, tous les animaux intégrés au troupeau:
+
+  - 1\. provenaient d’une unité d’élevage officiellement reconnue indemne de BVD, ou
+  - 2\. avant d’être déplacés, ont été soumis au moins à une analyse virologique de dépistage de la BVD, dont le résultat s’est révélé négatif.
+
+<sup>2</sup> L’OSAV édicte des dispositions techniques concernant la mise en œuvre du programme de surveillance des troupeaux. Il peut exiger que les veaux nouveau-nés et mort-nés soient soumis à un examen virologique de dépistage de la BVD cinq jours au plus tard après leur naissance et que les veaux nouveau-nés soient frappés d’une interdiction de déplacement jusqu’à obtention du résultat négatif des analyses.
+
+[^174b-1]: Nouvelle teneur selon le ch. I de l’O du 6 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025, l’al. 1 en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
 
 #### Art. 174c
 
@@ -4148,6 +4158,44 @@ Pour une durée de douze mois à partir du moment où le dernier animal contamin
 <sup>4</sup> Aucun animal ne doit quitter l’unité d’élevage touchée dès le moment où un animal visé à l’al. 1, let. d, ou à l’al. 3, let. a, a vêlé et jusqu’à ce que le résultat de l’analyse virologique du veau ou de l’animal mort-né soit négatif. La cession d’animaux conduits directement à l’abattoir est admise.
 
 [^174e-1]: Nouvelle teneur selon le ch. I de l’O du 6 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
+
+#### Art. 174e<sup>bis</sup>
+
+**Déplacement d’animaux**[^174ebis-1]
+
+<sup>1</sup> Seuls des animaux provenant d’unités d’élevage officiellement reconnues indemnes de BVD peuvent être déplacés.
+
+<sup>2</sup>
+
+Cette exigence ne s’applique pas aux animaux qui:
+
+- a. avant d’être déplacés, ont été soumis au moins à une analyse virologique de dépistage de la BVD, dont le résultat s’est révélé négatif;
+- b. sont conduits directement à l’abattoir, ou
+- c. sont conduits sur des pâturages communautaires ou des pâturages d’estivage exclusivement avec des animaux provenant de la même unité d’élevage.
+
+<sup>3</sup>
+
+Les femelles âgées de plus de huit mois pour lesquelles on ne peut exclure un état de gestation doivent être soumises à une analyse de détection d’anticorps en plus de l’analyse visée à l’al. 2, let. a. Si l’analyse de détection d’anticorps révèle qu’une infection pendant la gestation ne peut être exclue, alors les animaux peuvent être déplacés seulement lorsque:
+
+- a. l’état de gestation a été infirmé ou a pris fin prématurément, ou
+- b. l’analyse virologique du veau, du bufflon ou du bisonneau ou de l’animal mort-né a donné un résultat négatif.
+
+<sup>4</sup> L’OSAV peut déterminer la période pendant laquelle les animaux visés à l’al. 2, let. a, doivent avoir subi des analyses avant d’être déplacés.
+
+<sup>5</sup>
+
+L’exception visée aux al. 2, let. a, et 3 ne s’applique pas:
+
+- a.
+
+  au déplacement, vers des unités d’élevage ci-après, d’animaux de plus d’une unité d’élevage ayant été en contact les uns avec les autres:
+
+  - 1\. pâturages communautaires ou pâturages d’estivage,
+  - 2\. exploitations se consacrant à l’élevage;
+
+- b. à la présentation d’animaux à des marchés ou des expositions de bétail (art. 174*f*).
+
+[^174ebis-1]: Introduit par le ch. I de l’O du 6 déc. 2024, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
 
 #### Art. 174f
 

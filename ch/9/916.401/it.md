@@ -4,11 +4,11 @@ title: Ordinanza del 27 giugno 1995 sulle epizoozie (OFE)
 short: OFE
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716"
 language: it
-version: 2026-01-01
+version: 2026-11-01
 adopted: 1995-06-27
 in_force: 1995-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716/20260101/it/xml/fedlex-data-admin-ch-eli-cc-1995-3716_3716_3716-20260101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716/20261101/it/xml/fedlex-data-admin-ch-eli-cc-1995-3716_3716_3716-20261101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20261101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20260101/it"
 
 (OFE)
 
-del 27 giugno 1995 (Stato 1° gennaio 2026)
+del 27 giugno 1995 (Stato 1° novembre 2026)
 
 Il Consiglio federale svizzero,
 
@@ -4059,13 +4059,23 @@ Il seme dei tori la cui analisi sierologica è od era positiva non può essere i
 
 **Riconoscimento ufficiale e sorveglianza**[^174b-1]
 
-<sup>1</sup> Tutti gli effettivi di bovini, bufali e bisonti sono riconosciuti ufficialmente indenni da BVD. In caso di sospetto di contagio, di sospetto di epizoozia o di epizoozia, all’effettivo interessato è sospeso o revocato il riconoscimento ufficiale fino alla cessazione di tutti i sequestri.[^174b-2]
+<sup>1</sup>
 
-<sup>2</sup> L’USAV emana prescrizioni tecniche riguardo allo svolgimento della sorveglianza degli effettivi di animali. Esso può inoltre prescrivere l’esame virologico riguardo alla BVD nei vitelli neonati e in quelli nati morti entro cinque giorni dal parto, e imporre un divieto di trasferimento per i vitelli neonati fino all’esito negativo delle analisi.[^174b-3]
+Gli effettivi di bovini, bufali e bisonti sono riconosciuti ufficialmente indenni da BVD quando soddisfano i criteri seguenti:
 
-[^174b-1]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
-[^174b-2]: Correzione del 22 set. 2023 ([RU 2023 537](https://fedlex.data.admin.ch/eli/oc/2023/537)).
-[^174b-3]: Nuovo testo giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
+- a. negli ultimi 18 mesi nessun animale persistentemente infetto dal virus della BVD era presente nell’effettivo;
+- b. nessun animale dell’effettivo è sottoposto al divieto di trasferimento a causa dei provvedimenti contro la BVD;
+- c. la sorveglianza dell’effettivo per un periodo di tempo che dipende dal metodo di analisi non ha rivelato alcun indizio di infezione;
+- d.
+
+  negli ultimi 12 mesi si sono aggiunti all’effettivo solo animali:
+
+  - 1\. provenienti da aziende detentrici di animali riconosciute ufficialmente indenni da BVD, oppure
+  - 2\. sottoposti almeno una volta a esame virologico della BVD prima del trasferimento e per cui l’esame ha dato un risultato negativo.
+
+<sup>2</sup> L’USAV emana prescrizioni tecniche riguardo allo svolgimento della sorveglianza degli effettivi di animali. Esso può inoltre prescrivere l’esame virologico riguardo alla BVD nei vitelli neonati e in quelli nati morti entro cinque giorni dal parto, e imporre un divieto di trasferimento per i vitelli neonati fino all’esito negativo delle analisi.
+
+[^174b-1]: Nuovo testo giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° frb. 2025, il cpv. 1 dal 1° nov. 2026 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
 
 #### Art. 174c
 
@@ -4145,6 +4155,44 @@ Ordina che per 12 mesi dalla data di eliminazione dell’ultimo animale infetto 
 <sup>4</sup> Dalla nascita di un animale ai sensi del capoverso 1 lettera d o del capoverso 3 lettera a fino all’esito negativo dell’esame virologico del vitello o del vitello nato morto nessun animale può lasciare l’azienda detentrice di animali in questione. È consentita la cessione diretta di animali al macello.
 
 [^174e-1]: Nuovo testo giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
+
+#### Art. 174e<sup>bis</sup>
+
+**Trasferimento di animali**[^174ebis-1]
+
+<sup>1</sup> Possono essere trasferiti soltanto animali provenienti da aziende detentrici di animali riconosciute ufficialmente indenni da BVD.
+
+<sup>2</sup>
+
+Sono esclusi gli animali:
+
+- a. sottoposti almeno una volta a esame virologico della BVD prima del trasferimento e per cui l’esame ha dato un risultato negativo;
+- b. direttamente consegnati per la macellazione; oppure
+- c. trasferiti in aziende con pascoli comunitari o di estivazione esclusivamente con animali della stessa azienda detentrice di animali.
+
+<sup>3</sup>
+
+Le femmine di età superiore agli otto mesi e per cui non è possibile escludere una gravidanza devono essere sottoposte al test degli anticorpi in aggiunta all’esame di cui al capoverso 2 lettera a. Se il test degli anticorpi dimostra che non è possibile escludere un’infezione durante la gravidanza, gli animali possono essere trasferiti esclusivamente se:
+
+- a. risultano non gravidi o la gravidanza termina prematuramente; oppure
+- b. l’esito dell’esame virologico del vitello o del vitello nato morto è negativo.
+
+<sup>4</sup> L’USAV può stabilire il periodo durante il quale gli animali devono essere stati esaminati conformemente al capoverso 2 lettera a prima del trasferimento.
+
+<sup>5</sup>
+
+Le deroghe di cui ai capoversi 2 lettera a e 3 non si applicano:
+
+- a.
+
+  al trasferimento nelle aziende detentrici di animali seguenti, se gli animali provenienti da più aziende detentrici di animali entrano in contatto tra loro:
+
+  - 1\. aziende con pascoli comunitari e aziende d’estivazione,
+  - 2\. aziende detentrici a cui gli animali sono consegnati a scopo di allevamento;
+
+- b. al trasferimento ai mercati o alle esposizioni di bestiame (art. 174*f*).
+
+[^174ebis-1]: Introdotto dalla cifra I dell’O del 6 dic. 2024, in vigore dal 1° nov. 2026 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
 
 #### Art. 174f
 
