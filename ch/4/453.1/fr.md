@@ -3,11 +3,11 @@ sr: "453.1"
 title: Ordonnance du DFI du 4 septembre 2013 sur le contrôle de la circulation des espèces de faune et de flore protégées (Ordonnance sur les contrôles CITES)
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/602"
 language: fr
-version: 2026-06-03
+version: 2026-11-01
 adopted: 2013-09-04
 in_force: 2013-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/602/20260603/fr/xml/fedlex-data-admin-ch-eli-cc-2013-602-20260603-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/602/20260603/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/602/20261101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-602-20261101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/602/20261101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/602/20260603/fr"
 
 (Ordonnance sur les contrôles CITES)
 
-du 4 septembre 2013 (État le 3 juin 2026)
+du 4 septembre 2013 (État le 1<sup>er</sup> novembre 2026)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -292,7 +292,7 @@ Annexe 1[^t-1]
 <tr><td>ex 1602.9088</td><td>préparations et conserves de crocodiles (*Crocodylia* spp.)</td></tr>
 <tr><td>ex 1604.1700</td><td>préparations et conserves d’anguille européenne (*Anguilla anguilla*)</td></tr>
 <tr><td>ex 1604.1800</td><td>préparations et conserves d’ailerons de: grand requin blanc (*Carcharodon carcharias*), petit requin-taupe (*Isurus paucus*)*,* requin baleine (*Rhinocodon typus*), requins marteaux (Sphyrnidae spp.), requin pèlerin (*Cetorhinus maximus*), requins-renards (*Alopias* spp.), requins-requiem (Carcharhinidae spp.), requin-taupe bleu (*Isurus oxyrinchus*) et requin-taupe commun (*Lamna nasus*) , requin-hâ (*Galeorhinus galeus*)[^annex1-lvlu1-lvl1-22], émissoles (*Mustelus* spp.)[^annex1-lvlu1-lvl1-23], squales-chagrins (Centrophoridae spp.)[^annex1-lvlu1-lvl1-24],</td></tr>
-<tr><td>ex 1604.3100</td><td>préparations et conserves de : caviar de toutes les espèces d’esturgeons (Acipenseriformes)</td></tr>
+<tr><td>ex 1604.3100</td><td>préparations et conserves de: caviar de toutes les espèces d’esturgeons (Acipenseriformes)</td></tr>
 <tr><td>ex 1605.5600</td><td>préparations et conserves de tridacnidés (Tridacnidae)</td></tr>
 <tr><td>ex 1605.5900</td><td>préparations et conserves de strombes géants (Queen conch, *Strombus gigas*), Nautilidae</td></tr>
 <tr><td>ex 1605.6100</td><td>préparations et conserves d’holothuries à mamelles</td></tr>
@@ -426,14 +426,14 @@ Annexe 1[^t-1]
 <tr><td>ex 1211.2000</td><td>racines de ginseng, entières ou en parties reconnaissables, non transformées (ginseng d’Amérique [*Panax quinquefolius*] et ginseng asiatique [*Panax ginseng*] d’origine russe)</td></tr>
 <tr><td>ex 1211.6000</td><td>écorce du prunier d’Afrique ou pygeum (*Prunus africana*)</td></tr>
 <tr><td>ex 1211.9000</td><td>plantes et parties de plantes de: adonide de printemps (*Adonis vernalis*), agneau végétal (*Cibotium barometz*), aloès (aloé du Cap = *Aloe ferox* [sauf les produits finis emballés et prêts pour la vente au détail]; *Aloe* spp., ne concerne pas *Aloe vera* = *A. barbadensis*), bois d’agar ou bois d’aigle (*Aquilaria* spp. et *Gyrinops* spp.), cistanche des déserts (*Cistanche deserticola*), curcuma canadien (*Hydrastis* *canadensis*), dionée attrape-mouche (*Dionaea muscipula*), espèces d’ifs asiatiques et leurs sous-espèces et hybrides (*Taxus chinensis*, *T. cuspidata*, *T. fuana*, *T. x media*, *T. sumatrana*; ne concerne pas l’if de l’Himalaya [*Taxus wallichiana*] ni les espèces américaines et européennes [*Taxus baccata*, *T. brevifolia*, *T. canadensis*, *T. globosa*, *T. floridana*]), igname du Delta *(Discorea deltoidea*), gaïac ou lignum vitae ou palo santo ou guaïac ou guayacol (*Guaiacum* spp., *Bulnesia sarmientoi*), nardostachide d’Inde (*Nardostachys jatamansi*), orchidées (p. ex. *Bletilla striata*, *Dendrobium* spp., *Gastrodia elata,* sauf fruits de *Vanilla* spp.), orpins (*Rhodiola* spp.), perce-neige (*Galanthus* spp.), peyote (*Lophophora williamsii*), *Picorhiza kurroa*, podophylle (*Podophyllum hexandrum*), prunier d’Afrique ou pygeum (*Prunus africana*), racine de serpent (*Rauvolfia serpentina*), reine de la nuit (*Selenicereus* = *Cereus grandiflorus*), San Pedro (*Trichocereus* = *Echinopsis* pachanoi), santal est-africain (*Osyris lanceolata*), santal rouge ou padouk (*Pterocarpus santalinus*), saussuréa (*Saussurea costus*) à l’exclusion des plantes entières et des parties de plantes sauvages</td></tr>
-<tr><td>ex 1301.9080</td><td>résine d’aloès (aloès du Cap = *Aloe ferox* [sauf les produits finis emballés et prêts pour la vente au détail] ; *Aloe* spp., ne concerne pas *Aloe vera* = *A. barbadensis*), résine de gaïac (*Guaiacum* spp., *Bulnesia* *sarmientoi*), résine de gugulon (*Copmmiphora wightii*)</td></tr>
+<tr><td>ex 1301.9080</td><td>résine d’aloès (aloès du Cap = *Aloe ferox* [sauf les produits finis emballés et prêts pour la vente au détail]; *Aloe* spp., ne concerne pas *Aloe vera* = *A. barbadensis*), résine de gaïac (*Guaiacum* spp., *Bulnesia* *sarmientoi*), résine de gugulon (*Copmmiphora wightii*)</td></tr>
 <tr><td colspan="2">2.3.2 Sèves et extraits végétaux</td></tr>
-<tr><td>ex 1302.1900</td><td>lignum vitae d’Argentine ou palo santo (*Bulnesia sarmientoi* [sauf les produits finis emballés et prêts pour la vente au détail]), prunier d’Afrique ou pygeum (*Prunus africana*), santal est-africain (*Osyris lanceolata*), extrait de gaïac (*Guajacum* spp.), sève du cocotier du Chili (*Jubaea chilensis*), extrait de gugulon (*Commiphora wightii*), extrait de santal rouge ou padouk (*Pterocarpus* *santalinus*), extrait de l’if, désigné aussi par les termes de taxol ou paclitaxel, d’espèces asiatiques et de leurs sous-espèces et hybrides (*Taxus chinensis*, *T. cuspidata*, *T. fuana*, *T. x media*; *T. sumatrana*; ne concerne pas l’if de l’Himalaya [*Taxus* *wallichiana*] ni les espèces américaines et européennes [*Taxus baccata*, *T. brevifolia*, *T. canadensis*, *T. globosa*, *T. floridana*]), extrait des orpins (*Rhodiola* spp. [sauf les produits finis emballés et prêts pour la vente au détail], suc d’aloès (aloès du Cap = *Aloe ferox* [sauf les produits finis emballés et prêts pour la vente au détail] ; *Aloe* spp., ne concerne pas *Aloe vera* = *A. barbadensis*)</td></tr>
+<tr><td>ex 1302.1900</td><td>lignum vitae d’Argentine ou palo santo (*Bulnesia sarmientoi* [sauf les produits finis emballés et prêts pour la vente au détail]), prunier d’Afrique ou pygeum (*Prunus africana*), santal est-africain (*Osyris lanceolata*), extrait de gaïac (*Guajacum* spp.), sève du cocotier du Chili (*Jubaea chilensis*), extrait de gugulon (*Commiphora wightii*), extrait de santal rouge ou padouk (*Pterocarpus* *santalinus*), extrait de l’if, désigné aussi par les termes de taxol ou paclitaxel, d’espèces asiatiques et de leurs sous-espèces et hybrides (*Taxus chinensis*, *T. cuspidata*, *T. fuana*, *T. x media*; *T. sumatrana*; ne concerne pas l’if de l’Himalaya [*Taxus* *wallichiana*] ni les espèces américaines et européennes [*Taxus baccata*, *T. brevifolia*, *T. canadensis*, *T. globosa*, *T. floridana*]), extrait des orpins (*Rhodiola* spp. [sauf les produits finis emballés et prêts pour la vente au détail], suc d’aloès (aloès du Cap = *Aloe ferox* [sauf les produits finis emballés et prêts pour la vente au détail]; *Aloe* spp., ne concerne pas *Aloe vera* = *A. barbadensis*)</td></tr>
 <tr><td colspan="2">2.3.3 Cire de candelilla</td></tr>
 <tr><td>ex 1521.1091; 1521.1092</td><td>*Euphorbia antisyphilitica* (sauf les produits finis emballés et prêts pour la vente au détail)</td></tr>
 <tr><td colspan="2">2.3.4 Huiles essentielles et résinoïdes</td></tr>
 <tr><td>ex 3301.2900; 3302.1000–9000</td><td>huiles essentielles d’espèces CITES</td></tr>
-<tr><td>ex 3304.3000; 3304.9900; 3307.9000</td><td>produits de beauté ou préparations cosmétiques avec des extraits de plante (Orchidaceae [à l’exception des produits finis, emballés et prêts pour la vente au détail de cosmétiques, contenant des parties et produits issus de la reproduction artificielle, des espèces d’orchidées suivantes : *Bletilla striata*, *Cycnoches cooperi, Gastrodia elata, Phalaenopsis amabilis* ou *P. lobbii*])</td></tr>
+<tr><td>ex 3304.3000; 3304.9900; 3307.9000</td><td>produits de beauté ou préparations cosmétiques avec des extraits de plante (Orchidaceae [à l’exception des produits finis, emballés et prêts pour la vente au détail de cosmétiques, contenant des parties et produits issus de la reproduction artificielle, des espèces d’orchidées suivantes: *Bletilla striata*, *Cycnoches cooperi, Gastrodia elata, Phalaenopsis amabilis* ou *P. lobbii*])</td></tr>
 <tr><td colspan="2">2.4 Bois et articles en bois</td></tr>
 <tr><td colspan="2">2.4.1 Sciures, déchets de bois</td></tr>
 <tr><td>ex 4401.3100–4900</td><td>bois d’agar ou bois d’aigle (*Aquilaria* spp., *Gyrinops* spp.), gaïac ou lignum vitae ou palo santo (*Guaiacum* spp., *Bulnesia sarmientoi*), santal est-africain (*Osyris lanceolata*), santal rouge ou padouk (*Pterocarpus santalinus*)</td></tr>
@@ -593,73 +593,65 @@ Annexe 3[^t-3]
 
 ## Animaux et plantes, parties et produits dont l’importation est interdite
 
-[^t-3]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 31 mars 2026, en vigueur depuis le 1<sup>er</sup> mai. 2026 ([RO 2026 148](https://fedlex.data.admin.ch/eli/oc/2026/148)).
+[^t-3]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 25 sept. 2026, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2026 498](https://fedlex.data.admin.ch/eli/oc/2026/498)).
 
 <table>
 <tr><th>Pays</th><th>Animal, plante, produit</th><th>Notification <sup>a</sup></th></tr>
 <tr><td>Afghanistan</td><td>Suspension de tout commerce</td><td>N<sup>o</sup> 2013/018 (17 mai 2013)</td></tr>
-<tr><td>Bangladesh</td><td>*Aves* spp. inscrits aux annexes I à III CITES à des fins commerciales</td><td>N<sup>o</sup> 2023/129 (23 novembre 2023)</td></tr>
-<tr><td>Belize</td><td>Myrmecophila tibicinis</td><td>N<sup>o</sup> 2026/004 (8 janvier 2026)</td></tr>
-<tr><td>Bénin</td><td>Chamaeleo gracilis</td><td>N<sup>o</sup> 2026/004 (8 janvier 2026)</td></tr>
-<tr><td></td><td>Chamaeleo senegalensis</td><td>N<sup>o</sup> 2026/004 (8 janvier 2026)</td></tr>
-<tr><td></td><td>Klinixys homeana</td><td>N<sup>o</sup> 2026/004 (8 janvier 2026)</td></tr>
-<tr><td></td><td>Pandinus imperator</td><td>N<sup>o</sup> 2026/004 (8 janvier 2026)</td></tr>
+<tr><td>Bangladesh</td><td>*Aves* spp. inscrits aux annexes I à III CITES à des fins commerciales</td><td>N<sup>o</sup> 2023/129 (23 nov. 2023)</td></tr>
+<tr><td>Belize</td><td>Myrmecophila tibicinis</td><td>N<sup>o</sup> 2026/004 (8 janv. 2026)</td></tr>
+<tr><td>Bénin</td><td>*Centrochelys sulcata*: spécimens élevés en captivité</td><td>N<sup>o</sup> 2025/135 (12 déc. 2025)</td></tr>
+<tr><td></td><td>Chamaeleo gracilis</td><td>N<sup>o</sup> 2026/004 (8 janv. 2026)</td></tr>
+<tr><td></td><td>Chamaeleo senegalensis</td><td>N<sup>o</sup> 2026/004 (8 janv. 2026)</td></tr>
+<tr><td></td><td>Klinixys homeana</td><td>N<sup>o</sup> 2026/004 (8 janv. 2026)</td></tr>
+<tr><td></td><td>Pandinus imperator</td><td>N<sup>o</sup> 2026/004 (8 janv. 2026)</td></tr>
 <tr><td>Cameroun</td><td>Pterocarpus erinaceus</td><td>N<sup>o</sup> 2022/045 (8 juin 2022)</td></tr>
 <tr><td>Comores</td><td>toutes les importations, exportations et réexportations commerciales</td><td>N<sup>o</sup> 2025/061 (2 mai 2025)</td></tr>
-<tr><td>Djibouti</td><td>toutes les importations, exportations et réexportations commerciales</td><td>N<sup>o</sup> 2011/010 (19 janvier 2011)</td></tr>
-<tr><td></td><td>Suspension de tout commerce</td><td>N<sup>o</sup> 2018/015 (30 janvier 2018)</td></tr>
-<tr><td>Dominique</td><td>toutes les importations, exportations et réexportations commerciales</td><td>N<sup>o</sup> 2024/030 (2 février 2024)</td></tr>
-<tr><td>Équateur</td><td>Alopias spp.</td><td>N<sup>o</sup> 2024/043 (11 mars 2024)</td></tr>
-<tr><td></td><td>Carcharhinus falciformis</td><td>N<sup>o</sup> 2024/043 (11 mars 2024)</td></tr>
-<tr><td></td><td>Carcharhinus longimanus</td><td>N<sup>o</sup> 2024/043 (11 mars 2024)</td></tr>
-<tr><td></td><td>Carcharodon carcharias</td><td>N<sup>o</sup> 2024/043 (11 mars 2024)</td></tr>
-<tr><td></td><td>Cetorhinus maximus</td><td>N<sup>o</sup> 2024/043 (11 mars 2024)</td></tr>
-<tr><td></td><td>Isurus oxyrinchus</td><td>N<sup>o</sup> 2024/043 (11 mars 2024)</td></tr>
-<tr><td></td><td>Isurus paucus</td><td>N<sup>o</sup> 2024/043 (11 mars 2024)</td></tr>
-<tr><td></td><td>Mobula spp.</td><td>N<sup>o</sup> 2024/043 (11 mars 2024)</td></tr>
-<tr><td></td><td>Sphyrna lewini</td><td>N<sup>o</sup> 2024/043 (11 mars 2024)</td></tr>
-<tr><td></td><td>Sphyrna mokarran</td><td>N<sup>o</sup> 2024/043 (11 mars 2024)</td></tr>
-<tr><td></td><td>Sphyrna zygaena</td><td>N<sup>o</sup> 2024/043 (11 mars 2024)</td></tr>
-<tr><td></td><td>Rhincodon typus</td><td>N<sup>o</sup> 2024/043 (11 mars 2024)</td></tr>
+<tr><td>Djibouti</td><td>toutes les importations, exportations et réexportations commerciales</td><td>N<sup>o</sup> 2011/010 (19 janv. 2011)</td></tr>
+<tr><td></td><td>Suspension de tout commerce</td><td>N<sup>o</sup> 2018/015 (30 janv. 2018)</td></tr>
+<tr><td>Dominique</td><td>toutes les importations, exportations et réexportations commerciales</td><td>N<sup>o</sup> 2024/030 (2 fév. 2024)</td></tr>
+<tr><td>Équateur</td><td>Alopias spp.</td><td>N<sup>o</sup> 2025/038 (20 mars 2025)</td></tr>
+<tr><td></td><td>Carcharhinus falciformis</td><td>N<sup>o</sup> 2025/038 (20 mars 2025)</td></tr>
+<tr><td></td><td>Isurus spp.</td><td>N<sup>o</sup> 2025/038 (20 mars 2025)</td></tr>
 <tr><td>Gambie</td><td>Pterocarpus erinaceus</td><td>N<sup>o</sup> 2022/045 (8 juin 2022)</td></tr>
-<tr><td>Ghana</td><td>Chamaeleo gracilis</td><td>N<sup>o</sup> 2026/004 (8 janvier 2026)</td></tr>
-<tr><td></td><td>Chamaeleo senegalensis</td><td>N<sup>o</sup> 2026/004 (8 janvier 2026)</td></tr>
-<tr><td></td><td>Pandinus imperator</td><td>N<sup>o</sup> 2026/004 (8 janvier 2026)</td></tr>
-<tr><td>Grenade</td><td>Strombus gigas</td><td>N<sup>o</sup> 2026/004 (8 janvier 2026)</td></tr>
-<tr><td></td><td>suspencion de tout commerce</td><td>N<sup>o</sup> 2016/022 (16 mars 2016)</td></tr>
-<tr><td>Guinée</td><td>Hippocampus algiricus</td><td>N<sup>o</sup> 2026/004 (8 janvier 2026)</td></tr>
-<tr><td></td><td>toutes les importations, exportations et réexportations commerciales</td><td>N<sup>o</sup> 2023/128 (23 novembre 2023)</td></tr>
+<tr><td>Ghana</td><td>Chamaeleo gracilis</td><td>N<sup>o</sup> 2026/004 (8 janv. 2026)</td></tr>
+<tr><td></td><td>Chamaeleo senegalensis</td><td>N<sup>o</sup> 2026/004 (8 janv. 2026)</td></tr>
+<tr><td></td><td>Pandinus imperator</td><td>N<sup>o</sup> 2026/004 (8 janv. 2026)</td></tr>
+<tr><td>Grenade</td><td>Strombus gigas</td><td>N<sup>o</sup> 2026/004 (8 janv. 2026)</td></tr>
+<tr><td></td><td>Suspension de tout commerce</td><td>N<sup>o</sup> 2016/022 (16 mars 2016)</td></tr>
+<tr><td>Guinée</td><td>Hippocampus algiricus</td><td>N<sup>o</sup> 2026/004 (8 janv. 2026)</td></tr>
+<tr><td></td><td>toutes les importations, exportations et réexportations commerciales</td><td>N<sup>o</sup> 2023/128 (23 nov. 2023)</td></tr>
 <tr><td>Guinée-Bissau</td><td>Pterocarpus erinaceus</td><td>N° 2022/045 (8 juin 2022)</td></tr>
-<tr><td>Guinée équatoriale</td><td>Prunus africana</td><td>N<sup>o</sup> 2026/004 (8 janvier 2026)</td></tr>
-<tr><td>Haïti (État non contractant)</td><td>Strombus gigas</td><td>N<sup>o</sup> 2026/004 (8 janvier 2026)</td></tr>
-<tr><td>Îles Salomon</td><td>Corucia zebrata</td><td>N<sup>o</sup> 2026/004 (8 janvier 2026)</td></tr>
-<tr><td></td><td>Ornithoptera priamus (autrefois O. urvillianus)</td><td>N<sup>o</sup> 2026/004 (8 janvier 2026)</td></tr>
-<tr><td></td><td>Ornithoptera victoriae</td><td>N<sup>o</sup> 2026/004 (8 janvier 2026)</td></tr>
-<tr><td>Laos</td><td>Dendrobium nobile</td><td>N<sup>o</sup> 2026/004 (8 janvier 2026)</td></tr>
+<tr><td>Guinée équatoriale</td><td>Prunus africana</td><td>N<sup>o</sup> 2026/004 (8 janv. 2026)</td></tr>
+<tr><td>Haïti (État non contractant)</td><td>Strombus gigas</td><td>N<sup>o</sup> 2026/004 (8 janv. 2026)</td></tr>
+<tr><td>Îles Salomon</td><td>Corucia zebrata</td><td>N<sup>o</sup> 2026/004 (8 janv. 2026)</td></tr>
+<tr><td></td><td>Ornithoptera priamus (autrefois O. urvillianus)</td><td>N<sup>o</sup> 2026/004 (8 janv. 2026)</td></tr>
+<tr><td></td><td>Ornithoptera victoriae</td><td>N<sup>o</sup> 2026/004 (8 janv. 2026)</td></tr>
+<tr><td>Laos</td><td>Dendrobium nobile</td><td>N<sup>o</sup> 2026/004 (8 janv. 2026)</td></tr>
 <tr><td></td><td>toutes les importations, exportations et réexportations commerciales de *Fauna* spp.</td><td>N<sup>o</sup> 2025/032 (13 mars 2025)</td></tr>
-<tr><td>Libéria</td><td>toutes les importations, exportations et réexportations commerciales</td><td>N<sup>o</sup> 2018/012 (22 janvier 2018)</td></tr>
-<tr><td>Libye</td><td>toutes les importations, exportations et réexportations commerciales</td><td>N<sup>o</sup> 2024/031 (2 février 2024)</td></tr>
-<tr><td>Madagascar</td><td>Coracopsis vasa</td><td>N<sup>o</sup> 2026/004 (8 janvier 2026)</td></tr>
-<tr><td></td><td>Furcifer labordi</td><td>N<sup>o</sup> 2026/004 (8 janvier 2026)</td></tr>
-<tr><td></td><td>Phelsuma borai, P. gouldi, P. hoeschi et P. ravenala</td><td>N<sup>o</sup> 2026/004 (8 janvier 2026)</td></tr>
-<tr><td>Mali</td><td>Pterocarpus erinaceus</td><td>N° 2022/045 (8 juin 2022)</td></tr>
-<tr><td></td><td>Uromastyx dispar</td><td>N<sup>o</sup> 2026/004 (8 janvier 2026)</td></tr>
-<tr><td></td><td>Uromastyx geyri</td><td>N<sup>o</sup> 2026/004 (8 janvier 2026)</td></tr>
-<tr><td>Mozambique</td><td>Cordylus tropidosternum</td><td>N<sup>o</sup> 2026/004 (8 janvier 2026)</td></tr>
-<tr><td></td><td>Smaug mossambicus</td><td>N<sup>o</sup> 2026/004 (8 janvier 2026)</td></tr>
-<tr><td>Niger</td><td>Chamaeleo africanus</td><td>N<sup>o</sup> 2026/004 (8 janvier 2026)</td></tr>
-<tr><td>Nigéria</td><td>Pterocarpus erinaceus</td><td>N<sup>o</sup> 2018/084 (1<sup>er</sup> novembre 2018)</td></tr>
-<tr><td>Oman</td><td>toutes les importations, exportations et réexportations commerciales</td><td>N<sup>o</sup> 2024/032 (2 février 2024)</td></tr>
+<tr><td>Libéria</td><td>toutes les importations, exportations et réexportations commerciales</td><td>N<sup>o</sup> 2018/012 (22 janv. 2018)</td></tr>
+<tr><td>Libye</td><td>toutes les importations, exportations et réexportations commerciales</td><td>N<sup>o</sup> 2024/031 (2 fév. 2024)</td></tr>
+<tr><td>Madagascar</td><td>Coracopsis vasa</td><td>N<sup>o</sup> 2025/031 (13 mars 2025)</td></tr>
+<tr><td></td><td>Furcifer labordi</td><td>N<sup>o</sup> 2025/031 (13 mars 2025)</td></tr>
+<tr><td></td><td>Phelsuma borai, P. gouldi, P. hoeschi et P. ravenala</td><td>N<sup>o</sup> 2025/031 (13 mars 2025)</td></tr>
+<tr><td>Mali</td><td>*Centrochelys sulcata*: spécimens élevés en captivité</td><td>N<sup>o</sup> 2025/135 (12 déc. 2025)</td></tr>
+<tr><td></td><td>*Pterocarpus erinaceus*: à l’exception d’un volume de 4096 m<sup>3</sup></td><td>N° 2026/093 (24 juin 2026)</td></tr>
+<tr><td></td><td>Uromastyx dispar</td><td>N<sup>o</sup> 2026/004 (8 janv. 2026)</td></tr>
+<tr><td></td><td>Uromastyx geyri</td><td>N<sup>o</sup> 2026/004 (8 janv. 2026)</td></tr>
+<tr><td>Mozambique</td><td>Cordylus tropidosternum</td><td>N<sup>o</sup> 2026/004 (8 janv. 2026)</td></tr>
+<tr><td></td><td>Smaug mossambicus</td><td>N<sup>o</sup> 2026/004 (8 janv. 2026)</td></tr>
+<tr><td>Niger</td><td>Chamaeleo africanus</td><td>N<sup>o</sup> 2026/004 (8 janv. 2026)</td></tr>
+<tr><td>Nigéria</td><td>Pterocarpus erinaceus</td><td>N<sup>o</sup> 2018/084 (1<sup>er</sup> nov. 2018)</td></tr>
 <tr><td>République centrafricaine</td><td>Pterocarpus erinaceus</td><td>N<sup>o</sup> 2022/045 (8 juin 2022)</td></tr>
-<tr><td>République démocratique du Congo</td><td>Manis spp.</td><td>N<sup>o</sup> 2018/082 (1<sup>er</sup> novembre 2018)</td></tr>
-<tr><td></td><td>Poicephalus fuscicollis (autrefois Poicephalus robustus)</td><td>N<sup>o</sup> 2026/004 (8 janvier 2026)</td></tr>
+<tr><td>République démocratique du Congo</td><td>Manis spp.</td><td>N<sup>o</sup> 2018/082 (1<sup>er</sup> nov. 2018)</td></tr>
+<tr><td></td><td>Poicephalus fuscicollis (autrefois Poicephalus robustus)</td><td>N<sup>o</sup> 2026/004 (8 janv. 2026)</td></tr>
 <tr><td></td><td>Psittacus erithacus</td><td>N° 2022/017 (18 mars 2022)</td></tr>
 <tr><td>Sao Tomé-et-Principe</td><td>toutes les importations, exportations et réexportations commerciales</td><td>N<sup>o</sup> 2022/038 (17 mai 2022)</td></tr>
-<tr><td>Sénégal</td><td>Hippocampus algiricus</td><td>N<sup>o</sup> 2026/004 (8 janvier 2026)</td></tr>
-<tr><td>Somalie</td><td>toutes les importations, exportations et réexportations commerciales</td><td>N<sup>o</sup> 2019/035 (4 juillet 2019)</td></tr>
-<tr><td>Tanzanie</td><td>Balearica regulorum</td><td>N<sup>o</sup> 2026/004 (8 janvier 2026)</td></tr>
+<tr><td>Sénégal</td><td>Hippocampus algiricus</td><td>N<sup>o</sup> 2026/004 (8 janv. 2026)</td></tr>
+<tr><td>Somalie</td><td>toutes les importations, exportations et réexportations commerciales</td><td>N<sup>o</sup> 2019/035 (4 juil. 2019)</td></tr>
+<tr><td>Tanzanie</td><td>Balearica regulorum</td><td>N<sup>o</sup> 2026/004 (8 janv. 2026)</td></tr>
 <tr><td>Tchad</td><td>Pterocarpus erinaceus</td><td>N<sup>o</sup> 2022/045 (8 juin 2022)</td></tr>
-<tr><td>Togo</td><td>Poicephalus fuscicollis (autrefois P. robustus)</td><td>N<sup>o</sup> 2026/004 (8 janvier 2026)</td></tr>
+<tr><td>Togo</td><td>Poicephalus fuscicollis (autrefois P. robustus)</td><td>N<sup>o</sup> 2026/004 (8 janv. 2026)</td></tr>
 <tr><td></td><td>Pterocarpus erinaceus</td><td>N<sup>o</sup> 2022/045 (8 juin 2022)</td></tr>
 <tr><td colspan="3"><sup>a</sup> Les notifications peuvent être consultées sur le site internet du Secrétariat CITES: [www.cites.org](https://cites.org/eng/notif/index.php) &gt; Français &gt; Documents &gt; Notifications aux Parties.</td></tr>
 </table>
