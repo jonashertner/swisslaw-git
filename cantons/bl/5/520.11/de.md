@@ -4,13 +4,12 @@ number: "520.11"
 title: Verordnung über den Schutz der wildlebenden Säugetiere und Vögel sowie deren Lebensräume und die Jagd
 short: "Wildtier- und Jagdverordnung, WJV"
 language: de
-version: 2022-01-01
-valid_until: 2026-10-31
-version_adopted: 2021-11-16
+version: 2026-11-01
+version_adopted: 2026-10-20
 adopted: 2021-11-16
 in_force: 2022-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/520.11"
-pdf: "https://bl.clex.ch/api/de/versions/3128/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4528/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3128/pdf_file"
 
 (Wildtier- und Jagdverordnung, WJV)
 
-Vom 16.11.2021 (Stand 01.01.2022)
+Vom 16.11.2021 (Stand 01.11.2026)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -213,7 +212,9 @@ beschliesst:
 
 <sup>2</sup> Die Ausstellung eines Jahresjagdpasses für ausserkantonale Gastjägerinnen und Gastjäger bedingt eine Gegenrechtsvereinbarung.
 
-<sup>3</sup> Als Tagesjagdpass werden für die Teilnahme an der lauten Jagd alle zum Zeitpunkt der Jagdausübung gültigen Jagdpässe und Jagdpatente aus der Schweiz für Gastjägerinnen und Gastjäger anerkannt.
+<sup>3</sup> Die Fachstelle anerkennt als Tagesjagdpass gültige Jagdpässe und Jagdpatente aus angrenzenden Kantonen sowie aus Kantonen, die das Gegenrecht gewähren.
+
+<sup>3<sup>bis</sup></sup> Für die Teilnahme an der lauten Jagd werden als Tagesjagdpass gültige Jagdpässe und Jagdpatente aus der ganzen Schweiz anerkannt.
 
 <sup>4</sup> Die Jagdberechtigten sind verpflichtet, den Jagdpass bei der Jagd auf sich zu tragen und auf Verlangen der Jagdaufsicht sowie berechtigten Mitarbeitenden der Fachstelle und der Polizei vorzuweisen.
 
@@ -530,8 +531,12 @@ beschliesst:
 
 <sup>1</sup> Die Beitragsempfängerinnen und Beitragsempfänger verpflichten sich:
 
-- a. den Zaun mit Diagonaldrahtgeflecht aus verzinktem Draht mit maximal 50 mm Maschenweite, 2 mm Drahtstärke und 120 cm Breite oder aus stabilem Knotengitter, das bis 120 cm Höhe eine maximale Maschenweite von 50 mm aufweist, zu erstellen;
-- b. zum Schutz vor dem Rothirsch den Zaun gemäss Bst. a mit einer Mindesthöhe von 200 cm zu erstellen;
+- a. den Zaun mit Diagonaldrahtgeflecht mit bis 75 mm Maschenweite oder doppelt verknotetem Knotengitter aus verzinktem Draht mit mindestens 2 mm Drahtstärke und mindestens 120 cm Höhe, zu erstellen; bei dem Knotengitter sind folgende Abstände erlaubt:
+  - 1\. zwischen Vertikaldrähten: bis 75 mm;
+  - 2\. zwischen Horizontaldrähten: bis 100 mm;
+- b. zum Schutz vor dem Rothirsch den Zaun gemäss Bst. a
+  - 1\. auf mindestens 200 cm Höhe zu erweitern oder neu in dieser Höhe zu erstellen,
+  - 2\. oder mit 2 zusätzlichen, gut sichtbaren Sprungdrähten bis mindestens 200 cm Höhe zu erweitern.
 - c. bei einem Hasenschutz ein eng am Boden anliegendes Drahtgeflecht zu verwenden und darüber 2 Fangdrähte bis zur Gesamthöhe von 150 cm zu installieren;
 - d. stabiles und dauerhaftes Pfahlmaterial im Abstand von ca. 4 m zu verwenden;
 - e. keine Änderungen an der Zaunanlage ohne Zustimmung der Fachstelle vorzunehmen, ansonsten sind die Beiträge ganz oder teilweise zurückzuerstatten.
@@ -720,6 +725,6 @@ beschliesst:
 
 <sup>4</sup> Bis zum 31. März 2022 nimmt die Jagd- und Revierschätzungskommission die Aufgaben gemäss § 4 WJG wahr. Die Kommission für Wildtiere und Jagd nimmt ihre Aufgaben ab dem 1. April 2022 wahr.
 
-<sup>5</sup> Bestehende Zaunanlagen ausserhalb der Bauzone sind spätestens bis Ende 2032 durch tierschutzgerechte Zäune zu ersetzen.
+<sup>5</sup> Bestehende Zaunanlagen ausserhalb der Bauzonen sind spätestens bis Ende 2032 durch wildtierfreundliche Zäune zu ersetzen.
 
 GS 2021.098
