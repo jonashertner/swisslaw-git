@@ -3,18 +3,18 @@ sr: "946.231.08"
 title: "Verordnung vom 21. März 2025 über Massnahmen gegenüber bestimmten Personen, Gruppen, Unternehmen und Organisationen, die mit den Organisationen ISIL (Da’esh) und Al-Kaida in Verbindung stehen"
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/194"
 language: de
-version: 2025-05-15
+version: 2026-11-01
 adopted: 2025-03-21
 in_force: 2025-05-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/194/20250515/de/xml/fedlex-data-admin-ch-eli-cc-2025-194-20250515-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/194/20250515/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/194/20261101/de/xml/fedlex-data-admin-ch-eli-cc-2025-194-20261101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/194/20261101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber bestimmten Personen, Gruppen, Unternehmen und Organisationen, die mit den Organisationen ISIL (Da’esh) und Al‑Kaida in Verbindung stehen
 
-vom 21. März 2025 (Stand am 15. Mai 2025)
+vom 21. März 2025 (Stand am 1. November 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -22,7 +22,7 @@ gestützt auf Artikel 2 des Embargogesetzes vom 22. März 2002[^ingress-1] (EmbG
 
 verordnet:
 
-[^ingress-1]: [SR 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
+[^ingress-1]: [SR 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
 
 ## 1. Abschnitt: Begriffe
 
@@ -47,8 +47,8 @@ In dieser Verordnung bedeuten:
 
 <sup>3</sup> Vorbehalten bleiben die Bestimmungen des Güterkontrollgesetzes vom 13. Dezember 1996[^2-1] und des Kriegsmaterialgesetzes vom 13. Dezember 1996[^2-2].
 
-[^2-1]: [SR 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
-[^2-2]: [SR 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
+[^2-1]: [SR 946.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11363)
+[^2-2]: [SR 514.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7526)
 
 #### Art. 3
 
@@ -66,7 +66,7 @@ Gesperrt sind Gelder und wirtschaftliche Ressourcen, die sich im Eigentum oder u
 
 <sup>3</sup>
 
-Das Verbot nach Absatz 2 gilt nicht für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse durch:
+Absatz 1 und das Verbot nach Absatz 2 gelten nicht, wenn die Überweisung von Geldern oder die Bereitstellung von Geldern oder wirtschaftlichen Ressourcen erforderlich ist für die Erbringung humanitärer Hilfe oder für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse durch:[^3-1]
 
 - a. die Vereinten Nationen, einschliesslich ihrer Programme, Fonds und sonstiger Einrichtungen und Stellen, sowie ihre Sonderorganisationen und verwandte Organisationen;
 - b. internationale Organisationen;
@@ -74,6 +74,15 @@ Das Verbot nach Absatz 2 gilt nicht für die Erbringung humanitärer Hilfe und f
 - d. bilateral oder multilateral finanzierte nichtstaatliche Organisationen, die sich an den Plänen der Vereinten Nationen für humanitäre Hilfe, an den Plänen für Flüchtlingshilfemassnahmen, an anderen Appellen der Vereinten Nationen oder an vom Amt der Vereinten Nationen für die Koordinierung humanitärer Angelegenheiten (OCHA) koordinierten humanitären Strukturen beteiligen;
 - e. die Beschäftigten, Beitragsempfängerinnen und -empfänger, Tochtergesellschaften oder Durchführungspartner der in den Buchstaben a–d genannten Organisationen, soweit sie in dieser Eigenschaft handeln;
 - f. alle weiteren vom zuständigen Komitee des Sicherheitsrats der Vereinten Nationen bestimmten Akteure.
+
+<sup>3bis</sup>
+
+Sofern die gutgeschriebenen Beträge ebenfalls gesperrt werden, gilt das Verbot nach Absatz 2 nicht für die Gutschrift auf gesperrte Konten von:
+
+- a. Zinsen und sonstigen Erträgen dieser Konten;
+- b. Zahlungen aufgrund von bestehenden Verträgen.[^3-2]
+
+<sup>3ter</sup> Gelder, die von Dritten an natürliche Personen, Unternehmen oder Organisationen nach Absatz 1 überwiesen werden, dürfengesperrten Konten gutgeschrieben werden, sofern die auf diesen Konten gutgeschriebenen Beträge ebenfalls gesperrt werden.[^3-3]
 
 <sup>4</sup>
 
@@ -84,6 +93,10 @@ Das Staatssekretariat für Wirtschaft (SECO) kann Zahlungen aus gesperrten Konte
 - c. Erfüllung von Forderungen, die Gegenstand einer bestehenden Entscheidung eines Gerichts, einer Verwaltungsstelle oder eines Schiedsgerichts sind.
 
 <sup>5</sup> Es bewilligt Ausnahmen nach Absatz 4 nach Rücksprache mit den zuständigen Stellen des Eidgenössischen Departements für auswärtige Angelegenheiten (EDA) und des Eidgenössischen Finanzdepartements sowie, falls anwendbar, nach Meldung an das zuständige Komitee des Sicherheitsrats der Vereinten Nationen und in Übereinstimmung mit den Beschlüssen dieses Komitees.
+
+[^3-1]: Fassung gemäss Ziff. I 2 der V vom 25. Sept. 2026 über die Änderung von Sanktionsverordnungen in Bezug auf die Proliferations und Terrorismusfinanzierung, in Kraft seit 1. Nov. 2026 ([AS 2026 501](https://fedlex.data.admin.ch/eli/oc/2026/501)).
+[^3-2]: Eingefügt durch Ziff. I 2 der V vom 25. Sept. 2026 über die Änderung von Sanktionsverordnungen in Bezug auf die Proliferations und Terrorismusfinanzierung, in Kraft seit 1. Nov. 2026 ([AS 2026 501](https://fedlex.data.admin.ch/eli/oc/2026/501)).
+[^3-3]: Eingefügt durch Ziff. I 2 der V vom 25. Sept. 2026 über die Änderung von Sanktionsverordnungen in Bezug auf die Proliferations und Terrorismusfinanzierung, in Kraft seit 1. Nov. 2026 ([AS 2026 501](https://fedlex.data.admin.ch/eli/oc/2026/501)).
 
 #### Art. 4
 
@@ -113,11 +126,17 @@ Das Staatssekretariat für Wirtschaft (SECO) kann Zahlungen aus gesperrten Konte
 
 #### Art. 6
 
-**Meldepflichten**
+**Meldepflichten**[^6-1]
 
-<sup>1</sup> Personen und Institutionen, die Gelder halten oder verwalten oder Kenntnis von wirtschaftlichen Ressourcen haben, von denen anzunehmen ist, dass sie unter die Sperrung nach Artikel 3 Absatz 1 fallen, müssen dies dem SECO unverzüglich melden.
+<sup>1</sup> Personen und Organisationen, die Gelder halten oder verwalten oder von Geldern oder wirtschaftlichen Ressourcen wissen, von denen anzunehmen ist, dass sie unter die Sperrung nach Artikel 3 Absatz 1 fallen, müssen dies dem SECO unverzüglich melden.
 
-<sup>2</sup> Die Meldungen müssen die Namen der Begünstigten sowie Gegenstand und Wert der gesperrten Gelder und wirtschaftlichen Ressourcen enthalten.
+<sup>2</sup> Finanzinstitute, die dem SECO gemäss Absatz 1 von ihnen gehaltene oder verwaltete Gelder gemeldet haben, müssen dem SECO jährlich bis zum 15. Februar die Beträge per 31. Dezember des Vorjahres übermitteln.
+
+<sup>3</sup> Gutschriften nach Artikel 3 Absatz 3<sup>ter</sup> müssen dem SECO unverzüglich gemeldet werden.
+
+<sup>4</sup> Die Meldungen müssen die Namen der Begünstigten, Gegenstand und Wert der gesperrten Gelder und wirtschaftlichen Ressourcen sowie bei Gutschriften die Namen der Aussteller enthalten.
+
+[^6-1]: Fassung gemäss Ziff. I 2 der V vom 25. Sept. 2026 über die Änderung von Sanktionsverordnungen in Bezug auf die Proliferations und Terrorismusfinanzierung, in Kraft seit 1. Nov. 2026 ([AS 2026 501](https://fedlex.data.admin.ch/eli/oc/2026/501)).
 
 #### Art. 7
 
