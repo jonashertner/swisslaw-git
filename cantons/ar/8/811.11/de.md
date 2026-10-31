@@ -3,20 +3,19 @@ canton: AR
 number: "811.11"
 title: Verordnung zum Gesundheitsgesetz
 language: de
-version: 2017-01-01
-valid_until: 2026-10-31
-version_adopted: 2016-12-20
+version: 2026-11-01
+version_adopted: 2026-09-22
 adopted: 2007-12-11
 in_force: 2008-01-01
 url: "https://ar.clex.ch/app/de/texts_of_law/811.11"
-pdf: "https://ar.clex.ch/api/de/versions/1173/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1647/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Gesundheitsgesetz
 
-vom 11.12.2007 (Stand 01.01.2017)
+vom 11.12.2007 (Stand 01.11.2026)
 
 Der Regierungsrat von Appenzell Ausserrhoden,
 
@@ -244,6 +243,32 @@ verordnet:
 <sup>5</sup> …
 
 [^17-1]: Vgl. Art. 17 Gesundheitsgesetz
+
+#### Art. 17a
+
+**Vollzug der Tabakproduktegesetzgebung**
+
+<sup>1</sup> Der Kantonschemiker vollzieht unter Vorbehalt von Abs. 2 die Bundesgesetzgebung über Tabakprodukte und elektronische Zigaretten[^17a-1].
+
+<sup>2</sup> Das Amt für Gesundheit organisiert Testkäufe nach Art. 24 TabPG.
+
+[^17a-1]: Tabakproduktegesetz (TabPG; SR [818.32](https://db.clex.ch/link/Bund/818.32/de)), Tabakprodukteverordnung (TabPV; SR [818.321](https://db.clex.ch/link/Bund/818.321/de))
+
+#### Art. 17b
+
+**Solarien**
+
+<sup>1</sup> Der Kantonschemiker kontrolliert Solarien gemäss der Bundesgesetzgebung über den Schutz vor Gefährdungen durch nichtionisierende Strahlung und Schall[^17b-1].
+
+[^17b-1]: NISSG (SR [814.71](https://db.clex.ch/link/Bund/814.71/de)), V-NISSG (SR [814.711](https://db.clex.ch/link/Bund/814.711/de))
+
+#### Art. 17c
+
+**Produkte für kosmetische Zwecke**
+
+<sup>1</sup> Das Amt für Gesundheit kontrolliert die Verwendung von Produkten für kosmetische Zwecke gemäss der Bundesgesetzgebung über den Schutz vor Gefährdungen durch nichtionisierende Strahlung und Schall[^17c-1].
+
+[^17c-1]: NISSG (SR [814.71](https://db.clex.ch/link/Bund/814.71/de)), V-NISSG (SR [814.711](https://db.clex.ch/link/Bund/814.711/de))
 
 #### Art. 18
 
