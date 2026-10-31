@@ -4,11 +4,11 @@ title: Verordnung vom 5. Dezember 2008 über das Immobilienmanagement und die Lo
 short: VILB
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/857"
 language: de
-version: 2025-05-01
+version: 2026-11-01
 adopted: 2008-12-05
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/857/20250501/de/xml/fedlex-data-admin-ch-eli-cc-2008-857-20250501-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/857/20250501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/857/20261101/de/xml/fedlex-data-admin-ch-eli-cc-2008-857-20261101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/857/20261101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/857/20250501/de"
 
 (VILB)
 
-vom 5. Dezember 2008 (Stand am 1. Mai 2025)
+vom 5. Dezember 2008 (Stand am 1. November 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,8 +25,8 @@ gestützt auf die Artikel 43 Absätze 2 und 3 sowie 47 Absatz 2 des Regierungs- 
 
 verordnet:
 
-[^ingress-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^ingress-2]: [SR 414.110](https://fedlex.data.admin.ch/eli/cc/1993/210_210_210)
+[^ingress-1]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^ingress-2]: [SR 414.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6688)
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -51,9 +51,9 @@ Diese Verordnung regelt:
 <sup>2</sup> Sie gilt nicht für die Infrastrukturanlagen des Bundes im Zusammenhang mit Nationalstrassen gemäss Artikel 2 der Nationalstrassenverordnung vom 7. November 2007[^1-3]; das Immobilienmanagement der Nationalstrassen richtet sich nach dem Bundesgesetz vom 8. März 1960[^1-4] über die Nationalstrassen.
 
 [^1-1]: Fassung gemäss Anhang 3 Ziff. 1 der V vom 30. Juni 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
-[^1-2]: [SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
-[^1-3]: [SR 725.111](https://fedlex.data.admin.ch/eli/cc/2007/796)
-[^1-4]: [SR 725.11](https://fedlex.data.admin.ch/eli/cc/1960/525_569_555)
+[^1-2]: [SR 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)
+[^1-3]: [SR 725.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8454)
+[^1-4]: [SR 725.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8453)
 
 #### Art. 2
 
@@ -108,9 +108,9 @@ Der Bundesrat genehmigt die Vereinbarungen:
 <sup>3</sup> Es kann Anpassungen der Vereinbarungen selbstständig vereinbaren, soweit es um administrativ-technische Fragen geht, die keine bedeutenden finanziellen Aufwendungen verursachen.
 
 [^4-1]: Fassung gemäss Ziff. I der V vom 27. Okt. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5049](https://fedlex.data.admin.ch/eli/oc/2010/722)).
-[^4-2]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
-[^4-3]: [SR 173.71](https://fedlex.data.admin.ch/eli/cc/2010/444)
-[^4-4]: [SR 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
+[^4-2]: [SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
+[^4-3]: [SR 173.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5641)
+[^4-4]: [SR 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
 
 #### Art. 5
 
@@ -123,7 +123,7 @@ Die BLO können auf vertraglicher Basis und zu kostendeckenden Preisen auch Leis
 - c. weitere öffentliche Verwaltungen.
 
 [^5-1]: Fassung gemäss Anhang 3 Ziff. 1 der V vom 30. Juni 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
-[^5-2]: [SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^5-2]: [SR 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)
 
 ## 2. Kapitel: Immobilienmanagement
 
@@ -190,7 +190,7 @@ Für das Immobilienmanagement sind als BLO verantwortlich:
 
 <sup>6</sup> Der ETH-Rat wendet bei der finanziellen Führung des Immobilienportfolios des ETH-Bereichs im Eigentum des Bundes die Artikel 28–32, 34–39 sowie 49–52*a* der Finanzhaushaltverordnung vom 5. April 2006[^8-1] an.[^8-2]
 
-[^8-1]: [SR 611.01](https://fedlex.data.admin.ch/eli/cc/2006/228)
+[^8-1]: [SR 611.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7752)
 [^8-2]: Eingefügt durch Ziff. I der V vom 17. Dez. 2014, in Kraft seit 1. Jan. 2015 ([AS 2015 1](https://fedlex.data.admin.ch/eli/oc/2015/1)).
 
 #### Art. 9
@@ -239,13 +239,14 @@ Im Bereich der operativen Steuerung erfüllen die BLO insbesondere folgende Aufg
 - c. *Infrastrukturelles* *Gebäudemanagement**:* Dieses umfasst die Beschaffung, Erbringung, Koordination und Überwachung aller Dienste, die für den täglichen Betrieb des Objektes erforderlich sind.
 - d. *Vorstudien und Projektierung:* Führung der Teilphasen Machbarkeitsstudien, Projektdefinitionen, Auswahlverfahren, Vorprojekte, Bauprojekte, Bewilligungsverfahren und Auflageprojekte. Die Optimierung der Lebenszykluskosten eines Gebäudes ist in allen Projektphasen zu berücksichtigen.
 - e. *Ausschreibung und Realisierung:* Führung der Teilphasen Ausschreibungen, Offertvergleiche, Vergaben, Ausführungsprojekte, Ausführung, Inbetriebnahme und Bauabschluss unter Berücksichtigung der Lebenswegkosten.
-- f. *Ressourcenverbrauch:* Die BLO führen ein Ressourcen- und Umweltmanagement und erstellen ein periodisches Reporting über den Ressourcenverbrauch (Wärme, Strom, Wasser, Abfall) pro Energiebezugsfläche und pro Gebäude des für eine aussagekräftige Auswertung relevanten Gebäudebestandes sowie über die geplanten Massnahmen. Den interessierten BO stellen sie diese Informationen im Rahmen des Programms RUMBA (Ressourcen- und Umweltmanagement der Bundesverwaltung) zur Verfügung.
+- f.[^9-6] *Ressourcenverbrauch:* Die BLO führen ein Ressourcen- und Umweltmanagement und erstellen ein periodisches Reporting über den Ressourcenverbrauch.
 
 [^9-1]: [www.kbob.ch](http://www.kbob.ch) &gt; Publikationen / Empfehlungen / Musterverträge &gt; Empfehlungen Nachhaltiges Bauen
 [^9-2]: Eingefügt durch Ziff. I der V vom 25. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5023](https://fedlex.data.admin.ch/eli/oc/2015/824)).
 [^9-3]: Aufgehoben durch Ziff. I der V vom 25. Nov. 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5023](https://fedlex.data.admin.ch/eli/oc/2015/824)).
 [^9-4]: Fassung gemäss Art. 39 Abs. 2 der V vom 24. Okt. 2012 über die Organisation des öffentlichen Beschaffungswesens der Bundesverwaltung, in Kraft seit 1. Jan. 2013 ([AS 2012 5935](https://fedlex.data.admin.ch/eli/oc/2012/695)).
-[^9-5]: [SR 172.056.15](https://fedlex.data.admin.ch/eli/cc/2024/224)
+[^9-5]: [SR 172.056.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5202)
+[^9-6]: Fassung gemäss Ziff. II der V vom 9. Sept. 2026, in Kraft seit 1. Nov. 2026 ([AS 2026 478](https://fedlex.data.admin.ch/eli/oc/2026/478)).
 
 #### Art. 10
 
@@ -284,7 +285,7 @@ Die BLO können im Rahmen der von den eidgenössischen Räten bewilligten Verpfl
 
 <sup>2</sup> Die BLO können BO im Rahmen von Vereinbarungen Aufgaben übertragen.
 
-[^12-1]: [SR 611.01](https://fedlex.data.admin.ch/eli/cc/2006/228)
+[^12-1]: [SR 611.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7752)
 
 #### Art. 13
 
@@ -419,14 +420,15 @@ Sie informieren das BBL regelmässig über:
 
 <sup>5</sup>
 
-Sie stellen dem BBL jährlich die folgenden Daten für übergeordnete Berichte und für Berichte zum Programm RUMBA zur Verfügung:
+Sie stellen dem BBL jährlich die folgenden Daten für übergeordnete Berichte zur Verfügung:[^19-4]
 
 - a. Personalbestände nach Voll- und Teilzeitstellen pro Standort;
 - b. Betriebskennzahlen, sofern die Zuständigkeit für den Gebäudebetrieb bei der BO liegt.
 
-[^19-1]: [SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^19-1]: [SR 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)
 [^19-2]: Fassung gemäss Anhang 3 Ziff. 1 der V vom 30. Juni 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
 [^19-3]: Fassung gemäss Anhang 3 Ziff. 1 der V vom 30. Juni 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
+[^19-4]: Fassung gemäss Ziff. II der V vom 9. Sept. 2026, in Kraft seit 1. Nov. 2026 ([AS 2026 478](https://fedlex.data.admin.ch/eli/oc/2026/478)).
 
 #### Art. 20
 
@@ -449,8 +451,8 @@ Besondere Regelungen gelten für:
 - c. die Nutzung und den Betrieb von Dienstwohnungen; für sie gilt Artikel 90 der Bundespersonalverordnung vom 3. Juli 2001[^21-2];
 - d.[^21-3] die Nutzung und den Betrieb von zivilen Bundesbauten; das BBL erlässt dazu Weisungen.
 
-[^21-1]: [SR 172.058.41](https://fedlex.data.admin.ch/eli/cc/1992/1194_1194_1194)
-[^21-2]: [SR 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^21-1]: [SR 172.058.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5211)
+[^21-2]: [SR 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 [^21-3]: Eingefügt durch Ziff. I der V vom 25. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5023](https://fedlex.data.admin.ch/eli/oc/2015/824)).
 
 ### 5. Abschnitt: Besondere Aufgaben des BBL
@@ -617,7 +619,7 @@ Die folgenden Leistungsbezüger und Bedarfsstellen, die nicht von Absatz 1 erfas
 - d. weitere öffentliche Verwaltungen.
 
 [^30-1]: Fassung gemäss Anhang 3 Ziff. 1 der V vom 30. Juni 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
-[^30-2]: [SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^30-2]: [SR 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)
 [^30-3]: Fassung gemäss Ziff. I der V vom 27. Okt. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5049](https://fedlex.data.admin.ch/eli/oc/2010/722)).
 
 #### Art. 31
@@ -651,9 +653,9 @@ Es führt, bewirtschaftet und vertreibt standardisierte Artikel in den folgenden
 
 <sup>10</sup> Es ist zuständig für die Personalisierung und Konfektionierung des Schweizerpasses und weiterer Identitäts- und Legitimationsausweise des Bundes im Auftrag des Bundesamtes für Polizei.
 
-[^31-1]: [SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^31-1]: [SR 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)
 [^31-2]: Fassung gemäss Anhang 3 Ziff. 1 der V vom 30. Juni 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
-[^31-3]: [[AS 2006 5613](https://fedlex.data.admin.ch/eli/oc/2006/829), [2009 6149](https://fedlex.data.admin.ch/eli/oc/2009/752)Ziff, III 2, **2010** 3175 Anhang 3 Ziff. 3, **2011** 6093 Anhang Ziff. 2. [AS 2012 5935](https://fedlex.data.admin.ch/eli/oc/2012/695)Art. 39 Abs. 1]. Siehe heute: die V vom 24. Okt. 2012 ([SR 172.056.15](https://fedlex.data.admin.ch/eli/cc/2024/224)).
+[^31-3]: [[AS 2006 5613](https://fedlex.data.admin.ch/eli/oc/2006/829), [2009 6149](https://fedlex.data.admin.ch/eli/oc/2009/752)Ziff, III 2, **2010** 3175 Anhang 3 Ziff. 3, **2011** 6093 Anhang Ziff. 2. [AS 2012 5935](https://fedlex.data.admin.ch/eli/oc/2012/695)Art. 39 Abs. 1]. Siehe heute: die V vom 24. Okt. 2012 ([SR 172.056.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5202)).
 [^31-4]: Fassung gemäss Ziff. III 1 der V vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4873](https://fedlex.data.admin.ch/eli/oc/2015/796)).
 
 ## 4. Kapitel: Verfahren bei Differenzen
@@ -767,9 +769,9 @@ Das BBL erlässt Weisungen für den Bereich Logistik. Vorbehalten bleiben:
 - b.[^41-3] der Informationssicherheitsverordnung vom 8. November 2023[^41-4].[^41-5]
 
 [^41-1]: Fassung gemäss Anhang 2 Ziff. II 2 der Digitalisierungsverordnung vom 2. April 2025, in Kraft seit 1. Mai 2025 ([AS 2025 235](https://fedlex.data.admin.ch/eli/oc/2025/235)).
-[^41-2]: [SR 172.019.1](https://fedlex.data.admin.ch/eli/cc/2023/754)
+[^41-2]: [SR 172.019.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40169)
 [^41-3]: Fassung gemäss Anhang 2 Ziff. II 7 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
-[^41-4]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^41-4]: [SR 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
 [^41-5]: Fassung gemäss Anhang Ziff. 6 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 42
@@ -855,7 +857,7 @@ Legende:
 <tr><td>6. Baustatistiken für Bundesamt für Statistik</td><td>jährlich</td><td></td><td></td><td></td><td>i</td><td></td><td>D</td></tr>
 </table>
 
-[^annex1-lvlu1-1]: [SR 414.110](https://fedlex.data.admin.ch/eli/cc/1993/210_210_210)
+[^annex1-lvlu1-1]: [SR 414.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6688)
 
 Anhang 2
 

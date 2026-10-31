@@ -4,11 +4,11 @@ title: Ordinanza del 5 dicembre 2008 sulla gestione immobiliare e la logistica d
 short: OILC
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/857"
 language: it
-version: 2025-05-01
+version: 2026-11-01
 adopted: 2008-12-05
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/857/20250501/it/xml/fedlex-data-admin-ch-eli-cc-2008-857-20250501-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/857/20250501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/857/20261101/it/xml/fedlex-data-admin-ch-eli-cc-2008-857-20261101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/857/20261101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/857/20250501/it"
 
 (OILC)
 
-del 5 dicembre 2008 (Stato 1° maggio 2025)
+del 5 dicembre 2008 (Stato 1° novembre 2026)
 
 Il Consiglio federale svizzero,
 
@@ -25,8 +25,8 @@ visti gli articoli 43 capoversi 2 e 3 e 47 capoverso 2 della legge del 21 marzo 
 
 ordina:
 
-[^ingress-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^ingress-2]: [RS 414.110](https://fedlex.data.admin.ch/eli/cc/1993/210_210_210)
+[^ingress-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^ingress-2]: [RS 414.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6688)
 
 ## Capitolo 1: Disposizioni generali
 
@@ -51,9 +51,9 @@ La presente ordinanza disciplina:
 <sup>2</sup> Essa non si applica alle infrastrutture della Confederazione relative alle strade nazionali secondo l’articolo 2 dell’ordinanza del 7 novembre 2007[^1-3] sulle strade nazionali; la gestione immobiliare delle strade nazionali è retta dalla legge dell’8 marzo 1960[^1-4] sulle strade nazionali.
 
 [^1-1]: Nuovo testo giusta l’all. 3 n. 1 dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
-[^1-2]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
-[^1-3]: [RS 725.111](https://fedlex.data.admin.ch/eli/cc/2007/796)
-[^1-4]: [RS 725.11](https://fedlex.data.admin.ch/eli/cc/1960/525_569_555)
+[^1-2]: [RS 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)
+[^1-3]: [RS 725.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8454)
+[^1-4]: [RS 725.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8453)
 
 #### Art. 2
 
@@ -107,9 +107,9 @@ Il Consiglio federale approva le convenzioni:
 <sup>3</sup> Esso può negoziare a titolo autonomo gli adeguamenti delle convenzioni, per quanto essi riguardino questioni di ordine tecnico-amministrativo che non implicano oneri finanziari significativi.
 
 [^4-1]: Nuovo testo giusta la cifra I dell’O del 27 ott. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5049](https://fedlex.data.admin.ch/eli/oc/2010/722)).
-[^4-2]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
-[^4-3]: [RS 173.71](https://fedlex.data.admin.ch/eli/cc/2010/444)
-[^4-4]: [RS 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
+[^4-2]: [RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
+[^4-3]: [RS 173.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5641)
+[^4-4]: [RS 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
 
 #### Art. 5
 
@@ -122,7 +122,7 @@ Gli OCI possono, su base contrattuale e a prezzi che coprono i costi, fornire pr
 - c. altre amministrazioni pubbliche.
 
 [^5-1]: Nuovo testo giusta l’all. 3 n. 1 dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
-[^5-2]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^5-2]: [RS 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)
 
 ## Capitolo 2: Gestione immobiliare
 
@@ -189,7 +189,7 @@ Sono responsabili della gestione immobiliare i seguenti OCI:
 
 <sup>6</sup> Nella gestione finanziaria del portafoglio immobiliare del settore dei PF di proprietà della Confederazione, il Consiglio dei PF applica gli articoli 28–32, 34–39, nonché 49–52*a* dell’ordinanza del 5 aprile 2006[^8-1] sulle finanze della Confederazione.[^8-2]
 
-[^8-1]: [RS 611.01](https://fedlex.data.admin.ch/eli/cc/2006/228)
+[^8-1]: [RS 611.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7752)
 [^8-2]: Introdotto dalla cifra I dell’O del 17 dic. 2014, in vigore dal 1° gen. 2015 ([RU 2015 1](https://fedlex.data.admin.ch/eli/oc/2015/1)).
 
 #### Art. 9
@@ -209,7 +209,7 @@ Nell’ambito della direzione strategica, essi adempiono segnatamente i seguenti
 - c. *gestione del portafoglio immobiliare:* definiscono strategie, concezioni globali, direttive e strumenti di supervisione per ottimizzare il rapporto costi-benefici del portafoglio immobiliare della Confederazione;
 - d. *trasparenza dei costi:* assicurano la trasparenza dei costi rendendo conto dei costi effettivi della Confederazione in qualità di proprietario e possessore d’immobili, come pure quale committente della costruzione, gestore ed esercente d’immobili;
 - e. *pianificazione pluriennale ed elaborazione degli obiettivi:* nel quadro di una pianificazione pluriennale continua, elaborano gli obiettivi strategici e, in sintonia con questi ultimi, definiscono annualmente gli obiettivi operativi.
-- f.[^9-3] *...*
+- f.[^9-3] …
 
 <sup>3</sup>
 
@@ -238,13 +238,14 @@ Nell’ambito della direzione operativa, gli OCI adempiono segnatamente i seguen
 - c. *gestione dell’infrastruttura degli edifici:* in particolare l’acquisto, la prestazione, il coordinamento e la sorveglianza di tutti i servizi necessari alla gestione quotidiana degli edifici;
 - d. *studi preliminari e progettazione:* direzione delle diverse fasi relative agli studi di fattibilità, alle definizioni di progetti, alle procedure di selezione, ai progetti preliminari, ai progetti di costruzione, alle procedure d’autorizzazione e ai progetti di pubblicazione. L’ottimizzazione dei costi del ciclo di vita di un edificio dev’essere considerata in tutte le fasi di progetto;
 - e. *bando di concorso e realizzazione:* direzione delle diverse fasi relative al bando di concorso, al confronto delle offerte, all’aggiudicazione, ai progetti d’esecuzione, all’esecuzione, alla messa in servizio e alla conclusione dei lavori in considerazione dei costi del ciclo di vita di un edificio;
-- f. *utilizzazione delle risorse:* gli OCI mettono in atto una gestione delle risorse e dell’ambiente e allestiscono un rapporto periodico sull’utilizzazione delle risorse (calore, elettricità, acqua, rifiuti) per ogni superficie che richiede un consumo energetico e per ogni edificio del parco immobiliare rilevante ai fini di una valutazione affidabile, nonché sui provvedimenti pianificati. Gli OCI rendono disponibili tali informazioni alle OU interessate nell’ambito del programma RUMBA (gestione delle risorse e dell’ambiente).
+- f.[^9-6] *utilizzazione delle risorse:* gli OCI mettono in atto una gestione delle risorse e dell’ambiente e allestiscono un rapporto periodico sull’utilizzazione delle risorse.
 
-[^9-1]: www.kbob.ch &gt; Pubblicazioni / Raccomandazioni / Modelli di contratti &gt; Costruire in modo sostenibile
+[^9-1]: www.k b o b .ch &gt; Pubblicazioni / Raccomandazioni / Modelli di contratti &gt; Costruire in modo sostenibile
 [^9-2]: Introdotto dalla cifra I dell’O del 25 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5023](https://fedlex.data.admin.ch/eli/oc/2015/824)).
 [^9-3]: Abrogata dalla cifra I dell’O del 25 nov. 2015, con effetto dal 1° gen. 2016 ([RU 2015 5023](https://fedlex.data.admin.ch/eli/oc/2015/824)).
 [^9-4]: Nuovo testo giusta l’art. 39 cpv. 2 dell’O del 24 ott. 2012 concernente l’organizzazione degli acquisti pubblici dell’Amministrazione federale, in vigore dal 1° gen. 2013 ([RU 2012 5935](https://fedlex.data.admin.ch/eli/oc/2012/695)).
-[^9-5]: [RS 172.056.15](https://fedlex.data.admin.ch/eli/cc/2024/224)
+[^9-5]: [RS 172.056.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5202)
+[^9-6]: Nuovo testo giusta la cifra II dell’O del 9 set. 2026, in vigore dal 1° nov. 2026 ([RU 2026 478](https://fedlex.data.admin.ch/eli/oc/2026/478)).
 
 #### Art. 10
 
@@ -283,7 +284,7 @@ Nel quadro dei crediti d’impegno e dei crediti a preventivo autorizzati dalle 
 
 <sup>2</sup> Gli OCI possono delegare compiti alle OU nel quadro di convenzioni.
 
-[^12-1]: [RS 611.01](https://fedlex.data.admin.ch/eli/cc/2006/228)
+[^12-1]: [RS 611.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7752)
 
 #### Art. 13
 
@@ -418,14 +419,15 @@ Esse informano regolarmente l’UFCL in merito:
 
 <sup>5</sup>
 
-Esse mettono annualmente a disposizione dell’UFCL i seguenti dati per l’allestimento di rapporti d’importanza superiore e di rapporti relativi al programma RUMBA:
+Esse mettono annualmente a disposizione dell’UFCL i seguenti dati per l’allestimento di rapporti d’importanza superiore:[^19-4]
 
 - a. effettivi del personale in considerazione dei posti a tempo pieno e a tempo parziale per immobile;
 - b. indicatori d’esercizio, per quanto la competenza dell’esercizio degli edifici sia data all’OU.
 
-[^19-1]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^19-1]: [RS 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)
 [^19-2]: Nuovo testo giusta l’all. 3 n. 1 dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
 [^19-3]: Nuovo testo giusta l’all. 3 n. 1 dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
+[^19-4]: Nuovo testo giusta la cifra II dell’O del 9 set. 2026, in vigore dal 1° nov. 2026 ([RU 2026 478](https://fedlex.data.admin.ch/eli/oc/2026/478)).
 
 #### Art. 20
 
@@ -448,8 +450,8 @@ Si applicano disciplinamenti speciali:
 - c. per l’utilizzazione e l’esercizio di appartamenti di servizio, disciplinati nell’articolo 90 dell’ordinanza del 3 luglio 2001[^21-2] sul personale federale;
 - d.[^21-3] per l’utilizzazione e l’esercizio di costruzioni civili della Confederazione; l’UFCL emana istruzioni in proposito.
 
-[^21-1]: [RS 172.058.41](https://fedlex.data.admin.ch/eli/cc/1992/1194_1194_1194)
-[^21-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^21-1]: [RS 172.058.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5211)
+[^21-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 [^21-3]: Introdotta dalla cifra I dell’O del 25 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5023](https://fedlex.data.admin.ch/eli/oc/2015/824)).
 
 ### Sezione 5: Compiti speciali dell’UFCL
@@ -616,7 +618,7 @@ I seguenti destinatari di prestazioni e servizi richiedenti non inclusi nel capo
 - d. altre amministrazioni pubbliche.
 
 [^30-1]: Nuovo testo giusta l’all. 3 n. 1 dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
-[^30-2]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^30-2]: [RS 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)
 [^30-3]: Nuovo testo giusta la cifra I dell’O del 27 ott. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5049](https://fedlex.data.admin.ch/eli/oc/2010/722)).
 
 #### Art. 31
@@ -650,9 +652,9 @@ Tiene, gestisce e diffonde gli articoli normalizzati nei seguenti assortimenti:
 
 <sup>10</sup> È competente della personalizzazione e del confezionamento del passaporto svizzero e di altri certificati d’identità e di legittimazione della Confederazione su incarico dell’Ufficio federale di polizia.
 
-[^31-1]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^31-1]: [RS 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)
 [^31-2]: Nuovo testo giusta l’all. 3 n. 1 dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
-[^31-3]: [[RU 2006 5613](https://fedlex.data.admin.ch/eli/oc/2006/829), [2007 2547](https://fedlex.data.admin.ch/eli/oc/2007/344), [2009 6149](https://fedlex.data.admin.ch/eli/oc/2009/752)cifra III n. 2, [2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)all. 3 n. 3, [2011 6093](https://fedlex.data.admin.ch/eli/oc/2011/844)all. n. 2. [RU 2012 5935](https://fedlex.data.admin.ch/eli/oc/2012/695)art. 39 cpv. 1]. Vedi ora l’O del 24 ott. 2012 concernente l’organizzazione degli acquisti pubblici dell’Amministrazione federale ([RS 172.056.15](https://fedlex.data.admin.ch/eli/cc/2024/224)).
+[^31-3]: [[RU 2006 5613](https://fedlex.data.admin.ch/eli/oc/2006/829), [2007 2547](https://fedlex.data.admin.ch/eli/oc/2007/344), [2009 6149](https://fedlex.data.admin.ch/eli/oc/2009/752)cifra III n. 2, [2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)all. 3 n. 3, [2011 6093](https://fedlex.data.admin.ch/eli/oc/2011/844)all. n. 2. [RU 2012 5935](https://fedlex.data.admin.ch/eli/oc/2012/695)art. 39 cpv. 1]. Vedi ora l’O del 24 ott. 2012 concernente l’organizzazione degli acquisti pubblici dell’Amministrazione federale ([RS 172.056.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5202)).
 [^31-4]: Nuovo testo giusta la cifra III n. 1 dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4873](https://fedlex.data.admin.ch/eli/oc/2015/796)).
 
 ## Capitolo 4: Procedura in caso di divergenze
@@ -766,9 +768,9 @@ L’UFCL emana istruzioni per il settore della logistica. Sono fatte salve:
 - b.[^41-3] l’ordinanza dell’8 novembre 2023[^41-4] sulla sicurezza delle informazioni.[^41-5]
 
 [^41-1]: Nuovo testo giusta l’all. 2 cifra II n. 2 dell’O del 2 apr. 2025 sulla digitalizzazione, in vigore dal 1° mag. 2025 ([RU 2025 235](https://fedlex.data.admin.ch/eli/oc/2025/235)).
-[^41-2]: [RS 172.019.1](https://fedlex.data.admin.ch/eli/cc/2023/754)
+[^41-2]: [RS 172.019.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40169)
 [^41-3]: Nuovo testo giusta l’all. 2 cifra II n. 7 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
-[^41-4]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^41-4]: [RS 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
 [^41-5]: Nuovo testo giusta l’all. n. 6 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 42
@@ -777,7 +779,7 @@ L’UFCL emana istruzioni per il settore della logistica. Sono fatte salve:
 
 L’ordinanza del 14 dicembre 1998[^42-1] sulla gestione immobiliare e la logistica della Confederazione è abrogata.
 
-[^42-1]: [[RU 1999 1167](https://fedlex.data.admin.ch/eli/oc/1999/154); [2000 1227](https://fedlex.data.admin.ch/eli/oc/2000/198)all. cifra II n. 3; [2002 2047](https://fedlex.data.admin.ch/eli/oc/2002/303); [2003 4501](https://fedlex.data.admin.ch/eli/oc/2003/668)all. 2 n. 1, [5047](https://fedlex.data.admin.ch/eli/oc/2003/748)all. II 1; [2004 305](https://fedlex.data.admin.ch/eli/oc/2004/16)all. II 2; [2005 481](https://fedlex.data.admin.ch/eli/oc/2005/56), [2006 5613](https://fedlex.data.admin.ch/eli/oc/2006/829)art. 30 cpv. 2 n. 2; [2007 2819](https://fedlex.data.admin.ch/eli/oc/2007/368), [5957](https://fedlex.data.admin.ch/eli/oc/2007/796)all. 4 cifra II n. 1]
+[^42-1]: [[RU 1999 1167](https://fedlex.data.admin.ch/eli/oc/1999/154); [2000 1227](https://fedlex.data.admin.ch/eli/oc/2000/198)all. cifra II n. 3; [2002 2047](https://fedlex.data.admin.ch/eli/oc/2002/303); [2003 4501](https://fedlex.data.admin.ch/eli/oc/2003/668)all. 2 n. 1, [5047](https://fedlex.data.admin.ch/eli/oc/2003/748)all. II n. 1; [2004 305](https://fedlex.data.admin.ch/eli/oc/2004/16)all. II n. 2; [2005 481](https://fedlex.data.admin.ch/eli/oc/2005/56), [2006 5613](https://fedlex.data.admin.ch/eli/oc/2006/829)art. 30 cpv. 2 n. 2; [2007 2819](https://fedlex.data.admin.ch/eli/oc/2007/368), [5957](https://fedlex.data.admin.ch/eli/oc/2007/796)all. 4 cifra II n. 1]
 
 #### Art. 43
 
@@ -910,7 +912,7 @@ Allegato 3
 
 ### 3. Compiti dell’addetto alla logistica negli immobili utilizzati dalle OU (AL-U)
 
-L’addetto alla logistica presso gli immobili utilizzati dalle OU (AL-U) è subordinato all’AL-OU dal profilo specialistico e adempie i suoi compiti in collaborazione e d’intesa con l’AL-OUl; egli
+L’addetto alla logistica presso gli immobili utilizzati dalle OU (AL-U) è subordinato all’AL-OU dal profilo specialistico e adempie i suoi compiti in collaborazione e d’intesa con l’AL-OUl; egli:
 
 - 3\.1. è l’interlocutore locale per tutti i bisogni di locali e infrastrutturali;
 - 3\.2. gestisce le superfici locate presso l’UFCL o attribuite a scopo di utilizzazione (posti di lavoro) nell’immobile;

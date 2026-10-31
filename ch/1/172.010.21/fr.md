@@ -4,11 +4,11 @@ title: "Ordonnance du 5 décembre 2008 concernant la gestion de l'immobilier et 
 short: OILC
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/857"
 language: fr
-version: 2025-05-01
+version: 2026-11-01
 adopted: 2008-12-05
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/857/20250501/fr/xml/fedlex-data-admin-ch-eli-cc-2008-857-20250501-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/857/20250501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/857/20261101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-857-20261101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/857/20261101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/857/20250501/fr"
 
 (OILC)
 
-du 5 décembre 2008 (État le 1<sup>er</sup> mai 2025)
+du 5 décembre 2008 (État le 1<sup>er</sup> novembre 2026)
 
 Le Conseil fédéral suisse,
 
@@ -25,8 +25,8 @@ vu les art. 43, al. 2 et 3, et 47, al. 2, de la loi du 21 mars 1997 sur l’orga
 
 arrête:
 
-[^ingress-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^ingress-2]: [RS 414.110](https://fedlex.data.admin.ch/eli/cc/1993/210_210_210)
+[^ingress-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^ingress-2]: [RS 414.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6688)
 
 ## Chapitre 1 Dispositions générales
 
@@ -51,9 +51,9 @@ La présente ordonnance règle:
 <sup>2</sup> Elle ne s’applique pas aux installations d’infrastructure de la Confédération liées aux routes nationales au sens de l’art. 2 de l’ordonnance du 7 novembre 2007 sur les routes nationales[^1-3]; la gestion immobilière des routes nationales est régie par la loi fédérale du 8 mars 1960 sur les routes nationales[^1-4].
 
 [^1-1]: Nouvelle teneur selon l’annexe 3 ch. 1 de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
-[^1-2]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
-[^1-3]: [RS 725.111](https://fedlex.data.admin.ch/eli/cc/2007/796)
-[^1-4]: [RS 725.11](https://fedlex.data.admin.ch/eli/cc/1960/525_569_555)
+[^1-2]: [RS 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)
+[^1-3]: [RS 725.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8454)
+[^1-4]: [RS 725.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8453)
 
 #### Art. 2
 
@@ -108,9 +108,9 @@ Le Conseil fédéral approuve les conventions passées:
 <sup>3</sup> Il peut convenir lui-même d’adaptations des conventions dans la mesure où il s’agit de questions technico-administratives n’ayant pas d’incidences financières importantes.
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du 27 oct. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5049](https://fedlex.data.admin.ch/eli/oc/2010/722)).
-[^4-2]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
-[^4-3]: [RS 173.71](https://fedlex.data.admin.ch/eli/cc/2010/444)
-[^4-4]: [RS 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
+[^4-2]: [RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
+[^4-3]: [RS 173.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5641)
+[^4-4]: [RS 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
 
 #### Art. 5
 
@@ -123,7 +123,7 @@ Les SCI peuvent, par contrat et à des prix couvrant les coûts, fournir des pre
 - c. à d’autres administrations publiques.
 
 [^5-1]: Nouvelle teneur selon l’annexe 3 ch. 1 de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
-[^5-2]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^5-2]: [RS 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)
 
 ## Chapitre 2 Gestion de l’immobilier
 
@@ -190,7 +190,7 @@ Sont responsables de la gestion de l’immobilier en tant que SCI:
 
 <sup>6</sup> Dans sa gestion financière des immeubles du portefeuille du domaine des EPF qui appartiennent à la Confédération, le Conseil des EPF applique les art. 28 à 32, 34 à 39 et 49 à 52*a* de l’ordonnance du 5 avril 2006 sur les finances de la Confédération[^8-1]<sup>,</sup>[^8-2].
 
-[^8-1]: [RS 611.01](https://fedlex.data.admin.ch/eli/cc/2006/228)
+[^8-1]: [RS 611.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7752)
 [^8-2]: Introduit par le ch. I de l’O du 17 déc. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 (RO **2015** 1).
 
 #### Art. 9
@@ -239,13 +239,14 @@ Dans le domaine du pilotage opérationnel des projets, les SCI assument en parti
 - c. *gestion de l’infrastructure des bâtiments,* comprenant l’acquisition, la fourniture, la coordination et la surveillance de tous les services nécessaires à l’utilisation quotidienne de l’ouvrage;
 - d. *études préalables et études de projet,* comprenant la direction des phases d’études de faisabilité, de définition de projet, de procédure de sélection, d’avant-projet, de projet de construction, de procédure d’autorisation et de projet de mise à l’enquête; l’optimisation des coûts du cycle de vie du bâtiment doit être prise en compte durant toutes les phases du projet;
 - e. *appel d’offres et réalisation,* comprenant la direction des phases d’appel d’offres, de comparaison des offres, d’adjudication, de projet d’exécution, d’exécution, de mise en service et de fin des travaux, compte tenu des coûts du cycle de vie du bâtiment;
-- f. *consommation des ressources,* comprenant la gestion des ressources et des aspects environnementaux, ainsi que l’établissement de rapports périodiques sur la consommation des ressources (chaleur, électricité, eau, déchets) par surface de référence énergétique et par bâtiment (compte tenu des éléments du parc immobilier permettant une évaluation probante) et sur la planification des mesures; ces renseignements sont mis à la disposition des OU intéressées dans le cadre du programme RUMBA (gestion des ressources et management environnemental de l’administration fédérale).
+- f.[^9-6] *consommation des ressources*, comprenant la gestion des ressources et des aspects environnementaux, ainsi que l’établissement de rapports périodiques sur la consommation des ressources.
 
 [^9-1]: [www.kbob.ch](http://www.kbob.ch) &gt; Publications / Recommandations / Modèles de contrats &gt; Construction durable
 [^9-2]: Introduit par le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5023](https://fedlex.data.admin.ch/eli/oc/2015/824)).
 [^9-3]: Abrogée par le ch. I de l’O du 25 nov. 2015, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 5023](https://fedlex.data.admin.ch/eli/oc/2015/824)).
 [^9-4]: Nouvelle teneur selon l’art. 39 al. 2 de l’O du 24 oct. 2012 sur l’organisation des marchés publics de l’administration fédérale, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 5935](https://fedlex.data.admin.ch/eli/oc/2012/695)).
-[^9-5]: [RS 172.056.15](https://fedlex.data.admin.ch/eli/cc/2024/224)
+[^9-5]: [RS 172.056.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5202)
+[^9-6]: Nouvelle teneur selon le ch. II de l’O du 9 sept. 2026, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2026 478](https://fedlex.data.admin.ch/eli/oc/2026/478)).
 
 #### Art. 10
 
@@ -284,7 +285,7 @@ Dans les limites des crédits d’engagement et des crédits budgétaires accord
 
 <sup>2</sup> Les SCI peuvent confier des tâches à des OU dans le cadre de conventions.
 
-[^12-1]: [RS 611.01](https://fedlex.data.admin.ch/eli/cc/2006/228)
+[^12-1]: [RS 611.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7752)
 
 #### Art. 13
 
@@ -419,14 +420,15 @@ Elles informent régulièrement l’OFCL sur:
 
 <sup>5</sup>
 
-Elles fournissent chaque année à l’OFCL les données suivantes pour les rapports généraux et les rapports relatifs au programme RUMBA:
+Elles fournissent chaque année à l’OFCL les données suivantes pour les rapports généraux:[^19-4]
 
 - a. effectif de personnel (postes à plein temps et à temps partiel, par emplacement);
 - b. indicateurs d’exploitation dans la mesure où l’OU est compétente pour l’exploitation du bâtiment.
 
-[^19-1]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^19-1]: [RS 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)
 [^19-2]: Nouvelle teneur selon l’annexe 3 ch. 1 de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
 [^19-3]: Nouvelle teneur selon l’annexe 3 ch. 1 de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
+[^19-4]: Nouvelle teneur selon le ch. II de l’O du 9 sept. 2026, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2026 478](https://fedlex.data.admin.ch/eli/oc/2026/478)).
 
 #### Art. 20
 
@@ -449,8 +451,8 @@ Des règles particulières s’appliquent à:
 - c. l’utilisation et l’exploitation de logements de service; elles sont réglées par l’art. 90 de l’ordonnance du 3 juillet 2001 sur le personnel de la Confédération[^21-2];
 - d.[^21-3] l’utilisation et l’exploitation des bâtiments civils de la Confédération; l’OFCL édicte des directives dans ce domaine.
 
-[^21-1]: [RS 172.058.41](https://fedlex.data.admin.ch/eli/cc/1992/1194_1194_1194)
-[^21-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^21-1]: [RS 172.058.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5211)
+[^21-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 [^21-3]: Introduite par le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5023](https://fedlex.data.admin.ch/eli/oc/2015/824)).
 
 ### Section 5 Tâches particulières de l’OFCL
@@ -617,7 +619,7 @@ Les bénéficiaires des prestations et les services demandeurs ci-après qui ne 
 - d. autres administrations publiques.
 
 [^30-1]: Nouvelle teneur selon l’annexe 3 ch. 1 de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
-[^30-2]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^30-2]: [RS 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)
 [^30-3]: Nouvelle teneur selon le ch. I de l’O du 27 oct. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5049](https://fedlex.data.admin.ch/eli/oc/2010/722)).
 
 #### Art. 31
@@ -651,9 +653,9 @@ Il tient, gère et diffuse les articles normalisés dans les assortiments suivan
 
 <sup>10</sup> Il est compétent pour la personnalisation et la confection du passeport suisse et d’autres documents d’identité et de légitimation de la Confédération, sur mandat de l’Office fédéral de la police.
 
-[^31-1]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^31-1]: [RS 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)
 [^31-2]: Nouvelle teneur selon l’annexe 3 ch. 1 de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
-[^31-3]: [[RO 2006 5613](https://fedlex.data.admin.ch/eli/oc/2006/829), [2007 2547](https://fedlex.data.admin.ch/eli/oc/2007/344), [2009 6149](https://fedlex.data.admin.ch/eli/oc/2009/752)ch. III 2, [2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)annexe 3 ch. 3, [2011 6093](https://fedlex.data.admin.ch/eli/oc/2011/844)annexe ch. 2. [RO 2012 5935](https://fedlex.data.admin.ch/eli/oc/2012/695)art. 39 al. 1]. Voir actuellement l’O du 24 oct. 2012 sur l’organisation des marchés publics de l’administration fédérale ([RS 172.056.15](https://fedlex.data.admin.ch/eli/cc/2024/224)).
+[^31-3]: [[RO 2006 5613](https://fedlex.data.admin.ch/eli/oc/2006/829), [2007 2547](https://fedlex.data.admin.ch/eli/oc/2007/344), [2009 6149](https://fedlex.data.admin.ch/eli/oc/2009/752)ch. III 2, [2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)annexe 3 ch. 3, [2011 6093](https://fedlex.data.admin.ch/eli/oc/2011/844)annexe ch. 2. [RO 2012 5935](https://fedlex.data.admin.ch/eli/oc/2012/695)art. 39 al. 1]. Voir actuellement l’O du 24 oct. 2012 sur l’organisation des marchés publics de l’administration fédérale ([RS 172.056.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5202)).
 [^31-4]: Nouvelle teneur selon le ch. III 1 de l’O du 18 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4873](https://fedlex.data.admin.ch/eli/oc/2015/796)).
 
 ## Chapitre 4 Procédure en cas de différend
@@ -767,9 +769,9 @@ L’OFCL édicte des instructions pour le domaine de la logistique. Sont réserv
 - b.[^41-3] l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^41-4].[^41-5]
 
 [^41-1]: Nouvelle teneur selon l’annexe 2 ch. II 2 de l’O du 2 avr. 2025 sur la numérisation, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 235](https://fedlex.data.admin.ch/eli/oc/2025/235)).
-[^41-2]: [RS 172.019.1](https://fedlex.data.admin.ch/eli/cc/2023/754)
+[^41-2]: [RS 172.019.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40169)
 [^41-3]: Nouvelle teneur selon l’annexe 2 ch. II 7 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
-[^41-4]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^41-4]: [RS 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
 [^41-5]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 42
@@ -778,7 +780,7 @@ L’OFCL édicte des instructions pour le domaine de la logistique. Sont réserv
 
 L’ordonnance du 14 décembre 1998 concernant la gestion de l’immobilier et la logistique de la Confédération[^42-1] est abrogée.
 
-[^42-1]: [[RO 1999 1167](https://fedlex.data.admin.ch/eli/oc/1999/154), [2000 1227](https://fedlex.data.admin.ch/eli/oc/2000/198)annexe ch. II 3, [2002 2047](https://fedlex.data.admin.ch/eli/oc/2002/303), [2003 4501](https://fedlex.data.admin.ch/eli/oc/2003/668)annexe 2 ch. 1 [5047](https://fedlex.data.admin.ch/eli/oc/2003/748)annexe ch. II 1, [2004 305](https://fedlex.data.admin.ch/eli/oc/2004/16)annexe ch. II 2, [2005 481](https://fedlex.data.admin.ch/eli/oc/2005/56), [2006 5613](https://fedlex.data.admin.ch/eli/oc/2006/829)art. 30 al. 2 ch. 2, [2007 2819](https://fedlex.data.admin.ch/eli/oc/2007/368)[5957](https://fedlex.data.admin.ch/eli/oc/2007/796)annexe 4 ch. II 1]
+[^42-1]: [[RO 1999 1167](https://fedlex.data.admin.ch/eli/oc/1999/154); [2000 1227](https://fedlex.data.admin.ch/eli/oc/2000/198)annexe ch. II 3; [2002 2047](https://fedlex.data.admin.ch/eli/oc/2002/303); [2003 4501](https://fedlex.data.admin.ch/eli/oc/2003/668)annexe 2 ch. 1, [5047](https://fedlex.data.admin.ch/eli/oc/2003/748)annexe ch. II 1; [2004 305](https://fedlex.data.admin.ch/eli/oc/2004/16)annexe ch. II 2; [2005 481](https://fedlex.data.admin.ch/eli/oc/2005/56); [2006 5613](https://fedlex.data.admin.ch/eli/oc/2006/829)art. 30 al. 2 ch. 2; [2007 2819](https://fedlex.data.admin.ch/eli/oc/2007/368), [5957](https://fedlex.data.admin.ch/eli/oc/2007/796)annexe 4 ch. II 1]
 
 #### Art. 43
 
