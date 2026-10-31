@@ -3,20 +3,19 @@ canton: SG
 number: "453.31"
 title: Verordnung zur Bundesgesetzgebung über die Ausweise für Schweizer Staatsangehörige
 language: de
-version: 2014-01-01
-valid_until: 2026-10-31
-version_adopted: 2013-12-17
+version: 2026-11-01
+version_adopted: 2026-09-22
 adopted: 2010-01-19
 in_force: 2010-03-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/453.31"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/1497/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3943/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zur Bundesgesetzgebung über die Ausweise für Schweizer Staatsangehörige
 
-vom 19.01.2010 (Stand 01.01.2014)
+vom 19.01.2010 (Stand 01.11.2026)
 
 Die Regierung des Kantons St.Gallen
 
@@ -33,9 +32,9 @@ als Verordnung:[^ingress-2]
 
 **Ausstellende Behörde**
 
-<sup>1</sup> Die kantonale Ausweisstelle stellt Ausweise für Schweizer Staatsangehörige mit Wohnsitz im Kanton St.Gallen und im Fürstentum Liechtenstein aus.[^1-1]
+<sup>1</sup> Die kantonale Ausweisstelle stellt Ausweise für Schweizer Staatsangehörige mit Wohnsitz im Kanton St.Gallen aus.[^1-1]
 
-<sup>2</sup> Es stellt provisorische Pässe während der ordentlichen Öffnungszeiten aus.
+<sup>2</sup> Sie stellt Notpässe während der ordentlichen Öffnungszeiten aus.
 
 [^1-1]: Art. 4 Abs. 1 des BG über die Ausweise für Schweizer Staatsangehörige vom 22. Juni 2001, SR [143.1](https://db.clex.ch/link/Bund/143.1/de).
 
@@ -43,13 +42,17 @@ als Verordnung:[^ingress-2]
 
 **Anträge a) Einreichestelle**
 
-<sup>1</sup> Anträge auf Ausstellung eines Passes oder eines Passes in Kombination mit einer Identitätskarte werden bei der kantonalen Ausweisstelle eingereicht.
+<sup>1</sup> Bei der kantonalen Ausweisstelle eingereicht werden Anträge auf Ausstellung:
 
-<sup>2</sup> Anträge auf Ausstellung einer Identitätskarte allein werden eingereicht:
+- a) eines Passes;
+- b) eines Passes in Kombination mit einer Identitätskarte mit oder ohne Datenchip;
+- c) einer Identitätskarte mit Datenchip allein.
 
-- a) von Personen mit Wohnsitz im Kanton St.Gallen und ausserhalb der Stadt St.Gallen bei der kantonalen Ausweisstelle oder bei der Wohnsitzgemeinde;
+<sup>2</sup> Anträge auf Ausstellung einer Identitätskarte ohne Datenchip allein werden eingereicht:
+
+- a) von Personen mit Wohnsitz im Kanton St.Gallen und ausserhalb der Stadt St.Gallen bei der kantonalen Ausweisstelle oder bei der Wohnsitzgemeinde. Der Rat der Wohnsitzgemeinde kann durch Beschluss bestimmen, dass Anträge ausschliesslich bei der kantonalen Ausweisstelle eingereicht werden können;
 - a<sup>bis</sup>) von Personen mit Wohnsitz in der Stadt St.Gallen bei der kantonalen Ausweisstelle;
-- b) von Personen mit Wohnsitz im Fürstentum Liechtenstein bei der kantonalen Ausweisstelle oder beim Ausländer- und Passamt Vaduz.
+- b) …
 
 #### Art. 3
 
