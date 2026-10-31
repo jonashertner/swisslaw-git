@@ -3,18 +3,18 @@ sr: "946.231.07"
 title: Ordinanza del 21 marzo 2025 che istituisce provvedimenti nei confronti delle persone e dei gruppi legati ai Talebani
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/193"
 language: it
-version: 2025-05-15
+version: 2026-11-01
 adopted: 2025-03-21
 in_force: 2025-05-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/193/20250515/it/xml/fedlex-data-admin-ch-eli-cc-2025-193-20250515-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/193/20250515/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/193/20261101/it/xml/fedlex-data-admin-ch-eli-cc-2025-193-20261101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/193/20261101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti delle persone e dei gruppi legati ai Talebani
 
-del 21 marzo 2025 (Stato 15 maggio 2025)
+del 21 marzo 2025 (Stato 1° novembre 2026)
 
 Il Consiglio federale svizzero,
 
@@ -22,7 +22,7 @@ visto l’articolo 2 della legge del 22 marzo 2002[^ingress-1] sugli embarghi (L
 
 ordina:
 
-[^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
+[^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
 
 ## Sezione 1: Definizioni
 
@@ -47,8 +47,8 @@ Nella presente ordinanza si intende per:
 
 <sup>3</sup> Sono fatte salve le disposizioni della legge del 13 dicembre 1996[^2-1] sul controllo dei beni a duplice impiego e della legge del 13 dicembre 1996 sul materiale bellico[^2-2].
 
-[^2-1]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
-[^2-2]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
+[^2-1]: [RS 946.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11363)
+[^2-2]: [RS 514.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7526)
 
 #### Art. 3
 
@@ -64,7 +64,16 @@ Sono bloccati gli averi e le risorse economiche di proprietà o sotto il control
 
 <sup>2</sup> È vietato fornire averi alle persone fisiche, ai gruppi, alle imprese e alle entità di cui al capoverso 1 oppure mettere a loro disposizione in altro modo, direttamente o indirettamente, averi e risorse economiche.
 
-<sup>3</sup> Il divieto di cui al capoverso 2 non si applica quando il trasferimento di averi o la messa a disposizione di averi o risorse economiche sono necessari per lo svolgimento di attività umanitarie o di altre attività volte a soddisfare bisogni umani fondamentali delle persone in Afghanistan.
+<sup>3</sup> Il capoverso 1 e il divieto di cui al capoverso 2 non si applicano quando il trasferimento di averi o la messa a disposizione di averi o risorse economiche sono necessari per lo svolgimento di attività umanitarie o di altre attività volte a soddisfare bisogni umani fondamentali delle persone in Afghanistan.[^3-1]
+
+<sup>3bis</sup>
+
+Se anche gli importi accreditati vengono bloccati, il divieto di cui al capoverso 2 non si applica agli accrediti su conti bloccati di:
+
+- a. interessi e altri redditi di tali conti;
+- b. pagamenti basati su contratti esistenti.[^3-2]
+
+<sup>3ter</sup> Gli averi trasferiti da terzi a persone fisiche, imprese o organizzazioni di cui al capoverso 1 possono essere accreditati su conti bloccati, a condizione che anche gli importi accreditati su tali conti siano bloccati.[^3-3]
 
 <sup>4</sup>
 
@@ -75,6 +84,10 @@ La Segreteria di Stato dell’economia (SECO) può, in via eccezionale, autorizz
 - c. soddisfare crediti in applicazione di una decisione giudiziaria, amministrativa o arbitrale esitente.
 
 <sup>5</sup> La SECO autorizza le deroghe di cui al capoverso 4 d’intesa con gli uffici competenti del Dipartimento federale degli affari esteri (DFAE) e del Dipartimento federale delle finanze nonché, se del caso, previa notifica al comitato competente del Consiglio di sicurezza delle Nazioni Unite e in conformità con le decisioni di tale comitato.
+
+[^3-1]: Nuovo testo giusta la cifra I n. 1 dell’O del 25 set. 2026 concernente la modifica di ordinanze sulle sanzioni in relazione alla proliferazione e al finanziamento del terrorismo, in vigore dal 1° nov. 2026 ([RU 2026 501](https://fedlex.data.admin.ch/eli/oc/2026/501)).
+[^3-2]: Introdotto dalla cifra I n. 1 dell’O del 25 set. 2026 concernente la modifica di ordinanze sulle sanzioni in relazione alla proliferazione e al finanziamento del terrorismo, in vigore dal 1° nov. 2026 ([RU 2026 501](https://fedlex.data.admin.ch/eli/oc/2026/501)).
+[^3-3]: Introdotto dalla cifra I n. 1 dell’O del 25 set. 2026 concernente la modifica di ordinanze sulle sanzioni in relazione alla proliferazione e al finanziamento del terrorismo, in vigore dal 1° nov. 2026 ([RU 2026 501](https://fedlex.data.admin.ch/eli/oc/2026/501)).
 
 #### Art. 4
 
@@ -104,11 +117,17 @@ La Segreteria di Stato dell’economia (SECO) può, in via eccezionale, autorizz
 
 #### Art. 6
 
-**Dichiarazione obbligatoria**
+**Dichiarazioni obbligatorie**[^6-1]
 
-<sup>1</sup> Le persone e le istituzioni che detengono o amministrano averi oppure sono a conoscenza di risorse economiche presumibilmente rientranti nel campo d’applicazione del blocco di cui all’articolo 3 capoverso 1 sono tenute a dichiararlo senza indugio alla SECO.
+<sup>1</sup> Le persone e le organizzazioni che detengono o amministrano averi oppure sono a conoscenza di averi o risorse economiche presumibilmente rientranti nel campo d’applicazione del blocco di cui all’articolo 3 capoverso 1 devono dichiararlo senza indugio alla SECO.
 
-<sup>2</sup> Le dichiarazioni devono indicare i nomi dei beneficiari, l’oggetto e il valore degli averi e delle risorse economiche bloccati.
+<sup>2</sup> Gli istituti finanziari che, conformemente al capoverso 1, hanno dichiarato alla SECO averi da essi detenuti o amministrati, devono comunicare alla SECO entro il 15 febbraio di ogni anno gli importi registrati al 31 dicembre dell’anno precedente.
+
+<sup>3</sup> Gli accrediti secondo l’articolo 3 capoverso 3<sup>ter</sup> devono essere dichiarati senza indugio alla SECO.
+
+<sup>4</sup> Le dichiarazioni indicano i nomi dei beneficiari, l’oggetto e il valore degli averi e delle risorse economiche bloccati nonché, per gli accrediti, i nomi degli ordinanti.
+
+[^6-1]: Nuovo testo giusta la cifra I n. 1 dell’O del 25 set. 2026 concernente la modifica di ordinanze sulle sanzioni in relazione alla proliferazione e al finanziamento del terrorismo, in vigore dal 1° nov. 2026 ([RU 2026 501](https://fedlex.data.admin.ch/eli/oc/2026/501)).
 
 #### Art. 7
 
@@ -147,4 +166,4 @@ Allegato
 \2. Di norma la SECO inserisce le liste nella banca dati SESAM (SECO Sanctions Management) un giorno lavorativo dopo la comunicazione da parte delle Nazioni Unite[^annexu1-lvlu1-lvlu1-2].
 
 [^annexu1-lvlu1-lvlu1-1]: La lista è consultabile al seguente indirizzo: [www.un.org/en/sc](https://main.un.org/securitycouncil/en/sanctions/1988/materials) &gt; Sanction Committees &gt; 1988 Sanctions Committee &gt; Sanctions List Materials &gt; 1988 Sanctions List.
-[^annexu1-lvlu1-lvlu1-2]: La banca dati SESAM è accessibile al seguente indirizzo: [www.seco.admin.ch](https://www.seco.admin.ch/seco/it/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/sanktionen-embargos.html) &gt; Economia esterna e cooperazione economica &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/ Embarghi. È possibile ordinare la lista in formato cartaceo a: SECO, settore Sanzioni, Holzikofenweg 36, 3003 Berna.
+[^annexu1-lvlu1-lvlu1-2]: La banca dati SESAM è accessibile al seguente indirizzo: [www.seco.admin.ch](https://www.seco.admin.ch/seco/it/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/sanktionen-embargos.html) &gt; Economia esterna e cooperazione economica &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi. È possibile ordinare la lista in formato cartaceo a: SECO, settore Sanzioni, Holzikofenweg 36, 3003 Berna.

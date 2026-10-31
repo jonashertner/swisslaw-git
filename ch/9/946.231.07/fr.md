@@ -3,18 +3,18 @@ sr: "946.231.07"
 title: Ordonnance du 21 mars 2025 instituant des mesures à l’encontre de personnes et groupes liés aux Taliban
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/193"
 language: fr
-version: 2025-05-15
+version: 2026-11-01
 adopted: 2025-03-21
 in_force: 2025-05-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/193/20250515/fr/xml/fedlex-data-admin-ch-eli-cc-2025-193-20250515-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/193/20250515/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/193/20261101/fr/xml/fedlex-data-admin-ch-eli-cc-2025-193-20261101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/193/20261101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre de personnes et groupes liés aux Taliban
 
-du 21 mars 2025 (État le 15 mai 2025)
+du 21 mars 2025 (État le 1<sup>er</sup> novembre 2026)
 
 Le Conseil fédéral suisse,
 
@@ -22,7 +22,7 @@ vu l’art. 2 de la loi du 22 mars 2002 sur les embargos (LEmb)[^ingress-1], en 
 
 arrête:
 
-[^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
+[^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
 
 ## Section 1 Définitions
 
@@ -47,8 +47,8 @@ Au sens de la présente ordonnance, on entend par:
 
 <sup>3</sup> Les dispositions de la loi du 13 décembre 1996 sur le contrôle des biens[^2-1] et de la loi fédérale du 13 décembre 1996 sur le matériel de guerre[^2-2] sont réservées.
 
-[^2-1]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
-[^2-2]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
+[^2-1]: [RS 946.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11363)
+[^2-2]: [RS 514.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7526)
 
 #### Art. 3
 
@@ -64,7 +64,16 @@ Sont gelés les avoirs et les ressources économiques qui sont la propriété ou
 
 <sup>2</sup> Il est interdit de fournir des avoirs aux personnes physiques, groupes, entreprises et entités visés à l’al. 1 ou de mettre à leur disposition d’une autre manière, directement ou indirectement, des avoirs ou des ressources économiques.
 
-<sup>3</sup> L’interdiction prévue à l’al. 2 ne s’applique pas lorsque la fourniture des avoirs ou la mise à disposition des avoirs ou des ressources économiques est nécessaire à l’acheminement de l’aide humanitaire ou à l’appui d’autres activités visant à répondre aux besoins essentiels des personnes en Afghanistan.
+<sup>3</sup> L’al. 1 et l’interdiction prévue à l’al. 2 ne s’appliquent pas lorsque la fourniture des avoirs ou la mise à disposition des avoirs ou des ressources économiques est nécessaire à l’acheminement de l’aide humanitaire ou à l’appui d’autres activités visant à répondre aux besoins essentiels des personnes en Afghanistan.[^3-1]
+
+<sup>3bis</sup>
+
+Pour autant que les montants crédités soient également bloqués, l’interdiction prévue à l’al. 2 ne s’applique pas au versement sur les comptes bloqués:
+
+- a. d’intérêts ou d’autres rémunérations de ces comptes;
+- b. de paiements dus en vertu de contrats existants.[^3-2]
+
+<sup>3ter</sup> Les avoirs versés par des tiers à des personnes physiques, entreprises ou entités visées à l’al. 1 peuvent être portés au crédit de comptes bloqués, à condition que les montants crédités sur ces comptes soient également bloqués.[^3-3]
 
 <sup>4</sup>
 
@@ -75,6 +84,10 @@ Le Secrétariat d’État à l’économie (SECO) peut, exceptionnellement, auto
 - c. honorer des créances en application d’une décision judiciaire, administrative ou arbitrale existante.
 
 <sup>5</sup> Il accorde les dérogations prévues à l’al. 4 après consultation des services compétents du Département fédéral des affaires étrangères (DFAE) et du Département fédéral des finances, et, le cas échéant, après notification au comité compétent du Conseil de sécurité des Nations Unies et en conformité avec les décisions dudit comité.
+
+[^3-1]: Nouvelle teneur selon le ch. I 1 de l’O du 25 sept. 2026 sur la modification d’ordonnances relatives aux sanctions concernant le financement de la prolifération et du terrorisme, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2026 501](https://fedlex.data.admin.ch/eli/oc/2026/501)).
+[^3-2]: Introduit par le ch. I 1 de l’O du 25 sept. 2026 sur la modification d’ordonnances relatives aux sanctions concernant le financement de la prolifération et du terrorisme, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2026 501](https://fedlex.data.admin.ch/eli/oc/2026/501)).
+[^3-3]: Introduit par le ch. I 1 de l’O du 25 sept. 2026 sur la modification d’ordonnances relatives aux sanctions concernant le financement de la prolifération et du terrorisme, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2026 501](https://fedlex.data.admin.ch/eli/oc/2026/501)).
 
 #### Art. 4
 
@@ -104,11 +117,17 @@ Le Secrétariat d’État à l’économie (SECO) peut, exceptionnellement, auto
 
 #### Art. 6
 
-**Déclaration obligatoire**
+**Déclaration obligatoire**[^6-1]
 
-<sup>1</sup> Les personnes et les institutions qui détiennent ou gèrent des avoirs ou qui ont connaissance de ressources économiques dont il faut admettre qu’ils sont soumis au gel des avoirs et des ressources économiques prévu à l’art. 3, al. 1, doivent le déclarer sans délai au SECO.
+<sup>1</sup> Les personnes et les entités qui détiennent ou gèrent des avoirs ou qui ont connaissance d’avoirs ou de ressources économiques dont il faut présumer qu’ils sont soumis au gel prévu à l’art. 3, al. 1, doivent le déclarer sans délai au SECO.
 
-<sup>2</sup> La déclaration doit mentionner le nom du bénéficiaire, l’objet et la valeur des avoirs et des ressources économiques gelés.
+<sup>2</sup> Les instituts financiers qui, conformément à l’al. 1, ont déclaré au SECO les avoirs qu’ils détiennent ou qu’ils gèrent doivent lui transmettre chaque année, au plus tard le 15 février, le montant de ces avoirs au 31 décembre de l’année précédente.
+
+<sup>3</sup> Les versements visés à l’art. 3, al. 3<sup>ter</sup>, doivent être déclarés sans délai au SECO.
+
+<sup>4</sup> La déclaration doit mentionner le nom du bénéficiaire, l’objet et la valeur des avoirs et des ressources économiques gelés; pour les versements, elle doit également mentionner le nom de l’émetteur.
+
+[^6-1]: Nouvelle teneur selon le ch. I 1 de l’O du 25 sept. 2026 sur la modification d’ordonnances relatives aux sanctions concernant le financement de la prolifération et du terrorisme, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2026 501](https://fedlex.data.admin.ch/eli/oc/2026/501)).
 
 #### Art. 7
 
