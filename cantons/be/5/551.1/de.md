@@ -4,13 +4,12 @@ number: "551.1"
 title: Polizeigesetz
 short: PolG
 language: de
-version: 2026-09-01
-valid_until: 2026-10-31
-version_adopted: 2025-12-03
+version: 2026-11-01
+version_adopted: 2025-06-12
 adopted: 2019-02-10
 in_force: 2020-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/551.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3436/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3484/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3436/pdf_file"
 
 (PolG)
 
-vom 10.02.2019 (Stand 01.09.2026)
+vom 10.02.2019 (Stand 01.11.2026)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -248,7 +247,7 @@ beschliesst:
 
 <sup>3</sup> Die Anwendung von polizeilichen Massnahmen und polizeilichem Zwang bleibt in jedem Fall der Kantonspolizei vorbehalten.
 
-<sup>4</sup> Die Kantonspolizei kann Private und Organisationen ausserhalb der Verwaltung, die im Rahmen der ihnen übertragenen Aufgaben und Leistungen Zugang zu Installationen und Räumlichkeiten oder vertiefte Kenntnis der polizeilichen Arbeit erhalten, einer Personensicherheitsprüfung unterziehen. Das Verfahren richtet sich sinngemäss nach Artikel 160 ff.
+<sup>4</sup> …
 
 ### 3.4 Kennzeichnung und Verwendung der Bezeichnung
 
@@ -1772,7 +1771,7 @@ beschliesst:
 
 <sup>3</sup> Behörden gemäss Artikel 2 Absatz 1 Buchstabe b sorgen für die Sicherheit der durch sie bearbeiteten Personendaten nach Massgabe von Absatz 1 und 2.
 
-<sup>4</sup> Die Kantonspolizei kann Private, die im Rahmen der ihnen übertragenen Aufgaben oder Leistungen zum direkten Zugriff, zur selbstständigen Bearbeitung oder Einsichtnahme auf die von der Kantonspolizei bearbeiteten Daten berechtigt sind, einer Personensicherheitsprüfung unterziehen. Das Verfahren richtet sich sinngemäss nach Artikel 160 ff.
+<sup>4</sup> …
 
 #### Art. 150
 
@@ -1890,45 +1889,11 @@ beschliesst:
 
 <sup>4</sup> Polizistinnen und Polizisten sowie polizeiliche Sicherheitsassistentinnen und -assistenten sind während der ganzen Dauer der beiden Lehrgänge gemäss Absatz 2 sowie sechs Monate nach Aufnahme als Mitarbeiterinnen und Mitarbeiter für den Polizeidienst auf Probe angestellt. Das Probezeitverhältnis kann in Ausnahmefällen um weitere sechs Monate verlängert werden.
 
-### 10.2.3 Personensicherheitsprüfung
+### 10.2.3
 
-#### Art. 160
+#### Art. 160–162
 
-**Voraussetzungen**
-
-<sup>1</sup> Die Kantonspolizei kann zur Überprüfung des guten Leumunds und der Vertrauenswürdigkeit ihre Mitarbeiterinnen und Mitarbeiter sowie Personen, mit denen sie beabsichtigt, ein Arbeitsverhältnis einzugehen, jederzeit einer Personensicherheitsprüfung unterziehen, wenn sie bei ihrer Tätigkeit
-
-- a Zugang zu besonders schützenswerten Personendaten haben, deren Offenbarung die Persönlichkeitsrechte der Betroffenen schwerwiegend beeinträchtigen könnte, oder
-- b weitreichenden Einblick in wichtige sicherheitspolitische Geschäfte haben und darauf Einfluss nehmen können.
-
-<sup>2</sup> Die zu prüfende Person muss der Durchführung der Prüfung zustimmen und ist verpflichtet, an der Feststellung des Sachverhalts mitzuwirken.
-
-#### Art. 161
-
-**Gegenstand**
-
-<sup>1</sup> Bei der Personensicherheitsprüfung werden sicherheitsrelevante Daten über die Lebensführung der betroffenen Person erhoben, insbesondere über eine allfällige Straffälligkeit sowie ihre finanzielle Lage.
-
-<sup>2</sup> Die Daten können erhoben werden
-
-- a aus den Datenbearbeitungssystemen gemäss Artikel 143, welche die Kantonspolizei betreibt,
-- b aus den Datenbearbeitungssystemen des Bundes oder der Kantone, soweit die Kantonspolizei gemäss Artikel 147 zum direkten Zugriff berechtigt ist,
-- c aus den Registern der Betreibungs- und Konkursbehörden der Kantone und der Einwohnerkontrollen oder
-- d durch Befragung von Drittpersonen und der betroffenen Person, wenn diese zustimmt.
-
-#### Art. 162
-
-**Rechtsschutz und Folgen**
-
-<sup>1</sup> Die Kantonspolizei teilt der betroffenen Person das Ergebnis der Personensicherheitsprüfung mit.
-
-<sup>2</sup> Die geprüfte Person kann innert zehn Tagen Einsicht in die Prüfungsunterlagen nehmen und die Berichtigung falscher Daten verlangen.
-
-<sup>3</sup> Ergeben sich Erkenntnisse, die einem Anstellungsverhältnis mit der Kantonspolizei entgegenstehen,
-
-- a kann auf den Abschluss eines Arbeitsvertrags verzichtet werden,
-- b kann von einer bereits erfolgten mündlichen oder schriftlichen Zusage zurückgetreten werden,
-- c können bei bestehendem Anstellungsverhältnis personalrechtliche Massnahmen ergriffen werden.
+**…**
 
 ### 10.2.4 Anstellungsbehörde und Vereidigung
 

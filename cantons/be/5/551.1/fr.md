@@ -4,13 +4,12 @@ number: "551.1"
 title: Loi sur la police
 short: LPol
 language: fr
-version: 2026-09-01
-valid_until: 2026-10-31
-version_adopted: 2025-12-03
+version: 2026-11-01
+version_adopted: 2025-06-12
 adopted: 2019-02-10
 in_force: 2020-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/551.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3436/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3484/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3436/pdf_file"
 
 (LPol)
 
-du 10.02.2019 (état au 01.09.2026)
+du 10.02.2019 (état au 01.11.2026)
 
 Le Grand Conseil du canton de Berne,
 
@@ -248,7 +247,7 @@ arrête:
 
 <sup>3</sup> La mise en œuvre de mesures de police et l'usage de la contrainte sont réservés dans tous les cas à la Police cantonale.
 
-<sup>4</sup> La Police cantonale peut soumettre des personnes privées et organisations extérieures à l'administration à un contrôle de sécurité relatif aux personnes si, dans le cadre des tâches qui leur sont confiées et des prestations à fournir, ces dernières ont accès à des installations et locaux de la police ou acquièrent des connaissances approfondies du travail policier. La procédure prévue par les articles 160 et suivants est applicable par analogie.
+<sup>4</sup> …
 
 ### 3.4 Utilisation de signes distinctifs et de dénominations
 
@@ -1772,7 +1771,7 @@ arrête:
 
 <sup>3</sup> Les autorités visées à l'article 2, alinéa 1, lettre b veillent à la sécurité des données traitées par elles conformément aux alinéas 1 et 2.
 
-<sup>4</sup> La Police cantonale peut soumettre à un contrôle de sécurité relatif aux personnes les personnes privées qui, dans le cadre des tâches ou prestations qui leur sont déléguées, sont autorisées à accéder directement ou à traiter ou consulter de manière autonome les données traitées par la Police cantonale. La procédure prévue aux articles 160 et suivants est applicable par analogie.
+<sup>4</sup> …
 
 #### Art. 150
 
@@ -1890,45 +1889,11 @@ arrête:
 
 <sup>4</sup> Les agentes et agents de police et les assistantes et assistants de sécurité sont engagés à l'essai pour toute la durée des cursus mentionnés à l'alinéa 2 et pour les six mois suivant leur intégration à titre de collaboratrices et collaborateurs dans le service de police. Dans des cas exceptionnels, la période d'essai peut être prolongée de six mois.
 
-### 10.2.3 Contrôle de sécurité relatif aux personnes
+### 10.2.3
 
-#### Art. 160
+#### Art. 160–162
 
-**Conditions**
-
-<sup>1</sup> La Police cantonale peut soumettre en tout temps ses collaborateurs et collaboratrices et les personnes avec lesquelles elle envisage d'instaurer des rapports de travail à un contrôle de sécurité relatif aux personnes pour s'assurer qu'ils ont une bonne réputation et sont dignes de confiance lorsque, dans le cadre de leurs activités,
-
-- a ils ont accès à des données sensibles, dont la révélation pourrait porter un grave préjudice aux droits individuels des personnes concernées ou
-- b qu'ils ont une connaissance approfondie d'importants dossiers de la politique de sécurité sur lesquels ils peuvent exercer une influence.
-
-<sup>2</sup> La personne faisant l'objet du contrôle doit donner son consentement et apporter son concours à l'établissement des faits.
-
-#### Art. 161
-
-**Objet**
-
-<sup>1</sup> Le contrôle de sécurité relatif aux personnes consiste à recueillir des données pertinentes pour la sécurité touchant au mode de vie de la personne concernée, notamment à d'éventuelles activités pénalement répréhensibles et à sa situation financière.
-
-<sup>2</sup> Les données peuvent être recueillies
-
-- a dans les systèmes de traitement de données prévus à l'article 143, exploités par la Police cantonale;
-- b dans les systèmes de traitement de données de la Confédération ou des cantons, dans la mesure où la Police cantonale s'est vu conférer un accès direct conformément à l'article 147;
-- c dans les registres des autorités des poursuites et faillites des cantons et des bureaux du contrôle des habitants ou
-- d en interrogeant des tiers et la personne concernée, si cette dernière y consent.
-
-#### Art. 162
-
-**Protection juridique et conséquences**
-
-<sup>1</sup> La Police cantonale communique les résultats du contrôle de sécurité relatif aux personnes à la personne concernée.
-
-<sup>2</sup> La personne qui a fait l'objet du contrôle peut consulter le dossier correspondant dans les dix jours et demander la rectification de données inexactes.
-
-<sup>3</sup> Si des informations s'opposent à l'engagement d'une personne au sein de la Police cantonale, il est possible
-
-- a de renoncer à la conclusion d'un contrat de travail;
-- b de se départir d'une promesse d'engagement orale ou écrite ou
-- c de prendre des mesures relevant du droit du personnel, si les rapports de travail sont déjà établis.
+**…**
 
 ### 10.2.4 Autorité d'engagement et assermentation
 
