@@ -4,18 +4,18 @@ title: Codice penale svizzero del 21 dicembre 1937
 short: CP
 eli: "https://fedlex.data.admin.ch/eli/cc/54/757_781_799"
 language: it
-version: 2026-10-01
+version: 2026-11-01
 adopted: 1937-12-21
 in_force: 1942-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20261001/it/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20261001-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20261001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20261101/it/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20261101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20261101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Codice penale svizzero
 
-21 dicembre 1937 (Stato 1° ottobre 2026)
+21 dicembre 1937 (Stato 1° novembre 2026)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -481,11 +481,11 @@ Quando l’avente diritto presenta querela contro uno dei compartecipi al reato,
 
 <sup>2</sup> Se la pena pecuniaria è stata inflitta da un’autorità amministrativa, il giudice decide sulla pena detentiva sostitutiva.
 
-<sup>3 a <sup>5</sup></sup> ...[^36-1]
+<sup>3 a <sup>5</sup></sup> …[^36-1]
 
 [^36-1]: Abrogati dalla cifra I n. 1 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), con effetto 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 
-### 2. ...
+### 2. …
 
 #### Art. 37 a 39
 
@@ -818,7 +818,7 @@ Per ordinare una misura prevista negli articoli 59–61, 63 e 64, come pure in c
 
 #### Art. 58
 
-<sup>1</sup> ...[^58-1]
+<sup>1</sup> …[^58-1]
 
 <sup>2</sup> Le istituzioni terapeutiche ai sensi degli articoli 59–61 devono essere separate dai penitenziari.
 
@@ -1311,7 +1311,7 @@ Nei casi di esigua gravità, il giudice può, a titolo eccezionale, prescindere 
 
 <sup>6</sup> Il giudice può ordinare un’assistenza riabilitativa per la durata dell’interdizione.[^67-11]
 
-<sup>7</sup> ...[^67-12]
+<sup>7</sup> …[^67-12]
 
 [^67-1]: Nuovo testo giusta la cifra I n. 1 della LF del 13 dic. 2013 sullʼinterdizione di esercitare unʼattività e sul divieto di avere contatti e di accedere ad aree determinate, in vigore dal 1° gen. 2015 ([RU 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [FF 2012 7765](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
 [^67-2]: Nuovo testo giusta la cifra I n. 1 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
@@ -1413,7 +1413,7 @@ Lʼautore può chiedere allʼautorità competente di ridurre la durata o attenua
 
 - a. dopo almeno due anni di esecuzione, nel caso di unʼinterdizione di cui allʼarticolo 67 capoverso 1 o di un divieto di cui allʼarticolo 67*b*;
 - b. trascorsa la metà della durata dellʼinterdizione, ma dopo almeno tre anni di esecuzione, nel caso di unʼinterdizione di durata determinata di cui allʼarticolo 67 capoverso 2;
-- c.[^67c-2] ...
+- c.[^67c-2] …
 - d.[^67c-3] dopo almeno dieci anni di esecuzione, nel caso di un’interdizione a vita di cui all’articolo 67 capoverso 2<sup>bis</sup>.
 
 <sup>6</sup> Nei casi di cui al capoverso 4 o 5, lʼautorità competente sopprime lʼinterdizione o il divieto se non vi è da temere che lʼautore commetta altri crimini o delitti nellʼesercizio dellʼattività in questione o nel caso in cui abbia contatti con determinate persone o con i membri di un gruppo determinato e se lʼautore ha, per quanto si potesse ragionevolmente pretendere, risarcito il danno da lui causato.
@@ -1509,7 +1509,7 @@ Se l’autore ha utilizzato un veicolo a motore per commettere un crimine o un d
 
 <sup>2</sup> Il giudice può prescindere in tutto o in parte dal risarcimento che risulti presumibilmente inesigibile o impedisca seriamente il reinserimento sociale dell’interessato.
 
-<sup>3</sup> ...[^71-1]
+<sup>3</sup> …[^71-1]
 
 [^71-1]: Abrogato dall’all. 1 n. 4 della LF del 17 giu. 2022, con effetto dal 1° gen. 2024 ([RU 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 5523](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
@@ -1556,7 +1556,7 @@ La dignità umana del detenuto o collocato dev’essere rispettata. I diritti di
 
 <sup>1</sup> L’esecuzione della pena deve promuovere il comportamento sociale del detenuto, in particolare la sua capacità a vivere esente da pena. Essa deve corrispondere per quanto possibile alle condizioni generali di vita, garantire assistenza al detenuto, ovviare alle conseguenze nocive della privazione della libertà e tenere conto adeguatamente della protezione della collettività, del personale incaricato dell’esecuzione e degli altri detenuti.
 
-<sup>2</sup> ...[^75-1]
+<sup>2</sup> …[^75-1]
 
 <sup>3</sup> Il regolamento del penitenziario prevede l’allestimento di un piano di esecuzione con il detenuto. Il piano contiene in particolare indicazioni sugli aiuti offerti, sulle possibilità di lavoro, di formazione e formazione continua[^75-2], sulla riparazione del danno, sulle relazioni con il mondo esterno e sulla preparazione alla vita in libertà.
 
@@ -2331,7 +2331,7 @@ Il medico che interrompe una gravidanza in applicazione dell’articolo 119 capo
 
 <sup>1.</sup> Chiunque intenzionalmente cagiona un danno in altro modo al corpo od alla salute di una persona, è punito, a querela di parte, con una pena detentiva sino a tre anni o con una pena pecuniaria.
 
-...[^123-2] [^123-3]
+…[^123-2] [^123-3]
 
 <sup>2.</sup> Il colpevole è perseguito d’ufficio,[^123-4]
 
@@ -2537,7 +2537,7 @@ L’appropriazione indebita a danno di un congiunto o di un membro della comunio
 
 <sup>1.</sup> Chiunque, per procacciare a sé o ad altri un indebito profitto, sottrae al fine di appropriarsene una cosa mobile altrui, è punito con una pena detentiva sino a cinque anni o con una pena pecuniaria.
 
-<sup>2.</sup> ... [^139-1]
+<sup>2.</sup> … [^139-1]
 
 <sup>3.</sup>
 
@@ -2986,7 +2986,7 @@ il terzo che compie tali atti a vantaggio del debitore,
 
 <sup>1</sup> Gli articoli 163 numero 1, 164 numero 1, 165 numero 1, 166 e 167 sono applicabili anche quando un concordato giudiziale è stato accettato ed omologato.
 
-<sup>2</sup> ...[^171-1]
+<sup>2</sup> …[^171-1]
 
 [^171-1]: Abrogato dalla cifra I n. 1 della LF del 17 dic. 2021 sull’armonizzazione delle pene, con effetto dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
@@ -3220,7 +3220,7 @@ Chiunque utilizza abusivamente un impianto di telecomunicazione per inquietare o
 
 <sup>1</sup> Chiunque, nell’esercizio di un esplicito potere legale, ordina o esegue la sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni di una persona oppure impiega apparecchi tecnici di sorveglianza (art. 179<sup>bis</sup> segg.), non è punibile purché sia richiesta senza indugio l’approvazione del giudice competente.
 
-<sup>2</sup> ...[^179octies-2]
+<sup>2</sup> …[^179octies-2]
 
 [^179octies-1]: Introdotto dalla cifra VII della LF del 23 mar. 1979 sulla protezione della sfera segreta personale ([RU 1979 1170](https://fedlex.data.admin.ch/eli/oc/1979/1170_1170_1170); [FF 1976 I 479](https://fedlex.data.admin.ch/eli/fga/1976/1___479), II 1545). Nuovo testo giusta l’all. n. 1 della LF del 6 ott. 2000 sulla sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni, in vigore dal 1° gen. 2002 ([RU 2001 3096](https://fedlex.data.admin.ch/eli/oc/2001/467); FF **1998** 3319).
 [^179octies-2]: Abrogato dall’all. 2 n. 1 della LF del 17 giu. 2022, con effetto dal 1° gen. 2024 ([RU 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 5523](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
@@ -3303,7 +3303,7 @@ Chiunque insistentemente segue, molesta o minaccia una persona in una maniera at
 
 <sup>2</sup> Se la vittima è minorenne o se l’autore fa mestiere della tratta di esseri umani, la pena è una pena detentiva non inferiore a un anno.
 
-<sup>3</sup> ...[^182-2]
+<sup>3</sup> …[^182-2]
 
 <sup>4</sup> È punibile anche chi commette il reato all’estero. Gli articoli 5 e 6 sono applicabili.
 
@@ -3417,9 +3417,9 @@ coinvolge una tale persona in un atto sessuale,
 
 <sup>4.</sup> La pena è una pena detentiva sino a tre anni o una pena pecuniaria se il colpevole ha agito ritenendo erroneamente che la vittima avesse almeno sedici anni, benché usando la dovuta cautela gli fosse possibile evitare l’errore.
 
-<sup>5.</sup> ...[^187-3]
+<sup>5.</sup> …[^187-3]
 
-<sup>6.</sup> ...[^187-4]
+<sup>6.</sup> …[^187-4]
 
 [^187-1]: Introdotto dalla cifra I n. 1 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 [^187-2]: Nuovo testo giusta la cifra I n. 1 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
@@ -3569,7 +3569,7 @@ Se gli oggetti o le rappresentazioni vertono su atti sessuali reali con minorenn
 
 <sup>6</sup> Nel caso di reati a tenore dei capoversi 4 e 5 gli oggetti sono confiscati.
 
-<sup>7</sup> ...[^197-4]
+<sup>7</sup> …[^197-4]
 
 <sup>8</sup>
 
@@ -3662,7 +3662,7 @@ Se un reato previsto nel presente titolo è stato commesso insieme da più perso
 
 <sup>2</sup> Il minorenne va esente da pena se è stato sedotto.
 
-<sup>3</sup> ...[^213-2]
+<sup>3</sup> …[^213-2]
 
 [^213-1]: Nuovo testo giusta la cifra I della LF del 23 giu. 1989, in vigore dal 1° gen. 1990 ([RU 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [FF 1985 II 901](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
 [^213-2]: Abrogato dalla cifra I della LF del 5 ott. 2001 (Prescrizione dell’azione penale in generale e in caso di reati sessuali commessi su fanciulli), con effetto dal 1° ott. 2002 ([RU 2002 2993](https://fedlex.data.admin.ch/eli/oc/2002/430); [FF 2000 2609](https://fedlex.data.admin.ch/eli/fga/2000/612)).
@@ -4146,7 +4146,7 @@ o fa uso, a scopo d’inganno, di un tale documento,
 
 è punito con una pena detentiva sino a cinque anni o con una pena pecuniaria.
 
-<sup>2.</sup> ...[^251-2]
+<sup>2.</sup> …[^251-2]
 
 [^251-1]: Nuovo testo giusta la cifra I della LF del 17 giu. 1994, in vigore dal 1° gen. 1995 ([RU 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [FF 1991 II 797](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
 [^251-2]: Abrogato dalla cifra I n. 1 della LF del 17 dic. 2021 sull’armonizzazione delle pene, con effetto dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
@@ -4227,7 +4227,7 @@ Chiunque diffonde lo spavento nella popolazione con la minaccia o con il falso a
 
 <sup>1bis</sup> La pubblica istigazione al genocidio (art. 264), da commettere del tutto o in parte in Svizzera, è punibile anche se l’istigazione avviene all’estero.[^259-3]
 
-<sup>2</sup> ... [^259-4]
+<sup>2</sup> … [^259-4]
 
 [^259-1]: Nuovo testo giusta la cifra I della LF del 9 ott. 1981, in vigore dal 1° ott. 1982 ([RU 1982 1530](https://fedlex.data.admin.ch/eli/oc/1982/1530_1530_1530); [FF 1980 I 1032](https://fedlex.data.admin.ch/eli/fga/1980/1_1241_1216_1032)).
 [^259-2]: Nuovo testo giusta la cifra I n. 1 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
@@ -4306,6 +4306,10 @@ Chiunque diffonde lo spavento nella popolazione con la minaccia o con il falso a
 [^260ter-2]: [RS 0.518.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1960), [0.518.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1964), [0.518.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1966), [0.518.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1967)
 
 ### Messa in pericolo della sicurezza pubblica con armi
+
+[^book2-tit12-lvlu6-1]
+
+[^book2-tit12-lvlu6-1]: La mod. giusta l’all. 3 n. 5 della LF del 21 mar. 2025 sui dati dei passeggeri aerei, in vigore dal 1° nov. 2026, concerne soltanto il testo francese ([RU 2025 739](https://fedlex.data.admin.ch/eli/oc/2025/739); [2026 510](https://fedlex.data.admin.ch/eli/oc/2026/510); [FF 2024 1485](https://fedlex.data.admin.ch/eli/fga/2024/1485)).
 
 #### Art. 260<sup>quater</sup>
 
@@ -5193,7 +5197,7 @@ chiunque falsamente incolpa, presso l’autorità, sé medesimo di un atto punib
 
 è punito con una pena detentiva sino a tre anni o con una pena pecuniaria.
 
-<sup>2.</sup> ...[^304-1]
+<sup>2.</sup> …[^304-1]
 
 [^304-1]: Abrogato dalla cifra I n. 1 della LF del 17 dic. 2021 sull’armonizzazione delle pene, con effetto dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
@@ -5263,7 +5267,7 @@ Vi è caso grave segnatamente se l’autore:
 
 <sup>1</sup> Chiunque, dopo essere stato avvertito dal giudice dell’obbligo di dire la verità e delle conseguenze penali in cui può incorrere, fa, come parte in una causa civile, sui fatti della contestazione una falsa dichiarazione che costituisce un mezzo di prova, è punito con una pena detentiva sino a tre anni o con una pena pecuniaria.
 
-<sup>2.</sup> ...[^306-1]
+<sup>2.</sup> …[^306-1]
 
 <sup>3.</sup> Se la falsa dichiarazione concerne fatti non influenti sulla decisione del giudice, la pena è una pena pecuniaria.[^306-2]
 
@@ -5276,7 +5280,7 @@ Vi è caso grave segnatamente se l’autore:
 
 <sup>1</sup> Chiunque come testimonio, perito, traduttore od interprete in un procedimento giudiziario, fa sui fatti della causa una falsa deposizione, una falsa constatazione o fornisce una falsa perizia o traduce falsamente, è punito con una pena detentiva sino a cinque anni o con una pena pecuniaria.
 
-<sup>2.</sup> ...[^307-1]
+<sup>2.</sup> …[^307-1]
 
 <sup>3</sup> Se la falsità concerne fatti non influenti sulla decisione del giudice, la pena è una pena pecuniaria.[^307-2]
 
@@ -5422,7 +5426,7 @@ sono puniti con una pena detentiva sino a cinque anni o con una pena pecuniaria.
 
 Se il colpevole aveva per tale atto domandato, accettato o si era fatto promettere una ricompensa speciale, la pena è una pena detentiva sino a cinque anni o una pena pecuniaria.[^318-1]
 
-<sup>2.</sup> ...[^318-2]
+<sup>2.</sup> …[^318-2]
 
 [^318-1]: Nuovo testo del comma giusta la cifra I n. 1 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^318-2]: Abrogato dalla cifra I n. 1 della LF del 17 dic. 2021 sull’armonizzazione delle pene, con effetto dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
@@ -5739,7 +5743,7 @@ chiunque impone o tenta di imporre illecitamente pigioni o altre pretese dopo il
 
 [^book2-tit20-lvlu7-1]: Ora: imprese individuali.
 
-### 1. ...
+### 1. …
 
 #### Art. 326
 
@@ -5901,7 +5905,7 @@ Nelle altre leggi federali le seguenti pene sono sostituite come segue:
 
 <sup>5</sup> Se un’altra legge federale commina la multa per un crimine o un delitto, è applicabile l’articolo 34. Le norme di commisurazione deroganti all’articolo 34 non sono applicabili. È fatto salvo l’articolo 8 della legge federale del 22 marzo 1974 sul diritto penale amministrativo. Se è inferiore a 1 080 000 franchi, l’importo massimo della multa comminata decade. Se è comminata una multa di almeno 1 080 000 franchi, tale importo minimo è mantenuto. In questo caso, il numero massimo delle aliquote giornaliere risulta dall’importo massimo della multa diviso per 3000.
 
-<sup>6</sup> ...[^333-2]
+<sup>6</sup> …[^333-2]
 
 <sup>6bis</sup> Se per un reato può essere comminata sia una pena detentiva sia una pena pecuniaria con un numero minimo di aliquote giornaliere, questo limite inferiore si applica anche per la durata minima in giorni della pena detentiva.[^333-3]
 
@@ -5925,7 +5929,7 @@ Se in una disposizione di diritto penale è fatto riferimento a norme modificate
 
 <sup>2</sup> Essi possono comminare sanzioni per le violazioni delle disposizioni cantonali in materia di amministrazione e di procedura.
 
-### Titolo secondo: ...
+### Titolo secondo: …
 
 #### Art. 336 a 338
 
@@ -5933,7 +5937,7 @@ Se in una disposizione di diritto penale è fatto riferimento a norme modificate
 
 [^336338-1]: Abrogati dall’all. 1 cifra II n. 8 del Codice di procedura penale del 5 ott. 2007, con effetto dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
-### Titolo terzo: ...
+### Titolo terzo: …
 
 #### Art. 339 a 348
 
@@ -6240,7 +6244,7 @@ I dati possono essere utilizzati:
 [^354-13]: Nuovo testo giusta l’all. 2 n. 1 del DF del 18 dic. 2020 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali dell’istituzione, dell’esercizio e dell’uso del sistema d’informazione Schengen (SIS), in vigore dal 23 gen. 2023 ([RU 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [FF 2020 3117](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 [^354-14]: Introdotto dall’all. 2 n. 1 del DF del 18 dic. 2020 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali dell’istituzione, dell’esercizio e dell’uso del sistema d’informazione Schengen (SIS), in vigore dal 23 gen. 2023 ([RU 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [FF 2020 3117](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 
-### 4. ...
+### 4. …
 
 #### Art. 355
 
@@ -6301,7 +6305,7 @@ Gli organi di polizia federali e cantonali eseguono le disposizioni contenute ne
 [^355c-1]: Introdotto dall’art. 3 n. 4 del DF del 17 dic. 2004 che approva e traspone nel diritto svizzero gli accordi bilaterali con l’UE per l’associazione della Svizzera alla normativa di Schengen e Dublino, in vigore dal 1° giu. 2008 ([RU 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112), [2179](https://fedlex.data.admin.ch/eli/oc/2008/318)[2227](https://fedlex.data.admin.ch/eli/oc/2008/324); [FF 2004 5273](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 [^355c-2]: Acc. del 26 ott. 2004 tra la Confederazione Svizzera, l’Unione europea e la Comunità europea riguardante l’associazione della Svizzera all’attuazione, all’applicazione e allo sviluppo dell’*acquis* di Schengen ([RS 0.362.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1513)); Acc. del 20 apr. 2005 tra la Confederazione Svizzera e il Regno di Danimarca riguardante la costituzione di diritti e di doveri tra i due Stati in vista della cooperazione Schengen ([RS 0.362.33](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1520)); Acc. del 17 dic. 2004 tra la Confederazione Svizzera, la Repubblica d’Islanda e il Regno di Norvegia sull’attuazione, l’applicazione e lo sviluppo dell’acquis di Schengen nonché sui criteri e i meccanismi per determinare lo Stato competente per l’esame di una domanda di asilo presentata in Svizzera, in Islanda o in Norvegia ([RS 0.362.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1519)); Prot. del 28 feb. 2008 tra la Confederazione Svizzera, l’Unione europea, la Comunità europea e il Principato del Liechtenstein sull’adesione del Principato del Liechtenstein all’accordo tra la Confederazione Svizzera, l’Unione europea e la Comunità europea, riguardante l’associazione della Confederazione Svizzera all’attuazione, all’applicazione e allo sviluppo dell’acquis di Schengen ([RS 0.362.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1514)).
 
-### 5<sup>ter</sup>. ...
+### 5<sup>ter</sup>. …
 
 #### Art. 355d
 
@@ -6396,7 +6400,7 @@ L’autorità istruttoria, se accerta che oggetti pornografici (art. 197 cpv. 4)
 
 [^362-1]: Nuovo testo giusta l’all. n. 1 del DF del 27 set. 2013 (Convenzione di Lanzarote), in vigore dal 1° lug. 2014 ([RU 2014 1159](https://fedlex.data.admin.ch/eli/oc/2014/248); [FF 2012 6761](https://fedlex.data.admin.ch/eli/fga/2012/1181)).
 
-### Titolo quinto: ...
+### Titolo quinto: …
 
 #### Art. 363
 
@@ -6410,7 +6414,7 @@ L’autorità istruttoria, se accerta che oggetti pornografici (art. 197 cpv. 4)
 
 [^364-1]: Abrogato dall’all. n. 2 della LF del 15 dic. 2017 (Protezione dei minorenni), con effetto dal 1° gen. 2019 ([RU 2018 2947](https://fedlex.data.admin.ch/eli/oc/2018/450); [FF 2015 2751](https://fedlex.data.admin.ch/eli/fga/2015/838)).
 
-### Titolo sesto: ...
+### Titolo sesto: …
 
 #### Art. 365 a 369
 
@@ -6651,7 +6655,7 @@ Il Consiglio federale, sentiti i Cantoni, è autorizzato a emanare disposizioni 
 
 <sup>2</sup> Il Consiglio federale, su proposta dell’autorità cantonale competente, può emanare disposizioni speciali circa la separazione degli stabilimenti del Cantone Ticino.
 
-<sup>3</sup> ...[^387-2]
+<sup>3</sup> …[^387-2]
 
 <sup>4</sup>
 
@@ -6731,7 +6735,7 @@ Il presente Codice entra in vigore il 1° gennaio 1942.
 
 <sup>2</sup> Al più tardi dodici mesi dopo l’entrata in vigore del nuovo diritto, il giudice esamina se le persone internate secondo gli articoli 42 o 43 numero 1 secondo comma del diritto anteriore adempiono le condizioni per essere sottoposte a una misura terapeutica (art. 59–61 o 63). Se tali condizioni sono realizzate, il giudice ordina la misura pertinente; in caso contrario l’internamento prosegue secondo il nuovo diritto.
 
-3.[^u2-7] ...
+3.[^u2-7] …
 
 \4. Istituzioni per l’esecuzione delle misure
 

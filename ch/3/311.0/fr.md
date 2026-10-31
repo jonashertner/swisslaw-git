@@ -4,18 +4,18 @@ title: Code pénal suisse du 21 décembre 1937
 short: CP
 eli: "https://fedlex.data.admin.ch/eli/cc/54/757_781_799"
 language: fr
-version: 2026-10-01
+version: 2026-11-01
 adopted: 1937-12-21
 in_force: 1942-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20261001/fr/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20261001-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20261001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20261101/fr/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20261101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20261101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Code pénal suisse
 
-du 21 décembre 1937 (État le 1<sup>er</sup> octobre 2026)
+du 21 décembre 1937 (État le 1<sup>er</sup> novembre 2026)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -4523,7 +4523,11 @@ Est puni d’une peine privative de liberté de dix ans au plus ou d’une peine
 [^260ter-1]: Introduit par le ch. I de la LF du 18 mars 1994 ([RO 1994 1614](https://fedlex.data.admin.ch/eli/oc/1994/1614_1614_1614); [FF 1993 III 269](https://fedlex.data.admin.ch/eli/fga/1993/3_277_269_193)). Nouvelle teneur selon l’annexe ch. II 2 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe pour la prévention du terrorisme et de son Protocole additionnel et concernant le renforcement des normes pénales contre le terrorisme et le crime organisé, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 6469](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^260ter-2]: [RS 0.518.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1960), [0.518.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1964), [0.518.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1966), [0.518.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1967)
 
-### Remise d’armes pour la commission d’une infraction
+### Mise en danger de la sécurité publique au moyen d’armes
+
+[^book2-tit12-lvlu6-1]
+
+[^book2-tit12-lvlu6-1]: Nouvelle teneur selon l’annexe 3 ch. 5 de la LF du 21 mars 2025 sur les données relatives aux passagers aériens, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2025 739](https://fedlex.data.admin.ch/eli/oc/2025/739); [2026 510](https://fedlex.data.admin.ch/eli/oc/2026/510); [FF 2024 1485](https://fedlex.data.admin.ch/eli/fga/2024/1485)).
 
 #### Art. 260<sup>quater</sup>
 

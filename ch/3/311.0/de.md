@@ -4,18 +4,18 @@ title: Schweizerisches Strafgesetzbuch vom 21. Dezember 1937
 short: StGB
 eli: "https://fedlex.data.admin.ch/eli/cc/54/757_781_799"
 language: de
-version: 2026-10-01
+version: 2026-11-01
 adopted: 1937-12-21
 in_force: 1942-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20261001/de/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20261001-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20261001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20261101/de/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20261101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20261101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Schweizerisches Strafgesetzbuch
 
-vom 21. Dezember 1937 (Stand am 1. Oktober 2026)
+vom 21. Dezember 1937 (Stand am 1. November 2026)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -4336,6 +4336,10 @@ Mit Freiheitsstrafe bis zu zehn Jahren oder Geldstrafe wird bestraft, wer:
 [^260ter-2]: [SR 0.518.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1960), [0.518.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1964), [0.518.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1966), [0.518.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1967)
 
 ### Gefährdung der öffentlichen Sicherheit mit Waffen
+
+[^book2-tit12-lvlu6-1]
+
+[^book2-tit12-lvlu6-1]: Die Änderung aus Anhang 3 Ziff. 5 des Flugpassagierdatengesetzes vom 21. März 2025, in Kraft seit 1. Nov. 2026 betrifft nur den französischen Text ( [[AS 2025 739](https://www.fedlex.admin.ch/eli/oc/2025/739/de)](https://fedlex.data.admin.ch/eli/oc/2025/739); [2026 510](https://fedlex.data.admin.ch/eli/oc/2026/510); [BBl 2024 1485](https://fedlex.data.admin.ch/eli/fga/2024/1485)).
 
 #### Art. 260<sup>quater</sup>
 
