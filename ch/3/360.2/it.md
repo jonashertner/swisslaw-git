@@ -3,11 +3,11 @@ sr: "360.2"
 title: Ordinanza del 15 ottobre 2008 sul sistema nazionale di indagine (Ordinanza SNI)
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/697"
 language: it
-version: 2024-01-01
+version: 2026-11-01
 adopted: 2008-10-15
 in_force: 2008-12-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/697/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2008-697-20240101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/697/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/697/20261101/it/xml/fedlex-data-admin-ch-eli-cc-2008-697-20261101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/697/20261101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,21 +16,22 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/697/20240101/it"
 
 (Ordinanza SNI[^t-2])[^t-1]
 
-del 15 ottobre 2008 (Stato 1° gennaio 2024)
+del 15 ottobre 2008 (Stato 1° novembre 2026)
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
-[^t-2]: Nuova espr. giusta il n. I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^t-1]: Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^t-2]: Nuova espr. giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 13 capoverso 1 e 15 della legge federale del 7 ottobre 1994[^ingress-1] sugli Uffici centrali di polizia giudiziaria della Confederazione e i centri comuni di cooperazione di polizia e doganale con altri Stati (LUC); visto l’articolo 19 della legge federale del 13 giugno 2008[^ingress-2] sui sistemi d’informazione di polizia della Confederazione (LSIP); visto l’articolo 6 della legge federale del 25 settembre 2015[^ingress-3] sulle attività informative (LAIn),[^ingress-4]
+visto l’articolo 6 della legge federale del 25 settembre 2015[^ingress-1] sulle attività informative (LAIn); visti gli articoli 13 capoverso 1 e 15 della legge federale del 7 ottobre 1994[^ingress-2] sugli Uffici centrali di polizia giudiziaria della Confederazione e i centri comuni di cooperazione di polizia e doganale con altri Stati (LUC); visto l’articolo 19 della legge federale del 13 giugno 2008[^ingress-3] sui sistemi d’informazione di polizia della Confederazione (LSIP); visto l’articolo 6 capoverso 3 lettera a numero 1 della legge del 21 marzo 2025[^ingress-4] sui dati dei passeggeri aerei (LDPA),[^ingress-5]
 
 ordina:
 
-[^ingress-1]: [RS 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
-[^ingress-2]: [RS 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
-[^ingress-3]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^ingress-4]: Nuovo testo giusta l’all. 4 n. II 6 dell’O del 16 ago. 2017 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
+[^ingress-1]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
+[^ingress-2]: [RS 360](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6300)
+[^ingress-3]: [RS 361](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6307)
+[^ingress-4]: [RS 129](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40121)
+[^ingress-5]: Nuovo testo giusta la cifra I dall’O del 18 set. 2026, in vigore dal 1° nov. 2026 ([RU 2026 515](https://fedlex.data.admin.ch/eli/oc/2026/515)).
 
 ## Sezione 1: Disposizioni generali
 
@@ -58,8 +59,8 @@ SNI è composto dei seguenti sottosistemi:
 - d. il sistema di gestione delle pratiche e degli atti dell’Ufficio federale di polizia (fedpol) di cui all’articolo 18 LSIP;
 - e.[^1-2] il sistema di trattamento dei dati relativi alla cooperazione di polizia internazionale e intercantonale di cui all’articolo 12 LSIP.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
-[^1-2]: Introdotta dal n. I dell’O del 17 dic. 2004, in vigore dal 1° feb. 2015 ([RU 2015 269](https://fedlex.data.admin.ch/eli/oc/2015/32)).
+[^1-1]: Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^1-2]: Introdotta dalla cifra I dell’O del 17 dic. 2004, in vigore dal 1° feb. 2015 ([RU 2015 269](https://fedlex.data.admin.ch/eli/oc/2015/32)).
 
 #### Art. 2
 
@@ -80,12 +81,12 @@ Il sistema di trattamento dei dati relativi ai reati federali serve a facilitare
 
 <sup>4</sup> Il sistema di gestione delle pratiche e degli atti di fedpol serve a facilitare la gestione dei documenti e degli incarti trattati da fedpol.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
-[^2-2]: Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
-[^2-3]: Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
-[^2-4]: Nuova espr. giusta il n. I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^2-5]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^2-6]: Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^2-2]: Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^2-3]: Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^2-4]: Nuova espr. giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^2-5]: [RS 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
+[^2-6]: Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
 
 #### Art. 3
 
@@ -108,9 +109,9 @@ In SNI sono trattati i dati necessari all’adempimento dei compiti della PGF ne
 
 <sup>4</sup> Le autorità cantonali di perseguimento penale possono trattare in SNI i dati volti alla lotta contro i reati che rientrano nella loro competenza. Il trattamento di questi dati è effettuato separatamente sul piano logico dal trattamento dei dati di cui ai capoversi 1 e 2 ed è retto dalle disposizioni cantonali.
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
-[^3-2]: RS **312**
-[^3-3]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^3-1]: Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^3-2]: [RS 312](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6213)
+[^3-3]: [RS 812.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9339)
 
 #### Art. 4
 
@@ -124,8 +125,8 @@ In SNI sono trattati i dati necessari all’adempimento dei compiti della PGF ne
 
 <sup>4</sup> La responsabilità per il trattamento dei dati nel sistema di cui all’articolo 13 LSIP è retta dal diritto cantonale.
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
-[^4-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^4-2]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
 
 ## Sezione 2: Struttura e contenuto di SNI
 
@@ -146,10 +147,10 @@ Il sistema SNI è composto delle seguenti sottocategorie:
 - i.[^5-3] dati memorizzati in forma di testo, immagine o suono raccolti nel corso di indagini di polizia giudiziaria nell’ambito di procedimenti penali pendenti;
 - j.[^5-4] dati memorizzati in forma di testo, immagine o suono raccolti nel corso di indagini di polizia criminale prima dell’apertura di un procedimento penale.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
-[^5-2]: Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
-[^5-3]: Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
-[^5-4]: Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^5-2]: Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^5-3]: Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^5-4]: Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
 
 #### Art. 6
 
@@ -173,7 +174,7 @@ La sottocategoria «Caso investigativo» comprende:
 
 <sup>4</sup> Nelle sottocategorie «Caso informativo» e «Caso investigativo» i dati raccolti nell’ambito di indagini di polizia criminale e giudiziaria o da fonti accessibili al pubblico sono classificati in tre categorie distinte.
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^6-1]: Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
 
 #### Art. 7
 
@@ -191,8 +192,8 @@ Dà accesso:
 
 <sup>3</sup> I dati trattati in questa sottocategoria possono essere rubricati per persona, oggetto o avvenimento. Possono essere trattati in altri sottosistemi o sottocategorie di SNI se le disposizioni specifiche concernenti detti sottosistemi o sottocategorie lo consentono.
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
-[^7-2]: Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^7-2]: Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
 
 #### Art. 8
 
@@ -213,7 +214,7 @@ Per la lotta contro la criminalità organizzata sono trattati in SNI i dati conc
 
 <sup>5</sup> Soltanto i dati elencati nel catalogo (allegato 1) possono essere trattati in SNI.
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
 
 #### Art. 9
 
@@ -230,8 +231,8 @@ I dati registrati in SNI provengono da:
 - g. fonti accessibili al pubblico;
 - h. informazioni raccolte nel quadro dell’adempimento di compiti ai sensi dell’articolo 2*a* LUC.
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
-[^9-2]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^9-1]: Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^9-2]: [RS 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
 
 #### Art. 10
 
@@ -250,7 +251,7 @@ La piattaforma di collaborazione è a disposizione delle seguenti cerchie di ute
 
 <sup>3</sup> I dati di tipo amministrativo contenuti nella piattaforma di collaborazione possono essere resi accessibili anche ad altre persone che contribuiscono con prestazioni logistiche od organizzative al funzionamento di SNI nonché alla sua gestione e alla formazione dei suoi utenti.
 
-[^10-1]: Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^10-1]: Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
 
 ## Sezione 3: Diritti d’accesso
 
@@ -273,33 +274,35 @@ Hanno accesso a SNI, mediante una procedura di richiamo (accesso online), nella 
 - i. il responsabile di progetto e gli amministratori del sistema;
 - j.[^11-9] il servizio dell’Ufficio federale di giustizia incaricato dell’attuazione dei procedimenti ai sensi dell’Assistenza in materia penale del 20 marzo 1981[^11-10];
 - k.[^11-11] i collaboratori dell’UDSC impiegati per il perseguimento penale, per l’analisi dei rischi nonché per il controllo delle persone alla frontiera e in Svizzera.
-- l.[^11-12] il servizio di fedpol competente per l’adempimento dei compiti secondo la legge federale del 25 settembre 2020[^11-13] sui precursori di sostanze esplodenti, per trattare domande di autorizzazione di acquisto e di autorizzazione eccezionale, per verificare tali autorizzazioni e per trattare segnalazioni di eventi sospetti.[^11-14]
+- l.[^11-12] il servizio di fedpol competente per l’adempimento dei compiti secondo la legge federale del 25 settembre 2020[^11-13] sui precursori di sostanze esplodenti, per trattare domande di autorizzazione di acquisto e di autorizzazione eccezionale, per verificare tali autorizzazioni e per trattare segnalazioni di eventi sospetti;
+- m.[^11-14] l’unità nazionale incaricata del trattamento dei dati dei passeggeri aerei, per verificare manualmente se uno degli scopi di cui all’articolo 5 capoverso 1 LDPA sia adempiuto.[^11-15]
 
 <sup>2</sup> Ai servizi di fedpol che non svolgono compiti di perseguimento penale ma a cui compete il vaglio e la gestione degli incarti, può essere concesso, limitatamente alle loro necessità, un accesso online a SNI per l’adempimento dei loro compiti legali.
 
 <sup>3</sup> Il Ministero pubblico della Confederazione può accedere online ai dati di cui all’articolo 10 LSIP che concernono i suoi procedimenti penali pendenti. Detti dati sono contrassegnati in SNI, strutturati elettronicamente secondo i rispettivi procedimenti penali e separati dagli altri dati mediante mezzi tecnici.
 
-<sup>4</sup> ...[^11-15]
+<sup>4</sup> …[^11-16]
 
 <sup>5</sup> Previa decisione del Ministero pubblico della Confederazione, l’accesso online a dati relativi a determinati procedimenti può essere limitato. Tali dati sono contrassegnati.
 
 <sup>6</sup> L’allegato 2 disciplina i diritti d’accesso ai diversi dati in SNI per categorie di utenti.
 
-[^11-1]: Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
-[^11-2]: Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
-[^11-3]: Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
-[^11-4]: Nuovo testo giusta l’all. 4 n. II 14 dell’O del 4 dic. 2009 sul Servizio delle attività informative della Confederazione, in vigore dal 1° gen. 2010 ([RU 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
-[^11-5]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^11-6]: Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
-[^11-7]: Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
-[^11-8]: Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
-[^11-9]: Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
-[^11-10]: [RS 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
-[^11-11]: Introdotta dal n. I 9 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)). Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^11-1]: Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^11-2]: Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^11-3]: Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^11-4]: Nuovo testo giusta l’all. 4 cifra II n. 14 dell’O del 4 dic. 2009 sul Servizio delle attività informative della Confederazione, in vigore dal 1° gen. 2010 ([RU 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
+[^11-5]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^11-6]: Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^11-7]: Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^11-8]: Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^11-9]: Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^11-10]: [RS 351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6277)
+[^11-11]: Introdotta dalla cifra I n. 9 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)). Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
 [^11-12]: Introdotta dall’all. 2 n. 5 dell’O del 25 mag. 2022 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353), [454](https://fedlex.data.admin.ch/eli/oc/2022/454)).
-[^11-13]: [RS 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
-[^11-14]: Nuovo testo giusta l’all. n. 15 dell’O del 12 dic. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
-[^11-15]: Abrogato dal n. I dell’O del 16 ago. 2023, con effetto dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^11-13]: [RS 941.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11231)
+[^11-14]: Introdotta dalla cifra I dall’O del 18 set. 2026, in vigore dal 1° nov. 2026 ([RU 2026 515](https://fedlex.data.admin.ch/eli/oc/2026/515)).
+[^11-15]: Nuovo testo giusta l’all. n. 15 dell’O del 12 dic. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
+[^11-16]: Abrogato dalla cifra I dell’O del 16 ago. 2023, con effetto dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
 
 #### Art. 12
 
@@ -309,7 +312,7 @@ Hanno accesso a SNI, mediante una procedura di richiamo (accesso online), nella 
 
 <sup>2</sup> L’autorità che conduce l’indagine può concedere l’accesso online ad altri servizi che vi sono coinvolti.
 
-[^12-1]: Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^12-1]: Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
 
 ## Sezione 4: Trattamento dei dati
 
@@ -321,7 +324,7 @@ Hanno accesso a SNI, mediante una procedura di richiamo (accesso online), nella 
 
 <sup>2</sup> I dati, eccetto quelli di cui all’articolo 2 capoversi 1 e 3, sono contrassegnati come «vidimato» nel caso informativo soltanto dopo esser stati esaminati dal Servizio di sorveglianza di fedpol.
 
-[^13-1]: Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^13-1]: Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
 
 #### Art. 14
 
@@ -333,7 +336,7 @@ Hanno accesso a SNI, mediante una procedura di richiamo (accesso online), nella 
 
 <sup>3</sup> La responsabilità per una registrazione corretta sul piano formale e completa sul piano materiale è assunta dal primo utente di SNI che è a conoscenza delle corrispondenti informazioni. Quest’ultimo tiene conto in particolare della provenienza e del contenuto delle informazioni.
 
-[^14-1]: Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^14-1]: Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
 
 #### Art. 15
 
@@ -347,7 +350,7 @@ Hanno accesso a SNI, mediante una procedura di richiamo (accesso online), nella 
 
 <sup>4</sup> Fedpol disciplina le modalità del controllo dei dati nel regolamento sul trattamento dei dati.
 
-[^15-1]: Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^15-1]: Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
 
 #### Art. 16
 
@@ -362,7 +365,7 @@ Adempie segnatamente i seguenti compiti:
 - a. esamina se i dati registrati di ogni singolo documento sono conformi alle disposizioni della presente ordinanza; verifica conformemente all’articolo 8 se il trattamento dei dati nel documento rispetta il principio di proporzionalità e in particolare se gli elementi di sospetto sono ancora pertinenti; in caso contrario, i dati sono cancellati;
 - b. esamina se l’insieme delle informazioni contenute in un blocco di dati rispetta ancora il principio di proporzionalità e se i dati costituiscono un motivo di sospetto sufficiente per ulteriori accertamenti; se queste condizioni non sono soddisfatte, tutto il blocco di dati è cancellato.
 
-[^16-1]: Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^16-1]: Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
 
 #### Art. 17
 
@@ -398,13 +401,13 @@ La PGF può inoltre comunicare previa richiesta i dati personali registrati in S
 
 <sup>3</sup> Le condizioni per la comunicazione di informazioni da parte delle autorità di cui al capoverso 2 risultano per analogia dall’articolo 4 capoversi 2–5 dell’ordinanza del 30 novembre 2001[^18-6] sull’adempimento di compiti di polizia giudiziaria in seno all’Ufficio federale di polizia.[^18-7]
 
-[^18-1]: Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
-[^18-2]: Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
-[^18-3]: Nuovo testo giusta l’all. 4 n. II 6 dell’O del 16 ago. 2017 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
-[^18-4]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^18-5]: Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
-[^18-6]: [RS 360.1](https://fedlex.data.admin.ch/eli/cc/2002/29)
-[^18-7]: Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^18-1]: Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^18-2]: Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^18-3]: Nuovo testo giusta l’all. 4 cifra II n. 6 dell’O del 16 ago. 2017 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
+[^18-4]: [RS 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
+[^18-5]: Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^18-6]: [RS 360.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6301)
+[^18-7]: Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
 
 #### Art. 19
 
@@ -419,7 +422,7 @@ Nella misura in cui sia indispensabile per ottenere le informazioni di cui neces
 - c. autorità federali e cantonali competenti in materia finanziaria;
 - d. Amministrazione federale delle finanze;
 - e. Autorità federale di vigilanza sui mercati finanziari[^19-3];
-- f.[^19-4] ...
+- f.[^19-4] …
 - g. Commissione federale delle case da gioco;
 - h. Segreteria di Stato dell’economia;
 - i.[^19-5]
@@ -443,29 +446,29 @@ La PGF può inoltre comunicare previa richiesta i dati personali registrati in S
 - c. autorità federali e cantonali competenti in materia finanziaria, per le loro indagini di polizia giudiziaria nell’ambito fiscale;
 - d. Amministrazione federale delle finanze, per i suoi procedimenti di diritto penale amministrativo;
 - e.[^19-10] Autorità federale di vigilanza sui mercati finanziari [^19-11], a sostegno dell’attività di vigilanza svolta nell’ambito delle leggi sui mercati finanziari ai sensi dell’articolo 1 capoverso 1 della legge federale del 22 giugno 2007[^19-12] sulla vigilanza dei mercati finanziari, sempreché si tratti di informazioni attendibili, necessarie in sede di procedimento o atte ad avviare un procedimento;
-- f.[^19-13] ...
+- f.[^19-13] …
 - g. Commissione federale delle case da gioco, a sostegno della sua attività di vigilanza nell’ambito della legislazione sui giochi d’azzardo;
 - h.[^19-14] autorità federali incaricate dei controlli di sicurezza relativi alle persone secondo gli articoli 27–48 LSIn oppure delle misure di protezione secondo l’articolo 2 capoverso 2 lettera b LMSI;
 - i.[^19-15] servizi di polizia cantonali incaricati dei controlli dei precedenti personali ai sensi dell’articolo 108*b* e seguenti della legge federale del 21 dicembre 1948[^19-16] sulla navigazione aerea, per i loro accertamenti, nella misura in cui si tratti di dati del sistema di sostegno alle indagini di polizia giudiziaria della Confederazione.
 
 <sup>3</sup> Tutti i dati personali sono comunicati, su richiesta, alle autorità di vigilanza della Confederazione e dei Cantoni, nonché all’Incaricato federale della protezione dei dati e della trasparenza per l’adempimento delle loro funzioni di controllo.
 
-[^19-1]: Nuovo testo giusta l’all. 2 n. II 41 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^19-2]: Nuovo testo giusta l’all. 2 n. II 41 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^19-1]: Nuovo testo giusta l’all. 2 cifra II n. 41 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^19-2]: Nuovo testo giusta l’all. 2 cifra II n. 41 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^19-3]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Di detta mod. è tenuto conto in tutto il presente testo. Precedentemente: Commissione federale delle banche.
-[^19-4]: Abrogata dal n. I dell’O del 16 ago. 2023, con effetto dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
-[^19-5]: Nuovo testo giusta l’all. 8 n. II 3 dell’O dell’8 nov. 2023 sui controlli di sicurezza relativi alle persone, in vigore dal 1° gen. 2024 (RU **202****3** 736).
-[^19-6]: [RS 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
-[^19-7]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^19-8]: Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
-[^19-9]: Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^19-4]: Abrogata dalla cifra I dell’O del 16 ago. 2023, con effetto dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^19-5]: Nuovo testo giusta l’all. 8 cifra II n. 3 dell’O dell’8 nov. 2023 sui controlli di sicurezza relativi alle persone, in vigore dal 1° gen. 2024 ([RU 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
+[^19-6]: [RS 128](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40013)
+[^19-7]: [RS 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
+[^19-8]: Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^19-9]: Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
 [^19-10]: Nuovo testo giusta l’all. 1 n. 5 dell’O del 25 nov. 2015 sull’infrastruttura finanziaria, in vigore dal 1° gen. 2016 ([RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
 [^19-11]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
-[^19-12]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^19-12]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 [^19-13]: Abrogata l’all. 1 n. 5 dell’O del 25 nov. 2015 sull’infrastruttura finanziaria, con effetto dal 1° gen. 2016 ([RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
-[^19-14]: Nuovo testo giusta l’all. 8 n. II 3 dell’O dell’8 nov. 2023 sui controlli di sicurezza relativi alle persone, in vigore dal 1° gen. 2024 ([RU 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
-[^19-15]: Introdotta dal n. I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
-[^19-16]: [RS 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
+[^19-14]: Nuovo testo giusta l’all. 8 cifra II n. 3 dell’O dell’8 nov. 2023 sui controlli di sicurezza relativi alle persone, in vigore dal 1° gen. 2024 ([RU 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
+[^19-15]: Introdotta dalla cifra I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^19-16]: [RS 748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9033)
 
 #### Art. 20
 
@@ -491,8 +494,8 @@ La PGF può inoltre comunicare previa richiesta i dati personali registrati in S
 
 <sup>3</sup> Fedpol definisce le modalità nel regolamento sul trattamento dei dati.
 
-[^21-1]: Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
-[^21-2]: Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^21-1]: Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^21-2]: Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
 
 #### Art. 22
 
@@ -500,7 +503,7 @@ La PGF può inoltre comunicare previa richiesta i dati personali registrati in S
 
 <sup>1</sup> La durata di conservazione di ogni blocco di dati registrato in SNI scade dieci anni dopo la registrazione dell’ultimo dato.[^22-1]
 
-<sup>2</sup> ...[^22-2]
+<sup>2</sup> …[^22-2]
 
 <sup>3</sup> È fatta salva la cancellazione secondo gli articoli 15 e 16.
 
@@ -514,11 +517,11 @@ La PGF può inoltre comunicare previa richiesta i dati personali registrati in S
 
 <sup>8</sup> Per quanto concerne i termini di cancellazione, sono fatti salvi i dati su reati imprescrittibili. Questi ultimi sono cancellati dopo 80 anni.[^22-5]
 
-[^22-1]: Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
-[^22-2]: Abrogato dal n. I dell’O del 16 ago. 2023, con effetto dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
-[^22-3]: [RS 0.362.2](https://fedlex.data.admin.ch/eli/cc/2006/181)
-[^22-4]: [RS 362.0](https://fedlex.data.admin.ch/eli/cc/2013/179)
-[^22-5]: Introdotto dal n. I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^22-1]: Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^22-2]: Abrogato dalla cifra I dell’O del 16 ago. 2023, con effetto dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^22-3]: [RS 0.362.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1510)
+[^22-4]: [RS 362.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6314)
+[^22-5]: Introdotto dalla cifra I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
 
 #### Art. 23
 
@@ -526,7 +529,7 @@ La PGF può inoltre comunicare previa richiesta i dati personali registrati in S
 
 Se i dati di SNI sono cancellati, il Servizio di sorveglianza di fedpol può informarne previamente il servizio che li ha registrati.
 
-[^23-1]: Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^23-1]: Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
 
 #### Art. 24
 
@@ -534,12 +537,12 @@ Se i dati di SNI sono cancellati, il Servizio di sorveglianza di fedpol può inf
 
 <sup>1</sup> La consegna all’Archivio federale di dati contenuti nel sistema d’informazione è retta dall’articolo 38 della legge federale del 25 settembre 2020[^24-1] sulla protezione dei dati (LPD) e dalla legge federale del 26 giugno 1998[^24-2] sull’archiviazione.[^24-3]
 
-<sup>2</sup> e <sup>3</sup> ...[^24-4]
+<sup>2 e <sup>3</sup></sup> …[^24-4]
 
-[^24-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^24-2]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
-[^24-3]: Nuovo testo giusta l’all. 2 n. II 41 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^24-4]: Abrogati dal n. I dell’O del 16 ago. 2023, con effetto dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^24-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^24-2]: [RS 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
+[^24-3]: Nuovo testo giusta l’all. 2 cifra II n. 41 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^24-4]: Abrogati dalla cifra I dell’O del 16 ago. 2023, con effetto dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
 
 ## Sezione 5: Protezione dei dati e sicurezza dei dati
 
@@ -557,8 +560,8 @@ Le domande d’informazione concernenti SNI sono rette:
 
 <sup>2</sup> Per i dati di cui all’articolo 3 capoverso 1 che sono trattati dopo l’apertura del procedimento penale, il diritto d’accesso è retto dall’articolo 7 capoverso 4 LSIP.
 
-[^25-1]: Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
-[^25-2]: [RS 0.362.2](https://fedlex.data.admin.ch/eli/cc/2006/181)
+[^25-1]: Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^25-2]: [RS 0.362.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1510)
 
 #### Art. 26
 
@@ -570,10 +573,10 @@ Per garantire la sicurezza dei dati si applicano:
 - b.[^26-4] l’ordinanza dell’8 novembre 2023[^26-5] sulla sicurezza delle informazioni (OSIn).
 
 [^26-1]: Nuovo testo giusta l’all. n. 17 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^26-2]: Nuovo testo giusta l’all. 2 n. II 41 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^26-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^26-4]: Nuovo testo giusta l’all. 2 n. II 17 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
-[^26-5]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^26-2]: Nuovo testo giusta l’all. 2 cifra II n. 41 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^26-3]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
+[^26-4]: Nuovo testo giusta l’all. 2 cifra II n. 17 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^26-5]: [RS 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
 
 #### Art. 27
 
@@ -583,7 +586,7 @@ Per garantire la sicurezza dei dati si applicano:
 
 <sup>2</sup> Il DFGP emana istruzioni sull’utilizzazione dei dati verbalizzati.
 
-[^27-1]: Nuovo testo del per. giusta l’all. 2 n. II 41 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^27-1]: Nuovo testo del per. giusta l’all. 2 cifra II n. 41 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 28
 
@@ -606,13 +609,13 @@ I Cantoni assumono le spese:
 
 <sup>2</sup> I verbali sono conservati per un anno separatamente dal sistema in cui sono trattati i dati personali.[^29-1]
 
-[^29-1]: Nuovo testo giusta l’all. 2 n. II 41 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^29-1]: Nuovo testo giusta l’all. 2 cifra II n. 41 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Sezione 5*a*: Piattaforme di valutazione
 
 [^sec5a-1]
 
-[^sec5a-1]: Introdotta dal n. I dell’O del 17 dic. 2004, in vigore dal 1° feb. 2015 ([RU 2015 269](https://fedlex.data.admin.ch/eli/oc/2015/32)).
+[^sec5a-1]: Introdotta dalla cifra I dell’O del 17 dic. 2004, in vigore dal 1° feb. 2015 ([RU 2015 269](https://fedlex.data.admin.ch/eli/oc/2015/32)).
 
 #### Art. 29a
 
@@ -666,10 +669,10 @@ Nella misura in cui sia necessario all’adempimento dei loro compiti legali, i 
 - d. i servizi di fedpol incaricati di compiti in materia di protezione dei dati, per adempiere tali compiti;
 - e. i servizi dell’Amministrazione federale incaricati di compiti tecnici, per adempiere tali compiti.
 
-[^29g-1]: [RS 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
-[^29g-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^29g-3]: [RS 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
-[^29g-4]: [RS 172.213.1](https://fedlex.data.admin.ch/eli/cc/2000/57)
+[^29g-1]: [RS 360](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6300)
+[^29g-2]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^29g-3]: [RS 351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6277)
+[^29g-4]: [RS 172.213.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5295)
 
 #### Art. 29h
 
@@ -696,7 +699,7 @@ I dati personali salvati nelle piattaforme di valutazione possono essere comunic
 
 <sup>2</sup> I verbali sono conservati per un anno separatamente dal sistema in cui sono trattati i dati personali.[^29i-1]
 
-[^29i-1]: Nuovo testo del per. giusta l’all. 2 n. II 41 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^29i-1]: Nuovo testo del per. giusta l’all. 2 cifra II n. 41 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 29j
 
@@ -714,7 +717,7 @@ Se sono stati acquisiti agli atti di un procedimento penale, i dati sono cancell
 
 <sup>3</sup> Se sono stati acquisiti agli atti di una procedura di assistenza giudiziaria internazionale, i dati delle piattaforme di valutazione sono cancellati automaticamente cinque anni dopo il passaggio in giudicato di una decisione finale, sempreché l’autorità di sorveglianza o di esecuzione non vi si sia opposta. L’autorità di sorveglianza o di esecuzione può prorogare il termine di cancellazione d’intesa con lo Stato richiedente l’assistenza giudiziaria, tuttavia al massimo fino al termine di prescrizione dell’azione penale.
 
-[^29j-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^29j-1]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 29k
 
@@ -722,7 +725,7 @@ Se sono stati acquisiti agli atti di un procedimento penale, i dati sono cancell
 
 Chi dirige il procedimento oppure l’autorità di sorveglianza o di esecuzione fornisce, su richiesta, informazioni concernenti i dati trattati e conservati nelle piattaforme di valutazione per il sistema di sostegno alle indagini di polizia giudiziaria della Confederazione di cui all’articolo 10 LSIP. Le restrizioni sono rette dal CPP[^29k-1].
 
-[^29k-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^29k-1]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 29l
 
@@ -732,8 +735,8 @@ Chi dirige il procedimento oppure l’autorità di sorveglianza o di esecuzione 
 
 <sup>2</sup> Per motivi di sicurezza delle informazioni non è accordato il diritto di consultare sul posto i dati delle piattaforme di valutazione.
 
-[^29l-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^29l-2]: Nuovo testo del per. giusta l’all. 2 n. II 41 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^29l-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^29l-2]: Nuovo testo del per. giusta l’all. 2 cifra II n. 41 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 29m
 
@@ -741,7 +744,7 @@ Chi dirige il procedimento oppure l’autorità di sorveglianza o di esecuzione 
 
 Quando non sono più necessari o prima che debbano essere cancellati, i dati trattati nelle piattaforme di valutazione in virtù dell’articolo 10 LSIP sono offerti all’Archivio federale per l’archiviazione conformemente alla legge del 26 giugno 1998[^29m-1] sull’archiviazione.
 
-[^29m-1]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^29m-1]: [RS 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 #### Art. 29n
 
@@ -756,18 +759,18 @@ Per garantire la sicurezza dei dati si applicano:
 
 <sup>2</sup> Fedpol adotta le ulteriori misure necessarie per impedire che persone non autorizzate accedano ai dati.
 
-[^29n-1]: Nuovo testo giusta l’all. 2 n. II 41 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^29n-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^29n-3]: Nuovo testo giusta l’all. 2 n. II 17 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
-[^29n-4]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^29n-1]: Nuovo testo giusta l’all. 2 cifra II n. 41 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^29n-2]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
+[^29n-3]: Nuovo testo giusta l’all. 2 cifra I n. 17 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^29n-4]: [RS 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
 [^29n-5]: Nuovo testo giusta l’all. n. 17 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 ## Sezione 5*b*: Registro dei dati sul terrorismo
 
 [^sec5b-1][^sec5b-2]
 
-[^sec5b-1]: Introdotta dal n. I dell’O del 17 dic. 2004, in vigore dal 1° feb. 2015 ([RU 2015 269](https://fedlex.data.admin.ch/eli/oc/2015/32)).
-[^sec5b-2]: Nuova espr. giusta il n. I 9 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^sec5b-1]: Introdotta dalla cifra I dell’O del 17 dic. 2004, in vigore dal 1° feb. 2015 ([RU 2015 269](https://fedlex.data.admin.ch/eli/oc/2015/32)).
+[^sec5b-2]: Nuova espr. giusta la cifra I n. 9 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 29o
 
@@ -779,7 +782,7 @@ Fedpol è responsabile della gestione tecnica, della manutenzione e dello svilup
 
 [^29p-1]
 
-[^29p-1]: Abrogato dal n. I 9 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, con effetto dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^29p-1]: Abrogato dalla cifra I n. 9 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, con effetto dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 29q
 
@@ -787,7 +790,7 @@ Fedpol è responsabile della gestione tecnica, della manutenzione e dello svilup
 
 Per il confronto di informazioni secondo l’articolo 17*a* capoverso 2 LSIP, fedpol impiega tecnologie conformi allo stato della tecnica. Provvede affinché nessun dato personale venga trattato in modo illecito.
 
-[^29q-1]: Nuovo testo giusta il n. I 9 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^29q-1]: Nuovo testo giusta la cifra I n. 9 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 29r
 
@@ -802,13 +805,13 @@ Possono inoltre accedervi:
 - a. i servizi di fedpol incaricati di compiti in materia di protezione dei dati, per adempiere tali compiti;
 - b. i servizi dell’Amministrazione federale incaricati di compiti tecnici, per adempiere tali compiti.
 
-[^29r-1]: [RS 366.1](https://fedlex.data.admin.ch/eli/cc/2013/466)
+[^29r-1]: [RS 366.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6327)
 
 #### Art. 29s
 
 [^29s-1]
 
-[^29s-1]: Abrogato dal n. I 9 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, con effetto dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^29s-1]: Abrogato dalla cifra I n. 9 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, con effetto dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 29t
 
@@ -818,7 +821,7 @@ Possono inoltre accedervi:
 
 <sup>2</sup> I verbali sono conservati per un anno separatamente dal sistema in cui sono trattati i dati personali.[^29t-1]
 
-[^29t-1]: Nuovo testo giusta l’all. 2 n. II 41 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^29t-1]: Nuovo testo giusta l’all. 2 cifra II n. 41 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 29u
 
@@ -834,9 +837,9 @@ I dati registrati nel registro dei dati sul terrorismo sono sovrascritti durante
 
 <sup>2</sup> Non è accordato il diritto di consultare sul posto il registro dei dati sul terrorismo.[^29v-3]
 
-[^29v-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^29v-2]: Nuovo testo del per. giusta l’all. 2 n. II 41 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^29v-3]: Nuovo testo giusta il n. I 9 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^29v-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^29v-2]: Nuovo testo del per. giusta l’all. 2 cifra II n. 41 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^29v-3]: Nuovo testo giusta la cifra I n. 9 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 29w
 
@@ -851,10 +854,10 @@ Per garantire la sicurezza dei dati si applicano:
 
 <sup>2</sup> Fedpol adotta le ulteriori misure necessarie per impedire che persone non autorizzate accedano ai dati.
 
-[^29w-1]: Nuovo testo giusta l’all. 2 n. II 41 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^29w-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^29w-3]: Nuovo testo giusta l’all. 2 n. II 17 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
-[^29w-4]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^29w-1]: Nuovo testo giusta l’all. 2 cifra II n. 41 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^29w-2]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
+[^29w-3]: Nuovo testo giusta l’all. 2 cifra II n. 17 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^29w-4]: [RS 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
 [^29w-5]: Nuovo testo giusta l’all. n. 17 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 ## Sezione 6: Disposizioni finali
@@ -879,7 +882,7 @@ Allegato 1[^t-3]
 
 ## 1. Sistema di indagine
 
-[^t-3]: Nuovo testo giusta il n. II dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^t-3]: Nuovo testo giusta la cifra II dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
 
 ### 1.1 Caso
 
@@ -1801,122 +1804,90 @@ Allegato 2[^t-4]
 
 ## 1. Diritti d’accesso a SNI
 
-[^t-4]: Nuovo testo giusta il n. II dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^t-4]: Nuovo testo giusta la cifra II dell’O del 16 ago. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)). Aggiornato dalla cifra II dall’O del 18 set. 2026, in vigore dal 1° nov. 2026 ([RU 2026 515](https://fedlex.data.admin.ch/eli/oc/2026/515)).
 
 ### 1.1 Sistema di sostegno alle indagini di polizia giudiziaria della Confederazione (art. 10 e 18 LSIP)
 
 <table>
-<tr><th>Servizio</th><th colspan="2">Sistema di indagine</th><th></th><th>AN</th><th>PR</th><th>ER</th><th>GA</th><th>Piattaforma di collaborazione</th><th>Denaro falso</th></tr>
-<tr><th></th><th>Caso informativo</th><th colspan="2">Caso investigativo</th><th>Analisi (con strumenti di analisi)</th><th>Sistema dei rapporti di polizia</th><th>Verbale degli avvenimenti Verbali quotidiani</th><th>Gestione delle pratiche e degli atti</th><th>Informazioni di polizia</th><th>Tipo di denaro falso e tecniche di falsificazione</th></tr>
-<tr><td colspan="10">fedpol – Polizia giudiziaria federale (PGF)</td></tr>
-<tr><td>Collab., C e C suppl. PGF</td><td>A\*</td><td colspan="2">A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>–</td></tr>
-<tr><td>Collab. Moneta falsa</td><td>A\*</td><td colspan="2">A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>D</td></tr>
-<tr><td colspan="10">fedpol – Cooperazione internazionale di polizia (CIP)</td></tr>
-<tr><td>C e C suppl. CIP</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>A\*</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td>Centrale operativa e d’allarme / SIRENE CH</td><td>A\*</td><td colspan="2">A\*</td><td>–</td><td>A\*</td><td>A\*</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td>Cooperazione operativa di polizia</td><td>A\*</td><td colspan="2">A\*</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>–</td></tr>
-<tr><td>Affari internazionali</td><td>A\*</td><td colspan="2">A\*</td><td></td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td></td></tr>
-<tr><td>Gestione e pianificazione</td><td>A\*</td><td colspan="2">A\*</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>–</td></tr>
-</table>
-
-<table>
-<tr><th>*Legenda:*</th><th></th><th></th><th></th><th></th><th></th></tr>
-<tr><td>G (Get)</td><td>=</td><td>consultare</td><td></td><td></td><td></td></tr>
-<tr><td>A (Add)</td><td>=</td><td>consultare</td><td>registrare</td><td>modificare</td><td></td></tr>
-<tr><td>A\* (Add)</td><td>=</td><td>consultare</td><td>registrare</td><td>modificare\*</td><td></td></tr>
-<tr><td>D (Delete)</td><td>=</td><td>consultare</td><td>registrare</td><td>modificare</td><td>cancellare</td></tr>
-<tr><td>D\* (Delete)</td><td>=</td><td>consultare</td><td>registrare</td><td>modificare\*</td><td>cancellare\*</td></tr>
-<tr><td>P (Registro nazionale di polizia)</td><td>=</td><td colspan="4">consultare tramite Registro nazionale di polizia, accesso limitato alla categoria Entità</td></tr>
-</table>
-
-\* = soltanto i dati registrati dalla stessa unità organizzativa
-
-<table>
-<tr><th>Servizio</th><th colspan="2">Sistema di indagine</th><th></th><th>AN</th><th>PR</th><th>ER</th><th>GA</th><th>Piattaforma di collaborazione</th><th>Denaro falso</th></tr>
-<tr><th></th><th>Caso informativo</th><th colspan="2">Caso investigativo</th><th>Analisi (con strumenti di analisi)</th><th>Sistema dei rapporti di polizia</th><th>Verbale degli avvenimenti Verbali quotidiani</th><th>Gestione delle pratiche e degli atti</th><th>Informazioni di polizia</th><th>Tipo di denaro falso e tecniche di falsificazione</th></tr>
-<tr><td colspan="10">fedpol – Sistemi di polizia e identificazione (SPI)</td></tr>
-<tr><td>Sistemi di polizia (capoprogetto, resp. tecnico)</td><td>D</td><td colspan="2">D</td><td>A\*</td><td>D</td><td>D</td><td>D</td><td>D</td><td>D</td></tr>
-<tr><td>Mandante del progetto</td><td>D</td><td colspan="2">D</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>–</td></tr>
-<tr><td>Servizio di sorveglianza di fedpol</td><td>D</td><td colspan="2">D</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>–</td></tr>
-<tr><td>Formazione sistemi di polizia</td><td>A\*</td><td colspan="2">A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td></tr>
-<tr><td>Uffici centrali Esplosivi e Armi</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>A\*</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td>Documenti d’identità e e-ID</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td>Tecnologia e sviluppo documenti d’identità</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td>Identificazione biometrica</td><td>A\*</td><td colspan="2">A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td>C e C suppl. SPI</td><td>G</td><td colspan="2">G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>A</td><td>G</td></tr>
-<tr><td>Esercizio e supporto Ufficio N-SIS</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td>Sistemi di polizia</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td>Ricerche RIPOL</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>G</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td colspan="10">fedpol – Servizio federale di sicurezza (SFS)</td></tr>
-<tr><td>GELA</td><td>D</td><td colspan="2">D</td><td>–</td><td>–</td><td>A\*</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td>SIBEL</td><td>A\*</td><td colspan="2">A\*</td><td>–</td><td>–</td><td>A\*</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td>C e C suppl. SFS</td><td>A\*</td><td colspan="2">A\*</td><td>–</td><td>–</td><td>A\*</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td colspan="10">fedpol – Prevenzione della criminalità e diritto</td></tr>
-<tr><td>Consulente per la protezione dei dati + suppl.</td><td>G</td><td colspan="2">G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>–</td></tr>
-<tr><td>Prevenzione della criminalità</td><td>G</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td>Punto nazionale d’informazione sul calcio</td><td>G</td><td colspan="2">G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>–</td></tr>
-<tr><td>MROS</td><td>G</td><td colspan="2">–</td><td>–</td><td>–</td><td>A\*</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td colspan="10">SIC</td></tr>
-<tr><td>SIC</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td>Valutazione / Analisi</td><td>G</td><td colspan="2">–</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td>Servizio degli stranieri</td><td>G</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td>Acquisizione di informazioni</td><td>G</td><td colspan="2">–</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td>Rilevamento dei dati / smistamento</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>A\*</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td>Consulente per la protezione dei dati SIC</td><td>G</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
-<tr><td>Settore Sicurezza</td><td>P</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
-</table>
-
-<table>
-<tr><th>*Legenda:*</th><th></th><th></th><th></th><th></th><th></th></tr>
-<tr><td>G (Get)</td><td>=</td><td>consultare</td><td></td><td></td><td></td></tr>
-<tr><td>A (Add)</td><td>=</td><td>consultare</td><td>registrare</td><td>modificare</td><td></td></tr>
-<tr><td>A\* (Add)</td><td>=</td><td>consultare</td><td>registrare</td><td>modificare\*</td><td></td></tr>
-<tr><td>D (Delete)</td><td>=</td><td>consultare</td><td>registrare</td><td>modificare</td><td>cancellare</td></tr>
-<tr><td>P (Registro nazionale di polizia)</td><td>=</td><td colspan="4">consultare tramite Registro nazionale di polizia, accesso limitato alla categoria Entità</td></tr>
-</table>
-
-\* = soltanto i dati registrati dalla stessa unità organizzativa
-
-<table>
-<tr><th>Servizio</th><th colspan="4">Sistema di indagine</th><th></th><th>AN</th><th>PR</th><th>ER</th><th>GA</th><th>Piattaforma di collaborazione</th><th>Denaro falso</th></tr>
-<tr><th></th><th colspan="2">Caso informativo</th><th colspan="3">Caso investigativo</th><th>Analisi (con strumenti di analisi)</th><th>Sistema dei rapporti di polizia</th><th>Verbale degli avvenimenti Verbali quotidiani</th><th>Gestione delle pratiche e degli atti</th><th>Informazioni di polizia</th><th>Tipo di denaro falso e tecniche di falsificazione</th></tr>
-<tr><td colspan="12">CSI – DFGP</td></tr>
-<tr><td colspan="2">Addetto allo sviluppo del sistema</td><td colspan="2">D</td><td colspan="2">D</td><td>G</td><td>D</td><td>D</td><td>D</td><td>D</td><td>D</td></tr>
-<tr><td colspan="12">Corpi cantonali di polizia della Svizzera</td></tr>
-<tr><td colspan="2">Collab. dei corpi di polizia</td><td colspan="2">A\*</td><td colspan="2">A\*</td><td>A\*</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td colspan="2">Inquirente</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
-<tr><td colspan="2">Specialista documenti di identità</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
-<tr><td colspan="2">Analista</td><td colspan="2">A\*</td><td colspan="2">A\*</td><td>A\*</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td colspan="2">Altri collab. dei corpi di polizia (IT, segreteria ecc.)</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td colspan="2">Assistenza logistica e amministrativa</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td colspan="2">Redattore web cantonale</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td colspan="12">Altre autorità</td></tr>
-<tr><td colspan="2">Procuratori cantonali</td><td colspan="2">G</td><td colspan="2">G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
-<tr><td colspan="2">Polizia degli stranieri della città di Berna (PolStr Berna)</td><td colspan="2">G</td><td colspan="2">G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td colspan="2">Ufficio federale di giustizia UFG, Ambito direzionale Assistenza giudiziaria internazionale</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td>A\*</td><td>–</td><td>–</td><td>–</td></tr>
-<tr><td colspan="12">Ufficio federale della dogana e della sicurezza dei confini (UDSC)</td></tr>
-<tr><td colspan="2">Responsabili specialistici delle applicazioni per i sistemi di controllo al confine</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td colspan="2">Responsabili tecnici delle applicazioni per i sistemi di controllo al confine</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td colspan="2">Specialista documenti d’identità</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
-<tr><td colspan="2">Collab.</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td colspan="12">**UDSC Ambito direzionale Perseguimento penale**</td></tr>
-<tr><td>Collab. Inchieste preliminari e Antifrode doganale</td><td colspan="2">G</td><td colspan="3">G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td colspan="12">**UDSC Ambito direzionale Analisi dei dati e dei rischi**</td></tr>
-<tr><td>C ambito direzionale</td><td colspan="2">G</td><td colspan="3">G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td>Divisione Analisi dei dati e dei rischi (C e collab.)</td><td colspan="2">G</td><td colspan="3">G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td>Divisione Informazione e situazione (C e collab.)</td><td colspan="2">G</td><td colspan="3">G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td>Sezione Sistema di rete d’informazione (C e collab.)</td><td colspan="2">G</td><td colspan="3">G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td colspan="12">UDSC Ambito direzionale Operazioni</td></tr>
-<tr><td>Centrali d’intervento (C e collab.)</td><td colspan="2">G</td><td colspan="3">G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td>Uffici di collegamento e CCPD (C e collab.)</td><td colspan="2">G</td><td colspan="3">G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td colspan="12">Ministero pubblico della Confederazione</td></tr>
-<tr><td>Divisione Protezione dello Stato, reati speciali e criminalità organizzata</td><td colspan="2">G\*\*</td><td colspan="3">A\*\*</td><td>G\*\*</td><td>G\*\*</td><td>G\*\*</td><td>G\*\*</td><td>G\*\*</td><td>–</td></tr>
-<tr><td>Divisione Criminalità economica I + II</td><td colspan="2">G\*\*</td><td colspan="3">A\*\*</td><td>G\*\*</td><td>G\*\*</td><td>G\*\*</td><td>G\*\*</td><td>G\*\*</td><td>–</td></tr>
-<tr><td>Centro di competenze Economia e finanza</td><td colspan="2">G\*\*</td><td colspan="3">A\*\*</td><td>G\*\*</td><td>G\*\*</td><td>G\*\*</td><td>G\*\*</td><td>G\*\*</td><td>–</td></tr>
-<tr><td>Centro di competenze Assistenza giudiziaria</td><td colspan="2">G\*\*</td><td colspan="3">A\*\*</td><td>G\*\*</td><td>G\*\*</td><td>G\*\*</td><td>G\*\*</td><td>G\*\*</td><td>–</td></tr>
-<tr><td>Centro di competenze Terrorismo e diritto penale internazionale</td><td colspan="2">G\*\*</td><td colspan="3">A\*\*</td><td>G\*\*</td><td>G\*\*</td><td>G\*\*</td><td>G\*\*</td><td>G\*\*</td><td>–</td></tr>
-<tr><td>Sedi distaccate di Losanna, Lugano e Zurigo</td><td colspan="2">G\*\*</td><td colspan="3">A\*\*</td><td>G\*\*</td><td>G\*\*</td><td>G\*\*</td><td>G\*\*</td><td>G\*\*</td><td>–</td></tr>
-<tr><td>Servizio incaricato del controllo dei dati</td><td colspan="2">D</td><td colspan="3">D</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><th>Servizio</th><th colspan="2">Sistema di indagine</th><th>AN</th><th>PR</th><th>ER</th><th>GA</th><th>Piattaforma di collaborazione</th><th>Denaro falso</th></tr>
+<tr><th></th><th>Caso informativo</th><th>Caso investigativo</th><th>Analisi (con strumenti di analisi)</th><th>Sistema dei rapporti di polizia</th><th>Verbale degli avvenimenti Verbali quotidiani</th><th>Gestione delle pratiche e degli atti</th><th>Informazioni di polizia</th><th>Tipo di denaro falso e tecniche di falsificazione</th></tr>
+<tr><td colspan="9">fedpol – Polizia giudiziaria federale (PGF)</td></tr>
+<tr><td>Collab., C + C suppl. PGF</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>–</td></tr>
+<tr><td>Collab. Moneta falsa</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>D</td></tr>
+<tr><td colspan="9">fedpol – Cooperazione internazionale di polizia (CIP)</td></tr>
+<tr><td>C + C suppl. CIP</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A\*</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Centrale operativa e d’allarme – SIRENE CH</td><td>A\*</td><td>A\*</td><td>–</td><td>A\*</td><td>A\*</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Unità nazionale incaricata del trattamento dei dati dei passeggeri aerei (Unità d’informazione sui passeggeri, UIP)</td><td>A\*</td><td>A\*</td><td>–</td><td>A\*</td><td>A\*</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Cooperazione operativa di polizia</td><td>A\*</td><td>A\*</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>–</td></tr>
+<tr><td>Affari internazionali</td><td>A\*</td><td>A\*</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td></td></tr>
+<tr><td>Gestione e pianificazione</td><td>A\*</td><td>A\*</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>–</td></tr>
+<tr><td colspan="9">fedpol – Sistemi di polizia e identificazione (SPI)</td></tr>
+<tr><td>Sistemi di polizia (capoprogetto, resp. tecnico)</td><td>D</td><td>D</td><td>A\*</td><td>D</td><td>D</td><td>D</td><td>D</td><td>D</td></tr>
+<tr><td>Mandante del progetto</td><td>D</td><td>D</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>–</td></tr>
+<tr><td>Servizio di sorveglianza di fedpol</td><td>D</td><td>D</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>–</td></tr>
+<tr><td>Formazione sistemi di polizia</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td></tr>
+<tr><td>Uffici centrali Esplosivi e Armi</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A\*</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Documenti d’identità e mezzo d’identificazione elettronico per persone fisiche (e‑ID)</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Tecnologia e sviluppo documenti d’identità</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Identificazione biometrica</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>C + C suppl. SPI</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>A</td><td>G</td></tr>
+<tr><td>Esercizio e supporto Ufficio N-SIS</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Sistemi di polizia</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Ricerche RIPOL</td><td>–</td><td>–</td><td>–</td><td>–</td><td>G</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td colspan="9">fedpol – Servizio federale di sicurezza (SFS)</td></tr>
+<tr><td>GELA</td><td>D</td><td>D</td><td>–</td><td>–</td><td>A\*</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>SIBEL</td><td>A\*</td><td>A\*</td><td>–</td><td>–</td><td>A\*</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>C + C suppl. SFS</td><td>A\*</td><td>A\*</td><td>–</td><td>–</td><td>A\*</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td colspan="9">fedpol – Prevenzione della criminalità e diritto</td></tr>
+<tr><td>Consulente per la protezione dei dati + suppl.</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>–</td></tr>
+<tr><td>Prevenzione della criminalità</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Punto nazionale d’informazione sul calcio</td><td>G</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>–</td></tr>
+<tr><td>MROS</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A\*</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td colspan="9">SIC</td></tr>
+<tr><td>SIC</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Valutazione/Analisi</td><td>G</td><td>–</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Servizio degli stranieri</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Acquisizione di informazioni</td><td>G</td><td>–</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Rilevamento dei dati / smistamento</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A\*</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Consulente per la protezione dei dati SIC</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>Settore Sicurezza</td><td>P</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td colspan="9">CSI-DFGP</td></tr>
+<tr><td>Addetto allo sviluppo del sistema</td><td>D</td><td>D</td><td>G</td><td>D</td><td>D</td><td>D</td><td>D</td><td>D</td></tr>
+<tr><td colspan="9">Corpi cantonali di polizia della Svizzera</td></tr>
+<tr><td>Collab. dei corpi di polizia</td><td>A\*</td><td>A\*</td><td>A\*</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Inquirente</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>Specialista documenti di identità</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>Analista</td><td>A\*</td><td>A\*</td><td>A\*</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Altri collab. dei corpi di polizia (IT, segreteria ecc.)</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Assistenza logistica e amministrativa</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Redattore web cantonale</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td colspan="9">Altre autorità</td></tr>
+<tr><td>Procuratori cantonali</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>Polizia degli stranieri della città di Berna</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Ufficio federale di giustizia, Ambito direzionale Assistenza giudiziaria internazionale</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A\*</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td colspan="9">Ufficio federale della dogana e della sicurezza dei confini (UDSC)</td></tr>
+<tr><td>Responsabili specialistici delle applicazioni per i sistemi di controllo al confine</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Responsabili tecnici delle applicazioni per i sistemi di controllo al confine</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Specialista documenti d’identità</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>Collab.</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td colspan="9">UDSC Ambito direzionale Perseguimento penale</td></tr>
+<tr><td>Collab. Inchieste preliminari e Antifrode doganale</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td colspan="9">UDSC Ambito direzionale Analisi dei dati e dei rischi</td></tr>
+<tr><td>C ambito direzionale</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Divisione Analisi dei dati e dei rischi (C e collab.)</td><td>G</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Divisione Informazione e situazione (C e collab.)</td><td>G</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Sezione Sistema di rete d’informazione (C e collab.)</td><td>G</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td colspan="9">UDSC Ambito direzionale Operazioni</td></tr>
+<tr><td>Centrali d’intervento (C + collab.)</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Uffici di collegamento e CCPD (C + collab.)</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td colspan="9">Ministero pubblico della Confederazione</td></tr>
+<tr><td>Divisione Protezione dello Stato, reati speciali e criminalità organizzata</td><td>G\*\*</td><td>A\*\*</td><td>G\*\*</td><td>G\*\*</td><td>G\*\*</td><td>G\*\*</td><td>G\*\*</td><td>–</td></tr>
+<tr><td>Divisione Criminalità economica I + II</td><td>G\*\*</td><td>A\*\*</td><td>G\*\*</td><td>G\*\*</td><td>G\*\*</td><td>G\*\*</td><td>G\*\*</td><td>–</td></tr>
+<tr><td>Centro di competenze Economia e finanza</td><td>G\*\*</td><td>A\*\*</td><td>G\*\*</td><td>G\*\*</td><td>G\*\*</td><td>G\*\*</td><td>G\*\*</td><td>–</td></tr>
+<tr><td>Centro di competenze Assistenza giudiziaria</td><td>G\*\*</td><td>A\*\*</td><td>G\*\*</td><td>G\*\*</td><td>G\*\*</td><td>G\*\*</td><td>G\*\*</td><td>–</td></tr>
+<tr><td>Centro di competenze Terrorismo e diritto penale internazionale</td><td>G\*\*</td><td>A\*\*</td><td>G\*\*</td><td>G\*\*</td><td>G\*\*</td><td>G\*\*</td><td>G\*\*</td><td>–</td></tr>
+<tr><td>Sedi distaccate di Losanna, Lugano e Zurigo</td><td>G\*\*</td><td>A\*\*</td><td>G\*\*</td><td>G\*\*</td><td>G\*\*</td><td>G\*\*</td><td>G\*\*</td><td>–</td></tr>
+<tr><td>Servizio incaricato del controllo dei dati</td><td>D</td><td>D</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
 </table>
 
 <table>
@@ -1925,7 +1896,7 @@ Allegato 2[^t-4]
 <tr><td colspan="5">fedpol</td></tr>
 <tr><td>Capoprogetto + amministratore di progetto</td><td>G</td><td>D</td><td>G</td><td>–</td></tr>
 <tr><td>Gestione utenti</td><td>–</td><td>D</td><td>–</td><td>–</td></tr>
-<tr><td>C e C suppl. Servizio di sorveglianza di fedpol</td><td>D</td><td>G</td><td>D</td><td>G</td></tr>
+<tr><td>C + C suppl. Servizio di sorveglianza di fedpol</td><td>D</td><td>G</td><td>D</td><td>G</td></tr>
 <tr><td>Collab. Servizio di sorveglianza di fedpol</td><td>–</td><td>–</td><td>D</td><td>–</td></tr>
 <tr><td>Consulente per la protezione dei dati + suppl.</td><td>G</td><td>G</td><td>G</td><td>–</td></tr>
 <tr><td>Archivista fedpol</td><td>–</td><td>–</td><td>–</td><td>D</td></tr>
@@ -1934,7 +1905,7 @@ Allegato 2[^t-4]
 </table>
 
 <table>
-<tr><th>*Legenda:*</th><th></th><th></th><th></th><th></th><th></th></tr>
+<tr><th colspan="6">Legenda:</th></tr>
 <tr><td>G (Get)</td><td>=</td><td>consultare</td><td></td><td></td><td></td></tr>
 <tr><td>A (Add)</td><td>=</td><td>consultare</td><td>registrare</td><td>modificare</td><td></td></tr>
 <tr><td>A\* (Add)</td><td>=</td><td>consultare</td><td>registrare</td><td>modificare\*</td><td></td></tr>
@@ -1950,111 +1921,78 @@ Allegato 2[^t-4]
 ### 1.2 Sistema di trattamento dei dati relativi ai reati federali (art. 11 e 18 LSIP)
 
 <table>
-<tr><th>Servizio</th><th colspan="2">Sistema di indagine</th><th></th><th>AN</th><th>PR</th><th>ER</th><th>GA</th><th>Piattaforma di collaborazione</th><th>Denaro falso</th></tr>
-<tr><th></th><th>Caso informativo</th><th colspan="2">Caso investigativo</th><th>Analisi (con strumenti di analisi)</th><th>Sistema dei rapporti di polizia</th><th>Verbale degli avvenimenti Verbali quotidiani</th><th>Gestione delle pratiche e degli atti</th><th>Informazioni di polizia</th><th>Tipo di denaro falso e tecniche di falsificazione</th></tr>
-<tr><td colspan="10">fedpol – Polizia giudiziaria federale (PGF)</td></tr>
-<tr><td>Collab., C e C suppl. PGF</td><td>A\*</td><td colspan="2">A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>–</td></tr>
-<tr><td>Collab. Moneta falsa</td><td>A\*</td><td colspan="2">A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>D</td></tr>
-<tr><td colspan="10">fedpol – Cooperazione internazionale di polizia (CIP)</td></tr>
-<tr><td>C e C suppl. CIP</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>A\*</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td>Centrale operativa e d’allarme / SIRENE CH</td><td>A\*</td><td colspan="2">A\*</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>–</td></tr>
-<tr><td>Cooperazione operativa di polizia</td><td>A\*</td><td colspan="2">A\*</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>–</td></tr>
-<tr><td>Affari internazionali</td><td>A\*</td><td colspan="2">A\*</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>–</td></tr>
-<tr><td>Gestione e pianificazione</td><td>A\*</td><td colspan="2">A\*</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>–</td></tr>
-</table>
-
-<table>
-<tr><th>*Legenda:*</th><th></th><th></th><th></th><th></th><th></th></tr>
-<tr><td>G (Get)</td><td>=</td><td>consultare</td><td></td><td></td><td></td></tr>
-<tr><td>A (Add)</td><td>=</td><td>consultare</td><td>registrare</td><td>modificare</td><td></td></tr>
-<tr><td>A\* (Add)</td><td>=</td><td>consultare</td><td>registrare</td><td>modificare\*</td><td></td></tr>
-<tr><td>D (Delete)</td><td>=</td><td>consultare</td><td>registrare</td><td>modificare</td><td>cancellare</td></tr>
-<tr><td>D\* (Delete)</td><td>=</td><td>consultare</td><td>registrare</td><td>modificare\*</td><td>cancellare\*</td></tr>
-<tr><td>P (Registro nazionale di polizia)</td><td>=</td><td colspan="4">consultare tramite Registro nazionale di polizia, accesso limitato alla categoria Entità</td></tr>
-</table>
-
-\* = soltanto i dati registrati dalla stessa unità organizzativa
-
-<table>
-<tr><th>Servizio</th><th colspan="2">Sistema di indagine</th><th></th><th>AN</th><th>PR</th><th>ER</th><th>GA</th><th>Piattaforma di collaborazione</th><th>Denaro falso</th></tr>
-<tr><th></th><th>Caso informativo</th><th colspan="2">Caso investigativo</th><th>Analisi (con strumenti di analisi)</th><th>Sistema dei rapporti di polizia</th><th>Verbale degli avvenimenti Verbali quotidiani</th><th>Gestione delle pratiche e degli atti</th><th>Informazioni di polizia</th><th>Tipo di denaro falso e tecniche di falsificazione</th></tr>
-<tr><td colspan="10">fedpol – Sistemi di polizia e identificazione (SPI)</td></tr>
-<tr><td>Sistemi di polizia (capoprogetto, resp. tecnico)</td><td>D</td><td colspan="2">D</td><td>G</td><td>D</td><td>D</td><td>D</td><td>D</td><td>D</td></tr>
-<tr><td>Mandante del progetto</td><td>D</td><td colspan="2">D</td><td>G</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>–</td></tr>
-<tr><td>Servizio di sorveglianza di fedpol</td><td>D</td><td colspan="2">D</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>–</td></tr>
-<tr><td>Formazione sistemi di polizia</td><td>A\*</td><td colspan="2">A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td></tr>
-<tr><td>Uffici centrali Esplosivi e Armi</td><td>A\*</td><td colspan="2">A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>–</td></tr>
-<tr><td>Documenti d’identità e e-ID</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td>Tecnologia e sviluppo documenti d’identità</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td>Identificazione biometrica</td><td>A\*</td><td colspan="2">A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td>C e C suppl. SPI</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td>Esercizio e supporto Ufficio N-SIS</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>D</td><td>–</td></tr>
-<tr><td>Sistemi di polizia</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td>Ricerche RIPOL</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>G</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td colspan="10">fedpol – Servizio federale di sicurezza (SFS)</td></tr>
-<tr><td>GELA</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>A\*</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td>SIBEL</td><td>A\*</td><td colspan="2">A\*</td><td>–</td><td>–</td><td>A\*</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td>C e C suppl. SFS</td><td>A\*</td><td colspan="2">A\*</td><td>–</td><td>–</td><td>A\*</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td colspan="10">fedpol – Prevenzione della criminalità e diritto</td></tr>
-<tr><td>Consulente per la protezione dei dati + suppl.</td><td>G</td><td colspan="2">G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>A</td><td>–</td></tr>
-<tr><td>Prevenzione della criminalità</td><td>G</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td>Punto nazionale d’informazione sul calcio</td><td>G</td><td colspan="2">G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>–</td></tr>
-<tr><td>MROS</td><td>G</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>A\*</td><td>A</td><td>–</td></tr>
-<tr><td colspan="10">SIC</td></tr>
-<tr><td>SIC</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td>Valutazione / Analisi</td><td>G</td><td colspan="2">–</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td>Servizio degli stranieri</td><td>G</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td>Acquisizione di informazioni</td><td>G</td><td colspan="2">–</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td>Rilevamento dei dati / smistamento</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>A\*</td><td>A</td><td>–</td></tr>
-<tr><td>Consulente per la protezione dei dati SIC</td><td>G</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
-<tr><td>Settore Sicurezza</td><td>P</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
-</table>
-
-<table>
-<tr><th>*Legenda:*</th><th></th><th></th><th></th><th></th><th></th></tr>
-<tr><td>G (Get)</td><td>=</td><td>consultare</td><td></td><td></td><td></td></tr>
-<tr><td>A (Add)</td><td>=</td><td>consultare</td><td>registrare</td><td>modificare</td><td></td></tr>
-<tr><td>A\* (Add)</td><td>=</td><td>consultare</td><td>registrare</td><td>modificare\*</td><td></td></tr>
-<tr><td>D (Delete)</td><td>=</td><td>consultare</td><td>registrare</td><td>modificare</td><td>cancellare</td></tr>
-<tr><td>D\* (Delete)</td><td>=</td><td>consultare</td><td>registrare</td><td>modificare\*</td><td>cancellare\*</td></tr>
-<tr><td>P (Registro nazionale di polizia)</td><td>=</td><td colspan="4">consultare tramite Registro nazionale di polizia, accesso limitato alla categoria Entità</td></tr>
-</table>
-
-\* = soltanto i dati registrati dalla stessa unità organizzativa
-
-<table>
-<tr><th>Servizio</th><th colspan="2">Sistema di indagine</th><th></th><th>AN</th><th>PR</th><th>ER</th><th>GA</th><th>Piattaforma di collaborazione</th><th>Denaro falso</th></tr>
-<tr><th></th><th>Caso informativo</th><th colspan="2">Caso investigativo</th><th>Analisi (con strumenti di analisi)</th><th>Sistema dei rapporti di polizia</th><th>Verbale degli avvenimenti Verbali quotidiani</th><th>Gestione delle pratiche e degli atti</th><th>Informazioni di polizia</th><th>Tipo di denaro falso e tecniche di falsificazione</th></tr>
-<tr><td colspan="10">CSI-DFGP</td></tr>
-<tr><td>Addetto allo sviluppo del sistema</td><td>D</td><td colspan="2">D</td><td>D</td><td>D</td><td>D</td><td>D</td><td>D</td><td>D</td></tr>
-<tr><td colspan="10">Corpi cantonali di polizia della Svizzera</td></tr>
-<tr><td>Collab. dei corpi di polizia</td><td>A\*</td><td colspan="2">A\*</td><td>A\*</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td>Inquirente</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
-<tr><td>Specialista documenti di identità</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
-<tr><td>Analista</td><td>A\*</td><td colspan="2">A\*</td><td>A\*</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td>Altri collab. dei corpi di polizia (IT, segreteria ecc.)</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td>Assistenza logistica e amministrativa</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td>Redattore web cantonale</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td colspan="10">Altre autorità</td></tr>
-<tr><td>Ministero pubblico della Confederazione</td><td>G</td><td colspan="2">G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
-<tr><td>Procuratori cantonali</td><td>P</td><td colspan="2">G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
-<tr><td>Polizia degli stranieri della città di Berna (PolStr Berna)</td><td>G</td><td colspan="2">G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td>Ufficio federale di giustizia UFG, Ambito direzionale Assistenza giudiziaria internazionale</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>A\*</td><td>–</td><td>–</td></tr>
-<tr><td colspan="10">Ufficio federale della dogana e della sicurezza dei confini (UDSC)</td></tr>
-<tr><td>Responsabili specialistici delle applicazioni per i sistemi di controllo al confine</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td>Responsabili tecnici delle applicazioni per i sistemi di controllo al confine</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td>Specialista documenti d’identità</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
-<tr><td>Collab.</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td colspan="10">UDSC Ambito direzionale Perseguimento penale</td></tr>
-<tr><td>Collab. Inchieste preliminari e Antifrode doganale</td><td>G</td><td colspan="2">G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td colspan="10">UDSC Ambito direzionale Analisi dei dati e dei rischi</td></tr>
-<tr><td>C ambito direzionale</td><td>G</td><td colspan="2">G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td>Divisione Analisi dei dati e dei rischi (C e collab.)</td><td>G</td><td colspan="2">G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td>Divisione Informazione e situazione (C e collab.)</td><td>G</td><td colspan="2">G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td>Sezione Sistema di rete d’informazione (C e collab.)</td><td>G</td><td colspan="2">G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td colspan="10">UDSC Ambito direzionale Operazioni</td></tr>
-<tr><td>Centrali d’intervento (C e collab.)</td><td>G</td><td colspan="2">G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td>Uffici di collegamento e CCPD (C e collab.)</td><td>G</td><td colspan="2">G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><th>Servizio</th><th colspan="2">Sistema di indagine</th><th>AN</th><th>PR</th><th>ER</th><th>GA</th><th>Piattaforma di collaborazione</th><th>Denaro falso</th></tr>
+<tr><th></th><th>Caso informativo</th><th>Caso investigativo</th><th>Analisi (con strumenti di analisi)</th><th>Sistema dei rapporti di polizia</th><th>Verbale degli avvenimenti Verbali quotidiani</th><th>Gestione delle pratiche e degli atti</th><th>Informazioni di polizia</th><th>Tipo di denaro falso e tecniche di falsificazione</th></tr>
+<tr><td colspan="9">fedpol – Polizia giudiziaria federale (PGF)</td></tr>
+<tr><td>Collab., C + C suppl. PGF</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>–</td></tr>
+<tr><td>Collab. Moneta falsa</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>D</td></tr>
+<tr><td colspan="9">fedpol – Cooperazione internazionale di polizia (CIP)</td></tr>
+<tr><td>C + C suppl. CIP</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A\*</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Centrale operativa e d’allarme – SIRENE CH</td><td>A\*</td><td>A\*</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>–</td></tr>
+<tr><td>Unità nazionale incaricata del trattamento dei dati dei passeggeri aerei (Unità d’informazione sui passeggeri, UIP)</td><td>A\*</td><td>A\*</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>–</td></tr>
+<tr><td>Cooperazione operativa di polizia</td><td>A\*</td><td>A\*</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>–</td></tr>
+<tr><td>Affari internazionali</td><td>A\*</td><td>A\*</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>–</td></tr>
+<tr><td>Gestione e pianificazione</td><td>A\*</td><td>A\*</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>–</td></tr>
+<tr><td colspan="9">fedpol – Sistemi di polizia e identificazione (SPI)</td></tr>
+<tr><td>Sistemi di polizia (capoprogetto, resp. tecnico)</td><td>D</td><td>D</td><td>G</td><td>D</td><td>D</td><td>D</td><td>D</td><td>D</td></tr>
+<tr><td>Mandante del progetto</td><td>D</td><td>D</td><td>G</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>–</td></tr>
+<tr><td>Servizio di sorveglianza di fedpol</td><td>D</td><td>D</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>–</td></tr>
+<tr><td>Formazione sistemi di polizia</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td></tr>
+<tr><td>Uffici centrali Esplosivi e Armi</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>–</td></tr>
+<tr><td>Documenti d’identità e mezzo d’identificazione elettronico per persone fisiche (e‑ID)</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Tecnologia e sviluppo documenti d’identità</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Identificazione biometrica</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>C + C suppl. SPI</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Esercizio e supporto Ufficio N-SIS</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>D</td><td>–</td></tr>
+<tr><td>Sistemi di polizia</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Ricerche RIPOL</td><td>–</td><td>–</td><td>–</td><td>–</td><td>G</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td colspan="9">fedpol – Servizio federale di sicurezza (SFS)</td></tr>
+<tr><td>GELA</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A\*</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>SIBEL</td><td>A\*</td><td>A\*</td><td>–</td><td>–</td><td>A\*</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>C + C suppl. SFS</td><td>A\*</td><td>A\*</td><td>–</td><td>–</td><td>A\*</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td colspan="9">fedpol – Prevenzione della criminalità e diritto</td></tr>
+<tr><td>Consulente per la protezione dei dati + suppl.</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>A</td><td>–</td></tr>
+<tr><td>Prevenzione della criminalità</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Punto nazionale d’informazione sul calcio</td><td>G</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>–</td></tr>
+<tr><td>MROS</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A\*</td><td>A</td><td>–</td></tr>
+<tr><td colspan="9">SIC</td></tr>
+<tr><td>SIC</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Valutazione/Analisi</td><td>G</td><td>–</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Servizio degli stranieri</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Acquisizione di informazioni</td><td>G</td><td>–</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Rilevamento dei dati / smistamento</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A\*</td><td>A</td><td>–</td></tr>
+<tr><td>Consulente per la protezione dei dati SIC</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>Settore Sicurezza</td><td>P</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td colspan="9">CSI-DFGP</td></tr>
+<tr><td>Addetto allo sviluppo del sistema</td><td>D</td><td>D</td><td>D</td><td>D</td><td>D</td><td>D</td><td>D</td><td>D</td></tr>
+<tr><td colspan="9">Corpi cantonali di polizia della Svizzera</td></tr>
+<tr><td>Collab. dei corpi di polizia</td><td>A\*</td><td>A\*</td><td>A\*</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Inquirente</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>Specialista documenti di identità</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>Analista</td><td>A\*</td><td>A\*</td><td>A\*</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Altri collab. dei corpi di polizia (IT, segreteria ecc.)</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Assistenza logistica e amministrativa</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Redattore web cantonale</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td colspan="9">Altre autorità</td></tr>
+<tr><td>Ministero pubblico della Confederazione</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>Procuratori cantonali</td><td>P</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>Polizia degli stranieri della città di Berna</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Ufficio federale di giustizia, Ambito direzionale Assistenza giudiziaria internazionale</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A\*</td><td>–</td><td>–</td></tr>
+<tr><td colspan="9">Ufficio federale della dogana e della sicurezza dei confini (UDSC)</td></tr>
+<tr><td>Responsabili specialistici delle applicazioni per i sistemi di controllo al confine</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Responsabili tecnici delle applicazioni per i sistemi di controllo al confine</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Specialista documenti d’identità</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>Collab.</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td colspan="9">UDSC Ambito direzionale Perseguimento penale</td></tr>
+<tr><td>Collab. Inchieste preliminari e Antifrode doganale</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td colspan="9">UDSC Ambito direzionale Analisi dei dati e dei rischi</td></tr>
+<tr><td>C ambito direzionale</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Divisione Analisi dei dati e dei rischi (C + collab.)</td><td>G</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Divisione Informazione e situazione (C + collab.)</td><td>G</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Sezione Sistema di rete d’informazione (C + collab.)</td><td>G</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td colspan="9">UDSC Ambito direzionale Operazioni</td></tr>
+<tr><td>Centrali d’intervento (C + collab.)</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Uffici di collegamento e CCPD (C + collab.)</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
 </table>
 
 <table>
@@ -2062,7 +2000,7 @@ Allegato 2[^t-4]
 <tr><th></th><th>Verbalizzazione</th><th>Gestione degli utenti</th><th>Controllo dei dati</th><th>Consegna all’Archivio federale</th></tr>
 <tr><td colspan="5">fedpol</td></tr>
 <tr><td>Capoprogetto + amministratore di progetto</td><td>G</td><td>D</td><td>G</td><td>–</td></tr>
-<tr><td>C e C suppl. Servizio di sorveglianza di fedpol</td><td>D</td><td>G</td><td>D</td><td>G</td></tr>
+<tr><td>C + C suppl. Servizio di sorveglianza di fedpol</td><td>D</td><td>G</td><td>D</td><td>G</td></tr>
 <tr><td>Collab. Servizio di sorveglianza di fedpol</td><td>–</td><td>–</td><td>D</td><td>–</td></tr>
 <tr><td>Consulente per la protezione dei dati + suppl.</td><td>G</td><td>G</td><td>G</td><td>–</td></tr>
 <tr><td>Archivista fedpol</td><td>–</td><td>–</td><td>–</td><td>D</td></tr>
@@ -2071,7 +2009,7 @@ Allegato 2[^t-4]
 </table>
 
 <table>
-<tr><th>*Legenda:*</th><th></th><th></th><th></th><th></th><th></th></tr>
+<tr><th colspan="6">Legenda:</th></tr>
 <tr><td>G (Get)</td><td>=</td><td>consultare</td><td></td><td></td><td></td></tr>
 <tr><td>A (Add)</td><td>=</td><td>consultare</td><td>registrare</td><td>modificare</td><td></td></tr>
 <tr><td>A\* (Add)</td><td>=</td><td>consultare</td><td>registrare</td><td>modificare\*</td><td></td></tr>
