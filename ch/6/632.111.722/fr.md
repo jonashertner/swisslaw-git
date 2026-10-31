@@ -3,18 +3,18 @@ sr: "632.111.722"
 title: "Ordonnance du 23 novembre 2011 concernant les éléments de protection industrielle et les éléments mobiles applicables à l'importation de produits agricoles transformés"
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/821"
 language: fr
-version: 2022-01-01
+version: 2026-11-01
 adopted: 2011-11-23
 in_force: 2012-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/821/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-821-20220101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/821/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/821/20261101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-821-20261101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/821/20261101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance concernant les éléments de protection industrielle et les éléments mobiles applicables à l’importation de produits agricoles transformés
 
-du 23 novembre 2011 (État le 1<sup>er</sup> janvier 2022)
+du 23 novembre 2011 (État le 1<sup>er</sup> novembre 2026)
 
 Le Conseil fédéral suisse,
 
@@ -56,6 +56,24 @@ Les éléments de protection industrielle applicables aux divers produits sont f
 <sup>2</sup> En accord avec le DEFR, le DFF peut adapter à titre provisoire les éléments mobiles, en se fondant sur la différence entre les prix suisses et ceux du marché de l’UE ou sur une modification des droits de douane perçus sur les produits de base correspondants; il veille à ce que les montants de base figurant dans le tableau IV du protocole n<sup>o</sup> 2 du 22 juillet 1972 concernant certains produits agricoles transformés ne soient pas dépassés.
 
 [^4-1]: [RS 0.632.401.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2423)
+
+#### Art. 4a
+
+**Approbation des prix de référence, des différences de prix de référence et des montants de base pour les importations provenant d’États membres de l’UE et bénéficiant d’un traitement préférentiel**[^4a-1]
+
+<sup>1</sup>
+
+Le DEFR approuve, en accord avec le Département fédéral des affaires étrangères, les décisions suivantes du Comité mixte en vertu de l’art. 5, par. 3, du Protocole n<sup>o</sup> 2 du 22 juillet 1972 concernant certains produits agricoles transformés[^4a-2]:
+
+- a. décisions relatives à l’adaptation des prix de référence et des différences de prix de référence selon le tableau III du protocole;
+- b. décisions relatives à l’adaptation des montants de base selon le tableau IV, let. b, du protocole.
+
+<sup>2</sup> L’al. 1 ne s’applique qu’aux cas dans lesquels l’adaptation des prix de référence, des différences de prix de référence ou des montants de base ne repose pas sur une modification de la méthode de calcul allant au-delà d’une simple modification technico-administrative.
+
+<sup>3</sup> Si aucun accord n’est trouvé concernant l’approbation d’une décision, le Conseil fédéral statue sur son approbation.
+
+[^4a-1]: Introduit par le ch. I de l’O du 2 oct. 2026, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2026 524](https://fedlex.data.admin.ch/eli/oc/2026/524)).
+[^4a-2]: [RS 0.632.401.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2423)
 
 #### Art. 5
 

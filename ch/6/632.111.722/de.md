@@ -3,18 +3,18 @@ sr: "632.111.722"
 title: Verordnung vom 23. November 2011 über die Industrieschutzelemente und die beweglichen Teilbeträge bei der Einfuhr von Erzeugnissen aus Landwirtschaftsprodukten
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/821"
 language: de
-version: 2022-01-01
+version: 2026-11-01
 adopted: 2011-11-23
 in_force: 2012-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/821/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2011-821-20220101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/821/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/821/20261101/de/xml/fedlex-data-admin-ch-eli-cc-2011-821-20261101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/821/20261101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Industrieschutzelemente und die beweglichen Teilbeträge bei der Einfuhr von Erzeugnissen aus Landwirtschaftsprodukten
 
-vom 23. November 2011 (Stand am 1. Januar 2022)
+vom 23. November 2011 (Stand am 1. November 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -56,6 +56,24 @@ Die anwendbaren Industrieschutzelemente für die einzelnen Erzeugnisse sind im A
 <sup>2</sup> Das EFD kann im Einvernehmen mit dem WBF aufgrund des Unterschieds zwischen den inländischen Preisen und den EU-Marktpreisen oder aufgrund einer Änderung der Zollansätze der entsprechenden Grundstoffe die beweglichen Teilbeträge vorübergehend anpassen; dabei dürfen die Grundbeträge nach Tabelle IV des Protokolls Nr. 2 vom 22. Juli 1972 über bestimmte landwirtschaftliche Verarbeitungserzeugnisse nicht überschritten werden.
 
 [^4-1]: [SR 0.632.401.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2423)
+
+#### Art. 4a
+
+**Genehmigung der Referenzpreise, der Referenzpreisdifferenzen und der Grundbeträge für präferenzberechtigte Einfuhren aus EU‑Mitgliedstaaten**[^4a-1]
+
+<sup>1</sup>
+
+Das WBF genehmigt im Einvernehmen mit dem Eidgenössischen Departement für auswärtige Angelegenheiten die folgenden Beschlüsse des Gemischten Ausschusses nach Artikel 5 Absatz 3 des Protokolls Nr. 2 vom 22. Juli 1972[^4a-2] über bestimmte landwirtschaftliche Verarbeitungserzeugnisse:
+
+- a. Beschlüsse betreffend die Anpassung der Referenzpreise und der Referenzpreisdifferenzen nach Tabelle III des Protokolls;
+- b. Beschlüsse betreffend die Anpassung der Grundbeträge nach Tabelle IV Buchstabe b des Protokolls.
+
+<sup>2</sup> Absatz 1 gilt nur für Fälle, in denen der Anpassung der Referenzpreise, der Referenzpreisdifferenzen oder der Grundbeträge nicht eine Änderung der Berechnungsmethode zugrunde liegt, die über eine rein technisch-administrative Änderung hinausgeht.
+
+<sup>3</sup> Wird kein Einvernehmen über die Genehmigung eines Beschlusses erzielt, so entscheidet der Bundesrat über dessen Genehmigung.
+
+[^4a-1]: Eingefügt durch Ziff. I der V vom 2. Okt. 2026, in Kraft seit 1. Nov. 2026 ([AS 2026 524](https://fedlex.data.admin.ch/eli/oc/2026/524)).
+[^4a-2]: [SR 0.632.401.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2423)
 
 #### Art. 5
 

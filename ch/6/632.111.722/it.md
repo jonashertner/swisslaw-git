@@ -3,18 +3,18 @@ sr: "632.111.722"
 title: "Ordinanza del 23 novembre 2011 concernente gli elementi di protezione industriale e gli elementi mobili applicabili all'importazione di prodotti agricoli trasformati"
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/821"
 language: it
-version: 2022-01-01
+version: 2026-11-01
 adopted: 2011-11-23
 in_force: 2012-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/821/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2011-821-20220101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/821/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/821/20261101/it/xml/fedlex-data-admin-ch-eli-cc-2011-821-20261101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/821/20261101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza concernente gli elementi di protezione industriale e gli elementi mobili applicabili all’importazione di prodotti agricoli trasformati
 
-del 23 novembre 2011 (Stato 1° gennaio 2022)
+del 23 novembre 2011 (Stato 1° novembre 2026)
 
 Il Consiglio federale svizzero,
 
@@ -23,7 +23,7 @@ visti gli articoli 1 e 4 capoversi 1 e 2 della legge federale del 15 dicembre 20
 ordina:
 
 [^ingress-1]: [RS 632.111.72](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7946)
-[^ingress-2]: Nuovo testo giusta il n. I dell’O del 27 feb. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6431](https://fedlex.data.admin.ch/eli/oc/2020/1054)).
+[^ingress-2]: Nuovo testo giusta la cifra I dell’O del 27 feb. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6431](https://fedlex.data.admin.ch/eli/oc/2020/1054)).
 
 #### Art. 1
 
@@ -57,6 +57,24 @@ Gli elementi di protezione industriale applicabili ai diversi prodotti sono stab
 
 [^4-1]: [RS 0.632.401.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2423)
 
+#### Art. 4a
+
+**Approvazione dei prezzi di riferimento, delle differenze di prezzo di riferimento e degli importi di base per importazioni in regime preferenziale da Paesi membri dell’UE**[^4a-1]
+
+<sup>1</sup>
+
+D’intesa con il Dipartimento federale degli affari esteri, il DEFR approva le seguenti decisioni del comitato misto in virtù dell’articolo 5 paragrafo 3 del Protocollo n. 2 del 22 luglio 1972[^4a-2] riguardante taluni prodotti agricoli trasformati:
+
+- a. decisioni relative all’adeguamento dei prezzi di riferimento e delle differenze di prezzo di riferimento secondo la tabella III del Protocollo;
+- b. decisioni relative all’adeguamento degli importi di base secondo la tabella IV lettera b del Protocollo.
+
+<sup>2</sup> Il capoverso 1 si applica soltanto ai casi in cui l’adeguamento dei prezzi di riferimento, delle differenze di prezzo di riferimento o degli importi di base non si fonda su una modifica del metodo di calcolo che va oltre una semplice modifica tecnico-amministrativa.
+
+<sup>3</sup> Se non si giunge a un’intesa in merito all’approvazione di una decisione, il Consiglio federale decide in merito alla sua approvazione.
+
+[^4a-1]: Introdotto dalla cifra I dell’O del 2 ott. 2026, in vigore dal 1° nov. 2026 ([RU 2026 524](https://fedlex.data.admin.ch/eli/oc/2026/524)).
+[^4a-2]: [RS 0.632.401.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2423)
+
 #### Art. 5
 
 **Calcolo degli elementi mobili per importazioni in regime preferenziale da Paesi non membri dell’UE**
@@ -78,7 +96,7 @@ Fatti salvi gli obblighi internazionali contrari, per le importazioni in regime 
 
 <sup>6</sup> Alle importazioni in regime preferenziale dal Regno Unito si applicano gli elementi mobili conformemente all’articolo 4.[^5-1]
 
-[^5-1]: Introdotto dal n. I dell’O del 27 feb. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6431](https://fedlex.data.admin.ch/eli/oc/2020/1054)).
+[^5-1]: Introdotto dalla cifra I dell’O del 27 feb. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6431](https://fedlex.data.admin.ch/eli/oc/2020/1054)).
 
 #### Art. 6
 
