@@ -4,13 +4,12 @@ number: "122.0.21"
 title: Reglement über die Ausarbeitung der Erlasse
 short: AER
 language: de
-version: 2022-01-01
-valid_until: 2026-10-31
-version_adopted: 2022-01-31
+version: 2026-11-01
+version_adopted: 2026-09-22
 adopted: 2005-05-24
 in_force: 2006-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.0.21"
-pdf: "https://bdlf.fr.ch/api/de/versions/7104/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8669/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Ausarbeitung der Erlasse – R
 
 (AER)
 
-vom 24.05.2005 (Fassung in Kraft getreten am 01.01.2022)
+vom 24.05.2005 (Fassung in Kraft getreten am 01.11.2026)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -210,6 +209,8 @@ beschliesst:
 - c) die wichtigsten Vorschläge;
 - d) die finanziellen und personellen Auswirkungen;
 - e) die Übereinstimmung mit dem übergeordneten Recht.
+
+<sup>3</sup> Die Abschnitte über die finanziellen Auswirkungen in den Botschaften und erläuternden Berichten sind so formuliert, dass sie die Adressatinnen und Adressaten für die Auswirkungen von Entscheiden, welche die Unentgeltlichkeit bestimmter Leistungen vorsehen, sensibilisieren.
 
 ### 2.2 Unterbreitung zur Kontrolle
 

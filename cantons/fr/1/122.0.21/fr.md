@@ -4,13 +4,12 @@ number: "122.0.21"
 title: "Règlement sur l'élaboration des actes législatifs"
 short: REAL
 language: fr
-version: 2022-01-01
-valid_until: 2026-10-31
-version_adopted: 2022-01-31
+version: 2026-11-01
+version_adopted: 2026-09-22
 adopted: 2005-05-24
 in_force: 2006-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.0.21"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7104/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8669/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Elaboration des actes législatifs – R
 
 (REAL)
 
-du 24.05.2005 (version entrée en vigueur le 01.01.2022)
+du 24.05.2005 (version entrée en vigueur le 01.11.2026)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -210,6 +209,8 @@ Arrête:
 - c) les principales propositions;
 - d) les conséquences financières et en personnel;
 - e) la conformité au droit supérieur.
+
+<sup>3</sup> Les passages relatifs aux conséquences financières figurant dans les messages et rapports explicatifs sont formulés de manière à sensibiliser leurs destinataires à l'impact des décisions qui prévoient la gratuité de certaines prestations.
 
 ### 2.2 Soumission pour vérification
 
