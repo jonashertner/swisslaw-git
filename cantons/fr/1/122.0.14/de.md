@@ -4,13 +4,12 @@ number: "122.0.14"
 title: Verordnung über das Corporate Design des Staates Freiburg
 short: CDV
 language: de
-version: 2026-06-01
-valid_until: 2026-10-31
-version_adopted: 2026-05-26
+version: 2026-11-01
+version_adopted: 2026-09-22
 adopted: 2011-12-06
 in_force: 2012-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.0.14"
-pdf: "https://bdlf.fr.ch/api/de/versions/8607/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8668/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Corporate Design des Staates Freiburg – V
 
 (CDV)
 
-vom 06.12.2011 (Fassung in Kraft getreten am 01.06.2026)
+vom 06.12.2011 (Fassung in Kraft getreten am 01.11.2026)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -76,6 +75,8 @@ beschliesst:
 
 <sup>3</sup> Diese Einheiten können beschliessen, die Bestimmungen des Abschnitts 3 über die Verwendung der Marken «FRIBOURG» und «FREIBURG» ganz oder teilweise anzuwenden. Sie kommen jedoch nicht in den Genuss des Angebots von Werbegegenständen nach Art. 9d Abs. 1.
 
+<sup>4</sup> Diese Verordnung gilt auch nicht für eigenständige Internetseiten, die durch die Artikel 37b ff. der Verordnung über die Information über die Tätigkeit des Staatsrats und der Kantonsverwaltung (InfoV) geregelt werden; Absatz 2 gilt sinngemäss für diese Websites.
+
 ## 2 Corporate Design des Staates
 
 #### Art. 4
@@ -84,7 +85,7 @@ beschliesst:
 
 <sup>1</sup> Eine Grafikcharta, die auf Internet und Intranet verfügbar ist, legt das Corporate Design des Staates Freiburg und dessen Anwendung fest. Sie ist verbindlich.
 
-<sup>2</sup> Die Charta bestimmt, wie das Corporate Design namentlich bei folgenden Gegenständen anzuwenden ist: Papeterie sowie gedruckte und elektronische Dokumente der Bürotechnik, Veröffentlichungen und andere Drucksachen, Mitteilungen und Stellenausschreibungen, Websites und elektronische Schnittstellen für die Öffentlichkeit, Produkte aus Informatik-Anwendungen und aus Datenbanken, Aufschriften und damit zusammenhängende Produkte.
+<sup>2</sup> Die Charta bestimmt, wie das Corporate Design namentlich bei folgenden Gegenständen anzuwenden ist: Papeterie sowie gedruckte und elektronische Dokumente der Bürotechnik, Veröffentlichungen und andere Drucksachen, Mitteilungen und Stellenausschreibungen, Website des Staates (Website fr.ch) und elektronische Schnittstellen für die Öffentlichkeit, die Kommunikation mithilfe der sozialen Medien, Produkte aus Informatik-Anwendungen und aus Datenbanken, Aufschriften und damit zusammenhängende Produkte.
 
 #### Art. 5
 

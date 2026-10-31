@@ -4,13 +4,12 @@ number: "122.0.14"
 title: "Ordonnance relative à l'identité visuelle de l'Etat de Fribourg"
 short: OIV
 language: fr
-version: 2026-06-01
-valid_until: 2026-10-31
-version_adopted: 2026-05-26
+version: 2026-11-01
+version_adopted: 2026-09-22
 adopted: 2011-12-06
 in_force: 2012-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.0.14"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8607/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8668/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Identité visuelle de l'Etat de Fribourg – O
 
 (OIV)
 
-du 06.12.2011 (version entrée en vigueur le 01.06.2026)
+du 06.12.2011 (version entrée en vigueur le 01.11.2026)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -76,6 +75,8 @@ Arrête:
 
 <sup>3</sup> Ces unités peuvent décider d'appliquer en tout ou en partie les dispositions de la section 3 relatives à l'utilisation des marques «FRIBOURG» et «FREIBURG». Elles ne bénéficient toutefois pas de l'offre d'objets promotionnels prévue à l'article 9d al. 1.
 
+<sup>4</sup> La présente ordonnance ne s'applique pas non plus aux sites Internet autonomes régis par les articles 37b et suivants de l'ordonnance du 14 décembre 2010 relative à l'information sur les activités du Conseil d'Etat et de l'administration (OInf); l'alinéa 2 s'applique par analogie à ces sites.
+
 ## 2 Identité visuelle de l'Etat
 
 #### Art. 4
@@ -84,7 +85,7 @@ Arrête:
 
 <sup>1</sup> Une charte graphique, accessible sur Internet et Intranet, définit l'identité visuelle de l'Etat de Fribourg et règle sa mise en œuvre. Elle a un caractère obligatoire.
 
-<sup>2</sup> La charte précise l'application de l'identité visuelle notamment aux objets suivants: la papeterie et les produits imprimés et électroniques de la bureautique, les publications et autres imprimés, les annonces et offres d'emploi, les sites Internet et les interfaces informatiques destinées au public, les produits émanant des applications informatiques et des bases de données, la signalétique et les produits dérivés.
+<sup>2</sup> La charte précise l'application de l'identité visuelle notamment aux objets suivants: la papeterie et les produits imprimés et électroniques de la bureautique, les publications et autres imprimés, les annonces et offres d'emploi, le site Internet de l'Etat (site fr.ch) et les interfaces informatiques destinées au public, les communications effectuées à l'aide des médias sociaux, les produits émanant des applications informatiques et des bases de données, la signalétique et les produits dérivés.
 
 #### Art. 5
 
