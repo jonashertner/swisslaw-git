@@ -3,18 +3,18 @@ sr: "946.231.127.6"
 title: Ordinanza del 18 maggio 2016 che istituisce provvedimenti nei confronti della Repubblica popolare democratica di Corea
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/280"
 language: it
-version: 2023-06-01
+version: 2026-11-01
 adopted: 2016-05-18
 in_force: 2016-05-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/280/20230601/it/xml/fedlex-data-admin-ch-eli-cc-2016-280-20230601-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/280/20230601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/280/20261101/it/xml/fedlex-data-admin-ch-eli-cc-2016-280-20261101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/280/20261101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Repubblica popolare democratica di Corea
 
-del 18 maggio 2016 (Stato 1° giugno 2023)
+del 18 maggio 2016 (Stato 1° novembre 2026)
 
 Il Consiglio federale svizzero,
 
@@ -22,9 +22,9 @@ visto l’articolo 2 della legge del 22 marzo 2002[^ingress-1] sugli embarghi (L
 
 ordina:
 
-[^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
+[^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
 [^ingress-2]: Le risoluzioni sono consultabili in francese e inglese all’indirizzo [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions &gt; Résolutions.
-[^ingress-3]: Nuovo testo giusta il n. I 6 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^ingress-3]: Nuovo testo giusta la cifra I n. 6 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
 ## Sezione 1: Definizioni
 
@@ -55,7 +55,7 @@ L’entrata o il transito in Svizzera sono vietati alle seguenti persone:
 
 <sup>2</sup> La Segreteria di Stato della migrazione (SEM) può concedere deroghe al divieto di cui al capoverso 1, in conformità alle decisioni del comitato competente del Consiglio di sicurezza delle Nazioni Unite oppure per tutelare interessi svizzeri.
 
-[^2-1]: Nova espr. giusta il n. I 6 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^2-1]: Nova espr. giusta la cifra I n. 6 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 2a
 
@@ -71,7 +71,7 @@ Previa autorizzazione del comitato competente del Consiglio di sicurezza delle N
 - b. contribuire alla denuclearizzazione; oppure
 - c. ulteriori scopi compatibili con le pertinenti risoluzioni del Consiglio di sicurezza delle Nazioni Unite.
 
-[^2a-1]: Introdotto dal n. I dell’O del 18 ott. 2017, in vigore dalle ore 18.00 dal 18 ott. 2017 ([RU 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)).
+[^2a-1]: Introdotto dalla cifra II dell’O del 18 ott. 2017, in vigore dalle ore 18.00 dal 18 ott. 2017 ([RU 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)).
 
 #### Art. 2b
 
@@ -81,7 +81,7 @@ Previa autorizzazione del comitato competente del Consiglio di sicurezza delle N
 
 <sup>2</sup> D’intesa con i competenti uffici del Dipartimento federale degli affari esteri (DFAE) e della Segreteria di Stato dell’economia (SECO), la SEM può autorizzare deroghe alla misura di cui al capoverso 1, se la revoca dei permessi rilasciati sulla base del diritto in materia di stranieri non è compatibile con la legislazione nazionale o con il diritto internazionale.
 
-[^2b-1]: Introdotto dal n. I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
+[^2b-1]: Introdotto dalla cifra II dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
 
 #### Art. 3
 
@@ -93,8 +93,8 @@ Previa autorizzazione del comitato competente del Consiglio di sicurezza delle N
 
 <sup>3</sup> D’intesa con i competenti uffici del DFAE e conformemente alle decisioni del comitato competente del Consiglio di sicurezza delle Nazioni Unite, la SECO può autorizzare deroghe alle sospensioni di cui al capoverso 2 se la cooperazione non favorisce i programmi nucleari o missilistici della Repubblica popolare democratica di Corea.[^3-2]
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del 22 feb. 2017, in vigore dalle ore 18.00 del 22 feb. 2017 ([RU 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
-[^3-2]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O del 22 feb. 2017, in vigore dalle ore 18.00 del 22 feb. 2017 ([RU 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
+[^3-2]: Nuovo testo giusta la cifra I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
 
 #### Art. 4
 
@@ -119,9 +119,9 @@ Sono vietati la vendita, la fornitura, l’esportazione, il transito e il traspo
 
 <sup>4</sup> Sono fatte salve le disposizioni della legge del 13 dicembre 1996[^5-2] sul controllo dei beni a duplice impiego e della legge del 13 dicembre 1996[^5-3] sul materiale bellico.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 22 feb. 2017, in vigore dal 22 feb. 2017 ([RU 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
-[^5-2]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
-[^5-3]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 22 feb. 2017, in vigore dal 22 feb. 2017 ([RU 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
+[^5-2]: [RS 946.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11363)
+[^5-3]: [RS 514.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7526)
 
 #### Art. 5a
 
@@ -133,9 +133,9 @@ Sono vietati la vendita, la fornitura, l’esportazione, il transito e il traspo
 
 <sup>3</sup> Previa autorizzazione del comitato competente del Consiglio di sicurezza delle Nazioni Unite, la SECO può concedere deroghe al divieto di cui al capoverso 1.[^5a-3]
 
-[^5a-1]: Introdotto dal n. I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
+[^5a-1]: Introdotto dalla cifra II dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
 [^5a-2]: Correzione del 23 mag. 2018 ([RU 2018 2137](https://fedlex.data.admin.ch/eli/oc/2018/302)).
-[^5a-3]: Nuovo testo giusta il n. I dell’O del 6 nov. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3509](https://fedlex.data.admin.ch/eli/oc/2019/639)).
+[^5a-3]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3509](https://fedlex.data.admin.ch/eli/oc/2019/639)).
 
 #### Art. 6
 
@@ -152,7 +152,7 @@ Sono esclusi dal divieto di cui al capoverso 1:
 
 <sup>3</sup> Previa autorizzazione del comitato competente del Consiglio di sicurezza delle Nazioni Unite, la SECO può concedere deroghe per le forniture per scopi umanitari comprovati.[^6-1]
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del 22 feb. 2017, in vigore dal 22 feb. 2017 ([RU 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
+[^6-1]: Nuovo testo giusta la cifra I dell’O del 22 feb. 2017, in vigore dal 22 feb. 2017 ([RU 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
 
 #### Art. 7
 
@@ -167,9 +167,9 @@ Il carbone che ha origine al di fuori della Repubblica popolare democratica di C
 - a. il prodotto è stato trasportato attraverso la Repubblica popolare democratica di Corea esclusivamente per l’esportazione dal porto di Rason; e
 - b. la transazione non è legata al conseguimento di entrate per i programmi nucleari o missilistici della Repubblica popolare democratica di Corea o ad altre attività vietate secondo la presente ordinanza.[^7-1]
 
-<sup>2bis</sup> e <sup>2ter</sup> ...[^7-2]
+<sup>2bis e <sup>2ter</sup></sup> …[^7-2]
 
-<sup>3</sup> ...[^7-3]
+<sup>3</sup> …[^7-3]
 
 <sup>4</sup>
 
@@ -198,16 +198,16 @@ Il divieto di cui al capoverso 4 lettera c non si applica se:
 
 <sup>8</sup> Previa autorizzazione del comitato competente del Consiglio di sicurezza delle Nazioni Unite, la SECO può autorizzare le transazioni previste di cui al capoverso 6.[^7-10]
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 22 feb. 2017, in vigore dalle ore 18.00 del 22 feb. 2017 ([RU 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
-[^7-2]: Introdotto dal n. I dell’O del 22 feb. 2017 ([RU 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)). Abrogato dal n. I dell’O del 18 ott. 2017, con effetto dalle ore 18.00 dal 18 ott. 2017 ([RU 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)).
-[^7-3]: Abrogato dal n. I dell’O del 18 ott. 2017, con effetto dalle ore 18.00 dal 18 ott. 2017 ([RU 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)).
-[^7-4]: Introdotta dal n. I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
-[^7-5]: Introdotto dal n. I dell’O del 18 ott. 2017, in vigore dalle ore 18.00 dal 18 ott. 2017 ([RU 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)).
-[^7-6]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
-[^7-7]: Introdotto dal n. I dell’O del 18 ott. 2017, in vigore dalle ore 18.00 dal 18 ott. 2017 ([RU 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)).
-[^7-8]: Introdotto dal n. I dell’O del 18 ott. 2017 ([RU 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)). Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
-[^7-9]: Introdotto dal n. I dell’O del 18 ott. 2017 ([RU 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)). Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
-[^7-10]: Introdotto dal n. I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 22 feb. 2017, in vigore dalle ore 18.00 del 22 feb. 2017 ([RU 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
+[^7-2]: Introdotto dalla cifra II dell’O del 22 feb. 2017 ([RU 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)). Abrogato dalla cifra II dell’O del 18 ott. 2017, con effetto dalle ore 18.00 dal 18 ott. 2017 ([RU 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)).
+[^7-3]: Abrogato dalla cifra II dell’O del 18 ott. 2017, con effetto dalle ore 18.00 dal 18 ott. 2017 ([RU 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)).
+[^7-4]: Introdotta dalla cifra II dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
+[^7-5]: Introdotto dalla cifra II dell’O del 18 ott. 2017, in vigore dalle ore 18.00 dal 18 ott. 2017 ([RU 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)).
+[^7-6]: Nuovo testo giusta la cifra I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
+[^7-7]: Introdotto dalla cifra I dell’O del 18 ott. 2017, in vigore dalle ore 18.00 dal 18 ott. 2017 ([RU 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)).
+[^7-8]: Introdotto dalla cifra I dell’O del 18 ott. 2017 ([RU 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)). Nuovo testo giusta la cifra I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
+[^7-9]: Introdotto dalla cifra I dell’O del 18 ott. 2017 ([RU 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)). Nuovo testo giusta la cifra I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
+[^7-10]: Introdotto dalla cifra I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
 
 #### Art. 7a
 
@@ -215,17 +215,17 @@ Il divieto di cui al capoverso 4 lettera c non si applica se:
 
 <sup>1</sup> Sono vietati l’acquisizione, l’acquisto, l’importazione, il transito e il trasporto di statue provenienti dalla Repubblica popolare democratica di Corea.
 
-<sup>2</sup> ...[^7a-3]
+<sup>2</sup> …[^7a-3]
 
 <sup>2bis</sup> Sono vietati l’acquisizione, l’acquisto, l’importazione, il transito e il trasporto di tessuti, comprese stoffe, capi d’abbigliamento semilavorati o finiti, provenienti dalla Repubblica popolare democratica di Corea.[^7a-4]
 
 <sup>3</sup> D’intesa con gli uffici competenti del DFAE e previa autorizzazione del comitato competente del Consiglio di sicurezza delle Nazioni Unite, la SECO può autorizzare deroghe ai divieti di cui ai capoversi 1 e 2<sup>bis</sup>.[^7a-5]
 
-[^7a-1]: Introdotto dal n. I dell’O del 22 feb. 2017, in vigore dalle ore 18.00 del 22 feb. 2017 ([RU 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
-[^7a-2]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
-[^7a-3]: Abrogato dal n. I dell’O del 25 apr. 2018, con effetto dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
-[^7a-4]: Introdotto dal n. I dell’O del 18 ott. 2017, in vigore dalle ore 18.00 dal 18 ott. 2017 ([RU 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)).
-[^7a-5]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017 ([RU 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)). Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
+[^7a-1]: Introdotto dalla cifra I dell’O del 22 feb. 2017, in vigore dalle ore 18.00 del 22 feb. 2017 ([RU 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
+[^7a-2]: Nuovo testo giusta la cifra I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
+[^7a-3]: Abrogato dalla cifra I dell’O del 25 apr. 2018, con effetto dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
+[^7a-4]: Introdotto dalla cifra I dell’O del 18 ott. 2017, in vigore dalle ore 18.00 dal 18 ott. 2017 ([RU 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)).
+[^7a-5]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017 ([RU 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)). Nuovo testo giusta la cifra I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
 
 #### Art. 7b
 
@@ -235,7 +235,7 @@ Il divieto di cui al capoverso 4 lettera c non si applica se:
 
 <sup>2</sup> Sono vietati l’acquisto o l’accettazione di diritti di pesca della Repubblica popolare democratica di Corea.
 
-[^7b-1]: Introdotto dal n. I dell’O del 18 ott. 2017 ([RU 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)). Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
+[^7b-1]: Introdotto dalla cifra I dell’O del 18 ott. 2017 ([RU 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)). Nuovo testo giusta la cifra I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
 
 #### Art. 7c
 
@@ -243,7 +243,7 @@ Il divieto di cui al capoverso 4 lettera c non si applica se:
 
 Sono vietati l’acquisizione, l’acquisto, l’importazione, il transito e il trasporto di macchinari, apparecchi elettrici e imbarcazioni di cui all’allegato 8 provenienti dalla Repubblica popolare democratica di Corea.
 
-[^7c-1]: Introdotto dal n. I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
+[^7c-1]: Introdotto dalla cifra I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
 
 #### Art. 8
 
@@ -259,69 +259,94 @@ Sono vietati la vendita, la fornitura, l’esportazione e il transito a destinaz
 
 <sup>2</sup> Previa autorizzazione del comitato competente del Consiglio di sicurezza delle Nazioni Unite, la SECO può concedere deroghe, in particolare per progetti infrastrutturali non commerciali
 
-[^8a-1]: Introdotto dal n. I dell’O del 18 ott. 2017, in vigore dalle ore 18.00 dal 18 ott. 2017 ([RU 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)).
+[^8a-1]: Introdotto dalla cifra I dell’O del 18 ott. 2017, in vigore dalle ore 18.00 dal 18 ott. 2017 ([RU 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)).
 
 #### Art. 9
 
-**Blocco degli averi e delle risorse economiche**
+**Blocco degli averi e delle risorse economiche**[^9-1]
 
 <sup>1</sup>
 
-Sono bloccati gli averi e le risorse economiche, incluse le navi di cui all’allegato 6, di proprietà o sotto il controllo di:
+Sono bloccati gli averi e le risorse economiche di proprietà o sotto il controllo di:
 
 - a. persone fisiche, imprese o organizzazioni di cui all’allegato 1;
 - b. persone fisiche, imprese o organizzazioni che agiscono in nome o per conto di persone fisiche, imprese o organizzazioni di cui alla lettera a;
 - c. imprese o organizzazioni di proprietà o sotto il controllo di persone fisiche, imprese o organizzazioni di cui alle lettere a o b.
 
-<sup>2</sup>
+<sup>2</sup> Le navi di cui all’allegato 6 sono bloccate.
 
-Sono bloccati gli averi e le risorse economiche, incluse le navi di cui all’allegato 6, che presentano un legame con i programmi nucleari o missilistici della Repubblica popolare democratica di Corea o con altre attività vietate secondo la presente ordinanza, in particolare se gli averi o le risorse economiche, incluse le navi di cui all’allegato 6, sono di proprietà o sotto il controllo diretto o indiretto:
-
-- a. di istituzioni del Governo della Repubblica popolare democratica di Corea;
-- b. del Partito del lavoro della Repubblica popolare democratica di Corea;
-- c. di persone fisiche, imprese o organizzazioni che agiscono in nome o per conto di un’istituzione di cui alla lettera a o del Partito della Repubblica popolare democratica di Corea;
-- d. di imprese o organizzazioni di proprietà o sotto il controllo di un’istituzione di cui alla lettera a o del Partito del lavoro della Repubblica popolare democratica di Corea.
-
-<sup>3</sup> Sono esclusi dal divieto di cui al capoverso 2 i beni e le risorse economiche necessari per l’attività delle rappresentanze diplomatiche della Repubblica popolare democratica di Corea.
-
-#### Art. 10
-
-**Divieti concernenti servizi finanziari e trasferimenti di averi**
-
-<sup>1</sup> È vietato fornire servizi finanziari, compreso il clearing, o mettere a disposizione averi e risorse economiche, inclusi denaro contante e oro, in relazione con i programmi nucleari o missilistici della Repubblica popolare democratica di Corea o con altre attività vietate secondo la presente ordinanza.[^10-1]
-
-<sup>2</sup> È vietato trasferire averi alle persone fisiche, alle imprese e alle organizzazioni che sottostanno al blocco di cui all’articolo 9 oppure mettere altrimenti a loro disposizione, direttamente o indirettamente, averi e risorse economiche.
-
-<sup>3</sup> I divieti di cui ai capoversi 1 e 2 non si applicano alle transazioni finanziarie con la banca per il commercio estero o la compagnia d’assicurazioni nazionale della Repubblica popolare democratica di Corea necessarie per la gestione delle rappresentanze diplomatiche o consolari nella Repubblica popolare democratica di Corea o che d’intesa con le Nazioni Unite servono a scopi umanitari.[^10-2]
+<sup>3</sup> È vietato fornire averi alle persone fisiche, alle imprese e alle organizzazioni di cui al capoverso 1 oppure mettere a disposizione di queste ultime e delle navi di cui al capoverso 2, direttamente o indirettamente, averi e risorse economiche.
 
 <sup>4</sup>
 
-Il divieto di cui al capoverso 2 non si applica alla fornitura di aiuti umanitari e al sostegno di altre attività volte a soddisfare i bisogni umani fondamentali da parte di:
+I capoversi 1 e 2 e il divieto di cui al capoverso 3 non si applicano quando il trasferimento di averi o la messa a disposizione di averi o risorse economiche sono necessari per lo svolgimento di attività umanitarie o di altre attività volte a soddisfare bisogni umani fondamentali da parte di:
 
 - a. Organizzazione delle Nazioni Unite, anche per il tramite dei suoi programmi, fondi e altri enti e organismi, nonché sue agenzie specializzate e organizzazioni collegate;
 - b. organizzazioni internazionali;
 - c. organizzazioni umanitarie aventi status di osservatore presso l’Assemblea generale delle Nazioni Unite e membri di tali organizzazioni;
 - d. organizzazioni non governative finanziate a livello bilaterale o multilaterale che partecipano ai piani di risposta umanitaria delle Nazioni Unite, ai piani di risposta per i rifugiati, ad altri appelli delle Nazioni Unite o a strutture umanitarie coordinate dall’Ufficio delle Nazioni Unite per il coordinamento degli affari umanitari (OCHA);
-- e. membri del personale, beneficiari di sovvenzioni, organismi affiliati o partner esecutivi delle organizzazioni di cui alle lettere a−d nella misura in cui agiscono in tale veste;
-- f. ogni altro soggetto designato dal comitato competente del Consiglio di sicurezza delle Nazioni Unite.[^10-3]
+- e. membri del personale, beneficiari di sovvenzioni, organismi affiliati o partner esecutivi delle organizzazioni di cui alle lettere a–d nella misura in cui agiscono in tale veste;
+- f. ogni altro soggetto designato dal comitato competente del Consiglio di sicurezza delle Nazioni Unite.
 
-<sup>5</sup>
+<sup>5</sup> Il divieto di cui al capoverso 3 non si applica alle transazioni finanziarie con la banca per il commercio estero o la compagnia d’assicurazioni nazionale della Repubblica popolare democratica di Corea necessarie per la gestione delle rappresentanze diplomatiche o consolari nella Repubblica popolare democratica di Corea o che d’intesa con le Nazioni Unite servono a scopi umanitari.
+
+<sup>6</sup>
+
+Se anche gli importi accreditati vengono bloccati, il divieto di cui al capoverso 3 non si applica agli accrediti su conti bloccati di:
+
+- a. interessi e altri redditi di tali conti;
+- b. pagamenti basati su contratti esistenti;
+
+<sup>7</sup> Gli averi trasferiti da terzi a persone fisiche, imprese o organizzazioni di cui al capoverso 1 possono essere accreditati su conti bloccati, a condizione che anche gli importi accreditati su tali conti siano bloccati.
+
+[^9-1]: Nuovo testo giusta la cifra I n. 3 dell’O del 25 set. 2026 concernente la modifica di ordinanze sulle sanzioni in relazione alla proliferazione e al finanziamento del terrorismo, in vigore dal 1° nov. 2026 ([RU 2026 501](https://fedlex.data.admin.ch/eli/oc/2026/501)).
+
+#### Art. 9a
+
+**Disposizioni derogatorie concernenti averi e risorse economiche bloccati**[^9a-1]
+
+<sup>1</sup>
 
 La SECO può eccezionalmente autorizzare prelievi da conti bloccati, trasferimenti di valori patrimoniali bloccati e la liberazione di risorse economiche bloccate se servono a:
 
 - a. prevenire casi di rigore;
 - b. rispettare contratti esistenti;
-- c. onorare crediti oggetto di una sentenza giudiziaria, amministrativa o arbitrale;
+- c. onorare crediti oggetto di una sentenza giudiziaria, amministrativa o arbitrale esistente;
 - d. fornire aiuti umanitari;
-- e. contribuire alla denuclearizzazione.[^10-4]
+- e. contribuire alla denuclearizzazione.
 
-<sup>6</sup> La SECO autorizza le deroghe di cui al capoverso 5 d’intesa con gli uffici competenti del DFAE e del Dipartimento federale delle finanze, in conformità alle pertinenti risoluzioni del Consiglio di sicurezza delle Nazioni Unite e, se del caso, previa autorizzazione del comitato competente del Consiglio di sicurezza delle Nazioni Unite.[^10-5]
+<sup>2</sup> La SECO autorizza le deroghe di cui al capoverso 1 d’intesa con gli uffici competenti del DFAE e del Dipartimento federale delle finanze, in conformità alle pertinenti risoluzioni del Consiglio di sicurezza delle Nazioni Unite e, se del caso, previa autorizzazione del comitato competente del Consiglio di sicurezza delle Nazioni Unite.
 
-[^10-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dalle ore 18.00 dal 18 ott. 2017 ([RU 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)).
-[^10-2]: Nuovo testo giusta il n. I 6 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
-[^10-3]: Nuovo testo giusta il n. I 6 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
-[^10-4]: Introdotto dal n. I dell’O del 18 ott. 2017 ([RU 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)). Nuovo testo giusta il n. I 6 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
-[^10-5]: Introdotto dal n. I 6 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^9a-1]: Introdotto dalla cifra I n. 3 dell’O del 25 set. 2026 concernente la modifica di ordinanze sulle sanzioni in relazione alla proliferazione e al finanziamento del terrorismo, in vigore dal 1° nov. 2026 ([RU 2026 501](https://fedlex.data.admin.ch/eli/oc/2026/501)).
+
+#### Art. 9b
+
+**Blocco degli averi e delle risorse economiche collegati al programma nucleare o a quello missilistico balistico**[^9b-1]
+
+<sup>1</sup>
+
+Sono bloccati gli averi e le risorse economiche di proprietà o sotto il controllo diretto o indiretto:
+
+- a. di istituzioni del Governo della Repubblica popolare democratica di Corea;
+- b. del Partito del lavoro della Repubblica popolare democratica di Corea;
+- c. di persone fisiche, imprese o organizzazioni che agiscono in nome o per conto di un’istituzione di cui alla lettera a o del Partito del lavoro della Repubblica popolare democratica di Corea;
+- d. di imprese o organizzazioni di proprietà o sotto il controllo di un’istituzione di cui alla lettera a o del Partito del lavoro della Repubblica popolare democratica di Corea.
+
+<sup>2</sup> Sono esclusi dal divieto di cui al capoverso 1 i beni e le risorse economiche necessari per l’attività delle rappresentanze diplomatiche della Repubblica popolare democratica di Corea.
+
+<sup>3</sup> La SECO ordina la liberazione degli averi e delle risorse economiche bloccati secondo il capoverso 1 qualora accerti che tali averi e risorse non sono collegati al programma nucleare o a quello missilistico balistico della Repubblica popolare democratica di Corea.
+
+<sup>4</sup> È possibile accreditare averi sui conti bloccati in applicazione del capoverso 1, a condizione che anche gli importi accreditati su questi conti siano bloccati.
+
+[^9b-1]: Introdotto dalla cifra I n. 3 dell’O del 25 set. 2026 concernente la modifica di ordinanze sulle sanzioni in relazione alla proliferazione e al finanziamento del terrorismo, in vigore dal 1° nov. 2026 ([RU 2026 501](https://fedlex.data.admin.ch/eli/oc/2026/501)).
+
+#### Art. 10
+
+**Divieti concernenti i servizi finanziari**[^10-1]
+
+È vietato fornire servizi finanziari, compreso il clearing, in relazione con le attività vietate dalla presente ordinanza.
+
+[^10-1]: Nuovo testo giusta la cifra I n. 3 dell’O del 25 set. 2026 concernente la modifica di ordinanze sulle sanzioni in relazione alla proliferazione e al finanziamento del terrorismo, in vigore dal 1° nov. 2026 ([RU 2026 501](https://fedlex.data.admin.ch/eli/oc/2026/501)).
 
 #### Art. 10a
 
@@ -333,7 +358,7 @@ La SECO può eccezionalmente autorizzare prelievi da conti bloccati, trasferimen
 
 <sup>3</sup> è vietato usare gli immobili la cui proprietà o il cui contratto di affitto appartengono alla Repubblica popolare democratica di Corea per scopi diversi dalle attività diplomatiche e consolari.
 
-[^10a-1]: Introdotto dal n. I dell’O del 22 feb. 2017, in vigore dalle ore 18.00 del 22 feb. 2017 ([RU 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
+[^10a-1]: Introdotto dalla cifra I dell’O del 22 feb. 2017, in vigore dalle ore 18.00 del 22 feb. 2017 ([RU 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
 
 #### Art. 11
 
@@ -366,7 +391,7 @@ D’intesa con gli uffici competenti del DFAE e previa autorizzazione del comita
 - c. garantire l’attività delle Nazioni Unite, delle sue agenzie specializzate e delle sue organizzazioni correlate;
 - d. ulteriori scopi compatibili con le pertinenti risoluzioni del Consiglio di sicurezza delle Nazioni Unite.
 
-[^12-1]: Nuovo testo giusta il n. I dell’O del 22 feb. 2017, in vigore dalle ore 18.00 del 22 feb. 2017 ([RU 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
+[^12-1]: Nuovo testo giusta la cifra I dell’O del 22 feb. 2017, in vigore dalle ore 18.00 del 22 feb. 2017 ([RU 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
 
 #### Art. 13
 
@@ -376,7 +401,7 @@ D’intesa con gli uffici competenti del DFAE e previa autorizzazione del comita
 
 <sup>2</sup> D’intesa con gli uffici competenti del DFAE e previa autorizzazione del comitato competente del Consiglio di sicurezza delle Nazioni Unite, la SECO può autorizzare deroghe al divieto di cui al capoverso 1.
 
-[^13-1]: Nuovo testo giusta il n. I dell’O del 22 feb. 2017, in vigore dalle ore 18.00 del 22 feb. 2017 ([RU 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
+[^13-1]: Nuovo testo giusta la cifra I dell’O del 22 feb. 2017, in vigore dalle ore 18.00 del 22 feb. 2017 ([RU 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
 
 #### Art. 14
 
@@ -442,17 +467,17 @@ Il Consiglio federale può decidere la cancellazione delle navi iscritte nel reg
 
 <sup>10</sup> Previa autorizzazione del comitato competente del Consiglio di sicurezza delle Nazioni Unite, la SECO può autorizzare deroghe al divieto di cui al capoverso 9.[^15-11]
 
-[^15-1]: Nuovo testo giusta il n. I dell’O del 22 feb. 2017, in vigore dalle ore 18.00 del 22 feb. 2017 ([RU 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
-[^15-2]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
-[^15-3]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
-[^15-4]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
-[^15-5]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dalle ore 18.00 dal 18 ott. 2017 ([RU 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)).
-[^15-6]: Introdotto dal n. I dell’O del 18 ott. 2017, in vigore dalle ore 18.00 dal 18 ott. 2017 ([RU 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)).
-[^15-7]: Introdotto dal n. I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
-[^15-8]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
-[^15-9]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
-[^15-10]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
-[^15-11]: Introdotto dal n. I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
+[^15-1]: Nuovo testo giusta la cifra I dell’O del 22 feb. 2017, in vigore dalle ore 18.00 del 22 feb. 2017 ([RU 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
+[^15-2]: Nuovo testo giusta la cifra I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
+[^15-3]: Nuovo testo giusta la cifra I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
+[^15-4]: Nuovo testo giusta la cifra I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
+[^15-5]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dalle ore 18.00 dal 18 ott. 2017 ([RU 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)).
+[^15-6]: Introdotto dalla cifra I dell’O del 18 ott. 2017, in vigore dalle ore 18.00 dal 18 ott. 2017 ([RU 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)).
+[^15-7]: Introdotto dalla cifra I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
+[^15-8]: Nuovo testo giusta la cifra I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
+[^15-9]: Nuovo testo giusta la cifra I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
+[^15-10]: Nuovo testo giusta la cifra I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
+[^15-11]: Introdotto dalla cifra I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
 
 #### Art. 15a
 
@@ -470,7 +495,7 @@ Il Consiglio federale può decidere la cancellazione delle navi iscritte nel reg
 
 <sup>6</sup> Il divieto di cui al capoverso 5 non si applica in caso di atterraggio d’emergenza o di atterraggio per scopi di verifica.
 
-[^15a-1]: Introdotto dal n. I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
+[^15a-1]: Introdotto dalla cifra I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
 
 ## Sezione 3: Esecuzione e disposizioni penali
 
@@ -490,11 +515,11 @@ Il Consiglio federale può decidere la cancellazione delle navi iscritte nel reg
 
 <sup>4</sup> Su ordine della SECO, le autorità competenti adottano i provvedimenti necessari al blocco delle risorse economiche, quali la menzione nel registro fondiario di un divieto di disporre dei beni oppure il pignoramento o il suggellamento di beni di lusso.
 
-[^16-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dalle ore 18.00 dal 18 ott. 2017 ([RU 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)).
-[^16-2]: Introdotto dal n. I dell’O del 22 feb. 2017 ([RU 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)). Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
-[^16-3]: Introdotto dal n. I dell’O del 22 feb. 2017 ([RU 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)). Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
-[^16-4]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
-[^16-5]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^16-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dalle ore 18.00 dal 18 ott. 2017 ([RU 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)).
+[^16-2]: Introdotto dalla cifra I dell’O del 22 feb. 2017 ([RU 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)). Nuovo testo giusta la cifra I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
+[^16-3]: Introdotto dalla cifra I dell’O del 22 feb. 2017 ([RU 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)). Nuovo testo giusta la cifra I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
+[^16-4]: Nuovo testo giusta la cifra I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
+[^16-5]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 17
 
@@ -506,20 +531,24 @@ Il Consiglio federale può decidere la cancellazione delle navi iscritte nel reg
 
 <sup>3</sup> Le partite in transito da o verso la Repubblica popolare democratica di Corea devono essere notificate in anticipo analogamente al capoverso 2.
 
-[^17-1]: Nuovo testo giusta il n. I dell’O del 22 feb. 2017, in vigore dalle ore 18.00 del 22 feb. 2017 ([RU 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
-[^17-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^17-1]: Nuovo testo giusta la cifra I dell’O del 22 feb. 2017, in vigore dalle ore 18.00 del 22 feb. 2017 ([RU 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
+[^17-2]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 #### Art. 18
 
-**Dichiarazioni obbligatorie**
+**Dichiarazioni obbligatorie**[^18-1]
 
-<sup>1</sup> Le persone fisiche, le imprese e le organizzazioni che detengono o amministrano averi oppure sono a conoscenza di risorse economiche presumibilmente rientranti nel campo d’applicazione del blocco di cui all’articolo 9 capoversi 1 e 2 li dichiarano senza indugio alla SECO.
+<sup>1</sup> Le persone e le organizzazioni che detengono o amministrano averi oppure sono a conoscenza di averi o risorse economiche presumibilmente rientranti nel campo d’applicazione del blocco di cui all’articolo 9 capoversi 1 e 2 o all’articolo 9*b* capoverso 1 devono dichiararlo senza indugio alla SECO.
 
-<sup>1bis</sup> Le banche devono segnalare immediatamente alla SECO tutti i conti che amministrano per le rappresentanze diplomatiche e consolari della Repubblica popolare democratica di Corea e per i loro collaboratori.[^18-1]
+<sup>2</sup> Gli istituti finanziari che, conformemente al capoverso 1, hanno dichiarato alla SECO averi da essi detenuti o amministrati, devono comunicare alla SECO entro il 15 febbraio di ogni anno gli importi registrati al 31 dicembre dell’anno precedente.
 
-<sup>2</sup> Le dichiarazioni devono indicare i nomi dei beneficiari, nonché l’oggetto e il valore degli averi e delle risorse economiche bloccati.
+<sup>3</sup> Gli accrediti secondo l’articolo 9 capoverso 7 devono essere dichiarati senza indugio alla SECO.
 
-[^18-1]: Introdotto dal n. I dell’O del 22 feb. 2017, in vigore dalle ore 18.00 del 22 feb. 2017 ([RU 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
+<sup>4</sup> Gli istituti finanziari devono segnalare immediatamente alla SECO tutti i conti che amministrano per le rappresentanze diplomatiche e consolari della Repubblica popolare democratica di Corea, per i loro collaboratori e per i membri delle loro famiglie.
+
+<sup>5</sup> Le dichiarazioni indicano i nomi dei beneficiari, l’oggetto e il valore degli averi e delle risorse economiche bloccati nonché, per gli accrediti, i nomi degli ordinanti.
+
+[^18-1]: Nuovo testo giusta la cifra I n. 3 dell’O del 25 set. 2026 concernente la modifica di ordinanze sulle sanzioni in relazione alla proliferazione e al finanziamento del terrorismo, in vigore dal 1° nov. 2026 ([RU 2026 501](https://fedlex.data.admin.ch/eli/oc/2026/501)).
 
 #### Art. 19
 
@@ -531,8 +560,8 @@ Il Consiglio federale può decidere la cancellazione delle navi iscritte nel reg
 
 <sup>3</sup> Le violazioni di cui agli articoli 9 e 10 LEmb sono perseguite e giudicate dalla SECO; essa può ordinare sequestri e confische.
 
-[^19-1]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
-[^19-2]: Nuovo testo giusta il n. I dell’O del 22 feb. 2017, in vigore dalle ore 18.00 del 22 feb. 2017 ([RU 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
+[^19-1]: Nuovo testo giusta la cifra I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
+[^19-2]: Nuovo testo giusta la cifra I dell’O del 22 feb. 2017, in vigore dalle ore 18.00 del 22 feb. 2017 ([RU 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
 
 ## Sezione 4: Recepimento automatico di liste e pubblicazione
 
@@ -550,7 +579,7 @@ Il Consiglio federale può decidere la cancellazione delle navi iscritte nel reg
 
 L’ordinanza del 25 ottobre 2006[^21-1] che istituisce provvedimenti nei confronti della Repubblica popolare democratica di Corea è abrogata.
 
-[^21-1]: [[RU 2006 4237](https://fedlex.data.admin.ch/eli/oc/2006/640); [2009 3179](https://fedlex.data.admin.ch/eli/oc/2009/403); [2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)n. I 11, [2357](https://fedlex.data.admin.ch/eli/oc/2013/496); [2015 3119](https://fedlex.data.admin.ch/eli/oc/2015/581); [2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)n. I 9]
+[^21-1]: [[RU 2006 4237](https://fedlex.data.admin.ch/eli/oc/2006/640); [2009 3179](https://fedlex.data.admin.ch/eli/oc/2009/403); [2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)cifra I n. 11, [2357](https://fedlex.data.admin.ch/eli/oc/2013/496); [2015 3119](https://fedlex.data.admin.ch/eli/oc/2015/581); [2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)cifra I n. 9]
 
 #### Art. 22
 
@@ -560,7 +589,7 @@ L’ordinanza del 25 ottobre 2006[^21-1] che istituisce provvedimenti nei confro
 
 <sup>2</sup> Le partecipazioni e le relazioni esistenti secondo l’articolo 11 capoverso 2 devono essere interrotte definitivamente entro il 2 giugno 2016.
 
-<sup>3</sup> ...[^22-1]
+<sup>3</sup> …[^22-1]
 
 <sup>4</sup> Le succursali, le filiali e le rappresentanze nonché i conti bancari delle banche svizzere esistenti nella Repubblica popolare democratica di Corea devono essere chiusi entro il 31 marzo 2017.[^22-2]
 
@@ -568,10 +597,10 @@ L’ordinanza del 25 ottobre 2006[^21-1] che istituisce provvedimenti nei confro
 
 <sup>6</sup> La cessazione delle relazioni commerciali di cui ai capoversi 1–5 deve essere comunicata immediatamente alla SECO.[^22-4]
 
-[^22-1]: Abrogato dal n. I dell’O del 22 feb. 2017, con effetto dalle ore 18.00 del 22 feb. 2017 ([RU 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
-[^22-2]: Nuovo testo giusta il n. I dell’O del 22 feb. 2017, in vigore dalle ore 18.00 del 22 feb. 2017 ([RU 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
-[^22-3]: Introdotto dal n. I dell’O del 22 feb. 2017, in vigore dalle ore 18.00 del 22 feb. 2017 ([RU 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
-[^22-4]: Introdotto dal n. I dell’O del 22 feb. 2017, in vigore dalle ore 18.00 del 22 feb. 2017 ([RU 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
+[^22-1]: Abrogato dalla cifra I dell’O del 22 feb. 2017, con effetto dalle ore 18.00 del 22 feb. 2017 ([RU 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
+[^22-2]: Nuovo testo giusta la cifra I dell’O del 22 feb. 2017, in vigore dalle ore 18.00 del 22 feb. 2017 ([RU 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
+[^22-3]: Introdotto dalla cifra I dell’O del 22 feb. 2017, in vigore dalle ore 18.00 del 22 feb. 2017 ([RU 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
+[^22-4]: Introdotto dalla cifra I dell’O del 22 feb. 2017, in vigore dalle ore 18.00 del 22 feb. 2017 ([RU 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
 
 #### Art. 22a
 
@@ -592,7 +621,7 @@ Il divieto di cui all’articolo 2*a* capoverso 1 non si applica al rilascio di 
 
 <sup>5</sup> Le joint venture e le cooperative esistenti di cui all’articolo 8*a* devono essere sciolte entro il 9 gennaio 2018.
 
-[^22a-1]: Introdotto dal n. I dell’O del 18 ott. 2017, in vigore dalle ore 18.00 dal 18 ott. 2017 ([RU 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)).
+[^22a-1]: Introdotto dalla cifra I dell’O del 18 ott. 2017, in vigore dalle ore 18.00 dal 18 ott. 2017 ([RU 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)).
 
 #### Art. 23
 
@@ -621,7 +650,7 @@ Allegato 2[^t-1]
 
 ## Materiale d’armamento e beni in relazione con armi di distruzione di massa
 
-[^t-1]: Nuovo testo giusta il n. II cpv. 1 dell’O del 22 feb. 2017, in vigore dalle ore 18.00 del 22 feb. 2017 ([RU 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
+[^t-1]: Nuovo testo giusta la cifra II cpv. 1 dell’O del 22 feb. 2017, in vigore dalle ore 18.00 del 22 feb. 2017 ([RU 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
 
 - 1\. Beni di cui all’allegato 1 dell’ordinanza del 25 febbraio 1998[^annex2-lvlu1-1] sul materiale bellico;
 - 2\. beni di cui all’allegato 2 parte 1 dell’ordinanza del 3 giugno 2016[^annex2-lvlu1-2] sul controllo dei beni a duplice impiego (OBDI);
@@ -630,8 +659,8 @@ Allegato 2[^t-1]
 - 5\. tutti i beni rimanenti non compresi nei numeri 1 e 4 che possono essere impiegati nell’ambito di attività militari, come materiale bellico o beni militari speciali;
 - 6\. tutti i beni rimanenti non compresi nei numeri 2 e 3 che possono essere impiegati in relazione alle armi di distruzione di massa e ai relativi sistemi vettori o che sono destinati allo sviluppo, alla fabbricazione, all’utilizzazione, al trasferimento o all’impiego di armi ABC.
 
-[^annex2-lvlu1-1]: [RS 514.511](https://fedlex.data.admin.ch/eli/cc/1998/808_808_808)
-[^annex2-lvlu1-2]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
+[^annex2-lvlu1-1]: [RS 514.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7527)
+[^annex2-lvlu1-2]: [RS 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
 
 Allegato 2a[^t-2]
 
@@ -639,7 +668,7 @@ Allegato 2a[^t-2]
 
 ## Macchinari industriali, metalli e veicoli di trasporto
 
-[^t-2]: Introdotto dal n. II cpv. 1 dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
+[^t-2]: Introdotto dalla cifra II cpv. 1 dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
 
 <table>
 <tr><th>Voce di tariffa doganale</th><th>Designazione delle merci</th></tr>
@@ -668,7 +697,7 @@ Allegato 3[^t-3]
 
 ## Carburanti per aeromobili
 
-[^t-3]: Aggiornato dal n. II cpv. 2 dell’O del 22 feb. 2017, in vigore dalle ore 18.00 del 22 feb. 2017 ([RU 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
+[^t-3]: Aggiornato dalla cifra II cpv. 2 dell’O del 22 feb. 2017, in vigore dalle ore 18.00 del 22 feb. 2017 ([RU 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
 
 <table>
 <tr><td>Voce di tariffa doganale</td><td>Designazione della merce</td></tr>
@@ -683,7 +712,7 @@ Allegato 4[^t-4]
 
 ## Materie prime
 
-[^t-4]: Nuovo testo giusta il n. I dell’O del DEFR del 1° giu. 2017 ([RU 2017 3271](https://fedlex.data.admin.ch/eli/oc/2017/338)). Aggiornato dai n. II cpv. 1 dell’O del 18 ott. 2017 ([RU 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)) e dal n. II cpv. 2 dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
+[^t-4]: Nuovo testo giusta la cifra I dell’O del DEFR del 1° giu. 2017 ([RU 2017 3271](https://fedlex.data.admin.ch/eli/oc/2017/338)). Aggiornato dallacifra II cpv. 1 dell’O del 18 ott. 2017 ([RU 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)) e dalla cifra II cpv. 2 dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
 
 <table>
 <tr><th>Voce di tariffa</th><th>Designazione delle merci</th></tr>
@@ -712,7 +741,7 @@ Allegato 5[^t-5]
 
 ## Beni di lusso
 
-[^t-5]: Aggiornato dal n. II cpv. 2 dell’O del 22 feb. 2017 ([RU 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)). Correzione del 28 feb. 2017 ([RU 2017 685](https://fedlex.data.admin.ch/eli/oc/2017/124)).
+[^t-5]: Aggiornato dalla cifra II cpv. 2 dell’O del 22 feb. 2017 ([RU 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)). Correzione del 28 feb. 2017 ([RU 2017 685](https://fedlex.data.admin.ch/eli/oc/2017/124)).
 
 - 1\. Caviale e succedanei del caviale preparati con uova di pesce;
 - 2\. vini e bevande spiritose;
@@ -748,7 +777,7 @@ Allegato 6[^t-6]
 
 ## Navi alle quali si applicano le sanzioni
 
-[^t-6]: Nuovo testo giusta il n. II cpv. 3 del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
+[^t-6]: Nuovo testo giusta la cifra II cpv. 3 del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
 
 ### Nota
 
@@ -765,7 +794,7 @@ Allegato 7[^t-7]
 
 ## Pesce e frutti di mare, derrate alimentari di origine vegetale e prodotti agricoli
 
-[^t-7]: Introdotto dal n. II cpv. 2 dell’O del 18 ott. 2017 ([RU 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)). Nuovo testo giusta il n. II cpv. 2 dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
+[^t-7]: Introdotto dalla cifra II cpv. 2 dell’O del 18 ott. 2017 ([RU 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)). Nuovo testo giusta la cifra II cpv. 2 dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
 
 <table>
 <tr><th>Voce di tariffa</th><th>Designazione delle merci</th></tr>
@@ -783,7 +812,7 @@ Allegato 8[^t-8]
 
 ## Macchinari, apparecchi elettrici e imbarcazioni
 
-[^t-8]: Introdotto dal n. II cpv. 1 dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
+[^t-8]: Introdotto dalla cifra II cpv. 1 dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
 
 <table>
 <tr><th>Voce di tariffa doganale</th><th>Designazione delle merci</th></tr>

@@ -3,18 +3,18 @@ sr: "946.231.127.6"
 title: Verordnung vom 18. Mai 2016 über Massnahmen gegenüber der Demokratischen Volksrepublik Korea
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/280"
 language: de
-version: 2023-06-01
+version: 2026-11-01
 adopted: 2016-05-18
 in_force: 2016-05-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/280/20230601/de/xml/fedlex-data-admin-ch-eli-cc-2016-280-20230601-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/280/20230601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/280/20261101/de/xml/fedlex-data-admin-ch-eli-cc-2016-280-20261101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/280/20261101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber der Demokratischen Volksrepublik Korea
 
-vom 18. Mai 2016 (Stand am 1. Juni 2023)
+vom 18. Mai 2016 (Stand am 1. November 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -22,7 +22,7 @@ gestützt auf Artikel 2 des Embargogesetzes vom 22. März 2002[^ingress-1] (EmbG
 
 verordnet:
 
-[^ingress-1]: [SR 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
+[^ingress-1]: [SR 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
 [^ingress-2]: Die Resolutionen sind auf Französisch und Englisch abrufbar unter [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt;Sanctions &gt; Comité des sanctions &gt; Résolutions.
 [^ingress-3]: Fassung gemäss Ziff. I 6 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
@@ -120,8 +120,8 @@ Der Verkauf, die Lieferung, die Ausfuhr, die Durchfuhr und der Transport folgend
 <sup>4</sup> Vorbehalten bleiben die Bestimmungen des Güterkontrollgesetzes vom 13. Dezember 1996[^5-2] und des Kriegsmaterialgesetzes vom 13. Dezember 1996[^5-3].
 
 [^5-1]: Fassung gemäss Ziff. I der V vom 22. Febr. 2017, in Kraft seit 22. Febr. 2017 um 18.00 Uhr ([AS 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
-[^5-2]: [SR 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
-[^5-3]: [SR 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
+[^5-2]: [SR 946.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11363)
+[^5-3]: [SR 514.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7526)
 
 #### Art. 5a
 
@@ -167,7 +167,7 @@ Das Verbot nach Absatz 1 gilt nicht für Kohle mit Ursprung ausserhalb der Demok
 - a. die Ware ausschliesslich zur Ausfuhr aus dem Hafen von Rason durch die Demokratische Volksrepublik Korea befördert wurde; und
 - b. die Transaktion nicht mit der Erzielung von Einnahmen für die Nuklear- oder Raketenprogramme der Demokratischen Volksrepublik Korea oder mit anderen nach dieser Verordnung verbotenen Aktivitäten verbunden ist.[^7-1]
 
-<sup>2bis</sup> und <sup>2ter</sup> …[^7-2]
+<sup>2bis und <sup>2ter</sup></sup> …[^7-2]
 
 <sup>3</sup> …[^7-3]
 
@@ -263,49 +263,49 @@ Der Verkauf, die Lieferung, die Ausfuhr und die Durchfuhr von Luxusgütern nach 
 
 #### Art. 9
 
-**Sperrung von Geldern und wirtschaftlichen Ressourcen**
+**Sperrung von Geldern und wirtschaftlichen Ressourcen**[^9-1]
 
 <sup>1</sup>
 
-Gesperrt sind Gelder und wirtschaftliche Ressourcen, einschliesslich Schiffen nach Anhang 6, die sich im Eigentum oder unter der Kontrolle befinden von:
+Gesperrt sind Gelder und wirtschaftliche Ressourcen, die sich im Eigentum oder unter der Kontrolle befinden von:
 
 - a. natürlichen Personen, Unternehmen oder Organisationen nach Anhang 1;
 - b. natürlichen Personen, Unternehmen oder Organisationen, die im Namen oder auf Anweisung von natürlichen Personen, Unternehmen oder Organisationen nach Buchstabe a handeln;
 - c. Unternehmen oder Organisationen, die sich im Eigentum oder unter der Kontrolle von natürlichen Personen, Unternehmen oder Organisationen nach Buchstabe a oder b befinden.
 
-<sup>2</sup>
+<sup>2</sup> Schiffe nach Anhang 6 sind gesperrt.
 
-Gesperrt sind Gelder und wirtschaftliche Ressourcen, einschliesslich Schiffen nach Anhang 6, mit einem Bezug zu den Nuklear- oder Raketenprogrammen der Demokratischen Volksrepublik Korea oder zu anderen nach dieser Verordnung verbotenen Aktivitäten, insbesondere wenn sich die Gelder oder wirtschaftlichen Ressourcen, einschliesslich Schiffen nach Anhang 6, im Eigentum oder unter der direkten oder indirekten Kontrolle befinden von:
-
-- a. Einrichtungen der Regierung der Demokratischen Volksrepublik Korea;
-- b. der Partei der Arbeit der Demokratischen Volksrepublik Korea;
-- c. natürlichen Personen, Unternehmen oder Organisationen, die im Namen oder auf Anweisung einer Einrichtung nach Buchstabe a oder der Partei der Arbeit der Demokratischen Volksrepublik Korea handeln;
-- d. Unternehmen oder Organisationen, die sich im Eigentum oder unter der Kontrolle einer Einrichtung nach Buchstabe a oder der Partei der Arbeit der Demokratischen Volksrepublik Korea befinden.
-
-<sup>3</sup> Das Verbot nach Absatz 2 gilt nicht für Gelder und wirtschaftliche Ressourcen, die für die Tätigkeit der diplomatischen Vertretungen der Demokratischen Volksrepublik Korea erforderlich sind.
-
-#### Art. 10
-
-**Verbote betreffend Finanzdienstleistungen und Geldtransfers**
-
-<sup>1</sup> Es ist verboten, Finanzdienstleistungen, einschliesslich des Clearings, zu erbringen oder Gelder und wirtschaftliche Ressourcen, einschliesslich Bargeld und Gold, zur Verfügung zu stellen, die einen Bezug haben zu den Nuklear- oder Raketenprogrammen der Demokratischen Volksrepublik Korea oder zu anderen nach dieser Verordnung verbotenen Aktivitäten.[^10-1]
-
-<sup>2</sup> Es ist verboten, den von der Sperrung nach Artikel 9 betroffenen natürlichen Personen, Unternehmen und Organisationen Gelder zu überweisen oder Gelder und wirtschaftliche Ressourcen sonst wie direkt oder indirekt zur Verfügung zu stellen.
-
-<sup>3</sup> Die Verbote nach den Absätzen 1 und 2 gelten nicht für Finanztransaktionen mit der Aussenhandelsbank oder der Nationalen Versicherungsgesellschaft der Demokratischen Volksrepublik Korea, die für den Betrieb diplomatischer oder konsularischer Vertretungen in der Demokratischen Volksrepublik Korea notwendig sind oder in Abstimmung mit den Vereinten Nationen humanitären Zwecken dienen.[^10-2]
+<sup>3</sup> Es ist verboten, natürlichen Personen, Unternehmen und Organisationen nach Absatz 1 Gelder zu überweisen oder ihnen oder Schiffen nach Absatz 2 Gelder und wirtschaftliche Ressourcen sonst wie direkt oder indirekt zur Verfügung zu stellen.
 
 <sup>4</sup>
 
-Das Verbot nach Absatz 2 gilt nicht für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse durch:
+Die Absätze 1 und 2 sowie das Verbot nach Absatz 3 gelten nicht, wenn die Überweisung von Geldern oder die Bereitstellung von Geldern oder wirtschaftlichen Ressourcen erforderlich ist für die Erbringung humanitärer Hilfe oder für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse durch:
 
 - a. die Vereinten Nationen, einschliesslich ihrer Programme, Fonds und sonstiger Einrichtungen und Stellen, sowie ihre Sonderorganisationen und verwandte Organisationen;
 - b. internationale Organisationen;
 - c. humanitäre Organisationen mit Beobachterstatus in der Generalversammlung der Vereinten Nationen und Mitglieder dieser Organisationen;
 - d. bilateral oder multilateral finanzierte nichtstaatliche Organisationen, die sich an den Plänen der Vereinten Nationen für humanitäre Hilfe, an den Plänen für Flüchtlingshilfemassnahmen, an anderen Appellen der Vereinten Nationen oder an vom Amt der Vereinten Nationen für die Koordinierung humanitärer Angelegenheiten (OCHA) koordinierten humanitären Strukturen beteiligen;
 - e. die Beschäftigten, Beitragsempfängerinnen und -empfänger, Tochtergesellschaften oder Durchführungspartner der in den Buchstaben a−d genannten Organisationen, soweit sie in dieser Eigenschaft handeln;
-- f. alle weiteren vom zuständigen Komitee des Sicherheitsrats der Vereinten Nationen bestimmten Akteure.[^10-3]
+- f. alle weiteren vom zuständigen Komitee des Sicherheitsrats der Vereinten Nationen bestimmten Akteure.
 
-<sup>5</sup>
+<sup>5</sup> Das Verbot nach Absatz 3 gilt nicht für Finanztransaktionen mit der Aussenhandelsbank oder der Nationalen Versicherungsgesellschaft der Demokratischen Volksrepublik Korea, die für den Betrieb diplomatischer oder konsularischer Vertretungen in der Demokratischen Volksrepublik Korea erforderlich sind oder in Abstimmung mit den Vereinten Nationen humanitären Zwecken dienen.
+
+<sup>6</sup>
+
+Sofern die gutgeschriebenen Beträge ebenfalls gesperrt werden, gilt das Verbot nach Absatz 3 nicht für die Gutschrift auf gesperrte Konten von:
+
+- a. Zinsen und sonstigen Erträgen dieser Konten;
+- b. Zahlungen aufgrund von bestehenden Verträgen.
+
+<sup>7</sup> Gelder, die von Dritten an natürliche Personen, Unternehmen oder Organisationen nach Absatz 1 überwiesen werden, dürfengesperrten Konten gutgeschrieben werden, sofern die auf diesen Konten gutgeschriebenen Beträge ebenfalls gesperrt werden.
+
+[^9-1]: Fassung gemäss Ziff. I 3 der V vom 25. Sept. 2026 über die Änderung von Sanktionsverordnungen in Bezug auf die Proliferations und Terrorismusfinanzierung, in Kraft seit 1. Nov. 2026 ([AS 2026 501](https://fedlex.data.admin.ch/eli/oc/2026/501)).
+
+#### Art. 9a
+
+**Ausnahmen betreffend gesperrte Gelder und wirtschaftliche Ressourcen**[^9a-1]
+
+<sup>1</sup>
 
 Das SECO kann Zahlungen aus gesperrten Konten, Übertragungen gesperrter Vermögenswerte und die Freigabe gesperrter wirtschaftlicher Ressourcen ausnahmsweise bewilligen zur:
 
@@ -313,15 +313,40 @@ Das SECO kann Zahlungen aus gesperrten Konten, Übertragungen gesperrter Vermög
 - b. Erfüllung bestehender Verträge;
 - c. Erfüllung von Forderungen, die Gegenstand einer bestehenden Entscheidung eines Gerichts, einer Verwaltungsstelle oder eines Schiedsgerichts sind;
 - d. Bereitstellung humanitärer Hilfe;
-- e. Entnuklearisierung.[^10-4]
+- e. Entnuklearisierung.
 
-<sup>6</sup> Es bewilligt Ausnahmen nach Absatz 5 nach Rücksprache mit den zuständigen Stellen des EDA und des Eidgenössischen Finanzdepartements in Übereinstimmung mit den massgeblichen Resolutionen des Sicherheitsrats der Vereinten Nationen und, falls anwendbar, nach vorhergehender Genehmigung durch das zuständige Komitee des Sicherheitsrats der Vereinten Nationen.[^10-5]
+<sup>2</sup> Es bewilligt Ausnahmen nach Absatz 1 nach Rücksprache mit den zuständigen Stellen des EDA und des Eidgenössischen Finanzdepartements in Übereinstimmung mit den massgeblichen Resolutionen des Sicherheitsrats der Vereinten Nationen und, falls anwendbar, nach vorhergehender Genehmigung durch das zuständige Komitee des Sicherheitsrats der Vereinten Nationen.
 
-[^10-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 18. Okt. 2017 um 18 Uhr ([AS 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)).
-[^10-2]: Fassung gemäss Ziff. I 6 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
-[^10-3]: Fassung gemäss Ziff. I 6 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
-[^10-4]: Eingefügt durch Ziff. I der V vom 18. Okt. 2017 ([AS 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)). Fassung gemäss Ziff. I 6 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
-[^10-5]: Eingefügt durch Ziff. I 6 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^9a-1]: Eingefügt durch Ziff. I 3 der V vom 25. Sept. 2026 über die Änderung von Sanktionsverordnungen in Bezug auf die Proliferations und Terrorismusfinanzierung, in Kraft seit 1. Nov. 2026 ([AS 2026 501](https://fedlex.data.admin.ch/eli/oc/2026/501)).
+
+#### Art. 9b
+
+**Sperrung von Geldern und wirtschaftlichen Ressourcen, die in Verbindung zum Nuklear- oder ballistischen Raketenprogramm stehen**[^9b-1]
+
+<sup>1</sup>
+
+Gesperrt sind Gelder und wirtschaftliche Ressourcen, die sich im Eigentum oder unter der direkten oder indirekten Kontrolle befinden von:
+
+- a. Einrichtungen der Regierung der Demokratischen Volksrepublik Korea;
+- b. der Partei der Arbeit der Demokratischen Volksrepublik Korea;
+- c. natürlichen Personen, Unternehmen oder Organisationen, die im Namen oder auf Anweisung einer Einrichtung nach Buchstabe a oder der Partei der Arbeit der Demokratischen Volksrepublik Korea handeln;
+- d. Unternehmen oder Organisationen, die sich im Eigentum oder unter der Kontrolle einer Einrichtung nach Buchstabe a oder der Partei der Arbeit der Demokratischen Volksrepublik Korea befinden.
+
+<sup>2</sup> Das Verbot nach Absatz 1 gilt nicht für Gelder und wirtschaftliche Ressourcen, die für die Tätigkeit diplomatischer oder konsularischer Vertretungen der Demokratischen Volksrepublik Korea erforderlich sind.
+
+<sup>3</sup> Das SECO ordnet die Freigabe von nach Absatz 1 gesperrten Geldern und wirtschaftlichen Ressourcen an, wenn es feststellt, dass diese Gelder und Ressourcen nicht mit dem Nuklear- oder dem ballistischen Raketenprogramm der Demokratischen Volksrepublik Korea in Verbindung stehen.
+
+<sup>4</sup> Konten, die in Anwendung von Absatz 1 gesperrt wurden, dürfen Gelder gutgeschrieben werden, sofern diese Gelder ebenfalls gesperrt werden.
+
+[^9b-1]: Eingefügt durch Ziff. I 3 der V vom 25. Sept. 2026 über die Änderung von Sanktionsverordnungen in Bezug auf die Proliferations und Terrorismusfinanzierung, in Kraft seit 1. Nov. 2026 ([AS 2026 501](https://fedlex.data.admin.ch/eli/oc/2026/501)).
+
+#### Art. 10
+
+**Verbote betreffend Finanzdienstleistungen**[^10-1]
+
+Es ist verboten, Finanzdienstleistungen, einschliesslich des Clearings, zu erbringen, die einen Bezug haben zu den nach dieser Verordnung verbotenen Aktivitäten.
+
+[^10-1]: Fassung gemäss Ziff. I 3 der V vom 25. Sept. 2026 über die Änderung von Sanktionsverordnungen in Bezug auf die Proliferations und Terrorismusfinanzierung, in Kraft seit 1. Nov. 2026 ([AS 2026 501](https://fedlex.data.admin.ch/eli/oc/2026/501)).
 
 #### Art. 10a
 
@@ -494,7 +519,7 @@ Es ist verboten:
 [^16-2]: Eingefügt durch Ziff. I der V vom 22. Febr. 2017 ([AS 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)). Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 25. April 2018 um 18.00 Uhr ([AS 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
 [^16-3]: Eingefügt durch Ziff. I der V vom 22. Febr. 2017 ([AS 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)). Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 25. April 2018 um 18.00 Uhr ([AS 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
 [^16-4]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 25. April 2018 um 18.00 Uhr ([AS 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
-[^16-5]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
+[^16-5]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 
 #### Art. 17
 
@@ -507,19 +532,23 @@ Es ist verboten:
 <sup>3</sup> Durchfuhrsendungen von oder nach der Demokratischen Volksrepublik Korea sind analog Absatz 2 voranzumelden.
 
 [^17-1]: Fassung gemäss Ziff. I der V vom 22. Febr. 2017, in Kraft seit 22. Febr. 2017 um 18.00 Uhr ([AS 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
-[^17-2]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^17-2]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 #### Art. 18
 
-**Meldepflichten**
+**Meldepflichten**[^18-1]
 
-<sup>1</sup> Natürliche Personen, Unternehmen und Organisationen, die Gelder halten oder verwalten oder von wirtschaftlichen Ressourcen wissen, von denen anzunehmen ist, dass sie unter die Sperrung nach Artikel 9 Absätze 1 und 2 fallen, müssen dies dem SECO unverzüglich melden.
+<sup>1</sup> Personen und Organisationen, die Gelder halten oder verwalten oder von Geldern oder wirtschaftlichen Ressourcen wissen, von denen anzunehmen ist, dass sie unter die Sperrung nach Artikel 9 Absätze 1 und 2 oder Artikel 9*b* Absatz 1 fallen, müssen dies dem SECO unverzüglich melden.
 
-<sup>1bis</sup> Banken müssen dem SECO unverzüglich sämtliche Konten melden, die sie für die diplomatischen und konsularischen Vertretungen der Demokratischen Volksre-publik Korea sowie deren Mitarbeitende führen.[^18-1]
+<sup>2</sup> Finanzinstitute, die dem SECO gemäss Absatz 1 von ihnen gehaltene oder verwaltete Gelder gemeldet haben, müssen dem SECO jährlich bis zum 15. Februar die Beträge per 31. Dezember des Vorjahres übermitteln.
 
-<sup>2</sup> Die Meldungen müssen die Namen der Begünstigten sowie den Gegenstand und den Wert der gesperrten Gelder und wirtschaftlichen Ressourcen enthalten.
+<sup>3</sup> Gutschriften nach Artikel 9 Absatz 7 müssen dem SECO unverzüglich gemeldet werden.
 
-[^18-1]: Eingefügt durch Ziff. I der V vom 22. Febr. 2017, in Kraft seit 22. Febr. 2017 um 18.00 Uhr ([AS 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
+<sup>4</sup> Finanzinstitute müssen dem SECO unverzüglich sämtliche Konten melden, die sie für die diplomatischen und konsularischen Vertretungen der Demokratischen Volksrepublik Korea sowie deren Mitarbeitende beziehungsweise deren Familienmitgliedern führen.
+
+<sup>5</sup> Die Meldungen müssen die Namen der Begünstigten, Gegenstand und Wert der gesperrten Gelder und wirtschaftlichen Ressourcen sowie bei Gutschriften die Namen der Aussteller enthalten.
+
+[^18-1]: Fassung gemäss Ziff. I 3 der V vom 25. Sept. 2026 über die Änderung von Sanktionsverordnungen in Bezug auf die Proliferations und Terrorismusfinanzierung, in Kraft seit 1. Nov. 2026 ([AS 2026 501](https://fedlex.data.admin.ch/eli/oc/2026/501)).
 
 #### Art. 19
 
@@ -608,9 +637,9 @@ Anhang 1
 
 **Anmerkung**
 
-\1. Dieser Anhang entspricht den Listen der vom Sicherheitsrat der Vereinten Nationen bzw. der vom zuständigen Komitee des Sicherheitsrats der Vereinten Nationen bezeichneten natürlichen Personen, Unternehmen und Organisationen[^annex1-lvlu1-1].
+\1. Dieser Anhang entspricht den Listen der vom Sicherheitsrat der Vereinten Nationen bzw. der vom zuständigen Komitee des Sicherheitsrats der Vereinten Nationen bezeichneten natürlichen Personen, Unternehmen und Organisationen.[^annex1-lvlu1-1]
 
-\2. Die Listen werden vom SECO in der Regel einen Werktag nach der Mitteilung durch die Vereinten Nationen in die Datenbank SESAM (SECO Sanctions Management) aufgenommen[^annex1-lvlu1-2].
+\2. Die Listen werden vom SECO in der Regel einen Werktag nach der Mitteilung durch die Vereinten Nationen in die Datenbank SESAM (SECO Sanctions Management) aufgenommen.[^annex1-lvlu1-2]
 
 [^annex1-lvlu1-1]: Die Liste ist im Internet unter folgender Adresse abrufbar: [https://www.un.org/securitycouncil/](https://www.un.org/securitycouncil/) &gt; Subsidiary Organs &gt; Sanctions &gt; 1718 Sanctions Committee (DPRK) &gt; Sanctions List Materials.
 [^annex1-lvlu1-2]: Die Datenbank SESAM ist im Internet frei zugänglich unter: [https://www.seco.admin.ch/seco/de/home.html](https://www.seco.admin.ch/seco/de/home.html) &gt;Aussenwirtschaft &Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos. Ein Ausdruck der Liste kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt werden.
@@ -630,8 +659,8 @@ Anhang 2[^t-1]
 - 5\. alle übrigen Güter, die nicht von den Ziffern 1 und 4 erfasst sind und im Zusammenhang mit militärischen Aktivitäten, Kriegsmaterial oder besonderen militärischen Gütern verwendet werden können;
 - 6\. alle übrigen Güter, die nicht von den Ziffern 2 und 3 erfasst sind und im Zusammenhang mit Massenvernichtungswaffen und Trägersystemen für Massenvernichtungswaffen verwendet werden können oder für die Entwicklung, die Herstellung, die Verwendung, die Weitergabe oder den Einsatz von ABC-Waffen bestimmt sind.
 
-[^annex2-lvlu1-1]: [SR 514.511](https://fedlex.data.admin.ch/eli/cc/1998/808_808_808)
-[^annex2-lvlu1-2]: [SR 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
+[^annex2-lvlu1-1]: [SR 514.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7527)
+[^annex2-lvlu1-2]: [SR 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
 
 Anhang 2a[^t-2]
 
@@ -752,9 +781,9 @@ Anhang 6[^t-6]
 
 ### Anmerkung
 
-\1. Dieser Anhang entspricht der Liste der vom UNO-Sicherheitsrat bzw. der vom zuständigen Komitee des UNO-Sicherheitsrats bezeichneten Schiffe[^annex6-lvlu1-lvlu1-1].
+\1. Dieser Anhang entspricht der Liste der vom UNO-Sicherheitsrat bzw. der vom zuständigen Komitee des UNO-Sicherheitsrats bezeichneten Schiffe.[^annex6-lvlu1-lvlu1-1]
 
-\2. Die Liste wird vom SECO in der Regel einen Werktag nach der Mitteilung durch die Vereinten Nationen in die Datenbank SESAM (SECO Sanctions Management) aufgenommen[^annex6-lvlu1-lvlu1-2].
+\2. Die Liste wird vom SECO in der Regel einen Werktag nach der Mitteilung durch die Vereinten Nationen in die Datenbank SESAM (SECO Sanctions Management) aufgenommen.[^annex6-lvlu1-lvlu1-2]
 
 [^annex6-lvlu1-lvlu1-1]: Die Liste ist im Internet unter folgender Adresse abrufbar: [https://www.un.org/securitycouncil/fr](https://www.un.org/securitycouncil/fr) &gt; Organes subsidiaires &gt; Sanctions &gt; Comité des sanctions 1718 &gt; Matériaux relatifs à la liste de sanctions.
 [^annex6-lvlu1-lvlu1-2]: Die Datenbank SESAM ist im Internet frei zugänglich unter: [www.seco.admin.ch](https://www.seco.admin.ch/seco/de/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/sanktionen-embargos/sanktionsmassnahmen.html) &gt;Aussenwirtschaft &Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos. Ein Ausdruck der Liste kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt werden.

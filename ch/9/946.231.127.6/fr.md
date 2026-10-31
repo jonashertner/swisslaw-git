@@ -3,18 +3,18 @@ sr: "946.231.127.6"
 title: "Ordonnance du 18 mai 2016 instituant des mesures à l'encontre de la République populaire démocratique de Corée"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/280"
 language: fr
-version: 2023-06-01
+version: 2026-11-01
 adopted: 2016-05-18
 in_force: 2016-05-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/280/20230601/fr/xml/fedlex-data-admin-ch-eli-cc-2016-280-20230601-fr-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/280/20230601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/280/20261101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-280-20261101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/280/20261101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre de la République populaire démocratique de Corée
 
-du 18 mai 2016 (État le 1<sup>er</sup> juin 2023)
+du 18 mai 2016 (État le 1<sup>er</sup> novembre 2026)
 
 Le Conseil fédéral suisse,
 
@@ -22,7 +22,7 @@ vu l’art. 2 de la loi du 22 mars 2002 sur les embargos (LEmb)[^ingress-1], en 
 
 arrête:
 
-[^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
+[^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
 [^ingress-2]: Les textes des résolutions du Conseil de sécurité des Nations Unies peuvent être consultés à l’adresse suivante: [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions &gt; Résolutions.
 [^ingress-3]: Nouvelle teneur selon le ch. I 6 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
@@ -91,7 +91,7 @@ Le SEM peut, avec l’approbation préalable du comité compétent du Conseil de
 
 <sup>2</sup> Toute coopération scientifique et technique avec des personnes ou des groupes qui sont parrainés officiellement par la République populaire démocratique de Corée ou qui représentent la République populaire démocratique de Corée est suspendue, à l’exception de la coopération dans le domaine médical.
 
-<sup>3</sup> Le SECO peut, après consultation des services compétents du DFAE et en conformité avec les décisions du comité compétent du Conseil de sécurité de l'ONU, accorder des dérogations à la suspension prévue à l'al. 2, à condition que la coopération ne contribue pas au programme nucléaire de la République populaire démocratique de Corée ni à son programme de missiles balistiques.[^3-2]
+<sup>3</sup> Le SECO peut, après consultation des services compétents du DFAE et en conformité avec les décisions du comité compétent du Conseil de sécurité de l’ONU, accorder des dérogations à la suspension prévue à l’al. 2, à condition que la coopération ne contribue pas au programme nucléaire de la République populaire démocratique de Corée ni à son programme de missiles balistiques.[^3-2]
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du 22 fév. 2017, en vigueur depuis le 22 fév. 2017 à 18h00 ([RO 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
 [^3-2]: Nouvelle teneur selon le ch. I de l’O du 25 avr. 2018, en vigueur depuis le 25 avr. 2018 à 18h00 ([RO 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
@@ -120,8 +120,8 @@ La vente, la fourniture, l’exportation, le transit et le transport à destinat
 <sup>4</sup> Les dispositions de la loi du 13 décembre 1996 sur le contrôle des biens[^5-2] et de la loi fédérale du 13 décembre 1996 sur le matériel de guerre[^5-3] sont réservées.
 
 [^5-1]: Nouvelle teneur selon le ch. I de l’O du 22 fév. 2017, en vigueur depuis le 22 fév. 2017 à 18h00 ([RO 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
-[^5-2]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
-[^5-3]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
+[^5-2]: [RS 946.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11363)
+[^5-3]: [RS 514.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7526)
 
 #### Art. 5a
 
@@ -167,7 +167,7 @@ L’interdiction prévue à l’al. 1 ne s’applique pas au charbon qui n’est
 - a. si la marchandise a été transportée via la République populaire démocratique de Corée uniquement aux fins de son exportation depuis le port de Rason, et
 - b. si la transaction n’est pas liée à la réalisation de recettes destinées au programme nucléaire ou au programme de missiles balistiques de la République populaire démocratique de Corée, ou à d’autres activités interdites en vertu de la présente ordonnance.[^7-1]
 
-<sup>2bis</sup> et <sup>2ter</sup> …[^7-2]
+<sup>2bis et <sup>2ter</sup></sup> …[^7-2]
 
 <sup>3</sup> …[^7-3]
 
@@ -263,65 +263,90 @@ La vente, la fourniture, l’exportation et le transit à destination de la Rép
 
 #### Art. 9
 
-**Gel des avoirs et des ressources économiques**
+**Gel des avoirs et des ressources économiques**[^9-1]
 
 <sup>1</sup>
 
-Sont gelés les avoirs et les ressources économiques, y compris les navires visés à l’annexe 6, qui sont la propriété ou sous le contrôle:
+Sont gelés les avoirs et les ressources économiques qui sont la propriété ou sous le contrôle:
 
 - a. des personnes physiques, entreprises et entités visées à l’annexe 1;
 - b. des personnes physiques, entreprises et entités agissant au nom ou selon les instructions des personnes physiques, entreprises ou entités visées à la let. a;
 - c. des entreprises et entités appartenant aux personnes physiques, entreprises ou entités visées aux let. a ou b, ou se trouvant sous leur contrôle.
 
-<sup>2</sup>
+<sup>2</sup> Les navires visés à l’annexe 6 sont également gelés.
 
-Sont gelés les avoirs et les ressources économiques, y compris les navires visés à l’annexe 6, qui présentent un lien avec le programme nucléaire ou le programme de missiles balistiques de la République populaire démocratique de Corée, ou avec d’autres activités interdites en vertu de la présente ordonnance, en particulier lorsque les avoirs et les ressources économiques, y compris les navires visés à l’annexe 6, sont la propriété ou sous le contrôle, direct ou indirect:
+<sup>3</sup> Il est interdit de fournir des avoirs aux personnes physiques, entreprises et entités visées à l’al. 1 ou de mettre à leur disposition ou à la disposition des navires visés à l’al. 2 d’une autre manière, directement ou indirectement, des avoirs ou des ressources économiques.
+
+<sup>4</sup>
+
+Les al. 1 et 2 et l’interdiction prévue à l’al. 3 ne s’appliquent pas lorsque la fourniture des avoirs ou la mise à disposition des avoirs ou des ressources économiques est nécessaire à l’acheminement de l’aide humanitaire ou à l’appui d’autres activités visant à répondre aux besoins essentiels des personnes par:
+
+- a. l’Organisation des Nations Unies, y compris ses programmes, fonds et autres entités et organes, ainsi que ses institutions spécialisées et organisations apparentées;
+- b. des organisations internationales;
+- c. les organisations humanitaires dotées du statut d’observateur auprès de l’Assemblée générale des Nations Unies et les membres de ces organisations;
+- d. les organisations non gouvernementales bénéficiant d’un financement bilatéral ou multilatéral qui participent aux plans d’aide humanitaire des Nations Unies, aux plans d’aide aux réfugiés, à d’autres appels à contributions des Nations Unies ou aux structures humanitaires coordonnées par le Bureau de la coordination des affaires humanitaires des Nations Unies;
+- e. les employés, bénéficiaires, organes subsidiaires ou partenaires de réalisation des entités visées aux let. a à d, lorsqu’ils agissent en cette qualité;
+- f. tout autre acteur désigné par le comité compétent du Conseil de sécurité des Nations Unies.
+
+<sup>5</sup> L’interdiction prévue à l’al. 3 ne s’applique pas aux transactions financières réalisées avec la banque du commerce extérieur ou la société nationale d’assurance de la République populaire démocratique de Corée qui sont nécessaires aux activités des missions diplomatiques ou consulaires en République populaire démocratique de Corée ou aux activités d’aide humanitaire menées en coordination avec les Nations Unies.
+
+<sup>6</sup>
+
+Pour autant que les montants crédités soient également bloqués, l’interdiction prévue à l’al. 3 ne s’applique pas au versement sur les comptes bloqués:
+
+- a. d’intérêts ou d’autres rémunérations de ces comptes;
+- b. de paiements dus en vertu de contrats existants.
+
+<sup>7</sup> Les avoirs versés par des tiers à des personnes physiques, entreprises ou entités visées à l’al. 1 peuvent être portés au crédit de comptes bloqués, à condition que les montants crédités sur ces comptes soient également bloqués.
+
+[^9-1]: Nouvelle teneur selon le ch. I 3 de l’O du 25 sept. 2026 sur la modification d’ordonnances relatives aux sanctions concernant le financement de la prolifération et du terrorisme, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2026 501](https://fedlex.data.admin.ch/eli/oc/2026/501)).
+
+#### Art. 9a
+
+**Dérogations concernant les avoirs et les ressources économiques gelés**[^9a-1]
+
+<sup>1</sup>
+
+Le SECO peut, exceptionnellement, autoriser des versements prélevés sur des comptes bloqués, des transferts de biens en capital gelés et le déblocage de ressources économiques gelées pour:
+
+- a. prévenir des cas de rigueur;
+- b. honorer des contrats existants;
+- c. honorer des créances en application d’une décision judiciaire, administrative ou arbitrale existante;
+- d. permettre l’acheminement de l’aide humanitaire, ou
+- e. permettre la dénucléarisation.
+
+<sup>2</sup> Il accorde les dérogations prévues à l’al. 1 après consultation des services compétents du DFAE et du Département fédéral des finances, en conformité avec les résolutions pertinentes du Conseil de sécurité des Nations Unies et, le cas échéant, après approbation préalable du comité compétent de ce dernier.
+
+[^9a-1]: Introduit par le ch. I 3 de l’O du 25 sept. 2026 sur la modification d’ordonnances relatives aux sanctions concernant le financement de la prolifération et du terrorisme, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2026 501](https://fedlex.data.admin.ch/eli/oc/2026/501)).
+
+#### Art. 9b
+
+**Gel des avoirs et des ressources économiques liés au programme nucléaire ou au programme de missiles balistiques**[^9b-1]
+
+<sup>1</sup>
+
+Sont gelés les avoirs et les ressources économiques qui sont la propriété ou sous le contrôle, direct ou indirect:
 
 - a. d’institutions relevant du gouvernement de la République populaire démocratique de Corée;
 - b. du Parti des travailleurs de la République populaire démocratique de Corée;
 - c. des personnes physiques, entreprises et entités agissant au nom ou selon les instructions d’une institution visée à la let. a ou du Parti des travailleurs de la République populaire démocratique de Corée;
 - d. des entreprises et entités qui sont la propriété ou sous le contrôle d’une institution visée à la let. a ou du Parti des travailleurs de la République populaire démocratique de Corée.
 
-<sup>3</sup> L’interdiction prévue à l’al. 2 ne s’applique pas aux avoirs et aux ressources économiques nécessaires pour mener à bien les activités des missions diplomatiques de la République populaire démocratique de Corée.
+<sup>2</sup> L’interdiction prévue à l’al. 1 ne s’applique pas aux avoirs et aux ressources économiques nécessaires pour mener à bien les activités des missions diplomatiques de la République populaire démocratique de Corée.
+
+<sup>3</sup> Le SECO ordonne le déblocage des avoirs et ressources économiques gelés en vertu de l’al. 1 s’il constate que ces avoirs et ressources économiques ne sont pas liés au programme nucléaire ou au programme de missiles balistiques de la République populaire démocratique de Corée.
+
+<sup>4</sup> Des avoirs peuvent être portés au crédit de comptes bloqués en application de l’al. 1, à condition que ces avoirs soient également bloqués.
+
+[^9b-1]: Introduit par le ch. I 3 de l’O du 25 sept. 2026 sur la modification d’ordonnances relatives aux sanctions concernant le financement de la prolifération et du terrorisme, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2026 501](https://fedlex.data.admin.ch/eli/oc/2026/501)).
 
 #### Art. 10
 
-**Interdiction de certains services financiers et transferts de fonds**
+**Interdiction de certains services financiers**[^10-1]
 
-<sup>1</sup> Il est interdit de fournir des services financiers, y compris des opérations de compensation financière, ou de mettre à disposition des avoirs et des ressources économiques, y compris du numéraire et de l’or, qui présentent un lien avec le programme nucléaire ou le programme de missiles balistiques de la République populaire démocratique de Corée, ou avec d’autres activités interdites en vertu de la présente ordonnance.[^10-1]
+Il est interdit de fournir des services financiers, y compris des opérations de compensation financière, qui présentent un lien avec les activités interdites en vertu de la présente ordonnance.
 
-<sup>2</sup> Il est interdit de transférer des avoirs aux personnes, entreprises et entités visées par le gel prévu à l’art. 9 ou de mettre à leur disposition, directement ou indirectement, des avoirs ou des ressources économiques.
-
-<sup>3</sup> Les interdictions prévues par les al. 1 et 2 ne s’appliquent pas aux transactions financières réalisées avec la banque du commerce extérieur ou la société nationale d’assurance de la République populaire démocratique de Corée qui sont nécessaires aux activités des missions diplomatiques ou consulaires en République populaire démocratique de Corée ou aux activités d’aide humanitaire menées en coordination avec les Nations Unies.[^10-2]
-
-<sup>4</sup>
-
-L’interdiction prévue à l’al. 2 ne s’applique pas à l’acheminement de l’aide humanitaire ou à l’appui d’autres activités visant à répondre aux besoins essentiels des personnes par:
-
-- a. l’Organisation des Nations Unies, y compris ses programmes, fonds et autres entités et organes, ainsi que ses institutions spécialisées et organisations apparentées;
-- b. des organisations internationales;
-- c. les organisations humanitaires dotées du statut d’observateur auprès de l’Assemblée générale des Nations Unies et les membres de ces organisations;
-- d. les organisations non gouvernementales bénéficiant d’un financement bilatéral ou multilatéral qui participent aux plans d’aide humanitaire des Nations Unies, aux plans d’aide aux réfugiés, à d’autres appels à contributions des Nations Unies ou aux structures humanitaires coordonnées par le Bureau de la coordination des affaires humanitaires des Nations Unies (OCHA);
-- e. les employés, bénéficiaires, organes subsidiaires ou partenaires de réalisation des entités mentionnées aux let. a à d, lorsqu’ils agissent en cette qualité;
-- f. tous les autres acteurs tels que déterminés par le comité compétent du Conseil de sécurité des Nations Unies.[^10-3]
-
-<sup>5</sup>
-
-Le SECO peut, exceptionnellement, autoriser des versements prélevés sur des comptes bloqués, des transferts de biens en capital gelés et le déblocage de ressources économiques gelées afin:
-
-- a. d’éviter des cas de rigueur;
-- b. d’honorer des contrats existants;
-- c. d’honorer des créances en application d’une décision judiciaire, administrative ou arbitrale;
-- d. de permettre l’acheminement de l’aide humanitaire, ou
-- e. de permettre la dénucléarisation.[^10-4]
-
-<sup>6</sup> Il accorde les dérogations prévues à l’al. 5 après consultation des services compétents du DFAE et du Département fédéral des finances, en conformité avec les résolutions pertinentes du Conseil de sécurité des Nations Unies et, le cas échéant, après approbation préalable du comité compétent de ce dernier.[^10-5]
-
-[^10-1]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 18 oct. 2017 à 18h00 ([RO 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)).
-[^10-2]: Nouvelle teneur selon le ch. I 6 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
-[^10-3]: Nouvelle teneur selon le ch. I 6 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
-[^10-4]: Introduit par le ch. I de l’O du 18 oct. 2017 ([RO 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)). Nouvelle teneur selon le ch. I 6 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
-[^10-5]: Introduit par le ch. I 6 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^10-1]: Nouvelle teneur selon le ch. I 3 de l’O du 25 sept. 2026 sur la modification d’ordonnances relatives aux sanctions concernant le financement de la prolifération et du terrorisme, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2026 501](https://fedlex.data.admin.ch/eli/oc/2026/501)).
 
 #### Art. 10a
 
@@ -494,7 +519,7 @@ Il est interdit:
 [^16-2]: Introduit par le ch. I de l’O du 22 fév. 2017 ([RO 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)). Nouvelle teneur selon le ch. I de l’O du 25 avr. 2018, en vigueur depuis le 25 avr. 2018 à 18h00 ([RO 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
 [^16-3]: Introduit par le ch. I de l’O du 22 fév. 2017 ([RO 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)). Nouvelle teneur selon le ch. I de l’O du 25 avr. 2018, en vigueur depuis le 25 avr. 2018 à 18h00 ([RO 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
 [^16-4]: Nouvelle teneur selon le ch. I de l’O du 25 avr. 2018, en vigueur depuis le 25 avr. 2018 à 18h00 ([RO 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
-[^16-5]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
+[^16-5]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 17
 
@@ -507,19 +532,23 @@ Il est interdit:
 <sup>3</sup> Les biens en transit en provenance ou à destination de la République populaire démocratique de Corée doivent aussi être déclarés selon les modalités prévues à l’al. 2.
 
 [^17-1]: Nouvelle teneur selon le ch. I de l’O du 22 fév. 2017, en vigueur depuis le 22 fév. 2017 à 18h00 ([RO 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
-[^17-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^17-2]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 #### Art. 18
 
-**Déclaration obligatoire**
+**Déclaration obligatoire**[^18-1]
 
-<sup>1</sup> Les personnes physiques, entreprises et entités qui détiennent ou gèrent des avoirs ou qui ont connaissance de ressources économiques dont il faut admettre qu’ils tombent sous le coup du gel des avoirs prévu à l’art. 9, al. 1 et 2, doivent les déclarer sans délai au SECO.
+<sup>1</sup> Les personnes et les entités qui détiennent ou gèrent des avoirs ou qui ont connaissance d’avoirs ou de ressources économiques dont il faut présumer qu’ils sont soumis au gel prévu à l’art. 9, al. 1 et 2, ou à l’art. 9*b*, al. 1, doivent le déclarer sans délai au SECO.
 
-<sup>1bis</sup> Les banques sont tenues de communiquer sans délai au SECO l’ensemble des comptes qu’elles gèrent pour les représentations diplomatiques et consulaires de la République populaire démocratique de Corée et leurs collaborateurs.[^18-1]
+<sup>2</sup> Les instituts financiers qui, conformément à l’al. 1, ont déclaré au SECO les avoirs qu’ils détiennent ou qu’ils gèrent doivent lui transmettre chaque année, au plus tard le 15 février, le montant de ces avoirs au 31 décembre de l’année précédente.
 
-<sup>2</sup> La déclaration doit mentionner le nom du bénéficiaire, l’objet et la valeur des avoirs et des ressources économiques gelés.
+<sup>3</sup> Les versements visés à l’art. 9, al. 7, doivent être déclarés sans délai au SECO.
 
-[^18-1]: Introduit par le ch. I de l’O du 22 fév. 2017, en vigueur depuis le 22 fév. 2017 à 18h00 ([RO 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
+<sup>4</sup> Les instituts financiers sont tenus de communiquer sans délai au SECO l’ensemble des comptes qu’ils gèrent pour les représentations diplomatiques et consulaires de la République populaire démocratique de Corée ainsi que pour leurs collaborateurs ou les membres de leur famille.
+
+<sup>5</sup> La déclaration doit mentionner le nom du bénéficiaire, l’objet et la valeur des avoirs et des ressources économiques gelés; pour les versements, elle doit également mentionner le nom de l’émetteur.
+
+[^18-1]: Nouvelle teneur selon le ch. I 3 de l’O du 25 sept. 2026 sur la modification d’ordonnances relatives aux sanctions concernant le financement de la prolifération et du terrorisme, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2026 501](https://fedlex.data.admin.ch/eli/oc/2026/501)).
 
 #### Art. 19
 
@@ -630,8 +659,8 @@ Annexe 2[^t-1]
 - 5\. Autres biens, ne figurant pas parmi les biens visés aux ch. 1 et 4, qui peuvent être utilisés en relation avec des activités militaires, du matériel de guerre ou des biens militaires spécifiques.
 - 6\. Autres biens, ne figurant pas parmi les biens visés aux ch. 2 et 3, qui peuvent être utilisés en relation avec des armes de destruction massive et des systèmes vecteurs d’armes de destruction massive ou qui sont destinés au développement, à la production, à l’utilisation, à la transmission ou à l’engagement d’armes ABC.
 
-[^annex2-lvlu1-1]: [RS 514.511](https://fedlex.data.admin.ch/eli/cc/1998/808_808_808)
-[^annex2-lvlu1-2]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
+[^annex2-lvlu1-1]: [RS 514.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7527)
+[^annex2-lvlu1-2]: [RS 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
 
 Annexe 2a[^t-2]
 
@@ -768,7 +797,7 @@ Annexe 6[^t-6]
 \2. En règle générale, cette liste est saisie par le SECO dans la banque de données SESAM (SECO Sanctions Management) le jour ouvré qui suit sa communication par les Nations Unies[^annex6-lvlu1-lvlu1-2].
 
 [^annex6-lvlu1-lvlu1-1]: La liste peut être consultée sur [www.un.org/fr/sc/](http://www.un.org/fr/sc/) &gt; Organes subsidiaires &gt; Sanctions &gt; Comité des sanctions 1718 &gt; Matériaux relatifs à la liste de sanctions.
-[^annex6-lvlu1-lvlu1-2]: La banque de données SESAM est librement accessible sur [www.seco.admin.ch](http://www.seco.admin.ch/) &gt; Économie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Sanctions/Embargos. Une version imprimée de la liste peut être commandée auprès du SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne.
+[^annex6-lvlu1-lvlu1-2]: La banque de données SESAM est librement accessible sur [www . s eco . admin.ch](http://www.seco.admin.ch/) &gt; Économie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Sanctions/Embargos. Une version imprimée de la liste peut être commandée auprès du SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne.
 
 Annexe 7[^t-7]
 
