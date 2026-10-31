@@ -3,11 +3,11 @@ sr: "361.0"
 title: Ordonnance du 26 octobre 2016 sur le système de recherches informatisées de police (Ordonnance RIPOL)
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/665"
 language: fr
-version: 2026-10-01
+version: 2026-11-01
 adopted: 2016-10-26
 in_force: 2016-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/665/20261001/fr/xml/fedlex-data-admin-ch-eli-cc-2016-665-20261001-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/665/20261001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/665/20261101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-665-20261101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/665/20261101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/665/20261001/fr"
 
 (Ordonnance RIPOL)
 
-du 26 octobre 2016 (État le 1<sup>er</sup> octobre 2026)
+du 26 octobre 2016 (État le 1<sup>er</sup> novembre 2026)
 
 Le Conseil fédéral suisse,
 
@@ -471,43 +471,46 @@ Annexe 1[^t-1]
 
 ## Autorisation de traiter ou visualiser les données enregistrées dans le RIPOL
 
-[^t-1]: Nouvelle teneur selon le ch. II de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 443](https://fedlex.data.admin.ch/eli/oc/2026/443)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du 18 sept. 2026, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2026 516](https://fedlex.data.admin.ch/eli/oc/2026/516)).
 
-- A = Visualisation
-- M = Mutation
+A = Visualisation
+
+M = Mutation
 
 Abréviations
 
-- fedpol I Auprès de l’Office fédéral de la police: les services chargés du RIPOL, le Service Documents d’identité et la division Centrale d’engagement et d’alarme – SIRENE CH.
-- fedpol II Auprès de l’Office fédéral de la police: la division Droit, la division Conformité des données et le Service d’identité de l’État.
-- fedpol III Auprès de l’Office fédéral de la police: la Police judiciaire fédérale, le Service fédéral de sécurité, les services chargés du traitement des données signalétiques biométriques, le service chargé des mesures de police préventive et de police administrative visant à prévenir les menaces pour la sécurité intérieure ou extérieure, le service responsable de l’échange d’informations policières au niveau international lors de manifestations sportives, les services chargés de la correspondance Interpol, l’Office central des armes, l’Office central des explosifs, le domaine Technique numérique, standards et infrastructures à clé publique, le domaine Technologie, développement et analyse (y compris l’Office central de la fausse monnaie), le Bureau de communication en matière de blanchiment d’argent, la division Coopération policière opérationnelle et le commissariat Attachés de police.
-- MPC Ministère public de la Confédération
-- OFJ Office fédéral de la justice
-- SEM Secrétariat d’État aux migrations
-- SR DFJP Service des recours du DFJP
-- OFDF AD+Cgfr Office fédéral de la douane et de la sécurité des frontières, Antifraude douanière et Cgfr
-- OFDF civ Office fédéral de la douane et de la sécurité des frontières à l’exception de l’Antifraude douanière et du Cgfr
-- TPO Police des transports
-- OCE Office central d’encaissement de l’Administration des finances
-- CFMJ Commission fédérale des maisons de jeu
-- JM Autorités de la justice militaire
-- SRC Service de renseignement de la Confédération
-- SCSP Service chargé des contrôles de sécurité relatifs aux personnes
-- CIVI Office fédéral du service civil
-- SM Swissmedic
-- POCA Autorités cantonales de police
-- MIGRA Autorités cantonales, régionales et communales compétentes en matière d’étrangers et Autorités liechtensteinoises compétentes en matière d’étrangers
-- OCN Offices de la circulation routière et de la navigation
-- OFAC Office fédéral de l’aviation civile
-- SECO/OCT Secrétariat d’État à l’économie, offices cantonaux et communaux du travail
-- PMCR Polices communales, municipales et régionales
-- AEE Autorités chargées de l’exécution des expulsions pénales
-- EPM Autorités chargées de l’exécution des peines et mesures
-- DFAE Département fédéral des affaires étrangères
-- IP Service d’Interpol et Secrétariat général
-- Séc mil Sécurité militaire
-- AEDI Autorités d’établissement des documents d’identité
-- OCA Offices cantonaux des armes
+<table>
+<tr><td>fedpol I</td><td>Auprès de l’Office fédéral de la police: les services chargés du RIPOL, le domaine Documents d’identité et la division Centrale d’engagement et d’alarme – SIRENE CH (sans l’unité nationale chargée du traitement des données relatives aux passagers aériens (Unité d’information passagers, UIP).</td></tr>
+<tr><td>fedpol II</td><td>Auprès de l’Office fédéral de la police: la division Droit, la division Conformité des données, le domaine Documents d’identité, le Service national d’identité et l’UIP</td></tr>
+<tr><td>fedpol III</td><td>Auprès de l’Office fédéral de la police: la Police judiciaire fédérale, le Service fédéral de sécurité, les services chargés du traitement des données signalétiques biométriques, le service chargé des mesures de police préventive et de police administrative visant à prévenir les menaces pour la sécurité intérieure ou extérieure, le service responsable de l’échange d’informations policières au niveau international lors de manifestations sportives, les services chargés de la correspondance Interpol, l’Office central des armes, l’Office central des explosifs, le domaine Technique numérique, standards et infrastructures à clé publique, le domaine Technologie, développement et analyse (y compris l’Office central de la fausse monnaie), le Bureau de communication en matière de blanchiment d’argent, la division Coopération policière opérationnelle, les CCPD et le commissariat Attachés de police</td></tr>
+<tr><td>SM</td><td>Swissmedic</td></tr>
+<tr><td>MPC</td><td>Ministère public de la Confédération</td></tr>
+<tr><td>POCA</td><td>Autorités cantonales de police</td></tr>
+<tr><td>OFJ</td><td>Office fédéral de la justice</td></tr>
+<tr><td>MIGRA</td><td>Autorités cantonales, régionales et communales compétentes en matière d’étrangers et Autorités liechtensteinoises compétentes en matière d’étrangers</td></tr>
+<tr><td>SEM</td><td>Secrétariat d’État aux migrations</td></tr>
+<tr><td>OCN</td><td>Offices de la circulation routière et de la navigation</td></tr>
+<tr><td>SR DFJP</td><td>Service des recours du DFJP</td></tr>
+<tr><td>OFAC</td><td>Office fédéral de l’aviation civile</td></tr>
+<tr><td>OFDF AD+Cgfr</td><td>Office fédéral de la douane et de la sécurité des frontières, Antifraude douanière et Cgfr</td></tr>
+<tr><td>SECO/OCT</td><td>Secrétariat d’État à l’économie, offices cantonaux et communaux du travail</td></tr>
+<tr><td>OFDF civ</td><td>Office fédéral de la douane et de la sécurité des frontières à l’exception de l’Antifraude douanière et du Cgfr</td></tr>
+<tr><td>PMCR</td><td>Polices communales, municipales et régionales</td></tr>
+<tr><td>TPO</td><td>Police des transports</td></tr>
+<tr><td>AEE</td><td>Autorités chargées de l’exécution des expulsions pénales</td></tr>
+<tr><td>OCE</td><td>Office central d’encaissement de l’Administration des finances</td></tr>
+<tr><td>EPM</td><td>Autorités chargées de l’exécution des peines et mesures</td></tr>
+<tr><td>CFMJ</td><td>Commission fédérale des maisons de jeu</td></tr>
+<tr><td>DFAE</td><td>Département fédéral des affaires étrangères</td></tr>
+<tr><td>JM</td><td>Autorités de la justice militaire</td></tr>
+<tr><td>IP</td><td>Service d’Interpol et Secrétariat général</td></tr>
+<tr><td>SRC</td><td>Service de renseignement de la Confédération</td></tr>
+<tr><td>SéMi</td><td>Sécurité militaire</td></tr>
+<tr><td>SCSP</td><td>Service chargé des contrôles de sécurité relatifs aux personnes</td></tr>
+<tr><td>AEDI</td><td>Autorités d’établissement des documents d’identité</td></tr>
+<tr><td>CIVI</td><td>Office fédéral du service civil</td></tr>
+<tr><td>OCA</td><td>Offices cantonaux des armes</td></tr>
+</table>
 
 <table>
 <tr><th></th><th>fedpol I</th><th>fedpol II</th><th>fedpol III</th><th>MPC</th><th>OFJ</th><th>SEM</th><th>SR DFJP</th><th>OFDF AD+Cgfr</th><th>OFDF civ</th><th>TPO</th><th>OCE</th><th>CFMJ</th><th>JM</th><th>SRC</th><th>SCSP</th><th>CIVI</th><th>SM</th><th>POCA</th><th>MIGRA</th><th>OCN</th><th>OFAC</th><th>SECO/OCT</th><th>PMCR</th><th>AEE</th><th>EPM</th><th>DFAE</th><th>IP</th><th>Séc mil</th><th>AEDI</th><th>OCA</th></tr>
@@ -527,8 +530,8 @@ Abréviations
 <tr><td>WEB:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td>A</td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
 <tr><td>Document, n<sup>o</sup> du document, pays émetteur, provenance:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td>A</td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
 <tr><td>Indice d’identification, indice, provenance:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td>A</td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
-<tr><td>N<sup>o</sup> d’enregistrement de la personne, pays émetteur:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td>A</td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
-<tr><td>PCN:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td>A</td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
+<tr><td>N<sup>o</sup> d’enregistrement de la personne, pays émetteur</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td>A</td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
+<tr><td>PCN</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td>A</td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
 <tr><td>Dossier, n<sup>o</sup> du dossier, provenance:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td>A</td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
 <tr><td>Image (photo), nom de l’image, provenance, date de la saisie, nom du fichier:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td>A</td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
 <tr><td colspan="31">b. Identité complémentaire:</td></tr>
@@ -545,7 +548,7 @@ Abréviations
 <tr><td>Nom et prénom du conjoint:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td>A</td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
 <tr><td>Document, n<sup>o</sup> du document, pays émetteur, provenance:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td>A</td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
 <tr><td>Indice d’identification, indice, provenance:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td>A</td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
-<tr><td>N<sup>o</sup> d’enregistrement de la personne, pays émetteur:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td>A</td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
+<tr><td>N<sup>o</sup> d’enregistrement de la personne, pays émetteur</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td>A</td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
 <tr><td>Dossier, n<sup>o</sup> du dossier, provenance:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td>A</td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
 <tr><td>Date, motif et indice de la révocation:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td>A</td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
 <tr><td colspan="31">c. Signalement (personne connue):</td></tr>

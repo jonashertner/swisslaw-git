@@ -3,11 +3,11 @@ sr: "361.0"
 title: Ordinanza del 26 ottobre 2016 sul sistema di ricerca informatizzato di polizia (Ordinanza RIPOL)
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/665"
 language: it
-version: 2026-10-01
+version: 2026-11-01
 adopted: 2016-10-26
 in_force: 2016-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/665/20261001/it/xml/fedlex-data-admin-ch-eli-cc-2016-665-20261001-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/665/20261001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/665/20261101/it/xml/fedlex-data-admin-ch-eli-cc-2016-665-20261101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/665/20261101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/665/20261001/it"
 
 (Ordinanza RIPOL)
 
-del 26 ottobre 2016 (Stato 1° ottobre 2026)
+del 26 ottobre 2016 (Stato 1° novembre 2026)
 
 Il Consiglio federale svizzero,
 
@@ -470,46 +470,49 @@ Allegato 1[^t-1]
 
 ## Autorizzazione per il trattamento o la visualizzazione dei dati registrati nel RIPOL
 
-[^t-1]: Nuovo testo giusta la cifra II dell’O del 26 ago. 2026, in vigore dal 1° ott. 2026 ([RU 2026 443](https://fedlex.data.admin.ch/eli/oc/2026/443)).
+[^t-1]: Nuovo testo giusta la cifra I dell’O del 18 set. 2026, in vigore dal 1° nov. 2026 ([RU 2026 516](https://fedlex.data.admin.ch/eli/oc/2026/516)).
 
-- A = visualizzazione
-- M = mutazione
+A = visualizzazione
+
+M = mutazione
 
 Abbreviazioni
 
-- fedpol I Presso l’Ufficio federale di polizia: i servizi responsabili del RIPOL, il settore Documenti d’identità nonché la divisione Centrale operativa e d’allarme–SIRENE CH.
-- fedpol II Presso l’Ufficio federale di polizia: la divisione Diritto, la divisione Compliance dei dati nonché il settore Servizio statale d’identità.
-- fedpol III Presso l’Ufficio federale di polizia: la Polizia giudiziaria federale, il Servizio federale di sicurezza, i servizi responsabili del trattamento dei dati segnaletici di natura biometrica, il servizio responsabile delle misure preventive di polizia e delle misure di polizia amministrativa volte a prevenire le minacce per la sicurezza interna o esterna, il servizio responsabile dello scambio internazionale di informazioni di polizia in occasione di manifestazioni sportive, i servizi responsabili della corrispondenza con Interpol, l’Ufficio centrale Armi, l’Ufficio centrale Esplosivi, il settore Tecnica digitale, standard e infrastrutture a chiave pubblica, il settore Tecnologia, sviluppo e analisi (compreso l’ufficio centrale Moneta falsa), l’Ufficio di comunicazione in materia di riciclaggio di denaro, la divisione Cooperazione operativa di polizia e il commissariato Addetti di polizia.
-- MPC Ministero pubblico della Confederazione
-- UFG Ufficio federale di giustizia
-- SEM Segreteria di Stato della migrazione
-- SR DFGP Servizio dei ricorsi del DFGP
-- UDSC AD+Cgcf Ufficio federale della dogana e della sicurezza dei confini: Antifrode doganale e Cgcf
-- UDSC CIV Ufficio federale della dogana e della sicurezza dei confini senza Antifrode doganale e Cgcf
-- TPO Polizia dei trasporti
-- SIF Servizio centrale d’incasso dell’Amministrazione delle finanze
-- CFCG Commissione federale delle case da gioco
-- GM Autorità della giustizia militare
-- SIC Servizio delle attività informative della Confederazione
-- ACSP Autorità della Confederazione competenti per i controlli di sicurezza relativi alle persone
-- CIVI Ufficio federale del servizio civile
-- SM Swissmedic
-- POLCA Pubblici ministeri e autorità di polizia dei Cantoni
-- MIGRA Autorità cantonali, regionali e comunali in materia di stranieri, autorità in materia di naturalizzazione, autorità in materia di stranieri del Principato del Liechtenstein
-- UCSN Uffici della circolazione stradale e della navigazione
-- UFAC Ufficio federale dell’aviazione civile
-- SECO/UCL Segreteria di Stato dell’economia, uffici cantonali e comunali del lavoro
-- PMCR Polizia municipale, comunale e regionale
-- AEEG Autorità incaricate dell’esecuzione delle espulsioni giudiziarie
-- EPM Autorità di esecuzione delle pene e delle misure
-- DFAE Dipartimento federale degli affari esteri
-- IP Servizi Interpol e Segretariato generale
-- Sic mil Sicurezza militare
-- ARDI Autorità di rilascio in base alla legge sui documenti d’identità
-- UCA Uffici cantonali delle armi
+<table>
+<tr><td>fedpol I</td><td>Presso l’Ufficio federale di polizia: i servizi responsabili del RIPOL, il settore Documenti d’identità nonché la divisione Centrale operativa e d’allarme – SIRENE CH, senza l’unità nazionale incaricata del trattamento dei dati dei passeggeri aerei (Unità d’informazione sui passeggeri, UIP)</td></tr>
+<tr><td>fedpol II</td><td>Presso l’Ufficio federale di polizia: la divisione Diritto, la divisione Compliance dei dati, il settore Servizio statale d’identità nonché l’UIP</td></tr>
+<tr><td>fedpol III</td><td>Presso l’Ufficio federale di polizia: la Polizia giudiziaria federale, il Servizio federale di sicurezza, i servizi responsabili del trattamento dei dati segnaletici di natura biometrica, il servizio responsabile delle misure preventive di polizia e delle misure di polizia amministrativa volte a prevenire le minacce per la sicurezza interna o esterna, il servizio responsabile dello scambio internazionale di informazioni di polizia in occasione di manifestazioni sportive, i servizi responsabili della corrispondenza con Interpol, l’Ufficio centrale Armi, l’Ufficio centrale Esplosivi, il settore Tecnica digitale, standard e infrastrutture a chiave pubblica, il settore Tecnologia, sviluppo e analisi (compreso l’Ufficio centrale Moneta falsa), l’Ufficio di comunicazione in materia di riciclaggio di denaro, la divisione Cooperazione operativa di polizia e il commissariato Addetti di polizia</td></tr>
+<tr><td>MPC</td><td>Ministero pubblico della Confederazione</td></tr>
+<tr><td>UFG</td><td>Ufficio federale di giustizia</td></tr>
+<tr><td>SEM</td><td>Segreteria di Stato della migrazione</td></tr>
+<tr><td>SR DFGP</td><td>Servizio dei ricorsi del DFGP</td></tr>
+<tr><td>UDSC AD+Cgcf</td><td>Ufficio federale della dogana e della sicurezza dei confini: Antifrode doganale e Cgcf</td></tr>
+<tr><td>UDSC CIV</td><td>Ufficio federale della dogana e della sicurezza dei confini senza Antifrode doganale e Cgcf</td></tr>
+<tr><td>TPO</td><td>Polizia dei trasporti</td></tr>
+<tr><td>SIF</td><td>Servizio centrale d’incasso dell’Amministrazione delle finanze</td></tr>
+<tr><td>CFCG</td><td>Commissione federale delle case da gioco</td></tr>
+<tr><td>GM</td><td>Autorità della giustizia militare</td></tr>
+<tr><td>SIC</td><td>Servizio delle attività informative della Confederazione</td></tr>
+<tr><td>ACSP</td><td>Autorità della Confederazione competenti per i controlli di sicurezza relativi alle persone</td></tr>
+<tr><td>CIVI</td><td>Ufficio federale del servizio civile</td></tr>
+<tr><td>SM</td><td>Swissmedic</td></tr>
+<tr><td>POLCA</td><td>Pubblici ministeri e autorità di polizia dei Cantoni</td></tr>
+<tr><td>MIGRA</td><td>Autorità cantonali, regionali e comunali in materia di stranieri, autorità in materia di naturalizzazione, autorità in materia di stranieri del Principato del Liechtenstein</td></tr>
+<tr><td>UCSN</td><td>Uffici della circolazione stradale e della navigazione</td></tr>
+<tr><td>UFAC</td><td>Ufficio federale dell’aviazione civile</td></tr>
+<tr><td>SECO/UCL</td><td>Segreteria di Stato dell’economia, uffici cantonali e comunali del lavoro</td></tr>
+<tr><td>PMCR</td><td>Polizia municipale, comunale e regionale</td></tr>
+<tr><td>AEEG</td><td>Autorità incaricate dell’esecuzione delle espulsioni giudiziarie</td></tr>
+<tr><td>EPM</td><td>Autorità di esecuzione delle pene e delle misure</td></tr>
+<tr><td>DFAE</td><td>Dipartimento federale degli affari esteri</td></tr>
+<tr><td>IP</td><td>Servizi Interpol e Segretariato generale</td></tr>
+<tr><td>Sic mil</td><td>Sicurezza militare</td></tr>
+<tr><td>ARDI</td><td>Autorità di rilascio in base alla legge sui documenti d’identità</td></tr>
+<tr><td>UCA</td><td>Uffici cantonali delle armi</td></tr>
+</table>
 
 <table>
-<tr><th></th><th>fedpol I</th><th>fedpol II</th><th>fedpol III</th><th>MPC</th><th>UFG</th><th>SEM</th><th>SR DFGP</th><th>UDSC AD+Cgcf</th><th>UDSC CIV</th><th>TPO</th><th>SIF</th><th>CFCG</th><th>GM</th><th>SIC</th><th>ARDI</th><th>CIVI</th><th>SM</th><th>POLCA</th><th>MIGRA</th><th>UCSN</th><th>UFAC</th><th>SECO/UCL</th><th>PMCR</th><th>AEEG</th><th>EPM</th><th>DFAE</th><th>IP</th><th>Sic mil</th><th>ARDI</th><th>UCA</th></tr>
+<tr><th></th><th>fedpol I</th><th>fedpol II</th><th>fedpol III</th><th>MPC</th><th>UFG</th><th>SEM</th><th>SR DFGP</th><th>UDSC AD+Cgcf</th><th>UDSC CIV</th><th>TPO</th><th>SIF</th><th>CFCG</th><th>GM</th><th>SIC</th><th>ACSP</th><th>CIVI</th><th>SM</th><th>POLCA</th><th>MIGRA</th><th>UCSN</th><th>UFAC</th><th>SECO/UCL</th><th>PMCR</th><th>AEEG</th><th>EPM</th><th>DFAE</th><th>IP</th><th>Sic mil</th><th>ARDI</th><th>UCA</th></tr>
 <tr><td colspan="31">1. Banca dei dati personali</td></tr>
 <tr><td colspan="31">a. Schema dei dati personali:</td></tr>
 <tr><td>Provenienza dei dati, dati di:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td>A</td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
@@ -661,7 +664,7 @@ Abbreviazioni
 <tr><td>Mutazione (responsabile della mutazione, data e ora della mutazione):</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Motivo del rilevamento:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Informazione da rilevare:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Pubblicazione SIS, ASF (stato):</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Segnalazione SIS, ASF (stato):</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Numero, indicazione oggetto:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Nazione, Cantone:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Numero d’identificazione, genere del numero, serie:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
@@ -686,7 +689,7 @@ Abbreviazioni
 <tr><td>VIN, numero matricola, numero motore:</td><td>M</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td></tr>
 <tr><td>Approvazione del tipo, altri dettagli:</td><td>M</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td></tr>
 <tr><td>Provenienza dei dati:</td><td>M</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td></tr>
-<tr><td>Pubblicazione SIS, ASF (stato):</td><td>M</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Segnalazione SIS, ASF (stato):</td><td>M</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td></tr>
 <tr><td>Foto e numero delle foto:</td><td>M</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td></tr>
 <tr><td>Rilevamento (operatore, data e ora del rilevamento), nome del file, standard e descrizione della foto:</td><td>M</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td></tr>
 <tr><td>Data e motivo della revoca:</td><td>M</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td></tr>

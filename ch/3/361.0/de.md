@@ -3,11 +3,11 @@ sr: "361.0"
 title: Verordnung vom 26. Oktober 2016 über das automatisierte Polizeifahndungssystem (RIPOL-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/665"
 language: de
-version: 2026-10-01
+version: 2026-11-01
 adopted: 2016-10-26
 in_force: 2016-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/665/20261001/de/xml/fedlex-data-admin-ch-eli-cc-2016-665-20261001-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/665/20261001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/665/20261101/de/xml/fedlex-data-admin-ch-eli-cc-2016-665-20261101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/665/20261101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/665/20261001/de"
 
 (RIPOL-Verordnung)
 
-vom 26. Oktober 2016 (Stand am 1. Oktober 2026)
+vom 26. Oktober 2016 (Stand am 1. November 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -468,45 +468,48 @@ Anhang 1[^t-1]
 
 (Art. 7)
 
-## Berechtigung zur Bearbeitung oder Ansicht von im RIPOL gespeicherten Daten
+## [Berechtigung zur Bearbeitung oder Ansicht von im RIPOL gespeicherten Daten](https://www.fedlex.admin.ch/eli/cc/2016/665/de)
 
-[^t-1]: Fassung gemäss Ziff. II der V vom 26. Aug. 2026, in Kraft seit 1. Okt. 2026 ([AS 2026 443](https://fedlex.data.admin.ch/eli/oc/2026/443)).
+[^t-1]: Fassung gemäss Ziff. I der V vom 18. Sept. 2026, in Kraft seit 1. Nov. 2026 ([AS 2026 516](https://fedlex.data.admin.ch/eli/oc/2026/516)).
 
-- A = Ansicht
-- M = Mutation
+A = Ansicht
+
+M = Mutation
 
 Abkürzungen
 
-- fedpol I Im Bundesamt für Polizei: die für das RIPOL zuständigen Dienststellen, der Bereich Ausweise sowie die Abteilung Einsatz- und Alarmzentrale–SIRENE CH.
-- fedpol II Im Bundesamt für Polizei: die Abteilung Recht, die Abteilung Data Compliance sowie die Staatliche Identitätsstelle.
-- fedpol III Im Bundesamt für Polizei: die Bundeskriminalpolizei, der Bundessicherheitsdienst, die für die Bearbeitung von biometrischen erkennungsdienstlichen Daten zuständigen Dienststellen, die für präventiv-polizeiliche bzw. verwaltungspolizeiliche Massnahmen zur Abwendung einer Gefahr der inneren oder äusseren Sicherheit zuständige Dienststelle, die für den internationalen polizeilichen Informationsaustausch bei Sportveranstaltungen zuständige Dienststelle, die für den Interpol-Schriftverkehr zuständigen Dienststellen, die Zentralstelle Waffen, die Zentralstelle Explosivstoffe, der Bereich Digitaltechnik, Standards und Public Key Infrastrukturen, der Bereich Technologie, Entwicklung und Analyse (einschliesslich der Zentralstelle Falschgeld), die Meldestelle Geldwäscherei, die Abteilung Operative Polizeikooperation sowie das Kommissariat Polizeiattachés.
-- BA Bundesanwaltschaft
-- BJ Bundesamt für Justiz
-- SEM Staatssekretariat für Migration
-- BD EJPD Beschwerdedienst des EJPD
-- BAZG ZoG Bundesamt für Zoll und Grenzsicherheit, Zollfahndung und GWK
-- BAZG ZIV Bundesamt für Zoll und Grenzsicherheit ohne Zollfahndung und GWK
-- TPO Transportpolizei
-- ZISt Zentrale Inkassostelle der Finanzverwaltung
-- ESBK Eidgenössische Spielbankenkommission
-- MJ Militärjustizbehörden
-- NDB Nachrichtendienst des Bundes
-- PPSP für Personensicherheitsprüfungen zuständige Behörden des Bundes
-- ZIVI Bundesamt für Zivildienst
-- SM Swissmedic
-- KAPO Staatsanwaltschaften und Polizeibehörden der Kantone
-- MIGRA Kantonale, regionale und kommunale Ausländerbehörden, Einbürgerungsbehörden, Ausländerbehörden des Fürstentums Liechtenstein
-- SVSA Strassenverkehrs- und Schifffahrtsämter
-- BAZL Bundesamt für Zivilluftfahrt
-- SECO/KAA Staatssekretariat für Wirtschaft, Kantonale und kommunale Arbeitsämter
-- GSR Gemeinde-, Stadt- und Regionalpolizei
-- LV Vollzugbehörden von Landesverweisungen LV
-- StraMa Straf- und Massnahmenvollzugsbehörden
-- EDA Eidgenössisches Departement für auswärtige Angelegenheiten
-- IP Interpolstellen und Generalsekretariat
-- Mil Sich Militärische Sicherheit
-- AwGB Ausstellende Behörden gem. Ausweisgesetz
-- KW Kantonale Waffenbüros
+<table>
+<tr><td>fedpol I</td><td>Im Bundesamt für Polizei: die für das RIPOL zuständigen Dienststellen, der Bereich Ausweise sowie die Abteilung Einsatz- und Alarmzentrale – SIRENE CH, ohne die nationale Stelle für die Bearbeitung von Flugpassagierdaten (Passenger Information Unit, PIU).</td></tr>
+<tr><td>fedpol II</td><td>Im Bundesamt für Polizei: die Abteilung Recht, die Abteilung Data Compliance, die Staatliche Identitätsstelle sowie PIU.</td></tr>
+<tr><td>fedpol III</td><td>Im Bundesamt für Polizei: die Bundeskriminalpolizei, der Bundessicherheitsdienst, die für die Bearbeitung von biometrischen erkennungsdienstlichen Daten zuständigen Dienststellen, die für präventiv-polizeiliche bzw. verwaltungspolizeiliche Massnahmen zur Abwendung einer Gefahr der inneren oder äusseren Sicherheit zuständige Dienststelle, die für den internationalen polizeilichen Informationsaustausch bei Sportveranstaltungen zuständige Dienststelle, die für den Interpol-Schriftverkehr zuständigen Dienststellen, die Zentralstelle Waffen, die Zentralstelle Explosivstoffe, der Bereich Digitaltechnik, Standards und Public Key Infrastrukturen, der Bereich Technologie, Entwicklung und Analyse (einschliesslich der Zentralstelle Falschgeld), die Meldestelle Geldwäscherei, die Abteilung Operative Polizeikooperation sowie das Kommissariat Polizeiattachés.</td></tr>
+<tr><td>BA</td><td>Bundesanwaltschaft</td></tr>
+<tr><td>BJ</td><td>Bundesamt für Justiz</td></tr>
+<tr><td>SEM</td><td>Staatssekretariat für Migration</td></tr>
+<tr><td>BD EJPD</td><td>Beschwerdedienst des EJPD</td></tr>
+<tr><td>BAZG ZoG</td><td>Bundesamt für Zoll und Grenzsicherheit, Zollfahndung und GWK</td></tr>
+<tr><td>BAZG ZIV</td><td>Bundesamt für Zoll und Grenzsicherheit ohne Zollfahndung und GWK</td></tr>
+<tr><td>TPO</td><td>Transportpolizei</td></tr>
+<tr><td>ZISt</td><td>Zentrale Inkassostelle der Finanzverwaltung</td></tr>
+<tr><td>ESBK</td><td>Eidgenössische Spielbankenkommission</td></tr>
+<tr><td>MJ</td><td>Militärjustizbehörden</td></tr>
+<tr><td>NDB</td><td>Nachrichtendienst des Bundes</td></tr>
+<tr><td>PPSP</td><td>für Personensicherheitsprüfungen zuständige Behörden des Bundes</td></tr>
+<tr><td>ZIVI</td><td>Bundesamt für Zivildienst</td></tr>
+<tr><td>SM</td><td>Swissmedic</td></tr>
+<tr><td>KAPO</td><td>Staatsanwaltschaften und Polizeibehörden der Kantone</td></tr>
+<tr><td>MIGRA</td><td>Kantonale, regionale und kommunale Ausländerbehörden, Einbürgerungsbehörden, Ausländerbehörden des Fürstentums Liechtenstein</td></tr>
+<tr><td>SVSA</td><td>Strassenverkehrs- und Schifffahrtsämter</td></tr>
+<tr><td>BAZL</td><td>Bundesamt für Zivilluftfahrt</td></tr>
+<tr><td>SECO/KAA</td><td>Staatssekretariat für Wirtschaft, Kantonale und kommunale Arbeitsämter</td></tr>
+<tr><td>GSR</td><td>Gemeinde-, Stadt- und Regionalpolizei</td></tr>
+<tr><td>LV</td><td>Vollzugbehörden von Landesverweisungen LV</td></tr>
+<tr><td>StraMa</td><td>Straf- und Massnahmenvollzugsbehörden</td></tr>
+<tr><td>EDA</td><td>Eidgenössisches Departement für auswärtige Angelegenheiten</td></tr>
+<tr><td>IP</td><td>Interpolstellen und Generalsekretariat</td></tr>
+<tr><td>Mil Sich</td><td>Militärische Sicherheit</td></tr>
+<tr><td>AwGB</td><td>Ausstellende Behörden gem. Ausweisgesetz</td></tr>
+<tr><td>KW</td><td>Kantonale Waffenbüros</td></tr>
+</table>
 
 <table>
 <tr><th></th><th>fedpol I</th><th>fedpol II</th><th>fedpol III</th><th>BA</th><th>BJ</th><th>SEM</th><th>BD EJPD</th><th>BAZG ZoG</th><th>BAZG ZIV</th><th>TPO</th><th>ZISt</th><th>ESBK</th><th>MJ</th><th>NDB</th><th>PPSP</th><th>ZIVI</th><th>SM</th><th>KAPO</th><th>MIGRA</th><th>SVSA</th><th>BAZL</th><th>SECO/KAA</th><th>GSR</th><th>LV</th><th>StraMa</th><th>EDA</th><th>IP</th><th>Mil Sich</th><th>AwGB</th><th>KW</th></tr>
@@ -526,8 +529,8 @@ Abkürzungen
 <tr><td>WEB:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td>A</td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
 <tr><td>Ausweis, -nummer, Ausstellungsland, Herkunft:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td>A</td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
 <tr><td>Identifikationshinweis, Hinweis, Herkunft:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td>A</td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
-<tr><td>Personenregistrierungsnummer Ausstellungsland:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td>A</td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
-<tr><td>PCN:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td>A</td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
+<tr><td>Personenregistrierungsnummer Ausstellungsland</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td>A</td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
+<tr><td>PCN</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td>A</td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
 <tr><td>Akte, Aktennummer, Herkunft:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td>A</td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
 <tr><td>Bild (Foto), -name, Herkunft, Eingabedatum, Dateiname:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td>A</td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
 <tr><td colspan="31">b. Zusatzpersonalie:</td></tr>
@@ -544,9 +547,9 @@ Abkürzungen
 <tr><td>Name Ehepartner, Vorname Ehepartner</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td>A</td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
 <tr><td>Ausweis, -nummer, Ausstellungsland, Herkunft:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td>A</td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
 <tr><td>Identifikationshinweis, Hinweis, Herkunft:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td>A</td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
-<tr><td>Personenregistrierungsnummer mit Ausstellungsland:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td>A</td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
+<tr><td>Personenregistrierungsnummer mit Ausstellungsland</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td>A</td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
 <tr><td>Akte, Aktennummer, Herkunft:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td>A</td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
-<tr><td>Revokationsdatum, -grund und ‑hinweis:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td>A</td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
+<tr><td>Revokationsdatum, -grund und -hinweis:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td>A</td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
 <tr><td colspan="31">c. Signalement (bekannte Person):</td></tr>
 <tr><td>Signalement (automatisch generierte Nummer):</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
 <tr><td>Erfassung (Erfasser, Eingabedatum und ‑zeit):</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td>A</td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
@@ -560,10 +563,10 @@ Abkürzungen
 <tr><td>Sprache, gesprochene Worte:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td>A</td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
 <tr><td>Weitere Details:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td>A</td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
 <tr><td>Körpermerkmal, Körperteil, Position und Beschreibung:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td>A</td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
-<tr><td>Revokationsdatum, -grund und ‑hinweis:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td>A</td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
+<tr><td>Revokationsdatum, -grund und -hinweis:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td>A</td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
 <tr><td colspan="31">d. Fahndung:</td></tr>
 <tr><td>Fall-Nr. (automatisch generierte Nummer), Version:</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
-<tr><td>Art des Verschwindens:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td></td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
+<tr><td>Art des Verschwindens</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td></td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
 <tr><td>Erfassung (Erfasser, Eingabedatum und ‑zeit):</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td></td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
 <tr><td>Original- und aktiver Datenbesitzer:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td></td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
 <tr><td>Mutation (Mutierender, Mutationsdatum und ‑zeit):</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td></td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
@@ -586,14 +589,14 @@ Abkürzungen
 <tr><td>Entweichdatum, -ort:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td></td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
 <tr><td>Fallverbindung, Verbindungsgrund, Fahndungsart, Herkunft:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td></td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
 <tr><td>Dateiname, Dokumenttyp des Anhangs:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td></td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
-<tr><td>Revokationsdatum, -grund, und ‑hinweis:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td></td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
+<tr><td>Revokationsdatum, -grund, und -hinweis:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td></td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
 <tr><td>Erfassung des Anhangs (Erfasser, Eingabedatum und ‑zeit), Dateiname und Beschreibung zum Dokument:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td></td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
-<tr><td>Frist zur freiwilligen Ausreise gewährt:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td></td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
-<tr><td>Rückkehrentscheid mit Einreiseverbot:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td></td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
-<tr><td>Gefährdung durch Drittstaatangehörige:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td></td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
-<tr><td>Rückkehrentscheid ausgesetzt oder aufgeschoben:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td></td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
-<tr><td>Einreise- und Aufenthaltsverweigerungsgrund:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td></td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
-<tr><td>EU-Familienangehörige:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td></td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
+<tr><td>Frist zur freiwilligen Ausreise gewährt</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td></td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
+<tr><td>Rückkehrentscheid mit Einreiseverbot</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td></td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
+<tr><td>Gefährdung durch Drittstaatangehörige</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td></td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
+<tr><td>Rückkehrentscheid ausgesetzt oder aufgeschoben</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td></td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
+<tr><td>Einreise- und Aufenthaltsverweigerungsgrund</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td></td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
+<tr><td>EU-Familienangehörige</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td></td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
 <tr><td colspan="31">Meldung</td></tr>
 <tr><td>Gültigkeit der Meldung:</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
 <tr><td>Meldungstext:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td></td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
@@ -611,7 +614,7 @@ Abkürzungen
 <tr><td>Anzeigedatum:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>M</td><td>A</td><td>M</td><td>A</td><td>A</td><td>M</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Rapportersteller und -datum:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>M</td><td>A</td><td>M</td><td>A</td><td>A</td><td>M</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Dienststelle:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>M</td><td>A</td><td>M</td><td>A</td><td>A</td><td>M</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Aktenart, -nummer und ‑besitzer:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>M</td><td>A</td><td>M</td><td>A</td><td>A</td><td>M</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Aktenart, -nummer und -besitzer:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>M</td><td>A</td><td>M</td><td>A</td><td>A</td><td>M</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Auftragsbehörde:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>M</td><td>A</td><td>M</td><td>A</td><td>A</td><td>M</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Tatort und -datum, Strasse, Koordinaten:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>M</td><td>A</td><td>M</td><td>A</td><td>A</td><td>M</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Warnung:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>M</td><td>A</td><td>M</td><td>A</td><td>A</td><td>M</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
@@ -619,7 +622,7 @@ Abkürzungen
 <tr><td>Modus Operandi, Sachverhalt, Tathilfsmittel, Örtlichkeit, Bemerkung:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>M</td><td>A</td><td>M</td><td>A</td><td>A</td><td>M</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Deliktsgut und -betrag, Sachschaden:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>M</td><td>A</td><td>M</td><td>A</td><td>A</td><td>M</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Deliktsgut - Codekategorie:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>M</td><td>A</td><td>M</td><td>A</td><td>A</td><td>M</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Spurart und -beschreibung, PCN:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>M</td><td>A</td><td>M</td><td>A</td><td>A</td><td>M</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Spurart und -beschreibung, PCN</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>M</td><td>A</td><td>M</td><td>A</td><td>A</td><td>M</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Deliktsart, Tätergruppe, Phänomen</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>M</td><td>A</td><td>M</td><td>A</td><td>A</td><td>M</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Erfassung des Anhangs (Erfasser, Eingabedatum und ‑zeit), Dateiname und Beschreibung zum Dokument:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>M</td><td>A</td><td>M</td><td>A</td><td>A</td><td>M</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Fahndung und Verbindungsgrund (Verbindungen zu anderen Fällen), Detail, Besitzer:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>M</td><td>A</td><td>M</td><td>A</td><td>A</td><td>M</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
@@ -670,7 +673,7 @@ Abkürzungen
 <tr><td>Masseinheit, Kaliber, Material, Sachfarbe:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Bargeld (Währung und Betrag):</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Beschreibung, Werk von, Sachwert:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Steinanzahl, -art, -farbe, und ‑beschreibung, Masseinheit:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Steinanzahl, -art, -farbe, und -beschreibung, Masseinheit:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Datenherkunft:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Foto und -nummer:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Erfassung (Erfasser, Eingabedatum und ‑zeit), Dateiname, Standard und Beschreibung zum Foto:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
@@ -696,7 +699,7 @@ Abkürzungen
 <tr><td>Erfassung (Erfasser, Eingabedatum und ‑zeit):</td><td>M</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>M</td><td>A</td><td>M</td><td>A</td><td>A</td><td>M</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td></tr>
 <tr><td>Mutation (Mutierender, Mutationsdatum und ‑zeit):</td><td>M</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>M</td><td>A</td><td>M</td><td>A</td><td>A</td><td>M</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td></tr>
 <tr><td>Erfassungsgrund:</td><td>M</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>M</td><td>A</td><td>M</td><td>A</td><td>A</td><td>M</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td></tr>
-<tr><td>Kennzeichen, Kennzeichenart und ‑farbe:</td><td>M</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>M</td><td>A</td><td>M</td><td>A</td><td>A</td><td>M</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Kennzeichen, Kennzeichenart und -farbe:</td><td>M</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>M</td><td>A</td><td>M</td><td>A</td><td>A</td><td>M</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td></tr>
 <tr><td>Position Kennzeichen, Nation:</td><td>M</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>M</td><td>A</td><td>M</td><td>A</td><td>A</td><td>M</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td></tr>
 <tr><td>Datenherkunft, weitere Details:</td><td>M</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>M</td><td>A</td><td>M</td><td>A</td><td>A</td><td>M</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td></tr>
 <tr><td>Revokationsdatum und -grund:</td><td>M</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>M</td><td>A</td><td>M</td><td>A</td><td>A</td><td>M</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td></tr>
