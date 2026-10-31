@@ -3,20 +3,19 @@ canton: FR
 number: "513.11"
 title: "Ordonnance concernant la taxe d'exemption de l'obligation de servir"
 language: fr
-version: 2022-12-01
-valid_until: 2026-10-31
-version_adopted: 2022-11-08
+version: 2026-11-01
+version_adopted: 2026-08-31
 adopted: 2008-10-06
 in_force: 2009-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/513.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7628/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8683/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
 # Ordonnance concernant la taxe d'exemption de l'obligation de servir
 
-du 06.10.2008 (version entrée en vigueur le 01.12.2022)
+du 06.10.2008 (version entrée en vigueur le 01.11.2026)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -36,9 +35,13 @@ Arrête:
 
 #### Art. 2
 
-**Autorité compétente**
+**Autorités compétentes**
 
 <sup>1</sup> Le Service de la sécurité civile et militaire est l'autorité compétente pour prendre toutes les mesures et décisions en matière de taxe d'exemption de l'obligation de servir.
+
+<sup>2</sup> Le Ministère public est l'autorité chargée de la poursuite pénale, au sens de l'article 44 al. 2 de la loi fédérale du 12 juin 1959 sur la taxe d'exemption de l'obligation de servir (LTEO), conformément à la loi sur la justice.
+
+<sup>3</sup> Si le jugement d'un tribunal est demandé dans le délai légal au sens de l'article 44 al. 4 LTEO, le dossier est transmis au juge pénal désigné par la loi sur la justice.
 
 #### Art. 3
 

@@ -3,20 +3,19 @@ canton: FR
 number: "513.11"
 title: Verordnung über die Wehrpflichtersatzabgabe
 language: de
-version: 2022-12-01
-valid_until: 2026-10-31
-version_adopted: 2022-11-08
+version: 2026-11-01
+version_adopted: 2026-08-31
 adopted: 2008-10-06
 in_force: 2009-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/513.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/7628/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8683/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Wehrpflichtersatzabgabe
 
-vom 06.10.2008 (Fassung in Kraft getreten am 01.12.2022)
+vom 06.10.2008 (Fassung in Kraft getreten am 01.11.2026)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -36,9 +35,13 @@ beschliesst:
 
 #### Art. 2
 
-**Zuständige Behörde**
+**Zuständige Behörden**
 
 <sup>1</sup> Das Amt für zivile Sicherheit und Militär ist die für alle Massnahmen und Entscheide im Bereich der Wehrpflichtersatzabgabe zuständige Behörde.
+
+<sup>2</sup> Die Staatsanwaltschaft ist gemäss Justizgesetz die zuständige Strafverfolgungsbehörde im Sinne von Artikel 44 Abs. 2 des Bundesgesetzes vom 12. Juni 1959 über die Wehrpflichtersatzabgabe (WPEG).
+
+<sup>3</sup> Wird innert der gesetzlichen Frist eine gerichtliche Beurteilung im Sinne von Artikel 44 Abs. 4 WPEG verlangt, so wird die Sache an das im Justizgesetz vorgesehene Strafgericht überwiesen.
 
 #### Art. 3
 
