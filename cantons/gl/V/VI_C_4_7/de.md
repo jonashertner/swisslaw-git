@@ -3,28 +3,28 @@ canton: GL
 number: VI C/4/7
 title: Verordnung über die Gebühren der Arbeitsmarktbehörde
 language: de
-version: 2015-07-01
-valid_until: 2026-10-31
-version_adopted: 2015-07-02
+version: 2026-11-01
+version_adopted: 2026-09-29
 adopted: 2011-10-18
 in_force: 2011-11-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VI-C.4.7"
-pdf: "https://gesetze.gl.ch/api/de/versions/1794/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2691/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Gebühren der Arbeitsmarktbehörde
 
-Vom 18.10.2011 (Stand 01.07.2015)
+Vom 18.10.2011 (Stand 01.11.2026)
 
 der Regierungsrat,
 
-gestützt auf Artikel 9 der eidgenössischen Gebührenverordnung (GebV-AuG) und Artikel 99 Absatz 1 Buchstabe b der Kantonsverfassung[^ingress-1],
+gestützt auf Artikel 9 der eidgenössischen Gebührenverordnung (GebV-AIG)[^ingress-1] und Artikel 99 Absatz 1 Buchstabe b der Kantonsverfassung[^ingress-2],
 
 verordnet:
 
-[^ingress-1]: GS [I A/1/1](https://gesetze.gl.ch/data/I-A.1.1/de)
+[^ingress-1]: SR 142.209
+[^ingress-2]: GS [I A/1/1](https://gesetze.gl.ch/data/I-A.1.1/de)
 
 #### Art. 1
 
@@ -36,12 +36,18 @@ verordnet:
 
 **Gebühren**
 
-<sup>1</sup>
+<sup>1</sup> Die Gebühren betragen:
 
-- a. Erstmaliger arbeitsmarktlicher Vorentscheid gemäss Artikel 40 Absatz 2 des eidgenössischen Ausländergesetzes (AuG) in Verbindung mit Artikel 83 Absatz 1 der eidgenössischen Verordnung über Zulassung, Aufenthalt und Erwerbstätigkeit (VZAE): — Fr. 95.–
-- b. Arbeitsmarktlicher Vorentscheid zur Bewilligungsverlängerung oder -erneuerung, insbesondere gemäss Artikel 19, 19a, 20, 20a und 53 in Verbindung mit Artikel 83 Absatz 2 VZAE: — Fr. 95.–
-- c. Arbeitsmarktlicher Vorentscheid zur Verlängerung einer Bewilligung um sechs Monate gemäss Artikel 52 VZAE (Asylsuchende mit Bewilligung N) in Verbindung mit Artikel 83 Absatz 2 VZAE: — Fr. 50.–
-- d. Verfügung einer administrativen Sanktion gemäss Artikel 122 Absätze 1 und 2 AuG: — Fr. 95.–
+- a. für den arbeitsmarktlichen Vorentscheid für Drittstaatsangehörige mit Stellenantritt bei einem Schweizer Arbeitgeber gemäss Artikel 40 Absatz 2 des eidgenössischen Ausländer- und Integrationsgesetzes (AIG)[^1a-1] in Verbindung mit Artikel 19, 20 und Artikel 83 Absatz 1 Buchstabe a der eidgenössischen Verordnung über Zulassung, Aufenthalt und Erwerbstätigkeit (VZAE)[^1a-2]: — 300 Fr.
+- b. für den arbeitsmarktlichen Vorentscheid für grenzüberschreitende Dienstleistungserbringer mit Sitz in der EU/EFTA von mehr als 90 Tagen pro Jahr gemäss Artikel 40 Absatz 2 des eidgenössischen Ausländer- und Integrationsgesetzes (AIG) in Verbindung mit Artikel 19a, 20a und Artikel 83 Absatz 1 Buchstabe b der eidgenössischen Verordnung über Zulassung, Aufenthalt und Erwerbstätigkeit (VZAE): — 210 Fr.
+- c. für den arbeitsmarktlichen Vorentscheid zur Erteilung einer Arbeitsbewilligung gemäss Artikel 52 VZAE (Asylsuchende mit Bewilligung N) in Verbindung mit Artikel 83 Absatz 2 VZAE sowie Artikel 14–17 der kantonalen Asyl- und Flüchtlingsverordnung (AFV)[^1a-3]: — 100 Fr.
+- d. für die Verfügung einer administrativen Sanktion gemäss Artikel 122 Absätze 1 und 2 AIG: — 200 Fr.
+
+<sup>2</sup> Für ausserordentliche oder besonders aufwändige Abklärungen kann ein Zuschlag von bis zu 50 Prozent der jeweiligen Gebühr erhoben werden.
+
+[^1a-1]: SR [142.20](https://db.clex.ch/link/Bund/142.20/de)
+[^1a-2]: SR [142.201](https://db.clex.ch/link/Bund/142.201/de)
+[^1a-3]: GS [VIII E/21/4](https://gesetze.gl.ch/data/VIII-E.21.4/de)
 
 #### Art. 2–3
 
