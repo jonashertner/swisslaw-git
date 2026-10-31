@@ -4,11 +4,11 @@ title: "Ordinanza del 13 novembre 2019 riguardante l'inventario federale degli i
 short: OISOS
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/673"
 language: it
-version: 2026-06-01
+version: 2026-11-01
 adopted: 2019-11-13
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/673/20260601/it/xml/fedlex-data-admin-ch-eli-cc-2019-673-20260601-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/673/20260601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/673/20261101/it/xml/fedlex-data-admin-ch-eli-cc-2019-673-20261101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/673/20261101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,15 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/673/20260601/it"
 
 (OISOS)
 
-del 13 novembre 2019 (Stato 1° giugno 2026)
+del 13 novembre 2019 (Stato 1° novembre 2026)
 
 Il Consiglio federale svizzero,
 
-visto l’articolo 5 della legge federale del 1° luglio 1966[^ingress-1] sulla protezione della natura e del paesaggio (LPN),
+visti gli articoli 5 capoverso 1 e 26 della legge federale del 1° luglio 1966[^ingress-1] sulla protezione della natura e del paesaggio (LPN),[^ingress-2]
 
 ordina:
 
 [^ingress-1]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^ingress-2]: Nuovo testo giusta la cifra I dell’O del 18 set. 2026, in vigore dal 1° nov. 2026 ([RU 2026 488](https://fedlex.data.admin.ch/eli/oc/2026/488)).
 
 #### Art. 1
 
@@ -173,13 +174,15 @@ I seguenti criteri secondari possono influire sulla valutazione di un insediamen
 
 Sulla base della valutazione, sono associate a uno dei seguenti obiettivi di conservazione:
 
-- a. *conservazione della sostanza* *rispettivamente* *della destinazione d’uso quale terreno coltivato o spazio libero:* conservazione della sostanza significa conservare integralmente tutti gli edifici, le parti di edificazioni e gli spazi liberi nonché eliminare gli elementi perturbanti; conservazione della destinazione d’uso quale terreno coltivato o spazio libero significa preservare la vegetazione e i vecchi edifici essenziali per l’insediamento nonché eliminare gli elementi perturbanti;
-- b. *conservazione della struttura:* conservazione della struttura significa preservare la disposizione e la forma degli edifici e degli spazi liberi nonché conservare integralmente gli elementi e le caratteristiche essenziali per la struttura;
-- c. *conservazione del caratter*e*:* conservazione del carattere significa preservare l’equilibrio tra vecchi e nuovi edifici nonché conservare integralmente gli elementi che illustrano la ragione originaria dell’edificazione e che sono essenziali per il carattere.
+- a. *conservazione della sostanza rispettivamente della superficie libera**:* conservazione della sostanza significa conservare integralmente tutti gli edifici, le parti di edificazioni e gli spazi liberi nonché eliminare gli elementi perturbanti; conservazione della superficie libera significa mantenere la destinazione d’uso quale terreno coltivato o spazio libero e conservare la vegetazione e i vecchi edifici essenziali per l’insediamento nonché eliminare gli elementi perturbanti;
+- b. *conservazione della struttura**:* conservazione della struttura significa preservare la disposizione e la forma degli edifici e degli spazi liberi nonché gli elementi e le caratteristiche essenziali per la struttura;
+- c. *conservazione del carattere**:* conservazione del carattere significa conservare o creare le qualità costruttivo-culturali attraverso l’interazione tra vecchi e nuovi edifici nonché conservare gli elementi che illustrano l’origine della componente dell’insediamento e che sono essenziali per il carattere.[^9-1]
 
 <sup>5</sup> Le componenti dell’insediamento con valore in rapporto ad altre sono valutate soltanto in base al loro valore all’interno dell’insediamento. Su queste devono essere evitati interventi con ripercussioni negative sulle componenti dell’insediamento con valore proprio.
 
 <sup>6</sup> L’attuazione degli obiettivi di conservazione deve permettere di conservare intatte le qualità degli insediamenti ma, in ogni caso, a salvaguardarlo per quanto possibile.
+
+[^9-1]: Nuovo testo giusta la cifra I dell’O del 18 set. 2026, in vigore dal 1° nov. 2026 ([RU 2026 488](https://fedlex.data.admin.ch/eli/oc/2026/488)).
 
 #### Art. 10
 
@@ -187,21 +190,30 @@ Sulla base della valutazione, sono associate a uno dei seguenti obiettivi di con
 
 <sup>1</sup> Nell’adempimento di compiti della Confederazione, gli interventi che non hanno effetti sul raggiungimento degli obiettivi di conservazione non costituiscono un pregiudizio nei confronti degli oggetti e sono ammessi. Sono parimenti ammessi pregiudizi lievi a un oggetto se giustificati da un interesse preponderante.
 
+<sup>1bis</sup> Se, in caso di interventi all’interno delle zone edificabili, l’adempimento di un compito della Confederazione si fonda unicamente su un permesso previsto dal diritto federale ai sensi dell’articolo 2 capoverso 1 lettera b LPN, gli interventi sull’oggetto sono ammissibili dal punto di vista della protezione degli insediamenti purché l’elemento da valutare ai fini del permesso non abbia effetti sull’insediamento. Per questi interventi non sussiste l’obbligo di ottenere una perizia da una commissione federale ai sensi dell’articolo 7 capoverso 2 LPN.[^10-1]
+
 <sup>2</sup> In caso di interventi gravi su un oggetto nell’adempimento di un compito della Confederazione, può essere effettuata una ponderazione degli interessi solo in presenza di interessi d’importanza nazionale equivalenti o superiori. I pregiudizi gravi a un oggetto sono ammessi solo se giustificati da un interesse preponderante, anch’esso d’importanza nazionale.
 
 <sup>3</sup> Se più interventi giudicati singolarmente ammissibili hanno tra loro un rapporto materiale, spaziale o temporale oppure se sono da prevedere interventi successivi a un intervento ammesso, deve essere valutato anche l’effetto complessivo sull’oggetto.
 
 <sup>4</sup> Se dalla ponderazione degli interessi un pregiudizio risulta ammissibile, la sua portata deve essere il più contenuta possibile. Chi ne è resoponsabile deve tenere conto della regola secondo cui le qualità costruttivo−culturali dell’oggetto, in particolare quelle urbanistiche, devono essere salvaguardate per quanto possibile.
 
+[^10-1]: Introdotto dalla cifra I dell’O del 18 set. 2026, in vigore dal 1° nov. 2026 ([RU 2026 488](https://fedlex.data.admin.ch/eli/oc/2026/488)).
+
 #### Art. 11
 
-**Considerazione da parte dei Cantoni**
+**Considerazione da parte dei Cantoni e dei Comuni[^11-1]**
 
-<sup>1</sup> I Cantoni tengono conto dell’ISOS nell’ambito della loro pianificazione, in particolare nell’allestimento dei piani direttori secondo gli articoli 6–12 della legge del 22 giugno 1979[^11-1] sulla pianificazione del territorio (LPT).
+<sup>1</sup> I Cantoni tengono conto dell’ISOS nell’ambito della loro pianificazione, in particolare nell’allestimento dei piani direttori secondo gli articoli 6–12 della legge del 22 giugno 1979[^11-2] sulla pianificazione del territorio (LPT).
 
 <sup>2</sup> Provvedono affinché l’ISOS sia preso in considerazione sulla base dei piani direttori cantonali, in particolare nell’ambito dell’elaborazione dei piani di utilizzazione secondo gli articoli 14–20 LPT.
 
-[^11-1]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
+<sup>3</sup> Nella loro pianificazione, i Cantoni e i Comuni possono derogare agli obiettivi di conservazione se nella ponderazione degli interessi di cui all’articolo 3 dell’ordinanza del 28 giugno 2000[^11-3] sulla pianificazione del territorio prevalgono altri interessi.[^11-4]
+
+[^11-1]: Nuovo testo giusta la cifra I dell’O del 18 set. 2026, in vigore dal 1° nov. 2026 ([RU 2026 488](https://fedlex.data.admin.ch/eli/oc/2026/488)).
+[^11-2]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
+[^11-3]: [RS 700.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8353)
+[^11-4]: Introdotto dalla cifra I dell’O del 18 set. 2026, in vigore dal 1° nov. 2026 ([RU 2026 488](https://fedlex.data.admin.ch/eli/oc/2026/488)).
 
 #### Art. 12
 
@@ -237,7 +249,7 @@ Allegato 1[^t-1]
 
 ## Insediamenti svizzeri da proteggere d’importanza nazionale
 
-[^t-1]: Aggiornato dalle cifre I delle O del 19 mar. 2021 ([RU 2021 195](https://fedlex.data.admin.ch/eli/oc/2021/195)), dell’11 mar. 2022 ([RU 2022 174](https://fedlex.data.admin.ch/eli/oc/2022/174)), del 15 feb. 2023 ([RU 2023 78](https://fedlex.data.admin.ch/eli/oc/2023/78)), del 15 mar. 2024 ([RU 2024 114](https://fedlex.data.admin.ch/eli/oc/2024/114)), del 14 mar. 2025 ([RU 2025 170](https://fedlex.data.admin.ch/eli/oc/2025/170)) e del 22 apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 178](https://fedlex.data.admin.ch/eli/oc/2026/178)).
+[^t-1]: Aggiornato dalle cifre I delle O del 19 mar. 2021 ([RU 2021 195](https://fedlex.data.admin.ch/eli/oc/2021/195)), dell’11 mar. 2022 ([RU 2022 174](https://fedlex.data.admin.ch/eli/oc/2022/174)), del 15 feb. 2023 ([RU 2023 78](https://fedlex.data.admin.ch/eli/oc/2023/78)), del 15 mar. 2024 ([RU 2024 114](https://fedlex.data.admin.ch/eli/oc/2024/114)), del 14 mar. 2025 ([RU 2025 170](https://fedlex.data.admin.ch/eli/oc/2025/170)), del 22 apr. 2026 ([RU 2026 178](https://fedlex.data.admin.ch/eli/oc/2026/178)) e dalla cifra II dell’O del 18 set. 2026, in vigore dal 1° nov. 2026 ([RU 2026 488](https://fedlex.data.admin.ch/eli/oc/2026/488)).
 
 <table>
 <tr><th>Cantone</th><th>N.</th><th>Oggetto</th><th>Categoria di agglomerato</th></tr>
@@ -412,7 +424,6 @@ Allegato 1[^t-1]
 <tr><td>BE</td><td>919</td><td>Moosaffoltern (Rapperswil)</td><td>Weiler</td></tr>
 <tr><td>BE</td><td>922</td><td>Möriswil (Wohlen bei Bern)</td><td>Weiler</td></tr>
 <tr><td>BE</td><td>927</td><td>Mötschwil</td><td>Weiler</td></tr>
-<tr><td>BE</td><td>929</td><td>Moutier</td><td>village urbanisé</td></tr>
 <tr><td>BE</td><td>931</td><td>Mühleberg, Kraftwerk (Mühleberg)</td><td>Spezialfall</td></tr>
 <tr><td>BE</td><td>934</td><td>Mülchi</td><td>Dorf</td></tr>
 <tr><td>BE</td><td>940</td><td>Münchenwiler</td><td>Dorf</td></tr>
@@ -608,11 +619,11 @@ Allegato 1[^t-1]
 <tr><td>GR</td><td>1934</td><td>Almens (Domleschg)</td><td>Dorf</td></tr>
 <tr><td>GR</td><td>1935</td><td>Alvaneu (Albula/Alvra)</td><td>Dorf</td></tr>
 <tr><td>GR</td><td>1937</td><td>Alvaschein (Albula/Alvra)</td><td>Dorf</td></tr>
-<tr><td>GR</td><td>1938</td><td>Andeer</td><td>vitg</td></tr>
+<tr><td>GR</td><td>1938</td><td>Andeer</td><td>Dorf</td></tr>
 <tr><td>GR</td><td>1943</td><td>Ardez (Scuol)</td><td>vitg</td></tr>
 <tr><td>GR</td><td>1946</td><td>Augio (Rossa)</td><td>villaggio</td></tr>
 <tr><td>GR</td><td>1950</td><td>Bergün/Bravuogn (Bergün Filisur)</td><td>vitg</td></tr>
-<tr><td>GR</td><td>1951</td><td>Bever</td><td>vitg</td></tr>
+<tr><td>GR</td><td>1951</td><td>Bever</td><td>Dorf</td></tr>
 <tr><td>GR</td><td>1953</td><td>Bodio/Cauco (Calanca)</td><td>villaggio</td></tr>
 <tr><td>GR</td><td>6292</td><td>Bondo (Bregaglia)</td><td>villaggio</td></tr>
 <tr><td>GR</td><td>2320</td><td>Borgonovo (Bregaglia)</td><td>villaggio</td></tr>
@@ -639,7 +650,9 @@ Allegato 1[^t-1]
 <tr><td>GR</td><td>2049</td><td>Fürstenau</td><td>Kleinstadt/Flecken</td></tr>
 <tr><td>GR</td><td>2059</td><td>Guarda (Scuol)</td><td>vitg</td></tr>
 <tr><td>GR</td><td>2060</td><td>Haldenstein</td><td>Dorf</td></tr>
+<tr><td>GR</td><td>2061</td><td>Hinterrhein (Rheinwald)</td><td>Dorf</td></tr>
 <tr><td>GR</td><td>2063</td><td>Ilanz (Ilanz/Glion)</td><td>Kleinstadt/Flecken</td></tr>
+<tr><td>GR</td><td>2065</td><td>Jenaz</td><td>Dorf</td></tr>
 <tr><td>GR</td><td>2066</td><td>Jenins</td><td>Dorf</td></tr>
 <tr><td>GR</td><td>2075</td><td>Landarenca (Calanca)</td><td>casale/piccolo villaggio</td></tr>
 <tr><td>GR</td><td>2080</td><td>Latsch (Bergün Filisur)</td><td>vitg</td></tr>
@@ -657,25 +670,24 @@ Allegato 1[^t-1]
 <tr><td>GR</td><td>2123</td><td>Mulegns (Surses)</td><td>vitg</td></tr>
 <tr><td>GR</td><td>2125</td><td>Müstair (Val Müstair)</td><td>vitg</td></tr>
 <tr><td>GR</td><td>2130</td><td>Obermutten (Thusis)</td><td>Weiler</td></tr>
-<tr><td>GR</td><td>2146</td><td>Pignia (Andeer)</td><td>vitg</td></tr>
-<tr><td>GR</td><td>2153</td><td>Pontresina</td><td>cas spezial</td></tr>
+<tr><td>GR</td><td>2146</td><td>Pignia (Andeer)</td><td>Dorf</td></tr>
+<tr><td>GR</td><td>2153</td><td>Pontresina</td><td>Spezialfall</td></tr>
 <tr><td>GR</td><td>2155</td><td>Poschiavo</td><td>villaggio urbanizzato</td></tr>
 <tr><td>GR</td><td>2159</td><td>Präz (Cazis)</td><td>Dorf</td></tr>
 <tr><td>GR</td><td>2326</td><td>Promontogno (Bregaglia)</td><td>villaggio</td></tr>
 <tr><td>GR</td><td>2161</td><td>Punt, La (La Punt Chamues-ch)</td><td>cas spezial</td></tr>
 <tr><td>GR</td><td>2163</td><td>Putz (Luzein)</td><td>Weiler</td></tr>
-<tr><td>GR</td><td>2171</td><td>Reichenau (Tamins)</td><td>Spezialfall</td></tr>
-<tr><td>GR</td><td>2172</td><td>Reischen (Zillis-Reischen)</td><td>fracziun</td></tr>
+<tr><td>GR</td><td>2171</td><td>Reichenau (Tamins, Domat/Ems, Bonaduz)</td><td>Spezialfall</td></tr>
+<tr><td>GR</td><td>2172</td><td>Reischen (Zillis-Reischen)</td><td>Weiler</td></tr>
 <tr><td>GR</td><td>2176</td><td>Riom (Surses)</td><td>vitg</td></tr>
 <tr><td>GR</td><td>2181</td><td>Rossa</td><td>villaggio</td></tr>
-<tr><td>GR</td><td>2183</td><td>Roveredo con Ai Rogg, Beffeno, Carasole, Guerra, Mot, Rugno, San Fedele, San Giulio (Roveredo)</td><td>villaggio urbanizzato</td></tr>
+<tr><td>GR</td><td>2188</td><td>S-chanf</td><td>vitg</td></tr>
 <tr><td>GR</td><td>2194</td><td>Salouf (Surses)</td><td>vitg</td></tr>
 <tr><td>GR</td><td>2201</td><td>Santa Domenica (Rossa)</td><td>villaggio</td></tr>
 <tr><td>GR</td><td>2195</td><td>Samedan</td><td>vitg urban</td></tr>
 <tr><td>GR</td><td>2199</td><td>San Vittore</td><td>villaggio</td></tr>
 <tr><td>GR</td><td>2203</td><td>Santa Maria in Calanca</td><td>villaggio</td></tr>
 <tr><td>GR</td><td>2202</td><td>Santa Maria Val Müstair (Val Müstair)</td><td>vitg</td></tr>
-<tr><td>GR</td><td>2188</td><td>S-chanf</td><td>vitg</td></tr>
 <tr><td>GR</td><td>2209</td><td>Scharans</td><td>Dorf</td></tr>
 <tr><td>GR</td><td>2213</td><td>Schlans (Trun)</td><td>vitg</td></tr>
 <tr><td>GR</td><td>6285</td><td>Schloss Sins (Domleschg)</td><td>Spezialfall</td></tr>
@@ -702,13 +714,14 @@ Allegato 1[^t-1]
 <tr><td>GR</td><td>2277</td><td>Trun</td><td>vitg urban</td></tr>
 <tr><td>GR</td><td>2283</td><td>Tschlin (Valsot)</td><td>vitg</td></tr>
 <tr><td>GR</td><td>2295</td><td>Valendas (Safiental)</td><td>Dorf</td></tr>
+<tr><td>GR</td><td>2296</td><td>Vals-Platz (Vals)</td><td>Dorf</td></tr>
 <tr><td>GR</td><td>2300</td><td>Vella (Lumnezia)</td><td>vitg</td></tr>
 <tr><td>GR</td><td>2331</td><td>Vicosoprano (Bregaglia)</td><td>villaggio</td></tr>
 <tr><td>GR</td><td>2305</td><td>Vnà (Valsot)</td><td>vitg</td></tr>
 <tr><td>GR</td><td>2306</td><td>Vrin (Lumnezia)</td><td>vitg</td></tr>
 <tr><td>GR</td><td>2309</td><td>Waltensburg/Vuorz (Breil/Brigels)</td><td>vitg</td></tr>
 <tr><td>GR</td><td>2313</td><td>Zernez</td><td>vitg urban</td></tr>
-<tr><td>GR</td><td>2315</td><td>Zillis (Zillis-Reischen)</td><td>vitg</td></tr>
+<tr><td>GR</td><td>2315</td><td>Zillis (Zillis-Reischen)</td><td>Dorf</td></tr>
 <tr><td>GR</td><td>2318</td><td>Zuoz</td><td>vitg</td></tr>
 <tr><td>JU</td><td>2332</td><td>Alle</td><td>village urbanisé</td></tr>
 <tr><td>JU</td><td>2338</td><td>Beurnevésin</td><td>village</td></tr>
@@ -730,6 +743,7 @@ Allegato 1[^t-1]
 <tr><td>JU</td><td>2399</td><td>Miécourt (La Baroche)</td><td>village</td></tr>
 <tr><td>JU</td><td>2402</td><td>Montenol (Clos du Doubs)</td><td>hameau</td></tr>
 <tr><td>JU</td><td>2405</td><td>Montignez (Basse-Allaine)</td><td>village</td></tr>
+<tr><td>JU</td><td>929</td><td>Moutier</td><td>village urbanisé</td></tr>
 <tr><td>JU</td><td>2410</td><td>Muriaux</td><td>village</td></tr>
 <tr><td>JU</td><td>2411</td><td>Noirmont, Le</td><td>village urbanisé</td></tr>
 <tr><td>JU</td><td>2415</td><td>Peuchapatte, Le (Muriaux)</td><td>hameau</td></tr>

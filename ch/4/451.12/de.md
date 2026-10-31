@@ -4,11 +4,11 @@ title: Verordnung vom 13. November 2019 über das Bundesinventar der schützensw
 short: VISOS
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/673"
 language: de
-version: 2026-06-01
+version: 2026-11-01
 adopted: 2019-11-13
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/673/20260601/de/xml/fedlex-data-admin-ch-eli-cc-2019-673-20260601-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/673/20260601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/673/20261101/de/xml/fedlex-data-admin-ch-eli-cc-2019-673-20261101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/673/20261101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,15 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/673/20260601/de"
 
 (VISOS)
 
-vom 13. November 2019 (Stand am 1. Juni 2026)
+vom 13. November 2019 (Stand am 1. November 2026)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf Artikel 5 des Bundesgesetzes vom 1. Juli 1966[^ingress-1] über den Natur- und Heimatschutz (NHG),
+gestützt auf die Artikel 5 Absatz 1 und 26 des Bundesgesetzes vom 1. Juli 1966[^ingress-1] über den Natur- und Heimatschutz (NHG),[^ingress-2]
 
 verordnet:
 
 [^ingress-1]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^ingress-2]: Fassung gemäss Ziff. I der V vom 18. Sept. 2026, in Kraft seit 1. Nov. 2026 ([AS 2026 488](https://fedlex.data.admin.ch/eli/oc/2026/488)).
 
 #### Art. 1
 
@@ -173,13 +174,15 @@ Die folgenden Nebenkriterien können die Bewertung eines Ortsbilds beeinflussen:
 
 Gestützt auf die Bewertung wird ihnen eines der folgenden Erhaltungsziele zugewiesen:
 
-- a. *Erhalten der Substanz beziehungsweise der Beschaffenheit als Kulturland oder Freifläche:* Erhalten der Substanz bedeutet, alle Bauten, Anlageteile und Freiräume integral zu erhalten und bestehende Beeinträchtigungen zu beseitigen; Erhalten der Beschaffenheit als Kulturland oder Freifläche bedeutet, die für das Ortsbild wesentliche Vegetation und Altbauten zu bewahren und bestehende Beeinträchtigungen zu beseitigen;
-- b. *Erhalten der Struktur:* Erhalten der Struktur bedeutet, die Anordnung und die Gestalt der Bauten und Freiräume zu bewahren und die für die Struktur wesentlichen Elemente und Merkmale integral zu erhalten;
-- c. *Erhalten des Charakters:* Erhalten des Charakters bedeutet, das Gleichgewicht zwischen Alt- und Neubauten zu bewahren und die den ursprünglichen Erbauungsgrund illustrierenden und für den Charakter wesentlichen Elemente integral zu erhalten.
+- a. *Erhalten der Substanz beziehungsweise der Freifläche:* Erhalten der Substanz bedeutet, alle Bauten, Anlageteile und Freiräume integral zu erhalten und bestehende Beeinträchtigungen zu beseitigen; Erhalten der Freifläche bedeutet, die Beschaffenheit als Kulturland oder als Freiraum sowie die für das Ortsbild wesentliche Vegetation und wesentlichen Altbauten zu erhalten und bestehende Beeinträchtigungen zu beseitigen.
+- b. *Erhalten der Struktur:* Erhalten der Struktur bedeutet, die Anordnung und die Gestalt von Bauten und Freiräumen sowie die für die Struktur wesentlichen Elemente und Merkmale zu erhalten.
+- c. *Erhalten des Charakters:* Erhalten des Charakters bedeutet, baukulturelle Qualitäten im Zusammenwirken von Alt- und Neubauten zu erhalten oder herzustellen sowie die Elemente zu erhalten, die die Entstehung des Ortsbildteils illustrieren und für dessen Charakter wesentlich sind.[^9-1]
 
 <sup>5</sup> Ortsbildteile mit Beziehungswert werden einzig nach ihrem Stellenwert im Ortsbild bewertet. In ihnen sind negative Einwirkungen auf die Ortsbildteile mit Eigenwert zu vermeiden.
 
 <sup>6</sup> Mit der Umsetzung der Erhaltungsziele soll erreicht werden, dass die Qualitäten der Ortsbilder ungeschmälert erhalten bleiben, jedenfalls aber die grösstmögliche Schonung erfahren.
+
+[^9-1]: Fassung gemäss Ziff. I der V vom 18. Sept. 2026, in Kraft seit 1. Nov. 2026 ([AS 2026 488](https://fedlex.data.admin.ch/eli/oc/2026/488)).
 
 #### Art. 10
 
@@ -187,21 +190,30 @@ Gestützt auf die Bewertung wird ihnen eines der folgenden Erhaltungsziele zugew
 
 <sup>1</sup> Bei der Erfüllung von Bundesaufgaben stellen Eingriffe, die keine Auswirkungen auf die Erreichung der Erhaltungsziele haben, keine Beeinträchtigung der Objekte dar und sind zulässig. Ebenfalls zulässig sind geringfügige Beeinträchtigungen eines Objekts, wenn sie sich durch ein überwiegendes Interesse rechtfertigen lassen.
 
+<sup>1bis</sup> Beruht die Erfüllung einer Bundesaufgabe bei Eingriffen innerhalb der Bauzonen allein auf einer bundesrechtlichen Bewilligung im Sinne von Artikel 2 Absatz 1 Buchstabe b NHG, so sind solche Eingriffe in ein Objekt aus der Sicht des Ortsbildschutzes zulässig, sofern das mit der Bewilligung zu beurteilende Element keine Auswirkungen auf das Ortsbild hat. Für diese Eingriffe besteht keine Pflicht zur Begutachtung durch eine eidgenössische Kommission gemäss Artikel 7 Absatz 2 NHG.[^10-1]
+
 <sup>2</sup> Bei schwerwiegenden Eingriffen in ein Objekt bei Erfüllung einer Bundesaufgabe darf eine Interessenabwägung nur vorgenommen werden, wenn bestimmte gleich- oder höherwertige Interessen von nationaler Bedeutung vorliegen. Schwerwiegende Beeinträchtigungen eines Objekts sind nur zulässig, wenn sie sich durch ein überwiegendes Interesse von ebenfalls nationaler Bedeutung rechtfertigen lassen.
 
 <sup>3</sup> Hängen mehrere Eingriffe sachlich, räumlich oder zeitlich zusammen, die einzeln als zulässig zu beurteilen sind, oder sind Folgeeingriffe eines zulässigen Eingriffs zu erwarten, so ist auch die Gesamtwirkung auf das Objekt zu beurteilen.
 
 <sup>4</sup> Erweist sich eine Beeinträchtigung aufgrund der Interessenabwägung als zulässig, so muss sie sich auf ein Mindestmass beschränken. Dabei hat der Verursacher oder die Verursacherin das Gebot der grösstmöglichen Schonung der baukulturellen, insbesondere städtebaulichen Qualitäten des Objekts zu beachten.
 
+[^10-1]: Eingefügt durch Ziff. I der V vom 18. Sept. 2026, in Kraft seit 1. Nov. 2026 ([AS 2026 488](https://fedlex.data.admin.ch/eli/oc/2026/488)).
+
 #### Art. 11
 
-**Berücksichtigung durch die Kantone**
+**Berücksichtigung durch die Kantone und Gemeinden[^11-1]**
 
-<sup>1</sup> Die Kantone berücksichtigen das ISOS bei ihren Planungen, insbesondere in der Richtplanung nach den Artikeln 6–12 des Raumplanungsgesetzes vom 22. Juni 1979[^11-1] (RPG).
+<sup>1</sup> Die Kantone berücksichtigen das ISOS bei ihren Planungen, insbesondere in der Richtplanung nach den Artikeln 6–12 des Raumplanungsgesetzes vom 22. Juni 1979[^11-2] (RPG).
 
 <sup>2</sup> Sie sorgen dafür, dass das ISOS auf der Grundlage der kantonalen Richtpläne berücksichtigt wird, insbesondere bei der Nutzungsplanung nach den Artikeln 14–20 RPG.
 
-[^11-1]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
+<sup>3</sup> Die Kantone und Gemeinden können bei ihren Planungen von den Erhaltungszielen abweichen, wenn aufgrund der Interessenabwägung nach Artikel 3 der Raumplanungsverordnung vom 28. Juni 2000[^11-3] andere Interessen überwiegen.[^11-4]
+
+[^11-1]: Fassung gemäss Ziff. I der V vom 18. Sept. 2026, in Kraft seit 1. Nov. 2026 ([AS 2026 488](https://fedlex.data.admin.ch/eli/oc/2026/488)).
+[^11-2]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
+[^11-3]: [SR 700.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8353)
+[^11-4]: Eingefügt durch Ziff. I der V vom 18. Sept. 2026, in Kraft seit 1. Nov. 2026 ([AS 2026 488](https://fedlex.data.admin.ch/eli/oc/2026/488)).
 
 #### Art. 12
 
@@ -237,7 +249,7 @@ Anhang 1[^t-1]
 
 ## Schützenswerte Ortsbilder von nationaler Bedeutung
 
-[^t-1]: Bereinigt gemäss Ziff. I der V vom 19. März 2021 ([AS 2021 195](https://fedlex.data.admin.ch/eli/oc/2021/195)), vom 11. März 2022 ([AS 2022 174](https://fedlex.data.admin.ch/eli/oc/2022/174)), vom 15. Febr. 2023 ([AS 2023 78](https://fedlex.data.admin.ch/eli/oc/2023/78)), vom 15. März 2024 ([AS 2024 114](https://fedlex.data.admin.ch/eli/oc/2024/114)) und vom 14. März 2025 ([AS 2025 170](https://fedlex.data.admin.ch/eli/oc/2025/170)) und vom 22. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 178](https://fedlex.data.admin.ch/eli/oc/2026/178)).
+[^t-1]: Bereinigt gemäss Ziff. I der V vom 19. März 2021 ([AS 2021 195](https://fedlex.data.admin.ch/eli/oc/2021/195)), vom 11. März 2022 ([AS 2022 174](https://fedlex.data.admin.ch/eli/oc/2022/174)), vom 15. Febr. 2023 ([AS 2023 78](https://fedlex.data.admin.ch/eli/oc/2023/78)), vom 15. März 2024 ([AS 2024 114](https://fedlex.data.admin.ch/eli/oc/2024/114)), vom 14. März 2025 ([AS 2025 170](https://fedlex.data.admin.ch/eli/oc/2025/170)), vom 22. April 2026 ([AS 2026 178](https://fedlex.data.admin.ch/eli/oc/2026/178)) und Ziff. II der V vom 18. Sept. 2026, in Kraft seit 1. Nov. 2026 ([AS 2026 488](https://fedlex.data.admin.ch/eli/oc/2026/488)).
 
 <table>
 <tr><th>Kanton</th><th>Nr.</th><th>Objekt</th><th>Siedlungskategorie</th></tr>
@@ -412,7 +424,6 @@ Anhang 1[^t-1]
 <tr><td>BE</td><td>919</td><td>Moosaffoltern (Rapperswil)</td><td>Weiler</td></tr>
 <tr><td>BE</td><td>922</td><td>Möriswil (Wohlen bei Bern)</td><td>Weiler</td></tr>
 <tr><td>BE</td><td>927</td><td>Mötschwil</td><td>Weiler</td></tr>
-<tr><td>BE</td><td>929</td><td>Moutier</td><td>village urbanisé</td></tr>
 <tr><td>BE</td><td>931</td><td>Mühleberg, Kraftwerk (Mühleberg)</td><td>Spezialfall</td></tr>
 <tr><td>BE</td><td>934</td><td>Mülchi</td><td>Dorf</td></tr>
 <tr><td>BE</td><td>940</td><td>Münchenwiler</td><td>Dorf</td></tr>
@@ -608,11 +619,11 @@ Anhang 1[^t-1]
 <tr><td>GR</td><td>1934</td><td>Almens (Domleschg)</td><td>Dorf</td></tr>
 <tr><td>GR</td><td>1935</td><td>Alvaneu (Albula/Alvra)</td><td>Dorf</td></tr>
 <tr><td>GR</td><td>1937</td><td>Alvaschein (Albula/Alvra)</td><td>Dorf</td></tr>
-<tr><td>GR</td><td>1938</td><td>Andeer</td><td>vitg</td></tr>
+<tr><td>GR</td><td>1938</td><td>Andeer</td><td>Dorf</td></tr>
 <tr><td>GR</td><td>1943</td><td>Ardez (Scuol)</td><td>vitg</td></tr>
 <tr><td>GR</td><td>1946</td><td>Augio (Rossa)</td><td>villaggio</td></tr>
 <tr><td>GR</td><td>1950</td><td>Bergün/Bravuogn (Bergün Filisur)</td><td>vitg</td></tr>
-<tr><td>GR</td><td>1951</td><td>Bever</td><td>vitg</td></tr>
+<tr><td>GR</td><td>1951</td><td>Bever</td><td>Dorf</td></tr>
 <tr><td>GR</td><td>1953</td><td>Bodio/Cauco (Calanca)</td><td>villaggio</td></tr>
 <tr><td>GR</td><td>6292</td><td>Bondo (Bregaglia)</td><td>villaggio</td></tr>
 <tr><td>GR</td><td>2320</td><td>Borgonovo (Bregaglia)</td><td>villaggio</td></tr>
@@ -639,7 +650,9 @@ Anhang 1[^t-1]
 <tr><td>GR</td><td>2049</td><td>Fürstenau</td><td>Kleinstadt/Flecken</td></tr>
 <tr><td>GR</td><td>2059</td><td>Guarda (Scuol)</td><td>vitg</td></tr>
 <tr><td>GR</td><td>2060</td><td>Haldenstein</td><td>Dorf</td></tr>
+<tr><td>GR</td><td>2061</td><td>Hinterrhein (Rheinwald)</td><td>Dorf</td></tr>
 <tr><td>GR</td><td>2063</td><td>Ilanz (Ilanz/Glion)</td><td>Kleinstadt/Flecken</td></tr>
+<tr><td>GR</td><td>2065</td><td>Jenaz</td><td>Dorf</td></tr>
 <tr><td>GR</td><td>2066</td><td>Jenins</td><td>Dorf</td></tr>
 <tr><td>GR</td><td>2075</td><td>Landarenca (Calanca)</td><td>casale/piccolo villaggio</td></tr>
 <tr><td>GR</td><td>2080</td><td>Latsch (Bergün Filisur)</td><td>vitg</td></tr>
@@ -657,18 +670,17 @@ Anhang 1[^t-1]
 <tr><td>GR</td><td>2123</td><td>Mulegns (Surses)</td><td>vitg</td></tr>
 <tr><td>GR</td><td>2125</td><td>Müstair (Val Müstair)</td><td>vitg</td></tr>
 <tr><td>GR</td><td>2130</td><td>Obermutten (Thusis)</td><td>Weiler</td></tr>
-<tr><td>GR</td><td>2146</td><td>Pignia (Andeer)</td><td>vitg</td></tr>
-<tr><td>GR</td><td>2153</td><td>Pontresina</td><td>cas spezial</td></tr>
+<tr><td>GR</td><td>2146</td><td>Pignia (Andeer)</td><td>Dorf</td></tr>
+<tr><td>GR</td><td>2153</td><td>Pontresina</td><td>Spezialfall</td></tr>
 <tr><td>GR</td><td>2155</td><td>Poschiavo</td><td>villaggio urbanizzato</td></tr>
 <tr><td>GR</td><td>2159</td><td>Präz (Cazis)</td><td>Dorf</td></tr>
 <tr><td>GR</td><td>2326</td><td>Promontogno (Bregaglia)</td><td>villaggio</td></tr>
 <tr><td>GR</td><td>2161</td><td>Punt, La (La Punt Chamues-ch)</td><td>cas spezial</td></tr>
 <tr><td>GR</td><td>2163</td><td>Putz (Luzein)</td><td>Weiler</td></tr>
-<tr><td>GR</td><td>2171</td><td>Reichenau (Tamins)</td><td>Spezialfall</td></tr>
-<tr><td>GR</td><td>2172</td><td>Reischen (Zillis-Reischen)</td><td>fracziun</td></tr>
+<tr><td>GR</td><td>2171</td><td>Reichenau (Tamins, Domat/Ems, Bonaduz)</td><td>Spezialfall</td></tr>
+<tr><td>GR</td><td>2172</td><td>Reischen (Zillis-Reischen)</td><td>Weiler</td></tr>
 <tr><td>GR</td><td>2176</td><td>Riom (Surses)</td><td>vitg</td></tr>
 <tr><td>GR</td><td>2181</td><td>Rossa</td><td>villaggio</td></tr>
-<tr><td>GR</td><td>2183</td><td>Roveredo con Ai Rogg, Beffeno, Carasole, Guerra, Mot, Rugno, San Fedele, San Giulio (Roveredo)</td><td>villaggio urbanizzato</td></tr>
 <tr><td>GR</td><td>2194</td><td>Salouf (Surses)</td><td>vitg</td></tr>
 <tr><td>GR</td><td>2195</td><td>Samedan</td><td>vitg urban</td></tr>
 <tr><td>GR</td><td>2201</td><td>Santa Domenica (Rossa)</td><td>villaggio</td></tr>
@@ -702,13 +714,14 @@ Anhang 1[^t-1]
 <tr><td>GR</td><td>2277</td><td>Trun</td><td>vitg urban</td></tr>
 <tr><td>GR</td><td>2283</td><td>Tschlin (Valsot)</td><td>vitg</td></tr>
 <tr><td>GR</td><td>2295</td><td>Valendas (Safiental)</td><td>Dorf</td></tr>
+<tr><td>GR</td><td>2296</td><td>Vals-Platz (Vals)</td><td>Dorf</td></tr>
 <tr><td>GR</td><td>2300</td><td>Vella (Lumnezia)</td><td>vitg</td></tr>
 <tr><td>GR</td><td>2331</td><td>Vicosoprano (Bregaglia)</td><td>villaggio</td></tr>
 <tr><td>GR</td><td>2305</td><td>Vnà (Valsot)</td><td>vitg</td></tr>
 <tr><td>GR</td><td>2306</td><td>Vrin (Lumnezia)</td><td>vitg</td></tr>
 <tr><td>GR</td><td>2309</td><td>Waltensburg/Vuorz (Breil/Brigels)</td><td>vitg</td></tr>
 <tr><td>GR</td><td>2313</td><td>Zernez</td><td>vitg urban</td></tr>
-<tr><td>GR</td><td>2315</td><td>Zillis (Zillis-Reischen)</td><td>vitg</td></tr>
+<tr><td>GR</td><td>2315</td><td>Zillis (Zillis-Reischen)</td><td>Dorf</td></tr>
 <tr><td>GR</td><td>2318</td><td>Zuoz</td><td>vitg</td></tr>
 <tr><td>JU</td><td>2332</td><td>Alle</td><td>village urbanisé</td></tr>
 <tr><td>JU</td><td>2338</td><td>Beurnevésin</td><td>village</td></tr>
@@ -730,6 +743,7 @@ Anhang 1[^t-1]
 <tr><td>JU</td><td>2399</td><td>Miécourt (La Baroche)</td><td>village</td></tr>
 <tr><td>JU</td><td>2402</td><td>Montenol (Clos du Doubs)</td><td>hameau</td></tr>
 <tr><td>JU</td><td>2405</td><td>Montignez (Basse-Allaine)</td><td>village</td></tr>
+<tr><td>JU</td><td>929</td><td>Moutier</td><td>village urbanisé</td></tr>
 <tr><td>JU</td><td>2410</td><td>Muriaux</td><td>village</td></tr>
 <tr><td>JU</td><td>2411</td><td>Noirmont, Le</td><td>village urbanisé</td></tr>
 <tr><td>JU</td><td>2415</td><td>Peuchapatte, Le (Muriaux)</td><td>hameau</td></tr>
@@ -931,7 +945,7 @@ Anhang 1[^t-1]
 <tr><td>SO</td><td>3205</td><td>St. Wolfgang (Balsthal)</td><td>Spezialfall</td></tr>
 <tr><td>SO</td><td>3212</td><td>Tscheppach</td><td>Dorf</td></tr>
 <tr><td>SO</td><td>6182</td><td>Verenaschlucht, Kulturlandschaft (Rüttenen)</td><td>Spezialfall</td></tr>
-<tr><td>SO</td><td>3198</td><td>Waldegg/Feldbrunnen (Feldbrunnen‑St. Niklaus)</td><td>Spezialfall</td></tr>
+<tr><td>SO</td><td>3198</td><td>Waldegg/Feldbrunnen (Feldbrunnen‑ St. Niklaus)</td><td>Spezialfall</td></tr>
 <tr><td>SZ</td><td>3235</td><td>Arth</td><td>Dorf</td></tr>
 <tr><td>SZ</td><td>3241</td><td>Biberegg (Rothenthurm)</td><td>Weiler</td></tr>
 <tr><td>SZ</td><td>3242</td><td>Brunnen (Ingenbohl)</td><td>Verstädtertes Dorf</td></tr>
