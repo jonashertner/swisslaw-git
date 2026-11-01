@@ -4,13 +4,12 @@ number: "170.310"
 title: Regierungs- und Verwaltungsorganisationsverordnung
 short: RVOV
 language: de
-version: 2025-04-01
-corrected: 2026-09-23
-version_adopted: 2025-02-18
+version: 2026-11-02
+version_adopted: 2026-09-22
 adopted: 2006-10-24
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/170.310"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3532/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3776/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3532/pdf_file"
 
 (RVOV)
 
-Vom 24.10.2006 (Stand 01.04.2025)
+Vom 24.10.2006 (Stand 02.11.2026)
 
 Gestützt auf Art. 49 der Kantonsverfassung[^ingress-1] und Art. 24 des Regierungs- und Verwaltungsorganisationsgesetzes[^ingress-2]
 
@@ -113,7 +112,7 @@ von der Regierung erlassen am 24. Oktober 2006
 
 - a) Departement für Volkswirtschaft und Soziales
 - b) Departement für Justiz, Sicherheit und Gesundheit
-- c) Erziehungs-, Kultur- und Umweltschutzdepartement
+- c) Departement für Bildung, Umwelt und Kultur
 - d) Departement für Finanzen und Gemeinden
 - e) Departement für Infrastruktur, Energie und Mobilität
 - f) Standeskanzlei als Stabsstelle
@@ -213,5 +212,404 @@ von der Regierung erlassen am 24. Oktober 2006
 
 [^19-1]: BR [170.300](https://www.gr-lex.gr.ch/data/170.300/de)
 [^19-2]: 1. Januar 2007
+
+## A1 Anhang 1: Aufgabenbereiche und Gliederung der Departemente (Art. 10 und 11)
+
+### A1.1 Aufgabenbereiche der Departemente und der Standeskanzlei
+
+#### Art. A1-1
+
+**Departement für Volkswirtschaft und Soziales**
+
+<sup>1</sup> Volkswirtschaft:
+
+- a) Grundbuch:
+  - 1\. Grundbuchaufsicht
+  - 2\. bäuerliches Bodenrecht
+  - 3\. Grundstückserwerb durch Personen im Ausland
+- b) Handelsregister
+- c) Landwirtschaft:
+  - 1\. Agrarmassnahmen
+  - 2\. Kantonale Fördermassnahmen
+  - 3\. Strukturverbesserungen und ländliche Entwicklung
+  - 4\. Landwirtschaftliche Bildung und Beratung (Plantahof)
+- d) Geoinformation und amtliche Vermessung
+- e) Tierseuchen, Tierschutz, Lebensmittel, Chemikalien und Tabak
+- f) Industrie, Gewerbe und Arbeit:
+  - 1\. Arbeitsbedingungen
+  - 2\. Arbeitslosenversicherung und Arbeitsvermittlung
+  - 3\. Arbeitsinspektorat (Gesundheitsschutz, Arbeitssicherheit)
+  - 4\. Wirtschaftliche Landesversorgung
+  - 5\. Preisbekanntgabe und Konsumkredit
+- g) Tourismus:
+  - 1\. Fördermassnahmen
+  - 2\. Schneesport- und Bergführerwesen
+- h) Wirtschaft:
+  - 1\. Fördermassnahmen
+  - 2\. Standortentwicklung
+  - 3\. Regionalentwicklung
+  - 4\. Bestandespflege und Ansiedlungen
+- i) Statistik und Register
+- j) Raumentwicklung:
+  - 1\. Kantonale Raumordnungspolitik
+  - 2\. Richt- und Nutzungsplanungen
+  - 3\. Aufsicht kommunales Bau- und Planungswesen
+  - 4\. Bauen ausserhalb der Bauzonen
+- k) Wohnungsbau und Mietwesen
+- l) Seilbahnwesen
+- m) Europafragen und Welthandel
+
+<sup>2</sup> Soziales:
+
+- a) Sozialhilfe:
+  - 1\. Persönliche Hilfe
+  - 2\. Materielle Hilfe
+  - 3\. Pflegekinderwesen
+  - 4\. Aufsicht über die Kinderheime
+  - 5\. Integration behinderter Erwachsener
+  - 6\. Familienfragen
+  - 7\. Opferhilfe / Kindesschutz
+  - 8\. Suchthilfe
+  - 9\. Koordination gegen häusliche Gewalt
+- b) Sozialversicherungen:
+  - 1\. AHV-Ausgleichskasse
+  - 2\. IV-Stelle
+  - 3\. Familienausgleichskasse
+
+#### Art. A1-2
+
+**Departement für Justiz, Sicherheit und Gesundheit**
+
+<sup>1</sup> Justiz:
+
+- a) Justiz:
+  - 1\. Gerichtswesen
+  - 2\. Strafuntersuchung und ‑verfolgung
+  - 3\. Allgemeine Verfassungsfragen
+- b) Strafrecht und Strafvollzug:
+  - 1\. Allgemeines Strafrecht
+  - 2\. Straf- und Massnahmenvollzug
+- c) Bürger- und Zivilrecht:
+  - 1\. Einbürgerungen
+  - 2\. Zivilstandswesen
+  - 3\. Namensänderungen
+  - 4\. Adoptionen
+  - 5\. Kindes- und Erwachsenenschutzrecht
+- d) Anwalts- und Notariatswesen
+
+<sup>2</sup> Sicherheit:
+
+- a) Kantonspolizei:
+  - 1\. Allgemeine Polizeiaufgaben
+  - 2\. Verkehrspolizei
+  - 3\. Kriminalpolizei
+  - 4\. Sicherheitspolizei
+- b) Ausländerrecht:
+  - 1\. Fremdenpolizei
+  - 2\. Integration
+  - 3\. Asylwesen
+- c) Pass- und Patentwesen
+- d) Polizeiliche Aufsicht über die Kleinspiele
+- e) Eich- und Messwesen
+- f) Strassenverkehr:
+  - 1\. Verkehrssteuern
+  - 2\. Führer- und Fahrzeugprüfungen
+  - 3\. Sonderbewilligungen
+  - 4\. Administrativmassnahmen
+- g) Schifffahrt
+- h) Gebäudeversicherung:
+  - 1\. Gebäudeversicherung
+  - 2\. Elementarschäden
+- i) Feuerpolizei:
+  - 1\. Feuerverhütung
+  - 2\. Feuerbekämpfung
+- j) Militär
+  - 1\. Kreiskommando
+- k) Bevölkerungsschutz
+- l) Zivilschutz
+  - 1\. Bauten
+  - 2\. Ausbildung
+- m) Datenschutz
+- n) Kantonale Sicherheitskooperation
+  - 1\. Kantonaler Führungsstab
+  - 2\. Gemeindeführungsstäbe
+
+<sup>3</sup> Gesundheit:
+
+- a) Alters- und Pflegeheime:
+  - 1\. Beiträge
+  - 2\. Planung
+- b) Bestattungswesen
+- c) Betäubungsmittel
+- d) Gesundheitsförderung und Prävention
+- e) Gesundheitspolizei:
+  - 1\. Aufsicht
+  - 2\. Bewilligungen
+- f) Gesundheitsschutz
+- g) Heilmittel
+- h) Krankenversicherung:
+  - 1\. Prämienverbilligung
+  - 2\. Versicherungsobligatorium
+  - 3\. Tarife
+  - 4\. Zulassung und Aufsicht der Leistungserbringer
+- i) Psychiatrische Kliniken:
+  - 1\. Beiträge
+  - 2\. Planung
+- j) Rehabilitationskliniken:
+  - 1\. Beiträge
+  - 2\. Planung
+- k) Rettungswesen
+- l) Schularztdienst
+- m) Schulzahnpflege
+- n) Spitäler:
+  - 1\. Beiträge
+  - 2\. Planung
+- o) Spitex
+
+#### Art. A1-3
+
+**Departement für Bildung, Umwelt und Kultur**
+
+<sup>1</sup> Bildung:
+
+- a) Volksschule und Sonderschulung
+- b) Mittelschulen und Tertiärbildung
+- c) Berufsbildung und Berufsberatung
+- d) Sport und Sportförderung
+
+<sup>1<sup>bis</sup></sup> Umwelt:
+
+- a) Natur und Landschaft
+- b) Wasser und Abwasser
+- c) Abfall, Materialausbeutung und Boden
+- d) Luft, Lärm, Strahlen und Klima
+- e) Störfallvorsorge und Schadendienst
+
+<sup>2</sup> Kultur:
+
+- a) Kultur und Sprachförderung
+- b) Archäologie und Denkmalpflege
+- c) Staatsarchiv und Kantonsbibliothek
+- d) Kantonale Museen
+
+<sup>3</sup> …
+
+#### Art. A1-4
+
+**Departement für Finanzen und Gemeinden**
+
+<sup>1</sup> Finanzen:
+
+- a) Finanzpolitik
+- b) Finanzkontrolle
+- c) Finanzverwaltung:
+  - 1\. Finanz- und Rechnungswesen
+  - 2\. Tresorerie
+  - 3\. Stiftungsaufsicht
+  - 4\. Versicherungswesen
+  - 5\. Fachstelle IKS
+  - 6\. Public Corporate Governance
+- d) Personal
+- e) Pensionskasse
+- f) Steuern:
+  - 1\. Vollzug des kantonalen Steuergesetzes
+  - 2\. Vollzug der direkten Bundessteuer
+  - 3\. Gesetzgebung (allgemeine Steuern)
+  - 4\. Gemeindesteuern
+  - 5\. Unentgeltliche Rechtspflege (Stellungnahme vor Erteilung sowie Verpflichtung zur Rückforderung in verwaltungs-, zivil- und strafrechtlichen Verfahren)
+- g) Informatik
+- h) Immobilienbewertungen
+- i) Digitale Verwaltung
+
+<sup>2</sup> Gemeinden:
+
+- a) Gemeindeaufsicht
+- b) Gemeindereform
+- c) Finanzausgleich für Gemeinden
+
+#### Art. A1-5
+
+**Departement für Infrastruktur, Energie und Mobilität**
+
+<sup>1</sup> Bau:
+
+- a) Strassenbau und ‑unterhalt:
+  - 1\. Projektierung
+  - 2\. Strassenerhaltung
+  - 3\. Oberbauleitung
+  - 4\. Landerwerb und Administration
+- b) Wasserbau (Hochwasserschutz)
+- c) Hochbau:
+  - 1\. Bauvorhaben
+  - 2\. Bewirtschaftung für Immobilien
+
+<sup>2</sup> Wasser und Energie:
+
+- a) Wasserkraftnutzung
+- b) Energienutzung und ‑beratung[^A15-1]
+- c) Energieversorgung
+
+<sup>3</sup> Verkehr:
+
+- a) Koordinierte Verkehrspolitik
+- b) Öffentlicher Verkehr:
+  - 1\. Eisenbahnen
+  - 2\. Busbetriebe
+- c) Langsamverkehr
+- d) Luftverkehr
+
+<sup>4</sup> Wald und Naturgefahren:
+
+- a) Multifunktionale Waldbewirtschaftung:
+  - 1\. Schutzwald
+  - 2\. Lebensraum
+  - 3\. Holznutzung
+  - 4\. Planung und Erschliessung
+- b) Umgang mit Naturgefahren
+- c) Walderhaltung
+- d) Forstorganisation und Schulung
+
+<sup>5</sup> Jagd, Fischerei, Lebensraum- und Artenschutz:
+
+- a) Jagdaufsicht
+- b) Jagdplanung
+- c) Wildhege
+- d) Fischereiaufsicht
+- e) Fischereibewirtschaftung
+- f) Fischereibetrieb
+- g) Lebensraum- und Artenschutz
+
+[^A15-1]: Neue Bezeichnung «Energieeffizienz», vgl. RB-Nr. 630 vom 22. Mai 2007
+
+#### Art. A1-6
+
+**Standeskanzlei**
+
+<sup>1</sup> Standeskanzlei:
+
+- a) Allgemeine Stabsdienste für die Regierung
+- b) Führungsunterstützung für die Regierung
+- c) Informationsdienst für die Regierung
+- d) Koordination Aussenbeziehungen
+- e) Politische Rechte
+- f) Übersetzungsdienst für Regierung und kantonale Verwaltung
+- g) Formelle Gesetzgebung
+- h) Datenschutz (Aufsichtsstelle)
+- i) Zentrale Dienste (Postdienst, Drucksachen und Materialdienst, Legalisationen)
+- j) Protokolldienst für Anlässe der Regierung
+
+### A1.2 Gliederung der Departemente und der Standeskanzlei
+
+#### Art. A1-7
+
+**Departement für Volkswirtschaft und Soziales**
+
+<sup>1</sup> Das Departement für Volkswirtschaft und Soziales gliedert sich wie folgt:
+
+- a) Generalsekretariat
+- b) Amt für Grundbuch und Handelsregister
+- c) Plantahof
+- d) Amt für Landwirtschaft und Geoinformation
+- e) Veterinär- und Lebensmittelamt
+- f) Amt für Arbeit
+- g) Amt für Wirtschaft und Tourismus
+- h) Amt für Raumentwicklung
+- i) Amt für Soziales
+
+<sup>2</sup> Dem Departement für Volkswirtschaft und Soziales ist zugewiesen:
+
+- a) Sozialversicherungsanstalt
+
+#### Art. A1-8
+
+**Departement für Justiz, Sicherheit und Gesundheit**
+
+<sup>1</sup> Das Departement für Justiz, Sicherheit und Gesundheit gliedert sich wie folgt:
+
+- a) Generalsekretariat
+- b) Amt für Justizvollzug
+- c) Kantonspolizei
+- d) Amt für Migration und Zivilrecht
+- e) Strassenverkehrsamt
+- f) Amt für Bevölkerungsschutz und Militär
+- g) Gesundheitsamt
+- h) Staatsanwaltschaft
+- i) Kindes- und Erwachsenenschutzbehörden
+
+<sup>2</sup> Dem Departement für Justiz, Sicherheit und Gesundheit sind zugewiesen:
+
+- a) Psychiatrische Dienste Graubünden
+- b) Gebäudeversicherungsanstalt
+
+#### Art. A1-9
+
+**Departement für Bildung, Umwelt und Kultur**
+
+<sup>1</sup> Das Departement für Bildung, Umwelt und Kultur gliedert sich wie folgt:
+
+- a) Generalsekretariat (inkl. Stabsstelle für Gleichstellung)
+- b) Amt für Volksschule und Sport
+- c) Amt für Mittelschulen und Tertiärbildung
+- d) Amt für Berufsbildung
+- e) Amt für Kultur
+- f) Amt für Umwelt
+
+<sup>2</sup> Dem Departement für Bildung, Umwelt und Kultur sind zugewiesen:
+
+- a) Bildungszentrum Gesundheit und Soziales
+- b) Pädagogische Hochschule
+- c) Fachhochschule Graubünden
+
+#### Art. A1-10
+
+**Departement für Finanzen und Gemeinden**
+
+<sup>1</sup> Das Departement für Finanzen und Gemeinden gliedert sich wie folgt:
+
+- a) Generalsekretariat (inkl. Stabsstelle Digitale Verwaltung)
+- b) Amt für Immobilienbewertung
+- c) Finanzverwaltung
+- d) Personalamt
+- e) Steuerverwaltung
+- f) Amt für Informatik
+- g) Amt für Gemeinden
+- h) Finanzkontrolle (administrativ zugeordnet)
+
+<sup>2</sup> Dem Departement für Finanzen und Gemeinden sind zugewiesen:
+
+- a) Pensionskasse Graubünden
+- b) Graubündner Kantonalbank
+
+#### Art. A1-11
+
+**Departement für infrastruktur, Energie und Mobilität**
+
+<sup>1</sup> Das Departement für Infrastruktur, Energie und Mobilität gliedert sich wie folgt:
+
+- a) Generalsekretariat
+- b) Hochbauamt
+- c) Amt für Energie und Verkehr
+- d) Tiefbauamt
+- e) Amt für Wald und Naturgefahren
+- f) Amt für Jagd und Fischerei
+
+<sup>2</sup> Dem Departement für Infrastruktur, Energie und Mobilität ist zugewiesen:
+
+- a) Bildungszentrum Wald Maienfeld
+
+#### Art. A1-12
+
+**Standeskanzlei**
+
+<sup>1</sup> Die Standeskanzlei gliedert sich wie folgt:
+
+- a) Führungsunterstützung
+- b) Allgemeine Dienste
+- c) Sekretariat Kanzleidirektion
+- d) Ratssekretariat
+
+<sup>2</sup> Der Standeskanzlei ist zugewiesen:
+
+- a) Datenschutzaufsichtsstelle
 
 -
