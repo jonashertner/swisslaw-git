@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Iv. pa. 25.403. Modifica della legge sulle scuole svizzere all’estero
 document: Progetto posto in consultazione
 language: it

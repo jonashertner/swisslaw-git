@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Pa. Iv. 25.403. Änderung des Schweizerschulengesetzes
 document: Vernehmlassungsvorlage
 language: de
