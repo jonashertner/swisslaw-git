@@ -4,12 +4,12 @@ number: "952.300"
 title: Verordnung betreffend die ausnahmsweise Zufahrt in die Innenstadt
 short: Zufahrtsverordnung
 language: de
-version: 2023-07-01
-version_adopted: 2023-06-27
+version: 2026-11-03
+version_adopted: 2026-10-20
 adopted: 2013-08-13
 in_force: 2014-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/952.300"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5951/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/7076/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -20,7 +20,7 @@ Strassenverkehr
 
 (Zufahrtsverordnung)
 
-Vom 13. August 2013 (Stand 1. Juli 2023)
+Vom 13. August 2013 (Stand 3. November 2026)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
