@@ -3,11 +3,11 @@ sr: "361.2"
 title: "Ordinanza del 15 ottobre 2008 sul sistema informatizzato di gestione e indice informatizzato delle persone e dei fascicoli dell'Ufficio federale di polizia (Ordinanza IPAS)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/700"
 language: it
-version: 2026-11-01
+version: 2026-11-05
 adopted: 2008-10-15
 in_force: 2008-12-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/700/20261101/it/xml/fedlex-data-admin-ch-eli-cc-2008-700-20261101-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/700/20261101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/700/20261105/it/xml/fedlex-data-admin-ch-eli-cc-2008-700-20261105-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/700/20261105/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/700/20261101/it"
 
 (Ordinanza IPAS)
 
-del 15 ottobre 2008 (Stato 1° novembre 2026)
+del 15 ottobre 2008 (Stato 5 novembre 2026)
 
 Il Consiglio federale svizzero,
 
@@ -34,7 +34,7 @@ ordina:
 
 <sup>1</sup>
 
-La presente ordinanza disciplina, per il sistema informatizzato IPAS, ai sensi degli articoli 12, 14 e 18 LSIP:
+La presente ordinanza disciplina, per il sistema informatizzato IPAS, ai sensi degli articoli 12 e 14 LSIP:[^1-1]
 
 - a. l’autorità responsabile e la vigilanza;
 - b. la struttura e il contenuto;
@@ -47,7 +47,10 @@ Il sistema d’informazione IPAS è composto dai seguenti sottosistemi:
 
 - a. il sistema di trattamento dei dati relativi alla cooperazione di polizia internazionale e intercantonale di cui all’articolo 12 LSIP;
 - b. il sistema d’informazione per l’identificazione di persone nell’ambito di perseguimenti penali e di ricerche di persone scomparse di cui all’articolo 14 LSIP;
-- c. il sistema di gestione delle pratiche e degli atti di fedpol di cui all’articolo 18 LSIP.
+- c. [^1-2] …
+
+[^1-1]: Nuovo testo giusta la cifra I dell’O del 18 set. 2026, in vigore dal 5 nov. 2026 ([RU 2026 504](https://fedlex.data.admin.ch/eli/oc/2026/504)).
+[^1-2]: Abrogata dalla cifra I dell’O del 18 set. 2026, con effetto dal 5 nov. 2026 ([RU 2026 504](https://fedlex.data.admin.ch/eli/oc/2026/504)).
 
 #### Art. 2
 
@@ -84,7 +87,9 @@ Ogni categoria si suddivide nelle seguenti sottocategorie:
 - b. «Fascicoli», in cui sono registrati l’ubicazione dei fascicoli cartacei, i diritti d’accesso ai fascicoli e le indicazioni relative al prestito;
 - c. «Pratiche», in cui sono registrati la categoria secondo l’articolo 4 capoverso 1 cui appartengono i fascicoli, il loro stato d’avanzamento nonché dati sulla persona incaricata del fascicolo;
 - d. «Contenuto», in cui sono registrati i dati più dettagliati sugli antecedenti riguardanti le persone fisiche, le persone giuridiche e gli oggetti;
-- e. «Gestione delle pratiche e degli atti», funzione di gestione delle pratiche e degli atti.
+- e.[^3-1] …
+
+[^3-1]: Abrogata dalla cifra I dell’O del 18 set. 2026, con effetto dal 5 nov. 2026 ([RU 2026 504](https://fedlex.data.admin.ch/eli/oc/2026/504)).
 
 #### Art. 4
 
@@ -107,23 +112,9 @@ L’IPAS contiene i seguenti dati e documenti:
 
 #### Art. 5
 
-**Sistema di gestione delle pratiche e degli atti di fedpol**
+[^5-1]
 
-<sup>1</sup> Il sistema di gestione delle pratiche e degli atti di fedpol serve a facilitare la gestione dei documenti e dei fascicoli relativi a pratiche concernenti persone fisiche, persone giuridiche od oggetti, eccetto i documenti e le iscrizioni relativi ai casi trattati nel sistema nazionale di indagine.[^5-1]
-
-<sup>2</sup> Esso può contenere tutte le comunicazioni, segnatamente le comunicazioni telefoniche, i messaggi di posta elettronica, le lettere e le comunicazioni via telefax indirizzati a fedpol o provenienti da quest’ultimo. Contiene in particolare le comunicazioni scambiate nel quadro della cooperazione con l’Ufficio europeo di polizia (Europol).
-
-<sup>3</sup>
-
-Esso dà accesso:
-
-- a. ai documenti specifici informatizzati, sotto forma di testo o di immagine, che si riferiscono a pratiche trattate da fedpol;
-- b. ai dati relativi alla trasmissione e allo stato dell’elaborazione dei documenti e dei fascicoli nonché a eventuali ricerche effettuate nei sistemi d’informazione accessibili a fedpol; e
-- c. all’ubicazione dei fascicoli e alle indicazioni relative al prestito.
-
-<sup>4</sup> I dati trattati nel sistema di gestione delle pratiche e degli atti di fedpol possono essere indicizzati per persona, oggetto o evento e connessi alle altre sottocategorie o ad altri sistemi d’informazione di fedpol. I dati che sono connessi ad altre sottocategorie o a un altro sistema d’informazione sottostanno alle regole di trattamento e alle restrizioni d’accesso applicabili a questi ultimi.
-
-[^5-1]: Nuovo testo giusta l’all. 3 n. 2 dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^5-1]: Abrogato dalla cifra I dell’O del 18 set. 2026, con effetto dal 5 nov. 2026 ([RU 2026 504](https://fedlex.data.admin.ch/eli/oc/2026/504)).
 
 ## Sezione 3: Diritti d’accesso e trattamento dei dati
 
@@ -161,7 +152,7 @@ Fedpol può, nell’ambito dell’assistenza amministrativa, trasmettere su rich
 [^7-4]: [RS 141.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4841)
 [^7-5]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 [^7-6]: Introdotta dall’all. 4 cifra II n. 16 dell’O del 4 dic. 2009 sul Servizio delle attività informative della Confederazione, in vigore dal 1° gen. 2010 ([RU 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
-[^7-7]: Introdotta dall’all. n. 2 dell’O del 6 dic. 2013 sul trattamento dei dati segnaletici di natura biometrica ([RU 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)). Nuovo testo giusta l’all. 10 cifra II n. 14 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^7-7]: Introdotta dall’all. n. 2 dell’O del 6 dic. 2013 sul trattamento dei dati segnaletici di natura biometrica ([RU 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)). Nuovo testo giusta l’all. 10 cifra II 14 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 [^7-8]: Introdotta dall’all. n. 2 dell’O del 6 dic. 2013 sul trattamento dei dati segnaletici di natura biometrica, in vigore dal 1° set. 2014 ([RU 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
 [^7-9]: [RS 363](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6319)
 [^7-10]: [RS 361.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6311)
@@ -201,14 +192,15 @@ Fedpol può, nell’ambito dell’assistenza amministrativa, trasmettere su rich
 
 <sup>7</sup> I dati della categoria «NSIS» trasmessi come informazioni supplementari nell’ambito della cooperazione con altri Stati Schengen sono cancellati conformemente all’articolo 45 dell’ordinanza N-SIS del 7 maggio 2008[^9-6].
 
-<sup>8</sup> I dati del sistema di gestione delle pratiche e degli atti che non sono in correlazione con altre categorie sono cancellati dopo tre anni.
+<sup>8</sup> …[^9-7]
 
 [^9-1]: [RS 361.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6311)
 [^9-2]: [RS 363.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6320)
 [^9-3]: Nuovo testo giusta l’all. n. 2 dell’O del 6 dic. 2013 sul trattamento dei dati segnaletici di natura biometrica, in vigore dal 1° set. 2014 ([RU 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
 [^9-4]: Introdotto dall’all. n. 2 dell’O del 6 dic. 2013 sul trattamento dei dati segnaletici di natura biometrica, in vigore dal 1° set. 2014 ([RU 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
 [^9-5]: [RS 0.362.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1510)
-[^9-6]: [[RU 2008 2229](https://fedlex.data.admin.ch/eli/oc/2008/325), [4943](https://fedlex.data.admin.ch/eli/oc/2008/694)cifra I n. 21, [6305](https://fedlex.data.admin.ch/eli/oc/2008/858)all. n. 17; [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)all. 4 cifra II n. 18. [RU 2013 855](https://fedlex.data.admin.ch/eli/oc/2013/179)art. 57]. Vedi ora l’O dell’8 mar. 2013 ([RS 362.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6314)).
+[^9-6]: [[RU 2008 2229](https://fedlex.data.admin.ch/eli/oc/2008/325), [4943](https://fedlex.data.admin.ch/eli/oc/2008/694)n. I 21, [6305](https://fedlex.data.admin.ch/eli/oc/2008/858)all. n. 17; [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)all. 4 n. II 18. [RU 2013 855](https://fedlex.data.admin.ch/eli/oc/2013/179)art. 57]. Vedi ora l’O dell’8 mar. 2013 ([RS 362.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6314)).
+[^9-7]: Abrogato dalla cifra I dell’O del 18 set. 2026, con effetto dal 5 nov. 2026 ([RU 2026 504](https://fedlex.data.admin.ch/eli/oc/2026/504)).
 
 #### Art. 9a
 
@@ -234,12 +226,13 @@ La consegna all’Archivio federale di dati contenuti nel sistema d’informazio
 
 **Diritti delle persone interessate**
 
-Il diritto d’accesso, il diritto alla rettifica e alla cancellazione dei dati è retto dalle disposizioni della LPD[^11-1]. Per i dati comunicati da Interpol è fatto salvo l’articolo 13 dell’ordinanza del 1° dicembre 1986[^11-2] sull’Ufficio centrale nazionale Interpol Berna. Per i dati comunicati da Europol è fatto salvo l’articolo 7 paragrafo 5 dell’Accordo del 24 settembre 2004[^11-3] tra la Confederazione Svizzera e l’Ufficio europeo di polizia. Per i dati che hanno una correlazione con una segnalazione in N-SIS è fatto salvo l’articolo 49 dell’ordinanza N-SIS del 7 maggio 2008[^11-4]. Per le iscrizioni nel sistema di gestione delle pratiche e degli atti di fedpol di dati che rientrano nella competenza della PGF è fatto salvo l’articolo 8 LSIP.
+Il diritto d’accesso, il diritto alla rettifica e alla cancellazione dei dati è retto dalle disposizioni della LPD[^11-1]. Per i dati comunicati da Interpol è fatto salvo l’articolo 13 dell’ordinanza del 1° dicembre 1986[^11-2] sull’Ufficio centrale nazionale Interpol Berna. Per i dati comunicati da Europol è fatto salvo l’articolo 7 paragrafo 5 dell’Accordo del 24 settembre 2004[^11-3] tra la Confederazione Svizzera e l’Ufficio europeo di polizia. Per i dati che hanno una correlazione con una segnalazione in N-SIS è fatto salvo l’articolo 49 dell’ordinanza N-SIS del 7 maggio 2008[^11-4]. …[^11-5]
 
 [^11-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^11-2]: [[RU 1986 2318](https://fedlex.data.admin.ch/eli/oc/1986/2318_2318_2318), [1987 279](https://fedlex.data.admin.ch/eli/oc/1987/279_279_279), [1992 1618](https://fedlex.data.admin.ch/eli/oc/1992/1618_1618_1618)all. n. 5, [1993 1962](https://fedlex.data.admin.ch/eli/oc/1993/1962_1962_1962)art. 36 n. 7, [1996 3097](https://fedlex.data.admin.ch/eli/oc/1996/3097_3097_3097), [1998 1561](https://fedlex.data.admin.ch/eli/oc/1998/1561_1561_1561), [2001 3316](https://fedlex.data.admin.ch/eli/oc/2001/494), [2005 1351](https://fedlex.data.admin.ch/eli/oc/2005/207), [2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)I [11](https://fedlex.data.admin.ch/eli/oc/2008/6), [2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)all. n. 6. [RU 2013 2201](https://fedlex.data.admin.ch/eli/oc/2013/466)art. 18]. Vedi ora l’art. 16 dell’O Interpol del 21 giu. 2013 ([RS 366.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6327)).
 [^11-3]: [RS 0.362.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1510)
-[^11-4]: [[RU 2008 2229](https://fedlex.data.admin.ch/eli/oc/2008/325), [4943](https://fedlex.data.admin.ch/eli/oc/2008/694)cifra I n. 21, [6305](https://fedlex.data.admin.ch/eli/oc/2008/858)all. n. 17; [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)all. 4 cifra II n. 18. [RU 2013 855](https://fedlex.data.admin.ch/eli/oc/2013/179)art. 57]. Vedi ora l’O dell’8 mar. 2013 ([RS 362.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6314)).
+[^11-4]: [[RU 2008 2229](https://fedlex.data.admin.ch/eli/oc/2008/325), [4943](https://fedlex.data.admin.ch/eli/oc/2008/694)n. I 21, [6305](https://fedlex.data.admin.ch/eli/oc/2008/858)all. n. 17; [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)all. 4 n. II 18. [RU 2013 855](https://fedlex.data.admin.ch/eli/oc/2013/179)art. 57]. Vedi ora l’O dell’8 mar. 2013 ([RS 362.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6314)).
+[^11-5]: Ultimo per. abrogato dalla cifra I dell’O del 18 set. 2026, con effetto dal 5 nov. 2026 ([RU 2026 504](https://fedlex.data.admin.ch/eli/oc/2026/504)).
 
 #### Art. 12
 
@@ -280,15 +273,17 @@ L’ordinanza IPAS del 21 novembre 2001[^14-1] è abrogata.
 
 La presente ordinanza entra in vigore il 5 dicembre 2008.
 
-Allegato 1
+Allegato 1[^t-1]
 
-(art. 4 cpv. 3)
+(Art. 4 cpv. 3)
 
 ## Catalogo dei dati
 
+[^t-1]: Nuovo testo giusta la cifra II dell’O del 18 set. 2026, in vigore dal 5 nov. 2026 ([RU 2026 504](https://fedlex.data.admin.ch/eli/oc/2026/504)).
+
 ### IPAS (Categorie «AFIS-DNA», «Interpol», «Europol», «NSIS», «Ricerca di persone scomparse» e «Documenti d’identità»)
 
-### Sottocategoria «Dati di base» relativa alle persone fisiche
+Sottocategoria «Dati di base» relativa alle persone fisiche
 
 - 1\. Numero
 - 2\. Cognome
@@ -310,7 +305,7 @@ Allegato 1
 - 18\. Identità o non identità con un’altra persona dallo stesso nome registrata nel sistema
 - 19\. Persone che vivono nella stessa economia domestica
 
-### Sottocategoria «Dati di base» relativa alle persone giuridiche
+Sottocategoria «Dati di base» relativa alle persone giuridiche
 
 - 1\. Numero
 - 2\. Nome
@@ -323,7 +318,7 @@ Allegato 1
 - 9\. Altri nomi e caratteristiche
 - 10\. Identità o non identità con un’altra persona dallo stesso nome registrata nel sistema
 
-### Sottocategoria «Dati di base» relativa agli oggetti
+Sottocategoria «Dati di base» relativa agli oggetti
 
 - 1\. Numero
 - 2\. Nome dell’oggetto
@@ -334,7 +329,7 @@ Allegato 1
 - 7\. Indirizzo
 - 8\. Identità o non identità con un altro oggetto dallo stesso nome registrato nel sistema
 
-### Sottocategoria «Fascicoli» relativa alle persone fisiche o giuridiche e agli oggetti
+Sottocategoria «Fascicoli» relativa alle persone fisiche o giuridiche e agli oggetti
 
 - 1\. Numero
 - 2\. Collaboratore che ha aperto il fascicolo
@@ -345,7 +340,7 @@ Allegato 1
 - 7\. Data dei documenti del fascicolo
 - 8\. Osservazioni
 
-### Sottocategoria «Pratiche» relativa alle persone fisiche o giuridiche e agli oggetti
+Sottocategoria «Pratiche» relativa alle persone fisiche o giuridiche e agli oggetti
 
 - 1\. Numero
 - 2\. Tipo (entrata/uscita, autorità emittente o destinatario)
@@ -365,39 +360,27 @@ Allegato 1
 - 16\. Numero del documento
 - 17\. Testo della fase
 
-### Sottocategoria «Contenuti» relativa alle persone fisiche o giuridiche e agli oggetti
+Sottocategoria «Contenuti» relativa alle persone fisiche o giuridiche e agli oggetti
 
 - 1\. Numero del controllo del processo (impronte digitali e/o DNA)
 - 2\. Esistenza di un profilo di DNA in CODIS
 - 3\. Tipo (informazioni sulle fotografie, le impronte digitali e i profili di DNA disponibili)
 - 4\. Osservazioni (domande e risposte inerenti alla pratica)
 - 5\. «Hit» (confronti effettuati, risultato)
-- 6\. Misure[^annex1-lvlu1-lvlu7-1]
-- 7\. Osservazioni (testo libero di 600 caratteri con antecedenti e fattispecie relativi alla persona o all’oggetto)[^annex1-lvlu1-lvlu7-2]
+- 6\. Misure[^annex1-lvlu1-lvlu1-1]
+- 7\. Osservazioni (testo libero di 600 caratteri con antecedenti e fattispecie relativi alla persona o all’oggetto)[^annex1-lvlu1-lvlu1-2]
 - 8\. Ulteriori osservazioni
 
-[^annex1-lvlu1-lvlu7-1]: I campi di dati di cui ai n. 1–6 sono utilizzati solo per la categoria «AFIS-DNA».
-[^annex1-lvlu1-lvlu7-2]: Il campo di dati di cui al n. 7 è utilizzato solo per le categorie «Interpol», «Ricerca di persone scomparse» e «Documenti d’identità».
+[^annex1-lvlu1-lvlu1-1]: I campi di dati di cui ai n. 1–6 sono utilizzati solo per la categoria «AFIS-DNA».
+[^annex1-lvlu1-lvlu1-2]: Il campo di dati di cui al n. 7 è utilizzato solo per le categorie «Interpol», «Ricerca di persone scomparse» e «Documenti d’identità».
 
-### Sistema di gestione delle pratiche e degli atti di fedpol
+Allegato 2[^t-2]
 
-- 1\. Operazione (nome, descrizione dell’operazione; data e nome d’utente)
-- 2\. Fascicolo (numero, genere, categoria e descrizione del fascicolo; data d’esecuzione, osservazioni e nome d’utente)
-- 3\. Comunicazione (numero, tipo e genere di comunicazione; collegamento con il sistema principale o con un altro sistema d’informazione; data, ora e autore della registrazione; data e luogo d’entrata/uscita; mittente/destinatario; descrizione sommaria della comunicazione; termine; utente e data d’esecuzione)
-- 4\. Attribuzione della comunicazione (destinatari per il trattamento, termine per il trattamento, indicazioni in merito ai lavori effettuati)
-- 5\. Documenti (numero, titolo e tipo di documenti, ubicazione, beneficiari di un prestito, data del prestito)
-- 6\. Persone fisiche (identità completa, verifica dell’identità, nome dei genitori, stato civile, indirizzo, luogo di nascita, pseudonimi, persone che vivono nella stessa economia domestica)
-- 7\. Persone giuridiche (nome, forma giuridica, verifica dell’identità, indirizzo)
-- 8\. Veicoli (tipo, genere, marca, Paese, numero di targa, descrizione del veicolo, indicazioni relative al proprietario)
-- 9\. Oggetti (numero, tipo, osservazioni)
+(Art. 6 cpv. 2)
 
-Allegato 2[^t-1]
+## Diritti di accesso a IPAS
 
-(art. 6 cpv. 2)
-
-## Diritti d’accesso a IPAS
-
-[^t-1]: Nuovo testo giusta l’all. 4 cifra II n. 16 dell’O del 4 dic. 2009 sul Servizio delle attività informative della Confederazione ([RU 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)). Aggiornato dall’all. n. 8 dell’O del 7 nov. 2012 sulla protezione extraprocessuale dei testimoni ([RU 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)), dall’all. 2 n. 7 dell’O del 25 mag. 2022 sui precursori di sostanze esplodenti ([RU 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)) e dalla cifra II dell’O del 18 set. 2026, in vigore dal 1° nov. 2026 ([RU 2026 518](https://fedlex.data.admin.ch/eli/oc/2026/518)).
+[^t-2]: Nuovo testo giusta la cifra II dell’O del 18 set. 2026, in vigore dal 5 nov. 2026 ([RU 2026 504](https://fedlex.data.admin.ch/eli/oc/2026/504)). Aggiornato dalla correzione del 9 ott. 2026 ([RU 2026 527](https://fedlex.data.admin.ch/eli/oc/2026/527)).
 
 G = Get (visualizzare)
 
@@ -406,66 +389,66 @@ A = Add (visualizzare, introdurre dati, modificare e cancellare i dati registrat
 ### Servizi
 
 <table>
-<tr><td></td><td colspan="3">AFIS-DNA</td><td></td><td colspan="2"></td><td></td><td colspan="3">INTERPOL</td><td></td><td colspan="2"></td><td></td><td colspan="3">EUROPOL</td><td></td><td colspan="2"></td><td></td><td colspan="3">NSIS</td><td></td><td colspan="2"></td><td></td><td colspan="3">RICERCA SCOM-PARSI</td><td></td><td colspan="2"></td><td></td><td colspan="3">DOC. D’IDENTI-TÀ</td><td></td><td colspan="2"></td><td></td><td>GPA</td></tr>
-<tr><td></td><td>D-B</td><td>FA</td><td colspan="3">PR</td><td colspan="2">CO</td><td>D-B</td><td>FA</td><td colspan="3">PR</td><td colspan="2">CO</td><td>D-B</td><td>FA</td><td colspan="3">PR</td><td colspan="2">CO</td><td>D-B</td><td>FA</td><td colspan="3">PR</td><td colspan="2">CO</td><td>D-B</td><td>FA</td><td colspan="3">PR</td><td colspan="2">CO</td><td>D-B</td><td>FA</td><td colspan="3">PR</td><td colspan="2">CO</td><td></td></tr>
-<tr><td>Divisione Sistemi nazionali di polizia</td><td>G</td><td></td><td colspan="3">G</td><td colspan="2"></td><td>G</td><td>G</td><td colspan="3">G</td><td colspan="2">G</td><td>G</td><td>G</td><td colspan="3">G</td><td colspan="2">G</td><td>G</td><td>G</td><td colspan="3">G</td><td colspan="2">G</td><td>G</td><td>G</td><td colspan="3">G</td><td colspan="2"></td><td>G</td><td>G</td><td colspan="3">G</td><td colspan="2"></td><td>A</td></tr>
-<tr><td>Divisione AFIS-DNA</td><td>A</td><td>A</td><td colspan="3">A</td><td colspan="2">A</td><td>A</td><td>G</td><td colspan="3">G</td><td colspan="2">G</td><td>A</td><td>G</td><td colspan="3">G</td><td colspan="2">G</td><td>A</td><td>G</td><td colspan="3">G</td><td colspan="2">G</td><td>A</td><td>G</td><td colspan="3">G</td><td colspan="2"></td><td>A</td><td>G</td><td colspan="3">G</td><td colspan="2"></td><td>A</td></tr>
-<tr><td>Sezione Documenti d’identità e ricerca di persone scomparse</td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>A</td><td>G</td><td colspan="3">G</td><td colspan="2"></td><td>A</td><td>G</td><td colspan="3">G</td><td colspan="2"></td><td>A</td><td>G</td><td colspan="3">G</td><td colspan="2"></td><td>A</td><td>A</td><td colspan="3">A</td><td colspan="2">A</td><td>A</td><td>A</td><td colspan="3">A</td><td colspan="2">A</td><td>A</td></tr>
-<tr><td>Uffici centrali Esplosivi e Armi</td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>–</td></tr>
-<tr><td>Settore Tifoseria violenta</td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>–</td></tr>
+<tr><th></th><th colspan="4">AFIS-DNA</th><th colspan="4">INTERPOL</th><th colspan="4">EUROPOL</th><th colspan="4">NSIS</th><th colspan="4">RICERCA SCOMPARSI</th><th colspan="4">DOC. D’IDENTITÀ</th></tr>
+<tr><th></th><th>D-B</th><th>FA</th><th>PR</th><th>CO</th><th>D-B</th><th>FA</th><th>PR</th><th>CO</th><th>D-B</th><th>FA</th><th>PR</th><th>CO</th><th>D-B</th><th>FA</th><th>PR</th><th>CO</th><th>D-B</th><th>FA</th><th>PR</th><th>CO</th><th>D-B</th><th>FA</th><th>PR</th><th>CO</th></tr>
+<tr><td>Divisione Sistemi nazionali di polizia</td><td>G</td><td></td><td>G</td><td></td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td></td><td>G</td><td>G</td><td>G</td><td></td></tr>
+<tr><td>Divisione AFIS-DNA</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>G</td><td>G</td><td>G</td><td>A</td><td>G</td><td>G</td><td>G</td><td>A</td><td>G</td><td>G</td><td>G</td><td>A</td><td>G</td><td>G</td><td></td><td>A</td><td>G</td><td>G</td><td></td></tr>
+<tr><td>Sezione Documenti d’identità e ricerca di persone scomparse</td><td>G</td><td>G</td><td>G</td><td></td><td>A</td><td>G</td><td>G</td><td></td><td>A</td><td>G</td><td>G</td><td></td><td>A</td><td>G</td><td>G</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Uffici centrali Esplosivi e Armi</td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td></tr>
+<tr><td>Settore Tifoseria violenta</td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td></tr>
 </table>
 
 ### Polizia giudiziaria federale
 
 <table>
-<tr><th></th><th colspan="3">AFIS-DNA</th><th></th><th colspan="2"></th><th></th><th colspan="3">INTERPOL</th><th></th><th colspan="2"></th><th></th><th colspan="3">EUROPOL</th><th></th><th colspan="2"></th><th></th><th colspan="3">NSIS</th><th></th><th colspan="2"></th><th></th><th colspan="3">RICERCA SCOMPARSI</th><th colspan="2"></th><th></th><th colspan="3">DOC. D’IDENTITÀ</th><th colspan="2"></th><th></th><th>GPA</th></tr>
-<tr><th></th><th>D-B</th><th>FA</th><th colspan="3">PR</th><th colspan="2">CO</th><th>D-B</th><th>FA</th><th colspan="3">PR</th><th colspan="2">CO</th><th>D-B</th><th>FA</th><th colspan="3">PR</th><th colspan="2">CO</th><th>D-B</th><th>FA</th><th colspan="3">PR</th><th colspan="2">CO</th><th>D-B</th><th>FA</th><th colspan="2">PR</th><th colspan="2">CO</th><th>D-B</th><th>FA</th><th colspan="2">PR</th><th colspan="2">CO</th><th></th></tr>
-<tr><td>PGF</td><td>G</td><td>G</td><td colspan="3">G</td><td colspan="2">G</td><td>G</td><td>G</td><td colspan="3">G</td><td colspan="2">G</td><td>G</td><td>G</td><td colspan="3">G</td><td colspan="2">G</td><td>G</td><td>G</td><td colspan="3">G</td><td colspan="2">G</td><td>G</td><td>G</td><td colspan="2">G</td><td colspan="2"></td><td>G</td><td>G</td><td colspan="2">G</td><td colspan="2"></td><td>A</td></tr>
-<tr><td>Servizio di protezione dei testimoni</td><td>G</td><td>G</td><td colspan="3">G</td><td colspan="2">G</td><td>G</td><td>G</td><td colspan="3">G</td><td colspan="2">G</td><td>G</td><td>G</td><td colspan="3">G</td><td colspan="2">G</td><td>G</td><td>G</td><td colspan="3">G</td><td colspan="2">G</td><td>G</td><td>G</td><td colspan="2">G</td><td colspan="2"></td><td>G</td><td>G</td><td colspan="2">G</td><td colspan="2"></td><td>G</td></tr>
-<tr><td>Divisione Coordinazione</td><td>G</td><td>G</td><td colspan="3">G</td><td colspan="2">G</td><td>A</td><td>A</td><td colspan="3">A</td><td colspan="2">A</td><td>A</td><td>G</td><td colspan="3">G</td><td colspan="2">G</td><td>A</td><td>G</td><td colspan="3">G</td><td colspan="2">G</td><td>A</td><td>G</td><td colspan="2">G</td><td colspan="2"></td><td>A</td><td>G</td><td colspan="2">G</td><td colspan="2"></td><td>A</td></tr>
-<tr><td>Commissariato Controllo JANUS & IPAS</td><td>G</td><td>G</td><td colspan="3">G</td><td colspan="2">G</td><td>G</td><td>G</td><td colspan="3">G</td><td colspan="2">G</td><td>G</td><td>G</td><td colspan="3">G</td><td colspan="2">G</td><td>G</td><td>G</td><td colspan="3">G</td><td colspan="2">G</td><td>G</td><td>G</td><td colspan="2">G</td><td colspan="2"></td><td>G</td><td>G</td><td colspan="2">G</td><td colspan="2"></td><td>A</td></tr>
-<tr><td>Controllo IPAS</td><td>A</td><td>A</td><td colspan="3">A</td><td colspan="2">A</td><td>A</td><td>A</td><td colspan="3">A</td><td colspan="2">A</td><td>A</td><td>A</td><td colspan="3">A</td><td colspan="2">A</td><td>A</td><td>A</td><td colspan="3">A</td><td colspan="2">A</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="2">A</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="2">A</td><td>A</td></tr>
+<tr><th></th><th colspan="4">AFIS-DNA</th><th colspan="4">INTERPOL</th><th colspan="4">EUROPOL</th><th colspan="4">NSIS</th><th colspan="4">RICERCA SCOMPARSI</th><th colspan="4">DOC. D’IDENTITÀ</th></tr>
+<tr><th></th><th>D-B</th><th>FA</th><th>PR</th><th>CO</th><th>D-B</th><th>FA</th><th>PR</th><th>CO</th><th>D-B</th><th>FA</th><th>PR</th><th>CO</th><th>D-B</th><th>FA</th><th>PR</th><th>CO</th><th>D-B</th><th>FA</th><th>PR</th><th>CO</th><th>D-B</th><th>FA</th><th>PR</th><th>CO</th></tr>
+<tr><td>PGF</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td></td><td>G</td><td>G</td><td>G</td><td></td></tr>
+<tr><td>Servizio di protezione dei testimoni</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td></td><td>G</td><td>G</td><td>G</td><td></td></tr>
+<tr><td>Divisione Coordinazione</td><td>G</td><td>G</td><td>G</td><td>G</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>G</td><td>G</td><td>G</td><td>A</td><td>G</td><td>G</td><td>G</td><td>A</td><td>G</td><td>G</td><td></td><td>A</td><td>G</td><td>G</td><td></td></tr>
+<tr><td>Commissariato Controllo JANUS & IPAS</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td></td><td>G</td><td>G</td><td>G</td><td></td></tr>
+<tr><td>Controllo IPAS</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 </table>
 
 ### Cooperazione internazionale di polizia
 
 <table>
-<tr><th></th><th colspan="4">AFIS-DNA</th><th colspan="4">INTERPOL</th><th colspan="4">EUROPOL</th><th colspan="4">NSIS</th><th colspan="4">RICERCA SCOMPARSI</th><th colspan="4">DOC. D’IDENTITÀ</th><th>GPA</th></tr>
-<tr><th></th><th>ST</th><th>DO</th><th>GS</th><th>GI</th><th>ST</th><th>DO</th><th>GS</th><th>GI</th><th>ST</th><th>DO</th><th>GS</th><th>GI</th><th>ST</th><th>DO</th><th>GS</th><th>GI</th><th>ST</th><th>DO</th><th>GS</th><th>GI</th><th>ST</th><th>DO</th><th>GS</th><th>GI</th><th></th></tr>
-<tr><td>Centrale operativa e d’allarme – SIRENE CH</td><td>G</td><td>G</td><td>G</td><td>G</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>G</td><td>G</td><td></td><td>A</td><td>G</td><td>G</td><td></td><td>A</td></tr>
-<tr><td>Divisione Cooperazione operativa di polizia: commissariato Gestione informazioni</td><td>G</td><td>G</td><td>G</td><td>G</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>G</td><td>G</td><td></td><td>A</td><td>G</td><td>G</td><td></td><td>A</td></tr>
-<tr><td>Commissariato CCPD/Europol</td><td>G</td><td>G</td><td>G</td><td>G</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>G</td><td>G</td><td></td><td>A</td><td>G</td><td>G</td><td></td><td>A</td></tr>
-<tr><td>Commissariato Addetti di polizia</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td></td><td>G</td><td>G</td><td>G</td><td></td><td>A</td></tr>
-<tr><td>Commissariato Identificazioni internazionali</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>G</td><td>G</td><td></td><td>A</td><td>G</td><td>G</td><td></td><td>A</td></tr>
-<tr><td>Unità nazionale incaricata del trattamento dei dati dei passeggeri aerei (Unità d’informazione sui passeggeri, UIP)</td><td></td><td></td><td></td><td></td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td></td><td></td><td></td><td></td><td>G</td><td>G</td><td>G</td><td></td><td>A</td></tr>
+<tr><th></th><th colspan="4">AFIS-DNA</th><th colspan="4">INTERPOL</th><th colspan="4">EUROPOL</th><th colspan="4">NSIS</th><th colspan="4">RICERCA SCOMPARSI</th><th colspan="4">DOC. D’IDENTITÀ</th></tr>
+<tr><th></th><th>D-B</th><th>FA</th><th>PR</th><th>CO</th><th>D-B</th><th>FA</th><th>PR</th><th>CO</th><th>D-B</th><th>FA</th><th>PR</th><th>CO</th><th>D-B</th><th>FA</th><th>PR</th><th>CO</th><th>D-B</th><th>FA</th><th>PR</th><th>CO</th><th>D-B</th><th>FA</th><th>PR</th><th>CO</th></tr>
+<tr><td>Centrale operativa e d’allarme – SIRENE CH</td><td>G</td><td>G</td><td>G</td><td>G</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>G</td><td>G</td><td></td><td>A</td><td>G</td><td>G</td><td></td></tr>
+<tr><td>Divisione Cooperazione operativa di polizia: commissariato Gestione informazioni</td><td>G</td><td>G</td><td>G</td><td>G</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>G</td><td>G</td><td></td><td>A</td><td>G</td><td>G</td><td></td></tr>
+<tr><td>Commissariato CCPD/Europol</td><td>G</td><td>G</td><td>G</td><td>G</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>G</td><td>G</td><td></td><td>A</td><td>G</td><td>G</td><td></td></tr>
+<tr><td>Commissariato Addetti di polizia</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td></td><td>G</td><td>G</td><td>G</td><td></td></tr>
+<tr><td>Commissariato Identificazioni internazionali</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>G</td><td>G</td><td></td><td>A</td><td>G</td><td>G</td><td></td></tr>
+<tr><td>Unità nazionale incaricata del trattamento dei dati dei passeggeri aerei (Unità d’informazione sui passeggeri, UIP)</td><td></td><td></td><td></td><td></td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td></td><td></td><td></td><td></td><td>G</td><td>G</td><td>G</td><td></td></tr>
 </table>
 
 ### Stato maggiore
 
 <table>
-<tr><th></th><th colspan="3">AFIS-DNA</th><th></th><th colspan="2"></th><th></th><th colspan="3">INTERPOL</th><th></th><th colspan="2"></th><th></th><th colspan="3">EUROPOL</th><th></th><th colspan="2"></th><th></th><th colspan="3">NSIS</th><th></th><th colspan="2"></th><th colspan="2"></th><th colspan="3">RICERCA SCOM-PARSI</th><th></th><th colspan="2"></th><th></th><th colspan="3">DOC. D’IDENTI-TÀ</th><th></th><th colspan="2"></th><th></th><th>GPA</th></tr>
-<tr><th></th><th>D-B</th><th>FA</th><th colspan="3">PR</th><th colspan="2">CO</th><th>D-B</th><th>FA</th><th colspan="3">PR</th><th colspan="2">CO</th><th>D-B</th><th>FA</th><th colspan="3">PR</th><th colspan="2">CO</th><th>D-B</th><th>FA</th><th colspan="3">PR</th><th colspan="2">CO</th><th colspan="2">D-B</th><th>FA</th><th colspan="3">PR</th><th colspan="2">CO</th><th>D-B</th><th>FA</th><th colspan="3">PR</th><th colspan="2">CO</th><th></th></tr>
-<tr><td>Consulente per la protezione dei dati</td><td>G</td><td>G</td><td colspan="3">G</td><td colspan="2">G</td><td>G</td><td>G</td><td colspan="3">G</td><td colspan="2">G</td><td>G</td><td>G</td><td colspan="3">G</td><td colspan="2">G</td><td>G</td><td>G</td><td colspan="3">G</td><td colspan="2">G</td><td colspan="2">G</td><td>G</td><td colspan="3">G</td><td colspan="2">G</td><td>G</td><td>G</td><td colspan="3">G</td><td colspan="2">G</td><td>G</td></tr>
-<tr><td>Servizio giuridico</td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td colspan="2">G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>–</td></tr>
-<tr><td>Ufficio di comunicazione in materia di riciclaggio di denaro</td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td colspan="2">G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>A</td></tr>
+<tr><th></th><th colspan="4">AFIS-DNA</th><th colspan="4">INTERPOL</th><th colspan="4">EUROPOL</th><th colspan="4">NSIS</th><th colspan="4">RICERCA SCOMPARSI</th><th colspan="4">DOC. D’IDENTITÀ</th></tr>
+<tr><th></th><th>D-B</th><th>FA</th><th>PR</th><th>CO</th><th>D-B</th><th>FA</th><th>PR</th><th>CO</th><th>D-B</th><th>FA</th><th>PR</th><th>CO</th><th>D-B</th><th>FA</th><th>PR</th><th>CO</th><th>D-B</th><th>FA</th><th>PR</th><th>CO</th><th>D-B</th><th>FA</th><th>PR</th><th>CO</th></tr>
+<tr><td>Consulente per la protezione dei dati</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td></tr>
+<tr><td>Servizio giuridico</td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td></tr>
+<tr><td>Ufficio di comunicazione in materia di riciclaggio di denaro</td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td></tr>
 </table>
 
 ### Servizio federale di sicurezza
 
 <table>
-<tr><td></td><td colspan="3">AFIS-DNA</td><td></td><td colspan="2"></td><td></td><td colspan="3">INTERPOL</td><td></td><td colspan="2"></td><td></td><td colspan="3">EUROPOL</td><td></td><td colspan="2"></td><td></td><td colspan="3">NSIS</td><td></td><td colspan="2"></td><td></td><td colspan="3">RICERCA SCOM-PARSI</td><td></td><td colspan="2"></td><td></td><td colspan="3">DOC. D’IDENTI-TÀ</td><td></td><td></td><td></td><td>GPA</td></tr>
-<tr><td></td><td>D-B</td><td>FA</td><td colspan="3">PR</td><td colspan="2">CO</td><td>D-B</td><td>FA</td><td colspan="3">PR</td><td colspan="2">CO</td><td>D-B</td><td>FA</td><td colspan="3">PR</td><td colspan="2">CO</td><td>D-B</td><td>FA</td><td colspan="3">PR</td><td colspan="2">CO</td><td>D-B</td><td>FA</td><td colspan="3">PR</td><td colspan="2">CO</td><td>D-B</td><td>FA</td><td colspan="2">PR</td><td colspan="2">CO</td><td></td></tr>
-<tr><td>Settore Analisi dei rischi</td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="2"></td><td colspan="2"></td><td>–</td></tr>
-<tr><td>Commissariato Sicurezza dei magistrati e delle rappresentanze estere</td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="2"></td><td colspan="2"></td><td>–</td></tr>
-<tr><td>Commissariato Sicurezza dei visitatori stranieri</td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="2"></td><td colspan="2"></td><td>–</td></tr>
+<tr><th></th><th colspan="4">AFIS-DNA</th><th colspan="4">INTERPOL</th><th colspan="4">EUROPOL</th><th colspan="4">NSIS</th><th colspan="4">RICERCA SCOMPARSI</th><th colspan="4">DOC. D’IDENTITÀ</th></tr>
+<tr><th></th><th>D-B</th><th>FA</th><th>PR</th><th>CO</th><th>D-B</th><th>FA</th><th>PR</th><th>CO</th><th>D-B</th><th>FA</th><th>PR</th><th>CO</th><th>D-B</th><th>FA</th><th>PR</th><th>CO</th><th>D-B</th><th>FA</th><th>PR</th><th>CO</th><th>D-B</th><th>FA</th><th>PR</th><th>CO</th></tr>
+<tr><td>Settore Analisi dei rischi</td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td></tr>
+<tr><td>Commissariato Sicurezza dei magistrati e delle rappresentanze estere</td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td></tr>
+<tr><td>Commissariato Sicurezza dei visitatori stranieri</td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td></tr>
 </table>
 
 ### Fornitore di servizi informatici
 
 <table>
-<tr><td></td><td colspan="3">AFIS-DNA</td><td></td><td colspan="2"></td><td></td><td colspan="3">INTERPOL</td><td></td><td colspan="2"></td><td></td><td colspan="3">EUROPOL</td><td></td><td colspan="2"></td><td></td><td colspan="3">NSIS</td><td></td><td colspan="2"></td><td></td><td colspan="3">RICERCA SCOM-PARSI</td><td></td><td colspan="2"></td><td></td><td colspan="3">DOC. D’IDENTI-TÀ</td><td></td><td colspan="2"></td><td></td><td>GPA</td></tr>
-<tr><td></td><td>D-B</td><td>FA</td><td colspan="3">PR</td><td colspan="2">CO</td><td>D-B</td><td>FA</td><td colspan="3">PR</td><td colspan="2">CO</td><td>D-B</td><td>FA</td><td colspan="3">PR</td><td colspan="2">CO</td><td>D-B</td><td>FA</td><td colspan="3">PR</td><td colspan="2">CO</td><td>D-B</td><td>FA</td><td colspan="3">PR</td><td colspan="2">CO</td><td>D-B</td><td>FA</td><td colspan="3">PR</td><td colspan="2">CO</td><td></td></tr>
-<tr><td>Responsabile di progetto e amministratori del sistema</td><td>G</td><td>G</td><td colspan="3">G</td><td colspan="2">G</td><td>G</td><td>G</td><td colspan="3">G</td><td colspan="2">G</td><td>G</td><td>G</td><td colspan="3">G</td><td colspan="2">G</td><td>G</td><td>G</td><td colspan="3">G</td><td colspan="2">G</td><td>G</td><td>G</td><td colspan="3">G</td><td colspan="2">G</td><td>G</td><td>G</td><td colspan="3">G</td><td colspan="2">G</td><td>G</td></tr>
+<tr><th></th><th colspan="4">AFIS-DNA</th><th colspan="4">INTERPOL</th><th colspan="4">EUROPOL</th><th colspan="4">NSIS</th><th colspan="4">RICERCA SCOMPARSI</th><th colspan="4">DOC. D’IDENTITÀ</th></tr>
+<tr><th></th><th>D-B</th><th>FA</th><th>PR</th><th>CO</th><th>D-B</th><th>FA</th><th>PR</th><th>CO</th><th>D-B</th><th>FA</th><th>PR</th><th>CO</th><th>D-B</th><th>FA</th><th>PR</th><th>CO</th><th>D-B</th><th>FA</th><th>PR</th><th>CO</th><th>D-B</th><th>FA</th><th>PR</th><th>CO</th></tr>
+<tr><td>Responsabile di progetto e amministratori del sistema</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td></tr>
 </table>
 
 ### Dipartimento federale della difesa, della protezione della popolazione e dello sport
@@ -473,23 +456,21 @@ A = Add (visualizzare, introdurre dati, modificare e cancellare i dati registrat
 ### Servizio delle attività informative della Confederazione
 
 <table>
-<tr><td></td><td colspan="3">AFIS-DNA</td><td></td><td colspan="2"></td><td></td><td colspan="3">INTERPOL</td><td></td><td colspan="2"></td><td></td><td colspan="3">EUROPOL</td><td></td><td colspan="2"></td><td></td><td colspan="3">NSIS</td><td></td><td colspan="2"></td><td></td><td colspan="3">RICERCA SCOM-PARSI</td><td></td><td colspan="2"></td><td></td><td colspan="3">DOC. D’IDENTI-TÀ</td><td></td><td></td><td></td><td>GPA</td></tr>
-<tr><th></th><th>D-B</th><th>FA</th><th colspan="3">PR</th><th colspan="2">CO</th><th>D-B</th><th>FA</th><th colspan="3">PR</th><th colspan="2">CO</th><th>D-B</th><th>FA</th><th colspan="3">PR</th><th colspan="2">CO</th><th>D-B</th><th>FA</th><th colspan="3">PR</th><th colspan="2">CO</th><th>D-B</th><th>FA</th><th colspan="3">PR</th><th colspan="2">CO</th><th>D-B</th><th>FA</th><th colspan="2">PR</th><th colspan="2">CO</th><th></th></tr>
-<tr><td>Lotta contro il terrorismo</td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="2"></td><td colspan="2"></td><td>–</td></tr>
-<tr><td>Lotta contro l’estremismo</td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="2"></td><td colspan="2"></td><td>–</td></tr>
-<tr><td>SI/Controspionaggio</td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="2"></td><td colspan="2"></td><td>–</td></tr>
-<tr><td>Non proliferazione</td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="2"></td><td colspan="2"></td><td>–</td></tr>
-<tr><td>Centro federale di situazione</td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="2"></td><td colspan="2"></td><td>–</td></tr>
-<tr><td>Ricerca Svizzera</td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="2"></td><td colspan="2"></td><td>–</td></tr>
-<tr><td>OPSEC</td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="2"></td><td colspan="2"></td><td>–</td></tr>
-<tr><td>Sensori trasversali</td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="2"></td><td colspan="2"></td><td>–</td></tr>
-<tr><td>Rilevamento dei dati/smistamento</td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="2"></td><td colspan="2"></td><td>–</td></tr>
-<tr><td>OSINT</td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="2"></td><td colspan="2"></td><td>–</td></tr>
-<tr><td>Servizio degli stranieri</td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="2"></td><td colspan="2"></td><td>–</td></tr>
-<tr><td></td><td colspan="3">AFIS-DNA</td><td></td><td colspan="2"></td><td></td><td colspan="3">INTERPOL</td><td></td><td colspan="2"></td><td></td><td colspan="3">EUROPOL</td><td></td><td colspan="2"></td><td></td><td colspan="3">NSIS</td><td></td><td colspan="2"></td><td></td><td colspan="3">RICERCA SCOM-PARSI</td><td></td><td colspan="2"></td><td></td><td colspan="3">DOC. D’IDENTI-TÀ</td><td></td><td></td><td></td><td>GPA</td></tr>
-<tr><th></th><th>D-B</th><th>FA</th><th colspan="3">PR</th><th colspan="2">CO</th><th>D-B</th><th>FA</th><th colspan="3">PR</th><th colspan="2">CO</th><th>D-B</th><th>FA</th><th colspan="3">PR</th><th colspan="2">CO</th><th>D-B</th><th>FA</th><th colspan="3">PR</th><th colspan="2">CO</th><th>D-B</th><th>FA</th><th colspan="3">PR</th><th colspan="2">CO</th><th>D-B</th><th>FA</th><th colspan="2">PR</th><th colspan="2">CO</th><th></th></tr>
-<tr><td>analisi</td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="2"></td><td colspan="2"></td><td>–</td></tr>
-<tr><td>ComCenter</td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="2"></td><td colspan="2"></td><td>–</td></tr>
+<tr><th></th><th colspan="4">AFIS-DNA</th><th colspan="4">INTERPOL</th><th colspan="4">EUROPOL</th><th colspan="4">NSIS</th><th colspan="4">RICERCA SCOMPARSI</th><th colspan="4">DOC. D’IDENTITÀ</th></tr>
+<tr><th></th><th>D-B</th><th>FA</th><th>PR</th><th>CO</th><th>D-B</th><th>FA</th><th>PR</th><th>CO</th><th>D-B</th><th>FA</th><th>PR</th><th>CO</th><th>D-B</th><th>FA</th><th>PR</th><th>CO</th><th>D-B</th><th>FA</th><th>PR</th><th>CO</th><th>D-B</th><th>FA</th><th>PR</th><th>CO</th></tr>
+<tr><td>Lotta contro il terrorismo</td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td></tr>
+<tr><td>Lotta contro l’estremismo</td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td></tr>
+<tr><td>SI/Controspionaggio</td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td></tr>
+<tr><td>Non proliferazione</td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td></tr>
+<tr><td>Centro federale di situazione</td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td></tr>
+<tr><td>Ricerca Svizzera</td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td></tr>
+<tr><td>OPSEC</td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td></tr>
+<tr><td>Sensori trasversali</td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td></tr>
+<tr><td>Rilevamento dei dati/smistamento</td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td></tr>
+<tr><td>OSINT</td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td></tr>
+<tr><td>Servizio degli stranieri</td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td></tr>
+<tr><td>Analisi</td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td></tr>
+<tr><td>ComCenter</td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td><td>G</td><td></td><td></td><td></td></tr>
 </table>
 
 Legenda
@@ -513,5 +494,3 @@ FA Fascicoli
 PR Pratiche
 
 CO Contenuto
-
-GPA Sistema di gestione delle pratiche e degli atti di fedpol
