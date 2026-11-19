@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de la loi sur les banques (mise en œuvre des mesures issues du rapport du Conseil fédéral sur la stabilité des banques et du rapport de la Commission d’enquête parlementaire)
 document: Projet mis en consultation
 language: fr

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung des Bankengesetzes (Umsetzung der Massnahmen aus dem Bericht des Bundesrates zur Bankenstabilität und des Berichts der parlamentarischen Untersuchungskommission)
 document: Vernehmlassungsvorlage
 language: de
