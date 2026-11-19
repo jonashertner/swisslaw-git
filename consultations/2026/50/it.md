@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica dell’ordinanza sulla liquidità (esigenze relative alla preparazione per l’ottenimento di un sostegno alla liquidità da banche centrali)
 document: Progetto posto in consultazione
 language: it

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung der Liquiditätsverordnung (Vorbereitungsanforderungen für den Bezug von Liquiditätsunterstützung bei Zentralbanken)
 document: Vernehmlassungsvorlage
 language: de

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de l’ordonnance sur les liquidités (exigences relatives aux préparatifs pour l’obtention d’un soutien en liquidités auprès de banques centrales)
 document: Projet mis en consultation
 language: fr
