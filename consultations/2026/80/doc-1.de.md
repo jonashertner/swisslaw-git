@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung der Verkehrsregelnverordnung und der Verkehrszulassungsverordnung sowie Erlass einer Departementsverordnung zur einheitlichen Regelung privater Ausnahmetransportbegleitung
 document: Vernehmlassungsvorlage VZV
 language: de

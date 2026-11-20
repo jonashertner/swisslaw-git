@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modification de l’ordonnance sur les règles de la circulation routière et de l’ordonnance réglant l’admission à la circulation routière, et édiction d’une ordonnance départementale visant à réglementer de manière uniforme l’accompagnement privé des convois exceptionnels"
 document: Projet mis en consultation OCR
 language: fr

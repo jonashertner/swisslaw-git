@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modifica dell’ordinanza sulle norme della circolazione stradale e dell’ordinanza sull’ammissione alla circolazione, nonché emanazione di un’ordinanza dipartimentale sul disciplinamento uniforme della scorta privata ai trasporti eccezionali"
 document: Progetto posto in consultazione O del DATEC
 language: it
