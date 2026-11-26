@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica dell’ordinanza sugli organi di sicurezza delle imprese di trasporto pubblico (OOSI) e revisione totale dell’ordinanza sulla videosorveglianza nei trasporti pubblici (OVsor-TP)
 document: Progetto posto in consultazione OVsor-TP
 language: it

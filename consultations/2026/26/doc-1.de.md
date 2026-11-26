@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung der Verordnung über die Sicherheitsorgane der Transportunternehmen im öffentlichen Verkehr (VST) und Totalrevision der Verordnung über die Videoüberwachung im öffentlichen Verkehr (VüV-ÖV)
 document: Vernehmlassungsvorlage VüV-ÖV
 language: de

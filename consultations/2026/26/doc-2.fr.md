@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de l’ordonnance sur les organes de sécurité des entreprises de transports publics (OOST) et révision totale de l’ordonnance sur la vidéosurveillance dans les transports publics (OVid-TP)
 document: Projet mis en consultation OOST
 language: fr
