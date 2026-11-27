@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modification de l’ordonnance relative à l’admission, au séjour et à l’exercice d’une activité lucrative (OASA): dématérialisation du système de déclaration dans le secteur de l’hébergement"
 document: Projet mis en consultation
 language: fr

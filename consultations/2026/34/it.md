@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modifica dell’ordinanza sull’ammissione, il soggiorno e l’attività lucrativa (OASA): digitalizzazione del sistema di notificazione nel settore alberghiero"
 document: Progetto posto in consultazione
 language: it

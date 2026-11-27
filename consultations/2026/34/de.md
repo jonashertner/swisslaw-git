@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Änderung der Verordnung über Zulassung, Aufenthalt und Erwerbstätigkeit (VZAE): Digitalisierung des Meldewesens in der Beherbergung"
 document: Vernehmlassungsvorlage
 language: de
