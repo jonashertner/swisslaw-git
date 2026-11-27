@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung der Grundbuchverordnung (Rechtsgrundausweis in Erb- und Trustsachen)
 document: Vernehmlassungsvorlage
 language: de

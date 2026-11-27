@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de l’ordonnance sur le registre foncier (Pièces justificatives relatives aux successions et aux trusts)
 document: Projet mis en consultation
 language: fr

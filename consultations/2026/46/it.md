@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica dell’ordinanza sul registro fondiario (documenti giustificativi per successioni e trust)
 document: Progetto posto in consultazione
 language: it
