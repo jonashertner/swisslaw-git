@@ -4,13 +4,12 @@ number: "730.101"
 title: Energieverordnung
 short: "Energieverordnung, EnerV"
 language: de
-version: 2026-01-01
-corrected: 2025-12-17
-version_adopted: 2025-12-16
+version: 2026-12-01
+version_adopted: 2026-10-20
 adopted: 2005-02-15
 in_force: 2005-04-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/730.101"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/2037/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/2132/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://rechtsbuch.sh.ch/api/de/versions/2037/pdf_file"
 
 (Energieverordnung, EnerV)
 
-Vom 15.02.2005 (Stand 01.01.2026)
+Vom 15.02.2005 (Stand 01.12.2026)
 
 Der Regierungsrat des Kantons Schaffhausen,
 
@@ -466,10 +465,15 @@ beschliesst:
 
 **Effizienzanforderungen Rechenzentren**
 
-<sup>1</sup> Rechenzentren gemäss Art. 23 des Energiegesetzes haben mindestens nachfolgende Effizienzanforderungen zu erfüllen oder sind wie folgt zu zertifizieren:
+<sup>1</sup> Rechenzentren gemäss Art. 23 des Energiegesetzes haben mindestens nachfolgende Effizienzanforderungen zu erfüllen:
 
-- 1\. PUE+ ≤ 1.20, spätestens 3 Jahre nach Inbetriebnahme
-- 2\. SDEA-Label Stufe Gold.
+- 1\. PUE+ ≤ 1.20
+- 2\. WUE+ ≤ 0.10
+- 3\. CUE+ ≤ 0.10.
+
+<sup>2</sup> Die Einhaltung der Anforderungen gemäss Abs. 1 ist spätestens 3 Jahre nach Inbetriebnahme durch den Betreiber nachzuweisen.
+
+<sup>3</sup> Die Energiefachstelle überprüft regelmässig die Einhaltung der Anforderungen gemäss Abs. 1.
 
 #### § 26
 
@@ -509,7 +513,7 @@ beschliesst:
 - 1\. die fachgerechte Umsetzung einer Haupt-Standardlösung gemäss Anhang 4 (SL1 bis SL5) gewährleistet ist oder
 - 2\. die fachgerechte Umsetzung von drei oder vier Kombinations-Standardlösungen gemäss Anhang 4 (SL7 bis SL16) im Umfang gemäss § 26d Abs. 1 gewährleistet ist oder
 - 3\. die Zertifizierung des Gebäudes nach Minergie ausgewiesen ist oder
-- 4\. die Klasse B bei der Gebäudehülleneffizienz gemäss Gebäudeenergieausweis der Kantone (GEAK) erreicht ist oder
+- 4\. die Klasse A, B, C oder D bei der Gebäudehülleneffizienz gemäss Gebäudeenergieausweis der Kantone (GEAK) erreicht ist oder
 - 5\. für die betroffenen Bauten und Gebäudegruppen die Baubewilligung nach dem 1. Januar 2011 erteilt wurde
 
 <sup>3</sup> Bei flüssigen Brennstoffen sind die Zertifikate für die ganze Betriebsdauer (20 Jahre) zusammen mit dem Kaufbeleg vor Baubeginn der Anlage der Bewilligungsbehörde einzureichen.
