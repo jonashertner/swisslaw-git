@@ -4,11 +4,11 @@ title: "Ordonnance du 18 mai 2005 sur la réduction des risques liés à l'utili
 short: ORRChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: fr
-version: 2026-07-16
+version: 2026-12-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20260716/fr/xml/fedlex-data-admin-ch-eli-cc-2005-478-20260716-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20260716/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20261201/fr/xml/fedlex-data-admin-ch-eli-cc-2005-478-20261201-fr-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20261201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20260716/fr"
 
 (Ordonnance sur la réduction des risques liés aux produits chimiques, ORRChim)
 
-du 18 mai 2005 (État le 16 juillet 2026)
+du 18 mai 2005 (État le 1<sup>er</sup> décembre 2026)
 
 Le Conseil fédéral suisse,
 
@@ -560,7 +560,7 @@ Annexe 1.1[^t-2]
 - a. leur teneur en alcanes en C<sub>10</sub>–C<sub>13</sub>, chloro- n’excède pas 1 % masse;
 - b. leur teneur en chacune des substances de diphényléthers bromés au sens du ch. 3, let. d, n’excède pas 0,001 % masse (10 mg/kg).
 
-<sup>2</sup> L’interdiction au sens du ch. 1, al. 2, ne s’applique pas aux objets et à leurs composants si:
+<sup>2</sup> L’interdiction au sens du ch. 1, al. 2, ne s’applique pas aux objets et à leurs compo-sants si:
 
 - a. leur teneur en alcanes en C<sub>10</sub>–C<sub>13</sub>, chloro- n’excède pas 0,15 % masse;
 - b. leurs teneurs en chacune des substances tétrabromodiphényléther, pentabromodiphényléther, hexabromodiphényléther et heptabromodiphényléther au sens du ch. 3, let. d, ne dépassent pas 0,001 % masse (10 mg/kg).
@@ -1470,7 +1470,7 @@ Il est interdit:
 - b. une mise en garde quant aux dangers de l’amiante pour l’homme et l’environnement et aux mesures de protection à prendre, conformément au modèle suivant:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20260716/fr/xml/image/image1.png)</td><td colspan="3">Chapeau H = 5 cm au moins</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20261201/fr/xml/image/image1.png)</td><td colspan="3">Chapeau H = 5 cm au moins</td></tr>
 <tr><td></td><td colspan="3">B = 2,5 cm au moins</td></tr>
 <tr><td></td><td colspan="3">h<sub>1</sub> = 40 % de H</td></tr>
 <tr><td></td><td colspan="3">h<sub>2</sub> = 60 % de H</td></tr>
@@ -3599,7 +3599,7 @@ On entend par produits biocides contre les arthropodes et les microorganismes:
 
 <sup>2</sup> En petites quantités, les produits biocides sont repris gratuitement.
 
-### 6 Exceptions pour les produits biocides destinés à la rechercheet au développement
+### 6 Exceptions pour les produits biocides destinés à la recherche et au développement
 
 Les interdictions au sens de la présente annexe ne s’appliquent pas à la mise sur le marché de produits biocides à des fins de recherche et de développement.
 
@@ -4357,7 +4357,7 @@ Annexe 2.9[^t-29]
 
 ## Matières plastiques, leur monomères et additifs
 
-[^t-29]: Nouvelle teneur selon le ch. I al. 2 de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> déc. 2025 ([RO 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
+[^t-29]: Nouvelle teneur selon le ch. I al. 2 de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> déc. 2025, le ch. 1.4, al. 1, 2 et 4 depuis le 1<sup>er</sup> déc. 2026 ([RO 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
 
 ### 1 Microplastiques
 
@@ -4431,11 +4431,21 @@ Il est interdit de mettre sur le marché des microplastiques et des préparation
 [^annex29-lvlu1-lvl1-lvl13-2]: [RS 916.307](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10674)
 [^annex29-lvlu1-lvl1-lvl13-3]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
 
-### 1.4 …
+### 1.4 Obligations d’informer l’utilisateur
 
-[^annex29-lvlu1-lvl1-lvl14-1]
+<sup>1</sup> Toute personne qui fait valoir, à des fins de mise sur le marché, l’exception relative aux dispositifs médicaux de diagnostic *in vitro* prévue au ch. 1.3, al. 1, let. a, l’exception relative aux additifs alimentaires prévue au ch. 1.3, al. 1, let. b, ou l’une des exceptions prévues au ch. 1.3, al. 2, doit fournir des informations sur l’emploi et l’élimination qui précisent comment éviter les rejets de microplastiques dans l’environnement.
 
-[^annex29-lvlu1-lvl1-lvl14-1]: Al. 1, 2 et 4: entrent en vigueur le 1<sup>er</sup> déc. 2026 Al. 3: entre en vigueur le 17 oct. 2031 ([RO 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747))
+<sup>2</sup> Toute personne qui fait valoir, à des fins de mise sur le marché, l’exception prévue au ch. 1.3, al. 2, let. a, doit en outre:
+
+- a. faire figurer sur les produits la mention «Les microparticules de polymère synthétique fournies sont soumises aux conditions fixées par l’entrée 78 de l’annexe XVII du règlement (CE) n<sup>o</sup> 1907/2006 du Parlement européen et du Conseil.»; les produits destinés à être utilisés en Suisse peuvent, par dérogation à la 1<sup>re</sup> phrase, porter la mention suivante: «Les microparticules de polymère synthétique fournies sont soumises aux dispositions de l’annexe 2.9, ch. 1, de l’ordonnance sur la réduction des risques liés aux produits chimiques.»;
+- b. fournir des informations sur l’identité des microplastiques;
+- c. fournir des informations sur la quantité ou la part de microplastiques présente dans les préparations.
+
+<sup>3</sup> …[^annex29-lvlu1-lvl1-lvl14-1]
+
+<sup>4</sup> Les informations visées aux al. 1 à 3 doivent figurer sur l’emballage ou la notice des produits ou peuvent, en cas de mise sur le marché du produit pour un usage professionnel ou commercial, être transmises sous une autre forme appropriée.
+
+[^annex29-lvlu1-lvl1-lvl14-1]: Entre en vigueur le 17 oct. 2031 ([RO 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747))
 
 ### 1.5 Obligations d’informer l’autorité d’exécution
 
@@ -5290,7 +5300,7 @@ Annexe 2.12[^t-32]
 
 Toute personne qui remplit elle-même des générateurs d’aérosols de substances stables dans l’air ou qui importe ce type de générateurs d’aérosols doit communiquer sur demande à l’OFEV les quantités des différentes substances employées durant les trois années précédentes; les données doivent être ventilées entre importation, consommation dans le pays et exportation, ainsi que selon les usages prévus.
 
-**6** **…**
+### 6 …
 
 ### 7 Dispositions transitoires
 

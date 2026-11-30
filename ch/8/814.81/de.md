@@ -4,11 +4,11 @@ title: "Verordnung vom 18. Mai 2005 zur Reduktion von Risiken beim Umgang mit be
 short: ChemRRV
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: de
-version: 2026-07-16
+version: 2026-12-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20260716/de/xml/fedlex-data-admin-ch-eli-cc-2005-478-20260716-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20260716/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20261201/de/xml/fedlex-data-admin-ch-eli-cc-2005-478-20261201-de-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20261201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20260716/de"
 
 (Chemikalien-Risikoreduktions-Verordnung, ChemRRV)
 
-vom 18. Mai 2005 (Stand am 16. Juli 2026)
+vom 18. Mai 2005 (Stand am 1. Dezember 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -1475,7 +1475,7 @@ Verboten ist:
 - b. einem Hinweis auf die Gefahren für Mensch und Umwelt und die Schutzmassnahmen nach folgendem Muster:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20260716/de/xml/image/image1.png)</td><td>Kopf</td><td colspan="2">H = mindestens 5 cm</td><td></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20261201/de/xml/image/image1.png)</td><td>Kopf</td><td colspan="2">H = mindestens 5 cm</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">B = mindestens 2,5 cm</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>1</sub> = 40 Prozent von H</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>2</sub> = 60 Prozent von H</td><td></td></tr>
@@ -2455,7 +2455,7 @@ Die Verbote nach Ziffer 2.2 gelten nicht für die Herstellung, das Inverkehrbrin
 
 <sup>1</sup> Verboten sind die Herstellung und das Inverkehrbringen von:
 
-- a. kosmetischen Mitteln nach Artikel 53 der Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dezember 2016[^annex116-lvlu1-lvl4-lvl42-1] (LGV), wenn ihr Massengehalt an PFHxA 0,0000025 Prozent (25 ppb) oder ihr Massengehalt an der Summe von PFHxA-Vorläuferverbindungen 0,0001 Prozent (1000 ppb) übersteigt;
+- a. kosmetischen Mitteln nach Artikel 53 der Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dezember 2016[^annex116-lvlu1-lvl4-lvl42-1] (LGV), wenn ihr Massen-gehalt an PFHxA 0,0000025 Prozent (25 ppb) oder ihr Massengehalt an der Summe von PFHxA-Vorläuferverbindungen 0,0001 Prozent (1000 ppb) übersteigt;
 - b. Bedarfsgegenständen nach Artikel 48 der LGV aus Papier oder Karton, wenn ihr Massengehalt an PFHxA 0,0000025 Prozent (25 ppb) oder ihr Massengehalt an der Summe von PFHxA-Vorläuferverbindungen 0,0001 Prozent (1000 ppb) im homogenen Material übersteigt.
 
 <sup>2</sup> Verboten ist das Inverkehrbringen von für die breite Öffentlichkeit bestimmten Textil-, Leder-, Pelz-, Haut- und Schuhwaren, wenn der Massengehalt an PFHxA der Ware 0,0000025 Prozent (25 ppb) oder der Massengehalt an der Summe von PFHxA-Vorläuferverbindungen der Ware 0,0001 Prozent (1000 ppb) im homogenen Material übersteigt.
@@ -3566,7 +3566,7 @@ Biozidprodukte gegen Algen und Moose dürfen nicht verwendet werden:
 
 <sup>2</sup> Die Information nach Absatz 1 muss folgende Angaben enthalten: «Die Verwendung auf Dächern und Terrassen, auf Lagerplätzen, auf und an Strassen, Wegen und Plätzen, auf Böschungen und Grünstreifen entlang von Strassen und Gleisanlagen ist verboten».
 
-### 4ter Biozidprodukte gegen Arthropoden und Mikroorganismen
+### 4<sup>ter</sup> Biozidprodukte gegen Arthropoden und Mikroorganismen
 
 ### 4<sup>ter</sup>.1 Begriffe
 
@@ -4362,7 +4362,7 @@ Anhang 2.9[^t-29]
 
 ## Kunststoffe, deren Monomere und Additive
 
-[^t-29]: Fassung gemäss Ziff. I Abs. 2 der V vom 29. Okt. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
+[^t-29]: Fassung gemäss Ziff. I Abs. 2 der V vom 29. Okt. 2025, in Kraft seit 1. Dez. 2025, Ziff. 1.4 Abs. 1, 2 und 4 in Kraft seit 1. Dez. 2026 ([AS 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
 
 ### 1 Mikroplastik
 
@@ -4436,11 +4436,21 @@ Verboten ist das Inverkehrbringen von Mikroplastik und von Zubereitungen, deren 
 [^annex29-lvlu1-lvl1-lvl13-2]: [SR 916.307](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10674)
 [^annex29-lvlu1-lvl1-lvl13-3]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
 
-### 1.4 …
+### 1.4 Informationspflichten gegenüber der Verwenderin
 
-[^annex29-lvlu1-lvl1-lvl14-1]
+<sup>1</sup> Wer für das Inverkehrbringen die Ausnahme für In-vitro-Diagnostika im Sinne der Ziffer 1.3 Absatz 1 Buchstabe a, für Lebensmittelzusatzstoffe im Sinne von Buchstabe b oder eine Ausnahme nach Absatz 2 in Anspruch nimmt, muss Informationen für die Verwendung und Entsorgung bereitstellen, in denen erläutert wird, wie die Freisetzung von Mikroplastik in die Umwelt verhindert werden kann.
 
-[^annex29-lvlu1-lvl1-lvl14-1]: Abs. 1, 2 und 4 treten am 1. Dez. 2026 und Abs. 3 tritt am 17. Okt. 2031 in Kraft ([AS 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
+<sup>2</sup> Wer für das Inverkehrbringen die Ausnahme nach Ziffer 1.3 Absatz 2 Buchstabe a in Anspruch nimmt, muss zudem folgende Informationen bereitstellen:
+
+- a. den Hinweis «Die gelieferten synthetischen Polymermikropartikel unterliegen den Bedingungen des Eintrags 78 in Anhang XVII der Verordnung (EG) Nr. 1907/2006 des Europäischen Parlaments und des Rates»; Produkte, die für die Verwendung in der Schweiz bestimmt sind, dürfen in Abweichung von Satz 1 mit folgendem Hinweis versehen sein: «Die gelieferten synthetischen Polymermikropartikel unterliegen den Bedingungen der Ziffer 1 in Anhang 2.9 der Chemikalien-Risikoreduktions-Verordnung»;
+- b. Informationen zur Identität des Mikroplastiks;
+- c. Angaben zur Menge oder zum Gehalt an Mikroplastik in den Zubereitungen.
+
+<sup>3</sup> …[^annex29-lvlu1-lvl1-lvl14-1]
+
+<sup>4</sup> Die Informationen nach den Absätzen 1–3 sind auf der Verpackung oder in der Packungsbeilage anzubringen oder dürfen bei Inverkehrbringen des Produkts zur beruflichen oder gewerblichen Verwendung in einer anderen zweckmässigen Form vermittelt werden.
+
+[^annex29-lvlu1-lvl1-lvl14-1]: Tritt am 17. Okt. 2031 in Kraft ([AS 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
 
 ### 1.5 Informationspflichten gegenüber der Vollzugsbehörde
 

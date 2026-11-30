@@ -4,11 +4,11 @@ title: "Ordinanza del 18 maggio 2005 concernente la riduzione dei rischi nell'ut
 short: ORRPChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: it
-version: 2026-07-16
+version: 2026-12-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20260716/it/xml/fedlex-data-admin-ch-eli-cc-2005-478-20260716-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20260716/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20261201/it/xml/fedlex-data-admin-ch-eli-cc-2005-478-20261201-it-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20261201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20260716/it"
 
 (Ordinanza sulla riduzione dei rischi inerenti ai prodotti chimici, ORRPChim)
 
-del 18 maggio 2005 (Stato 16 luglio 2026)
+del 18 maggio 2005 (Stato 1° dicembre 2026)
 
 Il Consiglio federale svizzero,
 
@@ -531,7 +531,7 @@ Allegato 1.1[^t-2]
 
 ## Inquinanti organici persistenti
 
-[^t-2]: Nuovo testo giusta la cifra II cpv. 1 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)). Aggiornato dalla cifra I delle O del 25 ott. 2017 ([RU 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), dalla correzione del 23 giu. 2020 ([RU 2020 2547](https://fedlex.data.admin.ch/eli/oc/2020/466)) e dalla cifra I delle O del 23 feb. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)), dalla cifra I cpv. 3 del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)) e dalla correzione del 16 lug. 2026 (**2026** 394).
+[^t-2]: Nuovo testo giusta la cifra II cpv. 1 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)). Aggiornato dalla cifra I delle O del 25 ott. 2017 ([RU 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), dalla correzione del 23 giu. 2020 ([RU 2020 2547](https://fedlex.data.admin.ch/eli/oc/2020/466)) e dalla cifra I delle O del 23 feb. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)), dalla cifra I cpv. 3 del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)) e dalla correzione del 16 lug. 2026 ([RU 2026 394](https://fedlex.data.admin.ch/eli/oc/2026/394)).
 
 ### 1 Divieti
 
@@ -1474,7 +1474,7 @@ Sono vietati:
 - b. un’indicazione dei pericoli per l’uomo e per l’ambiente e delle misure protettive, conforme al modello seguente:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20260716/it/xml/image/image1.png)</td><td>Testa</td><td colspan="2">H = almeno 5 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20261201/it/xml/image/image1.png)</td><td>Testa</td><td colspan="2">H = almeno 5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">B = almeno 2,5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>1</sub> = 40 per cento di H</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>2</sub> = 60 per cento di H</td></tr>
@@ -4363,7 +4363,7 @@ Allegato 2.9[^t-29]
 
 ## Materie plastiche, loro monomeri e additivi
 
-[^t-29]: Nuovo testo giusta la cifra I cpv. 2 dell’O del 29 ott. 2025, in vigore dal 1° dic. 2025 ([RU 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
+[^t-29]: Nuovo testo giusta la cifra I cpv. 2 dell’O del 29 ott. 2025, in vigore dal 1° dic. 2025, in n. 1.4 cpv. 1, 2 e 4 dal 1° dic. 2026 ([RU 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
 
 ### 1 Microplastica
 
@@ -4437,11 +4437,21 @@ Allegato 2.9[^t-29]
 [^annex29-lvlu1-lvl1-lvl13-2]: [RS 916.307](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10674)
 [^annex29-lvlu1-lvl1-lvl13-3]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
 
-### 1.4 …
+### 1.4 Obblighi di informazione nei confronti degli utilizzatori
 
-[^annex29-lvlu1-lvl1-lvl14-1]
+<sup>1</sup> Chi per l’immissione sul mercato ricorre alla deroga per i dispositivi diagnostici in vitro ai sensi del numero 1.3 capoverso 1 lettera a, per gli additivi alimentari ai sensi della lettera b o a una deroga secondo il capoverso 2 deve mettere a disposizione informazioni per l’impiego e lo smaltimento nelle quali è spiegato come impedire il rilascio di microplastica nell’ambiente.
 
-[^annex29-lvlu1-lvl1-lvl14-1]: I cpv. 1, 2 e 4 entrano in vigore il 1° dec. 2026 e cpv. 3 entra in vigore il 17 ott. 2031 ([RU 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
+<sup>2</sup> Chi per l’immissione sul mercato ricorre alla deroga secondo il numero 1.3 capoverso 2 lettera a deve mettere a disposizione le seguenti informazioni:
+
+- a. la dicitura «Le microparticelle di polimeri sintetici fornite sono assoggettate alle condizioni di cui alla voce 78 dell’allegato XVII del regolamento (CE) n. 1907/2006 del Parlamento europeo e del Consiglio»; i prodotti destinati all’uso in Svizzera possono, in deroga al primo periodo, essere etichettati con la seguente dicitura: «Le microparticelle di polimeri sintetici fornite sono assoggettate alle condizioni di cui al numero 1 dell’allegato 2.9 dell’ordinanza sulla riduzione dei rischi inerenti ai prodotti chimici»;
+- b. informazioni sull’identità della microplastica;
+- c. indicazioni sulla quantità o sul tenore di microplastica nei preparati.
+
+<sup>3</sup> ... [^annex29-lvlu1-lvl1-lvl14-1]
+
+<sup>4</sup> Le informazioni secondo i capoversi 1–3 devono essere apposte sull’imballaggio o nel foglietto illustrativo oppure possono essere comunicate in un’altra forma appropriata in caso di immissione del prodotto sul mercato per un impiego professionale o commerciale.
+
+[^annex29-lvlu1-lvl1-lvl14-1]: Entra in vigore il 17 ott. 2031 ([RU 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
 
 ### 1.5 Obblighi di informazione nei confronti dell’autorità esecutiva
 
@@ -5296,7 +5306,7 @@ Allegato 2.12[^t-32]
 
 Chi riempie per proprio conto confezioni aerosol con sostanze stabili nell’aria oppure importa tali confezioni deve notificare all’UFAM, su richiesta, le quantità di ogni singola sostanza impiegate negli ultimi tre anni; le indicazioni vanno suddivise secondo le categorie seguenti: importazione, consumo in Svizzera, esportazione e tipi d’impiego.
 
-**6** **...**
+### 6 ...
 
 ### 7 Disposizioni transitorie
 
